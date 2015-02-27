@@ -65,7 +65,7 @@
 :vb:no_lo_	irreg_pp1 pres ind act 1st sg
 :vb:no_lumus	irreg_pp1 pres ind act 1st pl
 :vb:no_lunt	irreg_pp1 pres ind act 3rd pl
-:vb:nolle	irreg_pp1 pres inf act
+:vb:no_lle	irreg_pp1 pres inf act
 :vs:no_l		conj3 imperf ind act
 :vs:no_l		conj3 fut ind act
 :vs:no_l		conj3 part
@@ -91,7 +91,7 @@
 :le:malo
 :vb:ma_lo_	irreg_pp1 pres ind act 1st sg
 :vb:ma^volo_	irreg_pp1 pres ind act 1st sg archaic
-:vb:ma_vis	irreg_pp1 pres ind act 2nd sg
+:vb:ma_vi_s	irreg_pp1 pres ind act 2nd sg
 :vb:ma_vult	irreg_pp1 pres ind act 3rd sg
 :vb:ma_volt	irreg_pp1 pres ind act 3rd sg archaic
 :vb:ma_lumus	irreg_pp1 pres ind act 1st pl
@@ -99,7 +99,7 @@
 :vb:ma_voltis	irreg_pp1 pres ind act 2nd pl
 :vb:ma_lunt	irreg_pp1 pres ind act 3rd pl
 :vb:mavolunt	irreg_pp1 pres ind act 3rd pl archaic
-:vb:malle	irreg_pp1 pres inf act
+:vb:ma_lle	irreg_pp1 pres inf act
 :vs:ma_l		conj3 imperf ind act
 :vs:ma_l		conj3 fut ind act
 :vb:mavolet	irreg_pp1 fut ind act 3rd sg archaic

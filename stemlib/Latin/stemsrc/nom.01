@@ -29,7 +29,7 @@
 :no:corp or_oris neut
 
 :le:civis
-:no:civ is_is masc
+:no:ci_v is_is masc
 
 :le:urbs
 :no:urb s_is fem
@@ -44,7 +44,7 @@
 :no:corn  us_us neut
 
 :le:dies
-:no:di es_ei masc fem
+:no:di es_eLi masc fem
 
 :le:acer
 :aj:ac er_ris_re

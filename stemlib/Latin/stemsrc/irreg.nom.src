@@ -1,6 +1,6 @@
 :le:pecu
 :wd:pe^cu	irreg_nom3 neut nom voc acc sg
-:wd:pe^cui	irreg_nom3 neut dat sg
+:wd:pe^cui_	irreg_nom3 neut dat sg
 :wd:pe^cu	irreg_nom3 neut abl sg
 :wd:pe^cua	irreg_nom3 neut nom voc acc pl
 :wd:pe^cuda	irreg_nom3 neut nom voc acc pl
@@ -12,12 +12,12 @@ femin@decl3	irreg_nom3 masc
 
 :le:mas
 :wd:ma_s	irreg_adj3 masc nom sg
-:wd:ma_ris	irreg_adj3 fem nom sg
+#:wd:ma_ris	irreg_adj3 fem nom sg
 mar@decl3	irreg_adj3 masc fem neut
 
 :le:aer
-ae_r	irreg_nom3 masc nom sg
-aer@decl3	irreg_nom3 masc
+a_e_r	irreg_nom3 masc nom sg
+a_er@decl3	irreg_nom3 masc
 
 :le:alter
 alter 	irreg_nom2 masc nom/voc sg
@@ -59,7 +59,7 @@ bov@decl3	irreg_nom3 acc pl masc fem
 :le:caput
 ca^pu^t		irreg_nom3 neut nom/voc/acc sg
 ca^pi^t@decl3	irreg_nom3 neut
-ca^pi^ti	irreg_nom3 neut abl sg
+ca^pi^ti_	irreg_nom3 neut abl sg
 
 :le:caro2
 caro_		irreg_nom3 fem nom sg
@@ -97,7 +97,7 @@ far	irreg_nom3	neut nom voc acc sg
 farr@decl3	irreg_nom3	neut
 
 :le:fons
-:no:fon		s_tis fem
+:no:fon		s_tis masc
 
 :le:frons#1
 :no:fron	s_dis fem
@@ -129,12 +129,12 @@ Iov@decl3	irreg_nom3 masc sg
 
 
 :le:jus
-jus		irreg_nom3 neut nom/voc/acc sg
-jur@decl3	irreg_nom3 neut
+ju_s		irreg_nom3 neut nom/voc/acc sg
+ju_r@decl3	irreg_nom3 neut
 
 :le:nemo
-nemo		irreg_nom3 masc fem nom sg
-nemin@decl3	irreg_nom3 masc fem
+ne_mo_		irreg_nom3 masc fem nom sg
+ne_min@decl3	irreg_nom3 masc fem
 
 :le:neu
 :wd:neu	adverb
@@ -144,7 +144,7 @@ nix	irreg_nom3 fem nom sg
 niv@decl3_i 	irreg_nom3 fem
 
 :le:hic
-:wd:hi_c demonstr masc nom sg
+:wd:hic demonstr masc nom sg
 :wd:haec demonstr fem nom sg
 :wd:hoc demonstr neut nom/acc sg
 :wd:huius	demonstr masc/fem/neut gen sg
@@ -174,18 +174,19 @@ h@decl2 demonstr neut abl pl
 :wd:haecine	demonstr neut nom/acc pl
 :wd:haecine	demonstr fem nom sg
 :wd:ho_cine	demonstr neut nom/acc sg
+#Really hoc_ine
 :wd:ho_cine	demonstr masc neut abl sg
 :wd:hicine	demonstr masc nom sg
 :wd:hascine	demonstr fem acc pl
 :wd:hancine	demonstr fem acc sg
 
 :le:illic
-:wd:illi_c demonstr masc nom sg
+:wd:illic demonstr masc nom sg
 :wd:illaec demonstr fem nom sg
 :wd:illoc demonstr neut nom/acc sg
-:wd:illuius	demonstr masc/fem/neut gen sg
-:wd:illuiusce	demonstr masc/fem/neut gen sg
-:wd:illuic	demonstr masc/fem/neut dat sg
+#:wd:illius	demonstr masc/fem/neut gen sg
+:wd:illiusce	demonstr masc/fem/neut gen sg
+:wd:illi_c	demonstr masc/fem/neut dat sg
 :wd:illunc demonstr masc acc sg
 :wd:illanc demonstr fem acc sg
 :wd:illo_c demonstr masc neut abl sg
@@ -198,9 +199,9 @@ ill@decl2 demonstr neut gen pl
 ill@decl2 demonstr neut dat pl
 ill@decl2 demonstr neut abl pl
 illaec	demonstr neut nom/acc pl
-illosce	demonstr masc acc pl
-illuc adverb
-illic adverb
+illo_sce	demonstr masc acc pl
+illu_c adverb
+illi_c adverb
 
 :le:honorificus
 :aj:ho^no_rifi^c ens_adj comp
@@ -293,9 +294,9 @@ ali@quis indef
 
 
 :le:qualiscumque
-:wd:qualiscumque	indef masc fem nom sg
-:wd:qualemcumque	indef masc fem acc sg
-:wd:qualiacumque	indef neut nom acc pl
+:wd:qua_liscumque	indef masc fem nom sg
+:wd:qua_lemcumque	indef masc fem acc sg
+:wd:qua_liacumque	indef neut nom acc pl
 
 :le:quicumque
 :wd:qui_cumque indef masc nom sg
@@ -347,24 +348,24 @@ ali@quis indef
 :wd:quippiam	indef neut nom acc sg
 
 :le:quivis
-:wd:qui_vis indef masc nom sg
-:wd:quaevis indef fem nom sg
-:wd:quodvis indef neut nom/acc sg
-:wd:quidvis indef neut nom/acc sg
-:wd:quemvis indef masc acc sg
-:wd:quamvis indef fem acc sg
-:wd:qua_vis indef fem abl sg
-:wd:cuiusvis   indef masc/fem/neut gen sg
-:wd:cuivis   indef masc/fem/neut dat sg
-:wd:qui_vis   indef masc nom pl
-:wd:quaevis   indef fem nom pl
-:wd:quaevis   indef neut nom/acc pl
-:wd:quo_rumvis   indef masc gen pl
-:wd:qua_rumvis   indef fem gen pl
-:wd:quibusvis   indef masc/fem/neut dat pl
-:wd:quo_svis   indef masc acc pl
-:wd:qua_svis   indef fem acc pl
-:wd:quibusvis   indef masc/fem/neut abl pl
+:wd:qui_vi_s indef masc nom sg
+:wd:quaevi_s indef fem nom sg
+:wd:quodvi_s indef neut nom/acc sg
+:wd:quidvi_s indef neut nom/acc sg
+:wd:quemvi_s indef masc acc sg
+:wd:quamvi_s indef fem acc sg
+:wd:qua_vi_s indef fem abl sg
+:wd:cuiusvi_s   indef masc/fem/neut gen sg
+:wd:cuivi_s   indef masc/fem/neut dat sg
+:wd:qui_vi_s   indef masc nom pl
+:wd:quaevi_s   indef fem nom pl
+:wd:quaevi_s   indef neut nom/acc pl
+:wd:quo_rumvi_s   indef masc gen pl
+:wd:qua_rumvi_s   indef fem gen pl
+:wd:quibusvi_s   indef masc/fem/neut dat pl
+:wd:quo_svi_s   indef masc acc pl
+:wd:qua_svi_s   indef fem acc pl
+:wd:quibusvi_s   indef masc/fem/neut abl pl
 
 :le:ecqui
 :wd:ecqui_ rel_pron masc nom sg
@@ -446,21 +447,21 @@ a^li^@quis	indef
 :wd:ecquid	interrog neut nom/acc sg
 :wd:ecquo_		interrog masc fem neut abl sg
 ec@quis	interrog
-:wd:ecquidni	interrog neut nom acc sg
+:wd:ecquidni_	interrog neut nom acc sg
 
 :le:quis#1
 :wd:quis	interrog masc fem nom sg
 :wd:quid	interrog neut nom/acc sg
 :wd:quo_		interrog masc fem neut abl sg
 @quis	interrog
-:wd:quidni	interrog neut nom acc sg
+:wd:quidni_	interrog neut nom acc sg
 
 :le:quis#2
 :wd:quis	indef masc fem nom sg
 :wd:quid	indef neut nom/acc sg
 :wd:quo_		indef masc fem neut abl sg
 @quis	indef
-:wd:quidni	indef neut nom acc sg
+:wd:quidni_	indef neut nom acc sg
 
 :le:nescioquis
 :wd:nescioquis	indef masc fem nom sg
@@ -473,7 +474,7 @@ nescio@quis indef
 :wd:si_quis	interrog masc fem nom sg
 :wd:si_quid	interrog neut nom/acc sg
 :wd:si_quo_	interrog masc fem neut abl sg
-:wd:siqua_ rel_pron fem abl sg
+:wd:si_qua_ rel_pron fem abl sg
 si_@quis	interrog
 
 :le:ipse
@@ -481,7 +482,7 @@ si_@quis	interrog
 :wd:ipsum demonstr neut nom voc acc sg
 :wd:ipsa demonstr fem nom voc sg
 :wd:ipsus demonstr masc nom voc sg early
-:wd:eopse demonstr masc neut dat abl sg 
+:wd:eo_pse demonstr masc neut dat abl sg
 ips@ille demonstr
 
 :le:is
@@ -529,7 +530,7 @@ e@decl2 pron3 masc neut pl
 ego	pron1 masc fem nom sg
 mei_	pron1 masc fem gen sg
 mihi	pron1 masc fem dat sg
-mi	pron1 masc fem dat sg
+mi_	pron1 masc fem dat sg
 me_	pron1 masc fem acc sg
 me_me_	pron1 masc fem acc sg
 me_d	pron1 masc fem acc sg early
@@ -543,15 +544,15 @@ no_s	pron1 masc fem nom pl
 nostrum	pron1 masc fem gen pl
 nostri_	pron1 masc fem gen pl
 no_s	pron1 masc fem acc pl
-no_bis	pron1 masc fem abl pl
-no_bis	pron1 masc fem dat pl
-no_biscum pron1 masc fem abl pl
+no_bi_s	pron1 masc fem abl pl
+no_bi_s	pron1 masc fem dat pl
+no_bi_scum pron1 masc fem abl pl
 
 egomet	pron1 masc fem nom sg
 mei_met	pron1 masc fem gen sg
 mihimet	pron1 masc fem dat sg
-no_bismet	pron1 masc fem abl pl
-no_bismet	pron1 masc fem dat pl
+no_bi_smet	pron1 masc fem abl pl
+no_bi_smet	pron1 masc fem dat pl
 no_smet	pron1 masc fem nom acc pl
 
 :le:tu
@@ -563,15 +564,15 @@ te_d	pron2 masc fem acc sg early
 te_	pron2 masc fem abl sg
 te_d	pron2 masc fem abl sg early
 te_cum	pron2 masc fem abl sg
-tute	pron2 masc fem nom sg
-tutemet	pron2 masc fem nom sg
+tu_te	pron2 masc fem nom sg
+tu_temet	pron2 masc fem nom sg
 vo_s	pron2 masc fem nom voc pl
 vostrum	pron2 masc fem gen pl
 vestri_	pron2 masc fem gen pl
 vo_s	pron2 masc fem acc pl
-vo_bis	pron2 masc fem abl pl
-vo_bis	pron2 masc fem dat pl
-vo_biscum pron2 masc fem abl pl
+vo_bi_s	pron2 masc fem abl pl
+vo_bi_s	pron2 masc fem dat pl
+vo_bi_scum pron2 masc fem abl pl
 vo_smet	pron2 masc fem nom acc pl
 
 :le:sui
@@ -599,35 +600,39 @@ lact@decl3	irreg_nom3 neut
 :wd:mel		irreg_nom3 neut nom/voc/acc sg
 mell@decl3	irreg_nom3 neut
 
+:le:fel
+:wd:fel		irreg_nom3 neut nom/voc/acc sg
+fell@decl3	irreg_nom3 neut
+
 :le:mille
-mille		numeral masc fem nom acc voc pl
-mil@decl3_i	numeral neut nom pl
-mil@decl3_i	numeral masc fem neut gen pl
-mil@decl3_i	numeral masc fem neut dat pl
-mil@decl3_i	numeral masc fem neut acc pl
-mil@decl3_i	numeral masc fem neut abl pl
-mill@decl3_i	numeral neut pl early
+mi_lle		numeral masc fem nom acc voc pl
+mi_l@decl3_i	numeral neut nom pl
+mi_l@decl3_i	numeral masc fem neut gen pl
+mi_l@decl3_i	numeral masc fem neut dat pl
+mi_l@decl3_i	numeral masc fem neut acc pl
+mi_l@decl3_i	numeral masc fem neut abl pl
+mi_ll@decl3_i	numeral neut pl early
 
 :le:mos
-mos	irreg_nom3	masc nom voc sg
-mor@decl3	irreg_nom3	masc 
+mo_s	irreg_nom3	masc nom voc sg
+mo_r@decl3	irreg_nom3	masc
 
 :le:complures
-complur@decl3_i irreg_adj3 pl
-con-plur@decl3_i irreg_adj3 pl
-complur@decl3 irreg_adj3 pl
-con-plur@decl3 irreg_adj3 pl
+complu_r@decl3_i irreg_adj3 pl
+con-plu_r@decl3_i irreg_adj3 pl
+complu_r@decl3 irreg_adj3 pl
+con-plu_r@decl3 irreg_adj3 pl
 
 :le:multus
-plus	irreg_adj3 nom/acc sg irreg_comp
+plu_s	irreg_adj3 nom/acc sg irreg_comp
 plu_r@decl3 irreg_adj3 neut gen sg irreg_comp
 plu_r@decl3 irreg_adj3 neut abl sg irreg_comp
-plur@decl3_i irreg_adj3 masc fem pl irreg_comp
-plur@decl3 irreg_adj3 neut nom pl irreg_comp
-plur@decl3_i irreg_adj3 neut gen pl irreg_comp
-plur@decl3 irreg_adj3 neut dat pl irreg_comp
-plur@decl3 irreg_adj3 neut abl pl irreg_comp
-plur@decl3 irreg_adj3 neut nom/acc pl irreg_comp
+plu_r@decl3_i irreg_adj3 masc fem pl irreg_comp
+plu_r@decl3 irreg_adj3 neut nom pl irreg_comp
+plu_r@decl3_i irreg_adj3 neut gen pl irreg_comp
+plu_r@decl3 irreg_adj3 neut dat pl irreg_comp
+plu_r@decl3 irreg_adj3 neut abl pl irreg_comp
+plu_r@decl3 irreg_adj3 neut nom/acc pl irreg_comp
 
 :le:os#1
 o_s		irreg_nom3 neut neut/nom/voc/acc 
@@ -650,14 +655,14 @@ pe_s	irreg_nom3 masc nom voc sg
 ped@decl3_i	irreg_nom3 masc
 
 :le:rabies
-rabies	irreg_nom3 fem nom sg
-rabies	irreg_nom3 fem gen sg
+rabie_s	irreg_nom3 fem nom sg
+rabie_s	irreg_nom3 fem gen sg
 rabiem	irreg_nom3 fem acc sg
-rabie	irreg_nom3 fem abl sg
+rabie_	irreg_nom3 fem abl sg
 
 :le:rus
-rus	irreg_nom3 neut nom voc acc sg 
-rur@decl3	irreg_nom3 neut 
+ru_s	irreg_nom3 neut nom voc acc sg
+ru_r@decl3	irreg_nom3 neut
 
 :le:senex
 senex	irreg_nom3 masc nom sg
@@ -691,8 +696,8 @@ alter-utrum 	irreg_adj2 neut nom/voc sg
 alter-utr@ille	irreg_adj2
 
 :le:unus
-:wd:unusquisque	us_a_um	masc nom sg
-:wd:unaquaeque	us_a_um	fem nom sg
+:wd:u_nusquisque	us_a_um	masc nom sg
+:wd:u_naquaeque	us_a_um	fem nom sg
 
 :le:uter
 uter 	irreg_adj2 masc nom/voc sg
@@ -701,7 +706,7 @@ utrum 	irreg_adj2 neut nom/voc sg
 utr@ille	irreg_adj2
 
 :le:vetus
-:wd:vetus	irreg_adj3 masc fem nom voc sg
+:wd:vetus	irreg_adj3 masc fem neut nom voc sg
 veter@decl3	irreg_adj3 masc fem neut
 :aj:vetust	or_us_comp irreg_comp
 :aj:vet	er_ris_re superl

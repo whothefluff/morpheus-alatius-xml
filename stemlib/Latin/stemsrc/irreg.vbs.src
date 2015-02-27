@@ -23,11 +23,11 @@ ai@imperf	irreg_pp1 ind act imperf early
 :vb:i_tis	irreg_pp1 2nd pl pres ind act
 :vb:eunt	irreg_pp1 3rd pl pres ind act
 #
-:vb:eo_r	irreg_pp1 1st sg pres ind pass comp_only
+:vb:eor	irreg_pp1 1st sg pres ind pass comp_only
 :vb:i_ris	irreg_pp1 2nd sg pres ind pass comp_only
 :vb:i_tur	irreg_pp1 3rd sg pres ind pass comp_only
 :vb:i_mur	irreg_pp1 1st pl pres ind pass comp_only
-:vb:i_mini	irreg_pp1 2nd pl pres ind pass comp_only
+:vb:i_mini_	irreg_pp1 2nd pl pres ind pass comp_only
 :vb:euntur	irreg_pp1 3rd pl pres ind pass comp_only
 #
 ea@basvb2	irreg_pp1 pres subj act
@@ -87,11 +87,11 @@ iend@decl2	irreg_pp1 gerundive masc neut early
 :vb:de_peri_tis	irreg_pp1 2nd pl pres ind act
 :vb:de_pereunt	irreg_pp1 3rd pl pres ind act
 #
-:vb:de_pereo_r	irreg_pp1 1st sg pres ind pass
+:vb:de_pereor	irreg_pp1 1st sg pres ind pass
 :vb:de_peri_ris	irreg_pp1 2nd sg pres ind pass
 :vb:de_peri_tur	irreg_pp1 3rd sg pres ind pass
 :vb:de_peri_mur	irreg_pp1 1st pl pres ind pass
-:vb:de_peri_mini	irreg_pp1 2nd pl pres ind pass
+:vb:de_peri_mini_	irreg_pp1 2nd pl pres ind pass
 :vb:de_pereuntur	irreg_pp1 3rd pl pres ind pass
 #
 de_-perea@basvb2	irreg_pp1 pres subj
@@ -137,11 +137,11 @@ de_-periend@decl2	irreg_pp1 gerundive masc neut early
 :vb:disperi_tis	irreg_pp1 2nd pl pres ind act
 :vb:dispereunt	irreg_pp1 3rd pl pres ind act
 #
-:vb:dispereo_r	irreg_pp1 1st sg pres ind pass
+:vb:dispereor	irreg_pp1 1st sg pres ind pass
 :vb:disperi_ris	irreg_pp1 2nd sg pres ind pass
 :vb:disperi_tur	irreg_pp1 3rd sg pres ind pass
 :vb:disperi_mur	irreg_pp1 1st pl pres ind pass
-:vb:disperi_mini	irreg_pp1 2nd pl pres ind pass
+:vb:disperi_mini_	irreg_pp1 2nd pl pres ind pass
 :vb:dispereuntur	irreg_pp1 3rd pl pres ind pass
 #
 dis-perea@basvb2	irreg_pp1 pres subj
@@ -259,7 +259,7 @@ ferr@emsub	irreg_pp1 imperf
 :vb:ferri_ irreg_pp1 pres inf pass
 :vs:tu^l perfstem
 :vs:tetu^l perfstem old has_redupl
-:vs:la^t pp4
+:vs:la_t pp4
 
 :le:refero
 :vb:re^fe^ro_	irreg_pp1 1st sg pres ind act
@@ -300,29 +300,29 @@ referr@emsub	irreg_pp1 imperf
 :vb:re^ferre irreg_pp1 pres inf act
 :vb:re^ferri_ irreg_pp1 pres inf pass
 :vs:ret-tul	perfstem
-:vs:re-lat	pp4
+:vs:re-la_t	pp4
 
 :le:fio
 fi_o_	irreg_pp1 1st sg pres ind act
 fi_s	irreg_pp1 2nd sg pres ind act
-fi_t	irreg_pp1 3rd sg pres ind act
+fi^t	irreg_pp1 3rd sg pres ind act
 fi_mus	irreg_pp1 1st pl pres ind act
 fi_tis	irreg_pp1 2nd pl pres ind act
 fi_unt	irreg_pp1 3rd pl pres ind act
-fi_e@imperf irreg_pp1 ind act
-fi_e@imperf irreg_pp1 subj act
+fi_e_@imperf irreg_pp1 ind act
+fi^e@imperf irreg_pp1 subj act
 fi_@future2	irreg_pp1 fut ind act
 fi_	irreg_pp1 2nd sg pres imperat act
 fi_te	irreg_pp1 2nd pl pres imperat act
 fi_to_	irreg_pp1 3rd sg pres imperat act
 fi_to_te	irreg_pp1 2nd pl fut imperat act
 fieri_	irreg_pp1 pres inf pass
-fiam	irreg_pp1 pres subj act 1st sg
-fia_s	irreg_pp1 pres subj act 2nd sg
-fia_t	irreg_pp1 pres subj act 3rd sg
-fia_mus	irreg_pp1 pres subj act 1st pl
-fia_tis	irreg_pp1 pres subj act 2nd pl
-fiant	irreg_pp1 pres subj act 3rd pl
+fi_am	irreg_pp1 pres subj act 1st sg
+fi_a_s	irreg_pp1 pres subj act 2nd sg
+fi_at	irreg_pp1 pres subj act 3rd sg
+fi_a_mus	irreg_pp1 pres subj act 1st pl
+fi_a_tis	irreg_pp1 pres subj act 2nd pl
+fi_ant	irreg_pp1 pres subj act 3rd pl
 
 :le:sum#1
 #
@@ -361,7 +361,7 @@ fore@basvb2	irreg_pp1 imperf subj act early
 e_ns    	irreg_pp1 pres part masc/fem/neut nom/voc sg comp_only
 e_ns    	irreg_pp1 pres part neut acc sg comp_only
 ente    	irreg_pp1 pres part masc/fem/neut abl sg comp_only
-e_nt@decl3	irreg_pp1 pres part masc fem neut comp_only
+ent@decl3	irreg_pp1 pres part masc fem neut comp_only
 
 
 :le:prosum
@@ -432,6 +432,7 @@ potent@decl3_i		irreg_pp1 pres part
 :vb:qui_mus	irreg_pp1 1st pl pres indic act
 :vb:qui_tis	irreg_pp1 2nd pl pres indic act
 :vb:queunt	irreg_pp1 3rd pl pres indic act
+qui_r@emsub	irreg_pp1 imperf subj act
 quea@basvb2	irreg_pp1 pres subj act
 qui_@imperf	irreg_pp1 imperf indic act
 :vs:qui_v	perfstem
@@ -445,7 +446,7 @@ qui_@imperf	irreg_pp1 imperf indic act
 :vb:nequi_mus	irreg_pp1 1st pl pres indic act
 :vb:nequi_tis	irreg_pp1 2nd pl pres indic act
 :vb:nequeunt	irreg_pp1 3rd pl pres indic act
-nequir@emsub	irreg_pp1 imperf subj act
+nequi_r@emsub	irreg_pp1 imperf subj act
 nequea@basvb2	irreg_pp1 pres subj act
 nequi_@imperf	irreg_pp1 imperf indic act
 :vs:nequi_v	perfstem

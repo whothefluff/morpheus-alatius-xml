@@ -34,7 +34,7 @@ a_ris	pres ind pass 2nd sg
 a_re	pres ind pass 2nd sg
 a_tur	pres ind pass 3rd sg
 a_mur	pres ind pass 1st pl
-a_mini	pres ind pass 2nd pl
+a_mini_	pres ind pass 2nd pl
 antur	pres ind pass 3rd pl
 #
 a_@imperf imperf ind pass
@@ -46,15 +46,15 @@ e_ris	pres subj pass 2nd sg
 e_re	pres subj pass 2nd sg
 e_tur	pres subj pass 3rd sg
 e_mur	pres subj pass 1st pl
-e_mini	pres subj pass 2nd pl
+e_mini_	pres subj pass 2nd pl
 entur	pres subj pass 3rd pl
 #
 a_@imperf	imperf subj pass 
 #
 a_re	pres imperat pass 2nd sg
-a_mini	pres imperat pass 2nd pl
+a_mini_	pres imperat pass 2nd pl
 #
-a_ri	pres inf pass
+a_ri_	pres inf pass
 a_rier	pres inf pass early
 a_ssere	fut inf act early
 #

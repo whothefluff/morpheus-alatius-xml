@@ -279,7 +279,7 @@ a^bi^e_gnus
 
 a^bi^e_s		
 :le:abies
-:no:a^bi^e_	s_tis fem
+:no:a^bi^	eLs_etis fem
 
 
 a^bi^e^ta_ri^us		
@@ -425,7 +425,7 @@ abne^ga_tor
 
 ab-ne^pos		
 :le:abnepos
-:no:ab-ne^po	s_tis masc
+:no:ab-ne^po_	s_tis masc
 
 
 ab-neptis		
@@ -1798,7 +1798,7 @@ a^ci^e_ris
 
 a^ci^e_s		
 :le:acies
-:no:a^ci^	es_ei fem
+:no:a^ci^	es_eLi fem
 
 
 A^ci_li^a_nus		
@@ -3199,8 +3199,8 @@ admurmu^ra_ti^o
 
 ad-ne^pos		<orth type=alt>atn-</orth>	
 :le:adnepos
-:no:ad-ne^po	s_tis masc
-:no:atne^po	s_tis masc orth
+:no:ad-ne^po_	s_tis masc
+:no:atne^po_	s_tis masc orth
 
 
 
@@ -7873,8 +7873,8 @@ allu_si^o		<orth type=alt>adl-</orth>
 
 allu^vi^es		<orth type=alt>adl-</orth>	
 :le:alluvies
-:no:allu^vi^	es_ei fem
-:no:adlu^vi^	es_ei fem orth
+:no:allu^vi^	es_eLi fem
+:no:adlu^vi^	es_eLi fem orth
 
 
 
@@ -8056,8 +8056,8 @@ alta_nus
 
 
 altar		<orth>alta_re</orth>	
-:le:altar
-:no:altar	0_is neut
+#:le:altar
+#:no:altar	0_is neut
 
 
 alta_ri^a		<itype>jum</itype>	<gen>n.</gen>
@@ -8068,7 +8068,7 @@ alta_re
 
 altar		
 :le:altar
-:no:altar	0_is neut
+:no:alt	ar_aLris neut
 
 
 alta_ri^um		
@@ -8548,7 +8548,7 @@ a^ma_ri^tas
 
 a^ma_ri^ti^es		
 :le:amarities
-:no:a^ma_ri^ti^	es_ei fem
+:no:a^ma_ri^ti^	es_eLi fem
 
 
 a^ma_ri^tu_do		
@@ -11004,7 +11004,7 @@ a^ni^m-aequus
 
 a^ni^ma^l		
 :le:animal
-:no:a^ni^ma^l	0_is neut
+:no:a^ni^m	al_aLlis neut
 
 	<pos>adj.</pos>
 a^ni^ma_lis		
@@ -12960,7 +12960,7 @@ a^po^lectus
 
 A^polli^nar		
 :le:Apollinar
-:no:A^polli^nar	0_is neut
+:no:A^polli^n	ar_aLris neut
 
 
 a^polli^na_ri^a		
@@ -14789,7 +14789,7 @@ archi^presby^ter
 
 archi^-sa^cerdos		
 :le:archisacerdos
-:no:archi^-sa^cerdo	s_tis masc
+:no:archi^-sa^cerdo_	s_tis masc
 
 
 archi^sy^na^go_gus		
@@ -15721,7 +15721,8 @@ a^ri^e_na
 
 a^ri^e_s		<itype>i^e_tis</itype>	<gen>m.</gen>
 :le:aries
-:no:a^ri^	es_eLtis fem
+:no:a^ri^	eLs_etis fem
+# Following OLD
 
 arvix		<orth>harvix</orth>
 a^ri^e^ta_ri^us		
@@ -19126,7 +19127,7 @@ atte^la^bus
 
 at-tempe^ri^es		
 :le:attemperies
-:no:at-tempe^ri^	es_ei fem
+:no:at-tempe^ri^	es_eLi fem
 
 
 attempe^ra_te_		
@@ -20470,7 +20471,7 @@ a^va_ri^ti^a
 
 a^va_ri^ti^es		
 :le:avarities
-:no:a^va_ri^ti^	es_ei fem
+:no:a^va_ri^ti^	es_eLi fem
 
 
 a^va_rus		
@@ -20993,8 +20994,8 @@ baccha_bundus
 
 Baccha_nal		<orth>Baca_nal</orth>	<orth>bacca_nal</orth>	
 :le:Bacchanal
-:no:Baccha_nal	0_is neut
-:no:bacca_nal	0_is neut orth
+:no:Baccha_n	al_aLlis neut
+:no:bacca_n	al_aLlis neut orth
 
 
 
@@ -23683,7 +23684,7 @@ bi^dens		<orth>duidens</orth>
 duidens	
 bi^dental		
 :le:bidental
-:no:bi^dental	0_is neut
+:no:bi^dent	al_aLlis neut
 
 
 bi^denta_ti^o		
@@ -24558,7 +24559,7 @@ blandi^ti^a
 
 blandi^ti^es		
 :le:blandities
-:no:blandi^ti^	es_ei fem
+:no:blandi^ti^	es_eLi fem
 
 
 blandi_tim		
@@ -28082,7 +28083,7 @@ caesa^ri^a_tus
 
 caesa^ri^es		
 :le:caesaries
-:no:caesa^ri^	es_ei fem
+:no:caesa^ri^	es_eLi fem
 
 
 Caesa^ri^o		
@@ -28465,7 +28466,7 @@ calca_ne^us
 
 calcar		
 :le:calcar
-:no:calcar	0_is neut
+:no:calc	ar_aLris neut
 
 
 calca_ri^a_ri^us		
@@ -29337,7 +29338,7 @@ Calvi^si^-a_nus
 
 calvi^ti^es		
 :le:calvities
-:no:calvi^ti^	es_ei fem
+:no:calvi^ti^	es_eLi fem
 
 
 calvi^ti^um		
@@ -35613,7 +35614,7 @@ cerva_ri^us
 
 cervi_cal		<orth>cervi_ca_le</orth>	
 :le:cervical
-:no:cervi_cal	0_is neut
+:no:cervi_c	al_aLlis neut
 
 
 cervi_ca_tus		
@@ -42030,7 +42031,7 @@ co^lumba
 
 co^lumbar		
 :le:columbar
-:no:co^lumbar	0_is neut
+:no:co^lumb	ar_aLris neut
 
 
 co^lumba_ri^us		
@@ -42125,7 +42126,7 @@ co^lumna
 
 co^lumnar		
 :le:columnar
-:no:co^lumnar	0_is neut
+:no:co^lumn	ar_aLris neut
 
 
 co^lumna_ris		
@@ -43666,6 +43667,10 @@ com-porti^o_na_lis
 
 
 com-po^s		<orth type=alt>conp-</orth>	<itype>po^tis</itype>	<pos>adj.</pos>
+:le:compos
+:aj:compo^	s_tis
+:aj:conpo^	s_tis orth
+
 com-poscens		<itype>entis</itype>
 compo^si^ti^ci^us		<orth>-ti^us</orth>	
 :le:compositicius
@@ -46024,7 +46029,7 @@ Con-saburenses
 
 con-sa^cerdos		
 :le:consacerdos
-:no:con-sa^cerdo	s_tis masc fem
+:no:con-sa^cerdo_	s_tis masc fem
 
 
 con-saepi^o		<orth type=alt>-se_pi^o</orth>	<orth>con-saeptus</orth>	<itype>a, um</itype>
@@ -49673,6 +49678,9 @@ co^ry_za
 
 
 co_s#1		<itype>co_tis</itype>	<gen>f.</gen>
+:le:cos#1
+:no:co_	s_tis fem
+
 Co_s#2		<orth>Co^us</orth>	<orth type=alt>Co_^o^s</orth>	
 :le:Cos
 :no:C	os_i fem
@@ -50131,7 +50139,7 @@ crassi^tas
 
 crassi^ti^es		
 :le:crassities
-:no:crassi^ti^	es_ei fem
+:no:crassi^ti^	es_eLi fem
 
 
 crassi^tu_do		
@@ -51561,7 +51569,7 @@ cu^bi_le
 
 cu^bi^tal		
 :le:cubital
-:no:cu^bi^tal	0_is neut
+:no:cu^bi^t	al_aLlis neut
 
 
 cu^bi^ta_lis		
@@ -52467,7 +52475,7 @@ cu_ra_to_ri^us
 
 cu_ra_trix		
 :le:curatrix
-:no:cu_ra_tr	ix_icis fem
+:no:cu_ra_tr	ix_iLcis fem
 
 
 cu_ra_tu_ra		
@@ -59635,7 +59643,7 @@ Di^genti^a
 
 di_ge^ri^es		
 :le:digeries
-:no:di_ge^ri^	es_ei fem
+:no:di_ge^ri^	es_eLi fem
 
 
 di_gesta		
@@ -59950,7 +59958,7 @@ di_lu^vi^a_lis
 
 di_lu^vi^es		
 :le:diluvies
-:no:di_lu^vi^	es_ei fem
+:no:di_lu^vi^	es_eLi fem
 
 
 di_lu^vi^um		
@@ -64695,7 +64703,7 @@ effi^gi^enti^a
 
 effi^gi^es		
 :le:effigies
-:no:effi^gi^	es_ei fem
+:no:effi^gi^	es_eLi fem
 
 
 effi^gu_ra_ti^o		
@@ -68451,7 +68459,7 @@ e_ro^ga_to_ri^us
 
 E^ros		
 :le:Eros
-:no:E^ro	s_tis masc
+:no:E^ro_	s_tis masc
 
 
 e_ro_si^o		
@@ -68955,7 +68963,7 @@ e_su^ri^a_lis
 
 e_su^ri^es		
 :le:esuries
-:no:e_su^ri^	es_ei fem
+:no:e_su^ri^	es_eLi fem
 
 
 e_su^ri_go		
@@ -70800,7 +70808,7 @@ exe_ge_ti^ce
 
 exemplar		
 :le:exemplar
-:no:exemplar	0_is neut
+:no:exempl	ar_aLris neut
 
 
 exempla_ris		
@@ -72882,7 +72890,7 @@ fa^ce_tus
 fa^ce_te	
 fa^ci^es		
 :le:facies
-:no:fa^ci^	es_ei fem
+:no:fa^ci^	es_eLi fem
 
 
 fa^ci^le^	
@@ -73252,7 +73260,7 @@ Fa_gu_ta_lis		<orth>Fa_cu_t-</orth>
 
 Fa_gu_tal		
 :le:Fagutal
-:no:Fa_gu_tal	0_is neut
+:no:Fa_gu_t	al_aLlis neut
 
 
 fa^la		<orth type=alt>phal-</orth>	
@@ -74532,7 +74540,7 @@ fe_mi^na
 
 fe_mi^nal		
 :le:feminal
-:no:fe_mi^nal	0_is neut
+:no:fe_mi^n	al_aLlis neut
 
 
 fe^mi^na_li^a		<orth type=alt>foem-</orth>	
@@ -78638,7 +78646,7 @@ Fru_tis
 Fruti		<gen>f.</gen>
 Frutinal		
 :le:Frutinal
-:no:Frutinal	0_is neut
+:no:Frutin	al_aLlis neut
 
 
 frux		<itype>fru_gis</itype>
@@ -80956,7 +80964,7 @@ ge^me^bundus
 
 ge^mellar		
 :le:gemellar
-:no:ge^mellar	0_is neut
+:no:ge^mell	ar_aLris neut
 
 
 ge^mella_ri^a		
@@ -82066,7 +82074,7 @@ gla^ci^a_lis
 
 gla^ci^es		
 :le:glacies
-:no:gla^ci^	es_ei fem
+:no:gla^ci^	es_eLi fem
 
 
 gla^di^a_ri^us		
@@ -86748,7 +86756,7 @@ Herme_racles
 
 Herme^ros		
 :le:Hermeros
-:no:Herme^ro	s_tis masc
+:no:Herme^ro_	s_tis masc
 
 
 Hermes#1		<orth>Herma</orth>	
@@ -91993,8 +92001,8 @@ illu_tus		<orth type=alt>inl-</orth>
 
 illu^vi^es		<orth type=alt>inl-</orth>	
 :le:illuvies
-:no:illu^vi^	es_ei fem
-:no:inlu^vi^	es_ei fem orth
+:no:illu^vi^	es_eLi fem
+:no:inlu^vi^	es_eLi fem orth
 
 
 
@@ -92150,7 +92158,7 @@ Ima^us
 
 imbalni^ti^es		
 :le:imbalnities
-:no:imbalni^ti^	es_ei fem
+:no:imbalni^ti^	es_eLi fem
 
 
 imbarbesce^re		<itype>barbatum fieri</itype>
@@ -93321,8 +93329,8 @@ imperfossus		<orth type=alt>inp-</orth>
 
 imperfundi^es		<orth type=alt>inp-</orth>	
 :le:imperfundies
-:no:imperfundi^	es_ei fem
-:no:inperfundi^	es_ei fem orth
+:no:imperfundi^	es_eLi fem
+:no:inperfundi^	es_eLi fem orth
 
 
 
@@ -93927,6 +93935,10 @@ importu^o_sus		<orth type=alt>inp-</orth>
 
 
 impo^s		<orth type=alt>inp-</orth>	<itype>o^tis</itype>	<pos>adj.</pos>
+:le:impos
+:aj:impo^	s_tis
+:aj:inpo^	s_tis orth
+
 impo^si^ti_ci^us		<orth type=alt>inp-</orth>	<orth>-ti^us</orth>	
 :le:impositicius
 :aj:impo^si^ti_c	ius_ia_ium
@@ -99556,7 +99568,7 @@ inglu_ti^na_tus
 
 inglu^vi^es		
 :le:ingluvies
-:no:inglu^vi^	es_ei fem
+:no:inglu^vi^	es_eLi fem
 
 
 inglu^vi^o_sus		
@@ -102159,7 +102171,7 @@ intempe^ri^ae
 
 in-tempe^ri^es		
 :le:intemperies
-:no:in-tempe^ri^	es_ei fem
+:no:in-tempe^ri^	es_eLi fem
 
 
 intempesti_vi^tas		
@@ -102666,7 +102678,7 @@ intergarri_tus
 
 inter-ge^ri^es		
 :le:intergeries
-:no:inter-ge^ri^	es_ei fem
+:no:inter-ge^ri^	es_eLi fem
 
 
 interge^ri_vus		
@@ -102789,7 +102801,7 @@ interlu_ni^um
 
 interlu^vi^es		
 :le:interluvies
-:no:interlu^vi^	es_ei fem
+:no:interlu^vi^	es_eLi fem
 
 
 inter-me^di^us		
@@ -102905,7 +102917,7 @@ interne^ci_da
 
 interne^ci^es		
 :le:internecies
-:no:interne^ci^	es_ei fem
+:no:interne^ci^	es_eLi fem
 
 
 interne^ci_nus		<orth>interne^ci_vus</orth>	
@@ -104099,6 +104111,9 @@ invictrix
 :no:invictr	ix_iLcis fem
 
 	<pos>adj.</pos>
+:le:invictrix#2
+:aj:invictr	ix_adj
+
 in-victus		
 :le:invictus
 :aj:in-vict	us_a_um
@@ -106235,7 +106250,7 @@ ja_nu^a
 
 Ja_nu^al		
 :le:Janual
-:no:Ja_nu^al	0_is neut
+:no:Ja_nu^	al_aLlis neut
 
 
 Ja_nu^a_lis		
@@ -106748,6 +106763,9 @@ ju_gi^tas
 
 
 ju_glans		<itype>glandis</itype>	<gen>f.</gen>
+:le:juglans
+:no:ju_glan	s_dis fem
+
 ju^go_sus		
 :le:jugosus
 :aj:ju^go_s	us_a_um
@@ -108970,7 +108988,7 @@ la_ni^ci^a		<orth>-ti^a</orth>
 
 la_ni^ci^es		<orth>-ti^es</orth>	
 :le:lanicies
-:no:la_ni^ci^	es_ei fem
+:no:la_ni^ci^	es_eLi fem
 
 
 la_ni^cu^tis		
@@ -109387,7 +109405,7 @@ lapsus#2
 
 la^que^ar		
 :le:laquear
-:no:la^que^ar	0_is neut
+:no:la^que^	ar_aLris neut
 
 
 la^que^a_ri^us		
@@ -110069,7 +110087,7 @@ La^ti^a_lis		<orth>La^-ti^a_ris</orth>
 
 La^ti^ar		<orth>La^ti^a_li^ter</orth>	<orth>La^ti^a_ri^ter</orth>	<orth>La^ti^ar</orth>	
 :le:Latiar
-:no:La^ti^ar	0_is neut
+:no:La^ti^	ar_aLris neut
 :no:La^ti^a_ri^ter	0_is neut orth
 
 
@@ -111207,7 +111225,7 @@ le_ni^tas
 
 le_ni^ti^es		
 :le:lenities
-:no:le_ni^ti^	es_ei fem
+:no:le_ni^ti^	es_eLi fem
 
 
 le_ni^tu_do		
@@ -111310,7 +111328,7 @@ lenti^ti^a
 
 lenti^ti^es		
 :le:lentities
-:no:lenti^ti^	es_ei fem
+:no:lenti^ti^	es_eLi fem
 
 
 lenti^tu_do		
@@ -115226,7 +115244,7 @@ lu_ca_ni^ca
 lu_ca_ni^cum		<orth>lu_ca_ni^cus</orth>	<orth>lu_ca_-na</orth>	<orth>Lu_ca bo_s</orth>
 lu_car		
 :le:lucar
-:no:lu_car	0_is neut
+:no:lu_c	ar_aLris neut
 
 
 lu_ca_ris		
@@ -115966,7 +115984,7 @@ lu^pa
 
 lu^pa_nar		
 :le:lupanar
-:no:lu^pa_nar	0_is neut
+:no:lu^pa_n	ar_aLris neut
 
 
 lu^pa_na_ris		
@@ -116016,7 +116034,7 @@ Lu^perca
 
 Lu^percal		
 :le:Lupercal
-:no:Lu^percal	0_is neut
+:no:Lu^perc	al_aLlis neut
 
 
 Lu^perca_lis		
@@ -116429,7 +116447,7 @@ luxu^ri^a
 
 luxu^ri^e_s		
 :le:luxuries
-:no:luxu^ri^	es_ei fem
+:no:luxu^ri^	es_eLi fem
 
 
 luxu^ri^o_sus		
@@ -117405,7 +117423,7 @@ maci^a
 
 ma^ci^es		
 :le:macies
-:no:ma^ci^	es_ei fem
+:no:ma^ci^	es_eLi fem
 
 
 ma^ci^lentus		
@@ -118171,7 +118189,7 @@ magni^tas
 
 magni^ti^es		<orth type=alt>-ci^es</orth>	
 :le:magnities
-:no:magni^ti^	es_ei fem
+:no:magni^ti^	es_eLi fem
 
 
 magni^tu_do		
@@ -120473,6 +120491,9 @@ marti^obarbu^lus		<orth type=alt>matti^ob-</orth>
 
 
 martyr		<itype>y^ris</itype>	<gen>comm.</gen>
+:le:martyr
+:no:martyr	0_is masc fem
+
 marty^ri^um		
 :le:martyrium
 :no:marty^r	ius_i neut
@@ -120820,7 +120841,7 @@ ma_te^ri^a
 
 ma_te^ri^es		
 :le:materies
-:no:ma_te^ri^	es_ei fem
+:no:ma_te^ri^	es_eLi fem
 
 
 ma_te^ri^a_lis		
@@ -123952,7 +123973,7 @@ me^ri_di^a_ti^o
 
 me^ri_di^es		
 :le:meridies
-:no:me^ri_di^	es_ei masc fem
+:no:me^ri_di^	es_eLi masc fem
 
 
 me^ri_di^o_na_lis		
@@ -125549,7 +125570,7 @@ Mi^nerva		<orth>Menerva</orth>	<itype>like magester, leber</itype>
 
 Mi^nerval		
 :le:Minerval
-:no:Mi^nerval	0_is neut
+:no:Mi^nerv	al_aLlis neut
 
 
 Mi^nerva_li^ci^um		
@@ -125833,7 +125854,7 @@ mi^nuscu^lus
 
 mi^nu_tal		
 :le:minutal
-:no:mi^nu_tal	0_is neut
+:no:mi^nu_t	al_aLlis neut
 
 
 mi^nu_-ta_li^a		<itype>i^um</itype>
@@ -125859,7 +125880,7 @@ mi^nu_ti^a
 
 mi^nu_ti^es		
 :le:minuties
-:no:mi^nu_ti^	es_ei fem
+:no:mi^nu_ti^	es_eLi fem
 
 
 mi^nu_ti^-lo^qui^um		
@@ -127027,7 +127048,7 @@ molli^ti^a		<orth type=alt>molli^ci^a</orth>
 
 mol-li^ti^es		<orth type=alt>molli^ci^es</orth>	
 :le:mollities
-:no:mol-li^ti^	es_ei fem
+:no:mol-li^ti^	es_eLi fem
 
 
 molli^to_rius		
@@ -127396,7 +127417,7 @@ mo^no^bo^lon
 
 mo^no^ce^ros		
 :le:monoceros
-:no:mo^no^ce^ro	s_tis masc
+:no:mo^no^ce^ro_	s_tis masc
 
 
 mo^no^chordos		<itype>on</itype>	<pos>adj.</pos>
@@ -129258,7 +129279,7 @@ munda_to_ri^us
 
 munda_trix		
 :le:mundatrix
-:no:munda_tr	ix_icis fem
+:no:munda_tr	ix_iLcis fem
 
 
 Mundensis		
@@ -129295,7 +129316,7 @@ mundi^ti^a
 
 mundi^ti^es		
 :le:mundities
-:no:mundi^ti^	es_ei fem
+:no:mundi^ti^	es_eLi fem
 
 
 mundi^va^gus		
@@ -132322,7 +132343,7 @@ na_vi^tas		<orth type=alt>gna_v-</orth>
 
 na_vi^ti^es		
 :le:navities
-:no:na_vi^ti^	es_ei fem
+:no:na_vi^ti^	es_eLi fem
 
 
 Navi^us		
@@ -133184,12 +133205,12 @@ Ne_phu_sa
 
 ne^pos#1		
 :le:nepos#1
-:no:ne^po	s_tis masc fem
+:no:ne^po_	s_tis masc fem
 
 
 Ne^pos#2		
 :le:Nepos
-:no:Ne^po	s_tis masc
+:no:Ne^po_	s_tis masc
 
 
 ne^po_ta_lis		
@@ -133836,7 +133857,7 @@ Ni_ce_pho^rus
 Ni_cer		<itype>cri</itype>	<gen>m.</gen>
 Ni_ce^ros		
 :le:Niceros
-:no:Ni_ce^ro	s_tis masc
+:no:Ni_ce^ro_	s_tis masc
 
 
 Ni_ce^ro_-ti^a_nus		
@@ -134055,7 +134076,7 @@ ni_^gri^ti^a
 
 ni_^gri^ti^es		
 :le:nigrities
-:no:ni_^gri^ti^	es_ei fem
+:no:ni_^gri^ti^	es_eLi fem
 
 
 ni_^gri^tu_do		
@@ -135015,25 +135036,25 @@ No_ni^us
 
 non-ne^		
 :le:nonne
-:wd:non-ne^	adverb
+:wd:no_n-ne^	adverb
 
 
 non-ne_mo		<itype>or better separately</itype>
 non ne_mo		<itype>i^nis</itype>	<gen>m.</gen>
 non-nullus		
 :le:nonnullus
-:aj:non-null	us_a_um
+:aj:no_n-nu_ll	us_a_um
 
 
 nonnulli		
 :le:nonnulli
-:no:nonnull	us_i masc pl
+:no:no_nnu_ll	us_i masc pl
 
 
 non-numquam		<orth>-nunquam</orth>
 :le:nonnumquam
-:wd:nonnumquam	adverb
-:wd:nonnunquam	adverb
+:wd:no_nnumquam	adverb
+:wd:no_nnunquam	adverb
 
 nonnus		
 :le:nonnus
@@ -136687,7 +136708,7 @@ nympha_lis
 
 Nymphe^ros		
 :le:Nympheros
-:no:Nymphe^ro	s_tis masc
+:no:Nymphe^ro_	s_tis masc
 
 
 nymphe_um		
@@ -143828,7 +143849,7 @@ paeda^go_gus
 
 paede^ros		
 :le:paederos
-:no:paede^ro	s_tis masc
+:no:paede^ro_	s_tis masc
 
 
 Paedi_a		
@@ -144370,7 +144391,7 @@ Pa^la_tu^a_lis
 
 Pa^la_tu^ar		
 :le:Palatuar
-:no:Pa^la_tu^ar	0_is neut
+:no:Pa^la_tu^	ar_aLris neut
 
 
 pa^la_tum		
@@ -144400,7 +144421,7 @@ pa^le^a_lis
 
 pa^le^ar		
 :le:palear
-:no:pa^le^ar	0_is neut
+:no:pa^le^	ar_aLris neut
 
 
 pa^le^a_ris		
@@ -145358,7 +145379,7 @@ pa^ne_gy^rista
 
 pa^ne^ros		
 :le:paneros
-:no:pa^ne^ro	s_tis masc fem
+:no:pa^ne^ro_	s_tis masc fem
 
 
 pa^ne^rastos		
@@ -146578,7 +146599,7 @@ pa_ri^enti^a
 
 pa^ri^e_s		
 :le:paries
-:no:pa^ri^e_	s_tis masc
+:no:pa^ri^	eLs_etis masc
 
 
 pa^ri^e^ta_lis		
@@ -148177,7 +148198,7 @@ paupercu^lus
 
 paupe^ri^es		
 :le:pauperies
-:no:paupe^ri^	es_ei fem
+:no:paupe^ri^	es_eLi fem
 
 
 paupertas		
@@ -152097,7 +152118,7 @@ permi^ti^a_lis
 
 permi^ti^es		<orth type=alt>-i^ci^es</orth>	
 :le:permities
-:no:permi^ti^	es_ei fem
+:no:permi^ti^	es_eLi fem
 
 
 per-mi_tis		
@@ -152208,7 +152229,7 @@ perni^ci^a_lis
 
 perni^ci^es		
 :le:pernicies
-:no:perni^ci^	es_ei fem
+:no:perni^ci^	es_eLi fem
 
 
 perni^ci^o		
@@ -156741,7 +156762,7 @@ pi_^gri^ti^a
 
 pi_^gri^ti^es		
 :le:pigrities
-:no:pi_^gri^ti^	es_ei fem
+:no:pi_^gri^ti^	es_eLi fem
 
 
 pi_^gror#2		
@@ -157057,7 +157078,7 @@ pingui^ti^a
 
 pingui^ti^es		
 :le:pinguities
-:no:pingui^ti^	es_ei fem
+:no:pingui^ti^	es_eLi fem
 
 
 pingui^tu_do		
@@ -159936,7 +159957,7 @@ Po_mo_na
 
 Po_mo_nal		
 :le:Pomonal
-:no:Po_mo_nal	0_is neut
+:no:Po_mo_n	al_aLlis neut
 
 
 Po_mo_na_lis		
@@ -162370,7 +162391,7 @@ praeda_tum
 
 praeductal		
 :le:praeductal
-:no:praeductal	0_is neut
+:no:praeduct	al_aLlis neut
 
 
 praeducto_ri^us		
@@ -166010,7 +166031,7 @@ pro_ge^ne^ra_tio
 
 pro_ge^ni^es		
 :le:progenies
-:no:pro_ge^ni^	es_ei fem
+:no:pro_ge^ni^	es_eLi fem
 
 
 pro_ge^ni^tor		
@@ -166296,7 +166317,7 @@ pro_lu_so_ri^us
 
 pro_lu^vi^es		
 :le:proluvies
-:no:pro_lu^vi^	es_ei fem
+:no:pro_lu^vi^	es_eLi fem
 
 
 pro_lu^vi^o		
@@ -166569,7 +166590,7 @@ pro^na_us		<orth>-os</orth>
 
 pro^-ne^pos		
 :le:pronepos
-:no:pro^-ne^po	s_tis masc
+:no:pro^-ne^po_	s_tis masc
 
 
 pro^-neptis		
@@ -167443,7 +167464,7 @@ pro^seucha
 prosferari		<itype>impetrari</itype>
 pro_si^ci^es		
 :le:prosicies
-:no:pro_si^ci^	es_ei fem
+:no:pro_si^ci^	es_eLi fem
 
 
 pro-si^dens		<itype>entis</itype>
@@ -169061,7 +169082,7 @@ pu^e^rti^a
 
 pu^e^ri^ti^es		
 :le:puerities
-:no:pu^e^ri^ti^	es_ei fem
+:no:pu^e^ri^ti^	es_eLi fem
 
 
 pu^erpe^ri^um		
@@ -169085,6 +169106,9 @@ pu^e^ru^lus
 
 
 pu^gil		<itype>i^lis</itype>	<gen>m.</gen>
+:le:pugil
+:no:pu^gil	0_is masc
+
 pu^gi^la_ti^o		
 :le:pugilatio
 :no:pu^gi^la_ti^	o_oLnis fem
@@ -169122,7 +169146,7 @@ pu^gilla_ria
 
 pu^gillar		
 :le:pugillar
-:no:pu^gillar	0_is neut
+:no:pu^gill	ar_aLris neut
 
 
 pu^gilla_ri^us		
@@ -169370,7 +169394,7 @@ pulli^pre^ma
 
 pulli^ti^es		
 :le:pullities
-:no:pulli^ti^	es_ei fem
+:no:pulli^ti^	es_eLi fem
 
 
 pullu^lus#1		
@@ -169567,9 +169591,9 @@ pulvillus
 
 pulvi_nar		<orth type=alt>polv-</orth>	
 :le:pulvinar
-:no:pulvi_nar	0_is neut
-:no:pului_nar	0_is neut
-:no:polvi_nar	0_is neut orth
+:no:pulvi_n	ar_aLris neut
+:no:pului_n	ar_aLris neut
+:no:polvi_n	ar_aLris neut orth
 
 
 
@@ -170137,7 +170161,7 @@ pu^ta_to_ri^us
 
 pu^te^al		<orth>pu^te^a_le</orth>	
 :le:puteal
-:no:pu^te^al	0_is neut
+:no:pu^te^	al_aLlis neut
 
 
 pu^te^a_lis		
@@ -170911,7 +170935,7 @@ qua_^drangu^lum
 qua_^drans		<itype>antis</itype>	<gen>m.</gen>
 qua_^drantal		
 :le:quadrantal
-:no:qua_^drantal	0_is neut
+:no:qua_^drant	al_aLlis neut
 
 
 qua_^dranta_lis		
@@ -172005,7 +172029,7 @@ quincunci^a_lis
 quincunx		<itype>uncis</itype>	<gen>m.</gen>
 quincu^pe^dal		
 :le:quincupedal
-:no:quincu^pe^dal	0_is neut
+:no:quincu^pe^d	al_aLlis neut
 
 
 quincu_^plex		
@@ -172213,7 +172237,7 @@ quinque^-parti_tus		<orth type=alt>-perti_tus</orth>
 quinque^parti_to_	
 quinque^pe^dal		
 :le:quinquepedal
-:no:quinque^pe^dal	0_is neut
+:no:quinque^pe^d	al_aLlis neut
 
 
 quinque^-pe^da_lis		
@@ -176699,7 +176723,7 @@ rhi_ni^on
 
 rhi_no^ce^ros		
 :le:rhinoceros
-:no:rhi_no^ce^ro	s_tis masc
+:no:rhi_no^ce^ro_	s_tis masc
 
 
 rhi_no^ce^ro_ti^cus		
@@ -178377,8 +178401,8 @@ rursus		<orth type=alt>rursum</orth>	<orth>ru_sum</orth>	<orth>russum</orth>
 
 
 ru_s		<itype>ru_ris</itype>	<gen>n.</gen>	
-:le:rus
-:no:r	us_a_um masc
+#:le:rus
+#:no:r	us_a_um masc
 
 
 Rusca		
@@ -178934,12 +178958,12 @@ sa^_crum
 
 sa^cerdos#1		
 :le:sacerdos#1
-:no:sa^cerdo	s_tis masc fem
+:no:sa^cerdo_	s_tis masc fem
 
 
 Sa^cerdos#2		
 :le:Sacerdos
-:no:Sa^cerdo	s_tis masc
+:no:Sa^cerdo_	s_tis masc
 
 
 sa^cerdo_ta_lis		
@@ -184629,7 +184653,7 @@ segni^tas
 segni^ti^a		<itype>ae, and</itype>
 segni^-ti^es		<itype>em, e_</itype>	<gen>f.</gen>
 :le:segnities
-:no:segni^-ti	es_ei fem
+:no:segni^ti^	es_ei fem
 
 Se_go^_bri_ga		
 :le:Segobriga
@@ -185189,7 +185213,7 @@ se_mi^-de^a
 
 se_mi^-di^es		
 :le:semidies
-:no:se_mi^-di^	es_ei masc
+:no:se_mi^-di^	es_eLi masc
 
 
 se_mi^-di^gi^ta_lis		
@@ -186870,7 +186894,7 @@ se_ri^co-blatta
 
 se^ri^es		<itype>em, e_</itype>	<gen>f.</gen>
 :le:series
-:no:se^ri	es_ei fem
+:no:se^ri^	es_eLi fem
 
 se_ri^e^tas		
 :le:serietas
@@ -190268,7 +190292,7 @@ So^leus
 
 so^li^ar		
 :le:soliar
-:no:so^li^ar	0_is neut
+:no:so^li^	ar_aLris neut
 
 
 so_li^ca^nus		
@@ -191032,7 +191056,7 @@ sordi^dus
 sordi^de_	
 sordi^ti^es		
 :le:sordities
-:no:sordi^ti^	es_ei fem
+:no:sordi^ti^	es_eLi fem
 
 
 sordi^tu_do		
@@ -191575,7 +191599,7 @@ spe^ci^a_tus
 
 spe^ci^es		
 :le:species
-:no:spe^ci^	es_ei fem
+:no:spe^ci^	es_eLi fem
 
 
 spe^cilla_tus		
@@ -194488,7 +194512,7 @@ stre^pi^tus
 
 strepsi^ce^ros		
 :le:strepsiceros
-:no:strepsi^ce^ro	s_tis masc
+:no:strepsi^ce^ro_	s_tis masc
 
 
 streptos		<itype>on</itype>	<pos>adj.</pos>
@@ -195634,7 +195658,7 @@ su_ber
 
 su_be^ri^es		
 :le:suberies
-:no:su_be^ri^	es_ei fem
+:no:su_be^ri^	es_eLi fem
 
 
 su_be^re^us		
@@ -195900,7 +195924,7 @@ subli^ga_cu^lum
 
 subli^-gar		
 :le:subligar
-:no:subli^-gar	0_is neut
+:no:subli^-g	ar_aLris neut
 
 
 subli^ga_tu_ra		
@@ -198395,7 +198419,7 @@ su^per-fi^ci^a_ri^us
 
 su^perfi^ci^es		
 :le:superficies
-:no:su^perfi^ci^	es_ei fem
+:no:su^perfi^ci^	es_eLi fem
 
 
 su^per-flexus		
@@ -201554,7 +201578,7 @@ tardi^tas
 
 tardi^ti^es		
 :le:tardities
-:no:tardi^ti^	es_ei fem
+:no:tardi^ti^	es_eLi fem
 
 
 tardi^tu_do		
@@ -202770,7 +202794,7 @@ tempe^ri_		<orth type=alt>-i^us</orth>
 
 tempe^ri^es		
 :le:temperies
-:no:tempe^ri^	es_ei fem
+:no:tempe^ri^	es_eLi fem
 
 
 tempe^ra_te_	
@@ -207189,7 +207213,7 @@ to^ra_ri^a
 
 torcu^lar		
 :le:torcular
-:no:torcu^lar	0_is neut
+:no:torcu^l	ar_aLris neut
 
 
 torcu^la_ri^us		
@@ -208783,8 +208807,8 @@ tri^bu^lus		<orth type=alt>tri^bo^l-</orth>
 
 tri^bu_nal		<orth>tri^bu_na_le</orth>	
 :le:tribunal
-:no:tri^bu_nal	0_is neut
-:no:tri^bu_nal	is_is neut nom voc acc pl
+:no:tri^bu_n	al_aLlis neut
+:no:tri^bu_na_l	is_is neut nom voc acc pl
 
 
 tri^bu_na_tus		
@@ -209478,7 +209502,7 @@ tri_na_lis
 
 tri^ne^pos		
 :le:trinepos
-:no:tri^ne^po	s_tis masc
+:no:tri^ne^po_	s_tis masc
 
 
 tri^neptis		
@@ -209659,7 +209683,7 @@ tri^-pe^da_ne^us
 
 tri^-pe_s		<itype>e^dis</itype>	<pos>adj.</pos>
 :le:tripes
-:aj:trip	es_eLdis masc fem neut
+:aj:tri^-	peLs_pedis_adj
 
 tri^pe^ti^a		
 :le:tripetia
@@ -214716,7 +214740,7 @@ vasti^tas
 
 vasti^ti^es		
 :le:vastities
-:no:vasti^ti^	es_ei fem
+:no:vasti^ti^	es_eLi fem
 
 
 vasti^tu_do		
@@ -214871,7 +214895,7 @@ vecti^fer
 
 vecti_gal		
 :le:vectigal
-:no:vecti_gal	0_is neut
+:no:vecti_g	al_aLlis neut
 
 
 vecti_ga_li^a_ri^us		<itype>ii</itype>
@@ -217764,8 +217788,10 @@ victo_ri^o_sus
 
 victrix		
 :le:victrix
-:no:victr	ix_icis fem
+:no:victr	ix_icLis fem
 
+:le:victrix#2
+:aj:victr	ix_adj
 
 victu^a_lis		
 :le:victualis

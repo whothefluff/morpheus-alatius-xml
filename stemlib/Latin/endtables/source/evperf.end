@@ -10,15 +10,15 @@ e_ver@ofut	futperf ind act 1st pl
 e_ver@ofut	futperf ind act 2nd pl
 e_verint futperf ind act 3rd pl
 
-ess@ofut	futperf ind act sg
-ess@ofut	futperf ind act 1st pl
-ess@ofut	futperf ind act 2nd pl
-essint futperf ind act 3rd pl
+e_ss@ofut	futperf ind act sg
+e_ss@ofut	futperf ind act 1st pl
+e_ss@ofut	futperf ind act 2nd pl
+e_ssint futperf ind act 3rd pl
 
 e_veri@basvb2	perf subj act
 e_visse	perf inf act
 
-e_sti	 2nd sg perf ind act contr
+e_sti_	 2nd sg perf ind act contr
 e_stis	 2nd pl perf ind act contr
 e_runt	 3rd pl perf ind act contr
 e_r@past	 plup ind act contr
