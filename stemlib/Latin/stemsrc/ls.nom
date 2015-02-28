@@ -2762,7 +2762,7 @@ a^dhorta_tus
 
 a^d-huc		
 :le:adhuc
-:wd:a^d-huc	adverb
+:wd:a^d-hu_c	adverb
 
 
 a^dhu_ci^ne	
@@ -57043,7 +57043,7 @@ de_ni_^gra_ti^o
 
 de_ni^que_		
 :le:denique
-:wd:de_ni^que_	adverb
+:wd:de_ni^que	adverb
 
 
 de_nixe_		
@@ -71079,7 +71079,7 @@ exi^na_ni_ti^o
 
 ex-inde_		<orth>exin</orth>	<orth>exim</orth>	<itype>like him, illim</itype>	
 :le:exinde
-:wd:ex-inde_	adverb
+:wd:ex-inde	adverb
 :wd:exin	adverb
 :wd:exim	adverb
 
@@ -77530,7 +77530,7 @@ forsi^tan
 fortan	
 fortasse_		<orth>fortassis</orth>	<itype>but rarely</itype>	
 :le:fortasse
-:wd:fortasse_	adverb
+:wd:fortasse	adverb
 
 
 fortasse-an		
@@ -89233,9 +89233,9 @@ Hostus#2
 
 huc		<orth>hoc</orth>	<itype>like illoc, istoc</itype>	
 :le:huc
-:wd:huc	adverb
+:wd:hu_c	adverb
 
-:wd:hoc	adverb orth
+:wd:ho_c	adverb orth
 
 
 :le:hui
@@ -91698,14 +91698,14 @@ illi_be^ris		<orth type=alt>inl-</orth>
 
 illic#1		<orth>ollic</orth>	<orth>illac</orth>	<orth>illuc</orth>	<orth>illoc</orth>	
 :le:illic#1
-:wd:illic	adverb
+:wd:illi_c	adverb
 
-:wd:illoc	adverb orth
+:wd:illo_c	adverb orth
 
 
 illic#2		<orth>illi</orth>	
 :le:illic#2
-:wd:illic	adverb
+:wd:illi_c	adverb
 
 
 illi^ci^bi^lis		
@@ -92652,7 +92652,7 @@ immixtus#2		<orth type=alt>inm-</orth>
 
 immo		<orth>i_mo</orth>
 :le:immo
-:wd:immo	adverb
+:wd:immo_	adverb
 
 immo_bi^lis		<orth type=alt>inm-</orth>	
 :le:immobilis
@@ -94549,9 +94549,9 @@ impunctus		<orth type=alt>inp-</orth>
 
 impu_ne_		<orth type=alt>inp-</orth>	
 :le:impune
-:wd:impu_ne_	adverb
+:wd:impu_ne	adverb
 
-:wd:inpu_ne_	adverb orth
+:wd:inpu_ne	adverb orth
 
 
 impu_nis		<orth type=alt>inp-</orth>	
@@ -112496,7 +112496,7 @@ Li^benti_na		<orth type=alt>Lu^b-</orth>
 
 liber#1		
 :le:liber#1
-:aj:lib	er_era_erum
+:aj:li_b	er_era_erum
 	<pos>adv.</pos>
 li_be^re_	
 
@@ -114093,8 +114093,8 @@ li^ta_men
 
 Li^ta_nasilva		<orth>Li^ta_na</orth>	
 :le:Litanasilva
-:no:Li^ta_nasilv	a_ae fem
-:no:Li^ta_n	a_ae fem orth
+:no:Li^tanasilv	a_ae fem
+:no:Li^tan	a_ae fem orth
 
 
 
@@ -117929,7 +117929,7 @@ Magdo^lus
 
 ma^ge_		
 :le:mage
-:wd:ma^ge_	adverb
+:wd:ma^ge	adverb
 
 
 magganum		<orth type=alt>maganum</orth>	
@@ -118199,7 +118199,7 @@ magni^tu_do
 
 magno^pe^re_		<orth>magno_ ope^re</orth>	
 :le:magnopere
-:wd:magno^pe^re_	adverb
+:wd:magno^pe^re	adverb
 
 
 magnus#1		
@@ -123020,6 +123020,9 @@ me^mor#1
 
 	<pos>adv.</pos>
 me^mo^re		<orth>me^mo^ri^ter</orth>
+:le:memore
+:wd:me^mo^re	adverb
+
 Me^mor#2		
 :le:Memor
 :no:Me^m	or_oris masc
@@ -128284,7 +128287,7 @@ mo_rus
 
 
 mo_ra		
-:le:mora
+:le:mora#4
 :no:mo_r	a_ae fem
 
 
@@ -131822,7 +131825,7 @@ na^tans		<itype>antis</itype>
 na^tantes		<itype>u_m</itype>
 na_^trix		
 :le:natrix
-:no:na_^tr	ix_iLcis masc fem
+:no:natr	ix_icis masc fem
 
 
 na_tu^la		
@@ -133722,7 +133725,12 @@ neuter
 
 &Dagger; neutre_		<orth>neutro_</orth>
 ne-uti^quam		<orth>ne u^tiquam</orth>
+:le:neutiquam
+:wd:neutiquam	adverb
 ne-uti^que_	
+:le:neutique
+:wd:neutique	adverb
+
 neutra_lis		
 :le:neutralis
 :aj:neutra_l	is_e
@@ -139491,8 +139499,8 @@ offerto_ri^um		<orth type=alt>obf-</orth>
 
 offe^ru^menta#1		<orth type=alt>obf-</orth>	
 :le:offerumenta#1
-:no:offe^ru^ment	a_ae fem
-:no:obfe^ru^ment	a_ae fem orth
+:no:offe^ru_ment	a_ae fem
+:no:obfe^ru_ment	a_ae fem orth
 
 
 
@@ -139648,9 +139656,9 @@ O_gy^gi^a
 
 
 :le:oh
-:wd:oh	exclam
+:wd:o_h	exclam
 :le:ohe
-:wd:o^he_	exclam
+:wd:o_^he_	exclam
 :le:oho
 :wd:o^ho	exclam
 :le:oi
@@ -148821,12 +148829,12 @@ pe^di_cu^lo_sus
 
 pe^di_cu^lus#1		<orth type=alt>pe^di_clus</orth>	
 :le:pediculus#1
-:no:pe^di_cu^l	us_i masc
+:no:pe^dicu^l	us_i masc
 
 
 pe^di_cu^lus#2		<orth type=alt>pe^du_c-, pe^dunc-</orth>	
 :le:pediculus#2
-:no:pe^di_cu^l	us_i masc
+:no:pe^dicu^l	us_i masc
 
 
 pe^dis		
@@ -153397,7 +153405,7 @@ pertu_su_ra
 
 pe^r-u^bi_que_		
 :le:perubique
-:wd:pe^r-u^bi_que_	adverb
+:wd:pe^r-u^bi_que	adverb
 
 
 pe_ru^la		
@@ -166152,7 +166160,7 @@ pro_-jectum
 pro_-jecte_	
 pro^-inde_		<orth>proin</orth>	
 :le:proinde
-:wd:pro^-inde_	adverb
+:wd:pro^-inde	adverb
 :wd:proin	adverb	orth
 
 pro_jecti_ci^us		<orth>-ti^us</orth>	
@@ -170868,7 +170876,8 @@ qua_
 
 qua_-cumque_		<orth type=alt>-cunque</orth>	
 :le:quacumque
-:wd:qua_-cumque_	adverb
+:wd:qua_-cumque	adverb
+:wd:qua_-cunque	adverb orth
 
 
 qua_dante^nus		<orth>qua_damte^nus</orth>	
@@ -171574,7 +171583,8 @@ quando		<orth>quandod</orth>
 
 quando_-cumque_		<orth>-cunque_</orth>	
 :le:quandocumque
-:wd:quando_-cumque_	adverb
+:wd:quando_-cumque	adverb
+:wd:quando_-cunque	adverb orth
 
 
 quando_-li^bet		
@@ -171584,12 +171594,12 @@ quando_-li^bet
 
 quando_ne_		
 :le:quandone
-:wd:quando_ne_	adverb
+:wd:quando_ne	adverb
 
 
 quando_-que_#1		
 :le:quandoque#1
-:wd:quando_-que_	adverb
+:wd:quando_-que	adverb
 
 
 quando_-qui^dem		
@@ -171624,7 +171634,7 @@ quant-o_ci^us
 
 quant-o^pe^re_		<orth>quanto_ o^pe^re</orth>	
 :le:quantopere
-:wd:quant-o^pe^re_	adverb
+:wd:quant-o^pe^re	adverb
 
 
 quantu^lus		
@@ -171670,7 +171680,7 @@ qua_qua_
 
 qua_que_		
 :le:quaque
-:wd:qua_que_	adverb
+:wd:qua_que	adverb
 
 
 qua_-re_		
@@ -172708,7 +172718,7 @@ quo^tus-cumque		<itype>ta^cumque, tumcumque</itype>	<pos>adj.</pos>
 quo^tus-li^bet		<itype>ta^libet, tumlibet</itype>	<pos>adj.</pos>
 quo^-usque_		
 :le:quousque
-:wd:quo^-usque_	adverb
+:wd:quo^-usque	adverb
 
 
 quo_-vi_s		
@@ -178573,7 +178583,7 @@ ru_ta_tus
 
 ru_tellum		
 :le:rutellum
-:no:ru_tell	us_i neut
+:no:rutell	us_i neut
 
 
 Ru^te_ni		<orth type=alt>Ru^th-</orth>	
@@ -178603,7 +178613,7 @@ Ru^ti^lus#2
 
 ru_trum		
 :le:rutrum
-:no:ru_tr	us_i neut
+:no:rutr	us_i neut
 
 
 ru^tu^ba#1	
@@ -184626,7 +184636,7 @@ segmentum
 
 segne_		
 :le:segne
-:wd:segne_	adverb
+:wd:segne	adverb
 
 
 Segni		
@@ -188107,7 +188117,7 @@ Sicimina
 
 si_ci^ne_		<orth>sicci^ne</orth>	
 :le:sicine
-:wd:si_ci^ne_	adverb
+:wd:si_ci^ne	adverb
 
 
 Sicini^us		
@@ -188172,7 +188182,7 @@ Si_ce^-lis
 
 si_cunde_		
 :le:sicunde
-:wd:si_cunde_	adverb
+:wd:si_cunde	adverb
 
 
 si_c-ut		<itype>and</itype>
@@ -192545,7 +192555,7 @@ sponta_ne^us
 sponta_ne^e_	
 sponte		<orth>spontis</orth>	
 :le:sponte
-:no:spont	e_es fem
+:no:spon	s_tis fem
 
 	<pos>prep.</pos>
 spontis		<itype>only in the phrase suae spontis</itype>
@@ -194782,7 +194792,7 @@ struferta_ri^i
 
 struix		
 :le:struix
-:no:stru	ix_icis fem
+:no:stru	ix_iLcis fem
 
 
 stru_ma#1		
@@ -198595,7 +198605,10 @@ su^pernus
 :aj:su^pern	us_a_um
 
 
-su^perne_	
+su^perne_
+:le:superne
+:wd:su^perne	adverb
+
 su^pe^r-obductus		
 :le:superobductus
 :aj:su^pe^r-obduct	us_a_um
@@ -201035,7 +201048,7 @@ taetri^ci^tas		<orth type=alt>te_tr-</orth>
 taetri^cus		<orth type=alt>te_tr-</orth>	
 :le:taetricus
 :aj:taetri^c	us_a_um
-:aj:te_tri^c	us_a_um orth
+:aj:te_^tri^c	us_a_um orth
 
 
 
@@ -202661,7 +202674,7 @@ te^me^ra_tor
 
 te^me^re_		<orth>te^-me^ri^ter</orth>	
 :le:temere
-:wd:te^me^re_	adverb
+:wd:te^me^re	adverb
 
 
 te^me^ri^tas		
@@ -208783,7 +208796,7 @@ tri^bu_lis
 
 tri_bu^lo_sus		
 :le:tribulosus
-:aj:tri_bu^lo_s	us_a_um
+:aj:tribu^lo_s	us_a_um
 
 
 tri_bu^lum		<orth type=alt>tri_vo^l-</orth>	
@@ -211976,16 +211989,16 @@ u^bi^-li^bet
 
 u^bi_^-qua_que_		
 :le:ubiquaque
-:wd:u^bi_^-qua_que_	adverb
+:wd:u^bi_^-qua_que	adverb
 
 
 u^bi_-que_		
 :le:ubique
-:wd:u^bi_-que_	adverb
+:wd:u^bi_-que	adverb
 
 	
 :le:ubique
-:wd:u^bi_-que_	adverb
+:wd:u^bi_-que	adverb
 
 
 u^bi^-vi_s		
@@ -213594,12 +213607,17 @@ u_tensi^li^tas
 
 
 u_ter#1		<itype>tris</itype>	<gen>m.</gen>
+:le:uter#1
+:no:ut	er_ris masc
+
 u^ter#3		<itype>u_^tra, u_^trum</itype>	<itype>Hence</itype>	
-:le:uter#3
-:wd:u^ter	adverb
+#:le:uter#3
+#:wd:u^ter	adverb
 
+u_^tro_
+:le:utro
+:wd:utro_	adverb
 
-u_^tro_	
 u^tercu^lus		
 :le:uterculus
 :no:u^tercu^l	us_i masc

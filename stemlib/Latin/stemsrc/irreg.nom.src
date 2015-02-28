@@ -28,6 +28,7 @@ alter@ille	irreg_nom2
 :le:alius#2
 :wd:alius irreg_nom2 masc nom sg
 :wd:aliud irreg_nom2 neut nom acc sg
+:wd:ali_us irreg_nom2 masc fem neut gen sg
 ali@ille irreg_nom2
 
 :le:ambo
@@ -699,7 +700,7 @@ alter-utr@ille	irreg_adj2
 :wd:u_nusquisque	us_a_um	masc nom sg
 :wd:u_naquaeque	us_a_um	fem nom sg
 
-:le:uter
+:le:uter#3
 uter 	irreg_adj2 masc nom/voc sg
 utra 	irreg_adj2 gen nom/voc sg
 utrum 	irreg_adj2 neut nom/voc sg

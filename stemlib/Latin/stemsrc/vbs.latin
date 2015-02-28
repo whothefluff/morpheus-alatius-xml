@@ -3084,7 +3084,7 @@
 :de:confict	are_vb
 :le:confido
 :vs:con-fi_d	conj3
-:vs:con-fi^s pp4
+:vs:con-fi_s pp4
 :le:configo
 :vs:con-fi_g	conj3
 :vs:con-fi_x perfstem
@@ -3722,7 +3722,7 @@
 :le:copulor
 :de:co_pu^l	are_vb dep
 :le:coquino
-:de:co^qui_n	are_vb
+:de:co^quin	are_vb
 :le:coquo
 :vs:co^qu	conj3
 :vs:co^x perfstem
@@ -9994,7 +9994,7 @@
 :le:mucesco
 :vs:mu_cesc	conj3
 :le:muginor
-:de:mu_gi^n	are_vb dep
+:de:mu_gi_n	are_vb dep
 :le:mugio#1
 :vs:mu_g	conj4
 :vs:mu_gi_v perfstem
@@ -16477,7 +16477,7 @@
 :le:tetrinnio
 :de:te_^trinn	ire_vb
 :le:thermopoto
-:de:thermo^po_t	are_vb
+:de:thermo^pot	are_vb
 :le:thesaurizo
 :de:the_sauriz	are_vb
 :le:tibicino
