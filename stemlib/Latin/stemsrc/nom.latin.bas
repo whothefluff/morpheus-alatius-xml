@@ -1507,7 +1507,7 @@
 :aj:tra_la_ti_ci	us_a_um
 
 :le:tricies
-:wd:tri_cies	adverb
+:wd:tri_cie_s	adverb
 :wd:tri_ciens	adverb
 
 :le:tri_ginta

@@ -1269,14 +1269,14 @@ accu^bi^tus
 
 ac-cu^bu^o		
 :le:accubuo
-:wd:ac-cu^bu^o	adverb
+:wd:ac-cu^bu^o_	adverb
 
 
 accu^mu^la_te		<orth type=alt>adc.</orth>	
 :le:accumulate
-:wd:accu^mu^la_te	adverb
+:wd:accu^mu^la_te_	adverb
 
-:wd:adcu^mu^la_te	adverb orth
+:wd:adcu^mu^la_te_	adverb orth
 
 
 accu^mu^la_ti^o		<orth type=alt>adc.</orth>	
@@ -1295,7 +1295,7 @@ accu^mu^la_tor		<orth type=alt>adc.</orth>
 
 accu^mu^la_te		
 :le:accumulate
-:wd:accu^mu^la_te	adverb
+:wd:accu^mu^la_te_	adverb
 
 
 accu_ra_ti^o		
@@ -1937,7 +1937,7 @@ a^co^nae
 
 a^co^ni_ti		
 :le:aconiti
-:wd:a^co^ni_ti	adverb
+:wd:a^co^ni_ti_	adverb
 
 
 a^co^ni_tum		
@@ -2369,7 +2369,7 @@ actu^a_rium
 actu^a_ri^us#2		<itype>i^i</itype>	<itype>scriba</itype>	<gen>m.</gen>
 actu^o_se		
 :le:actuose
-:wd:actu^o_se	adverb
+:wd:actu^o_se_	adverb
 
 
 actu^o_sus		
@@ -2482,7 +2482,7 @@ a^cu_tor
 
 a^cu_tu^le		
 :le:acutule
-:wd:a^cu_tu^le	adverb
+:wd:a^cu_tu^le_	adverb
 
 
 a^cu_tu^lus		
@@ -2527,7 +2527,7 @@ a^daequa_ti^o
 
 a^d-aeque		
 :le:adaeque
-:wd:a^d-aeque	adverb
+:wd:a^d-aeque_	adverb
 
 
 a^daera_ti^o		
@@ -2711,7 +2711,7 @@ a^deptus#2		<itype>n_s</itype>	<gen>m.</gen>
 a^desdum		<orth>a^des dum</orth>
 a^dhaese		
 :le:adhaese
-:wd:a^dhaese	adverb
+:wd:a^dhaese_	adverb
 
 
 a^dhaesi^o		
@@ -7437,7 +7437,7 @@ a^lipte_s		<orth>a^lipta</orth>
 
 a^li^quamdi^u		
 :le:aliquamdiu
-:wd:a^li^quamdi^u	adverb
+:wd:a^li^quamdi^u_	adverb
 
 
 a^li^quando^	
@@ -7502,7 +7502,7 @@ a^li^qua_
 
 a^li^qui		
 :le:aliqui
-:wd:a^li^qui	adverb
+:wd:a^li^qui_	adverb
 
 	<pos>adj.</pos>
 a^li^-qui, a^li^qua		<orth type=alt>a^li^quod</orth>
@@ -7515,7 +7515,7 @@ a^li^quotfa^ri^am
 
 a^li^quo^ti^es		<orth>a^li^quo^ti^ens</orth>	
 :le:aliquoties
-:wd:a^li^quo^ti^es	adverb
+:wd:a^li^quo^ti^e_s	adverb
 
 :wd:a^li^quo^ti^ens	adverb orth
 
@@ -11543,12 +11543,12 @@ ante^lu_ca_-num
 
 ante^-lu_ci^o		
 :le:antelucio
-:wd:ante^-lu_ci^o	adverb
+:wd:ante^-lu_ci^o_	adverb
 
 
 ante^-lu_cu^lo		
 :le:anteluculo
-:wd:ante^-lu_cu^lo	adverb
+:wd:ante^-lu_cu^lo_	adverb
 
 
 ante^-lu_di^um		
@@ -11947,7 +11947,7 @@ anti^do^tum
 
 antigerio		<itype>an ancient word for valde</itype>
 :le:antigerio
-:wd:antigerio	adverb
+:wd:antigerio_	adverb
 
 Antigno_tus		
 :le:Antignotus
@@ -17148,11 +17148,10 @@ A_^si^a_ni
 
 
 A_^si^a_ni		
-:le:Asiani
-:wd:A_^si^a_ni	adverb
-
-
 A_^si^a_ne_	
+:le:Asiane
+:wd:A_^si^a_ne_	adverb
+
 A_^si^archa		
 :le:Asiarcha
 :no:A_^si^arch	a_ae masc
@@ -34672,7 +34671,7 @@ centiens		<orth>centies</orth>
 :le:centiens
 :wd:centiens	adverb
 
-:wd:centies	adverb orth
+:wd:centie_s	adverb orth
 
 
 centi^fi^dus		
@@ -35800,7 +35799,7 @@ ce_ta_ri^a
 
 ce_te^ro_qui		<orth>-qui_n</orth>	
 :le:ceteroqui
-:wd:ce_te^ro_qui	adverb
+:wd:ce_te^ro_qui_	adverb
 
 
 ce_te^rus		<orth type=alt>caet-</orth>	
@@ -61008,14 +61007,14 @@ dispensa_trix
 
 
 di-spergo		<orth>di-spargo</orth>	<itype>Hence</itype>	
-:le:dispergo
-:wd:di-spergo	adverb
-
-:wd:di-spargo	adverb orth
-
+disperse_		<orth>dispersim</orth>
+:le:disperse
+:wd:disperse_	adverb
 
 disperse_		<orth>dispersim</orth>
-disperse_		<orth>dispersim</orth>
+:le:dispersim
+:wd:dispersim	adverb
+
 dispersi^o		
 :le:dispersio
 :no:dispersi^	o_oLnis fem
@@ -61110,7 +61109,7 @@ dispu^ta_tor
 
 dispu^ta_to_ri^e		
 :le:disputatorie
-:wd:dispu^ta_to_ri^e	adverb
+:wd:dispu^ta_to_ri^e_	adverb
 
 
 dispu^ta_trix		
@@ -61288,7 +61287,7 @@ disso^lu_bi^lis
 
 disso^lu_te		
 :le:dissolute
-:wd:disso^lu_te	adverb
+:wd:disso^lu_te_	adverb
 
 
 disso^lu_ti^o		
@@ -61408,7 +61407,7 @@ disti^chon
 
 distincte		
 :le:distincte
-:wd:distincte	adverb
+:wd:distincte_	adverb
 
 
 distincti^o		
@@ -61454,7 +61453,7 @@ distractus#2
 
 distri^-bu_te		
 :le:distribute
-:wd:distri^-bu_te	adverb
+:wd:distri^-bu_te_	adverb
 
 
 distri^bu_ti^o		
@@ -61581,7 +61580,7 @@ diurnum
 di^urne	
 di^uscu^le		
 :le:diuscule
-:wd:di^uscu^le	adverb
+:wd:di^uscu^le_	adverb
 
 
 di^u_ti^nus		
@@ -61593,7 +61592,7 @@ diu_-ti^ne
 di^u_ti^us		<orth>di^u_tissi^me</orth>
 di^u_tu^le		
 :le:diutule
-:wd:di^u_tu^le	adverb
+:wd:di^u_tu^le_	adverb
 
 
 di^u_turni^tas		
@@ -61624,7 +61623,7 @@ di_-vergi^um
 
 di_verse		<orth type=alt>di_vorse</orth>	
 :le:diverse
-:wd:di_verse	adverb
+:wd:di_verse_	adverb
 
 
 di_versi_^cli_ni^a		
@@ -61862,7 +61861,7 @@ docti_
 
 docte		
 :le:docte
-:wd:docte	adverb
+:wd:docte_	adverb
 
 
 dochle^a		
@@ -61926,7 +61925,7 @@ docti^-so^nus
 
 docti^uscu^le		
 :le:doctiuscule
-:wd:docti^uscu^le	adverb
+:wd:docti^uscu^le_	adverb
 
 
 doctor		
@@ -62548,7 +62547,7 @@ Do_ri^as
 
 Do_ri^ce		
 :le:Dorice
-:wd:Do_ri^ce	adverb
+:wd:Do_ri^ce_	adverb
 
 
 Do_ri^o_		
@@ -63038,7 +63037,7 @@ dubium
 
 du^bi^e		
 :le:dubie
-:wd:du^bi^e	adverb
+:wd:du^bi^e_	adverb
 
 
 dubio	
@@ -63097,7 +63096,7 @@ du^centi		<itype>ae, a</itype>
 du^centi^es		<orth>-i^ens</orth>	<pos>adv. num.</pos>
 du^centi^es		<orth>-i^ens</orth>	<pos>adv. num.</pos>
 :le:ducenties
-:wd:du^centi^es		numeral
+:wd:du^centi^e_s		numeral
 :wd:du^centi^ens		numeral
 
 du^ci^a_nus		
@@ -63298,7 +63297,7 @@ Dulgi^bi_ni
 
 du_li^ce		
 :le:dulice
-:wd:du_li^ce	adverb
+:wd:du_li^ce_	adverb
 
 
 Du_li^chi^um		
@@ -63508,7 +63507,7 @@ du_^pli^ca_ti^o
 
 du_^pli^ca_to		
 :le:duplicato
-:wd:du_^pli^ca_to	adverb
+:wd:du_^pli^ca_to_	adverb
 
 
 du_^pli^ca_tor		
@@ -63528,7 +63527,7 @@ du_^pli^ci^ter
 
 du_^pli^ca_to		
 :le:duplicato
-:wd:du_^pli^ca_to	adverb
+:wd:du_^pli^ca_to_	adverb
 
 
 du_^pli^o		
@@ -64318,7 +64317,7 @@ ecquando
 ecqui#1		<orth type=alt>ecquae</orth>	<orth>ecqua</orth>	<orth>ecquod</orth>
 ecqui#2		
 :le:ecqui#2
-:wd:ecqui	adverb
+:wd:ecqui_	adverb
 
 
 ecquis		<itype>ecquid</itype>	<pos>Adj.</pos>
@@ -64772,7 +64771,7 @@ effractu_ra
 
 effre_na_te		
 :le:effrenate
-:wd:effre_na_te	adverb
+:wd:effre_na_te_	adverb
 
 
 effre_na_ti^o		
@@ -64831,7 +64830,7 @@ effu_sor
 
 effu_so_ri^e		
 :le:effusorie
-:wd:effu_so_ri^e	adverb
+:wd:effu_so_ri^e_	adverb
 
 
 effu_ti_ci^us		<orth>-ti^us</orth>	
@@ -65111,7 +65110,7 @@ e_-la^pi^da_tus
 
 e_la_te#1		
 :le:elate#1
-:wd:e_la_te	adverb
+:wd:e_la_te_	adverb
 
 
 e^la^te#2		
@@ -66841,7 +66840,7 @@ enthy_me_sis
 enubro		<itype>inhibenti</itype>
 e_nu_cle^a_te		
 :le:enucleate
-:wd:e_nu_cle^a_te	adverb
+:wd:e_nu_cle^a_te_	adverb
 
 
 e_nu_cle^a_-ta		
@@ -70029,7 +70028,7 @@ exa^con		<orth type=alt>-cum</orth>
 
 exacte		
 :le:exacte
-:wd:exacte	adverb
+:wd:exacte_	adverb
 
 
 exacti^o		
@@ -70144,7 +70143,7 @@ exalta_ti^o
 
 exalta_ti_ve		
 :le:exaltative
-:wd:exalta_ti_ve	adverb
+:wd:exalta_ti_ve_	adverb
 
 
 ex-a^lu_mi^na_tus		
@@ -71440,7 +71439,7 @@ expensum
 
 expense		
 :le:expense
-:wd:expense	adverb
+:wd:expense_	adverb
 
 
 expensa		
@@ -72340,9 +72339,9 @@ extempo^ra_li^tas
 
 ex-tente		<orth>extense</orth>	
 :le:extente
-:wd:ex-tente	adverb
+:wd:ex-tente_	adverb
 
-:wd:extense	adverb orth
+:wd:extense_	adverb orth
 
 
 extensi^o		
@@ -73115,7 +73114,7 @@ faene^ra_ti^o		<orth>fe_n-, foen-</orth>
 
 faene^ra_to		<orth>fe_n-, foen-</orth>	
 :le:faenerato
-:wd:faene^ra_to	adverb
+:wd:faene^ra_to_	adverb
 
 
 faene^ra_tor		<orth>fe_n-, foen-</orth>	
@@ -73450,7 +73449,7 @@ falsa_ti^o
 
 false		
 :le:false
-:wd:false	adverb
+:wd:false_	adverb
 
 
 falsi^di^centia		
@@ -73510,7 +73509,7 @@ falsi^tas
 
 falso#2		
 :le:falso#2
-:wd:falso	adverb
+:wd:falso_	adverb
 
 
 falx		<itype>falcis</itype>	<gen>f.</gen>
@@ -73998,7 +73997,7 @@ fasti_di^o_sus
 
 fasti_di^o_se		
 :le:fastidiose
-:wd:fasti_di^o_se	adverb
+:wd:fasti_di^o_se_	adverb
 
 
 fasti_di^tas		
@@ -74167,7 +74166,7 @@ fa^tu^a
 
 fa^tu^e		
 :le:fatue
-:wd:fa^tu^e	adverb
+:wd:fa^tu^e_	adverb
 
 
 Fa_tu^us#2		
@@ -74245,7 +74244,7 @@ faustus#1
 
 fauste		
 :le:fauste
-:wd:fauste	adverb
+:wd:fauste_	adverb
 
 
 Faustus#2		<orth>Fausti^a_nus</orth>	
@@ -76682,7 +76681,7 @@ floscellus
 
 floscu^le		
 :le:floscule
-:wd:floscu^le	adverb
+:wd:floscu^le_	adverb
 
 
 floscu^lus		
@@ -83131,12 +83130,12 @@ Graeae
 
 Graeca_ni^ce		
 :le:Graecanice
-:wd:Graeca_ni^ce	adverb
+:wd:Graeca_ni^ce_	adverb
 
 
 Graece		
 :le:Graece
-:wd:Graece	adverb
+:wd:Graece_	adverb
 
 
 Graeci		
@@ -83165,9 +83164,6 @@ Graece		<orth>Graeca_tim</orth>	<orth>Graeci^a</orth>
 
 
 Magna Graecia		<orth>Ma_jor Graecia</orth>	<orth>Parva Graecia</orth>	<orth>Grae-ca_ni^cus</orth>	<itype>a, um</itype>	<pos>adj.</pos>	
-:le:Magna
-:wd:Magna	adverb
-
 
 Grae_-ca_ni^ce		<orth>Graecu^lus</orth>	<itype>a, um</itype>
 Graecu^lus		
@@ -90878,9 +90874,9 @@ I_das
 
 idcirco		<orth>iccirco</orth>	
 :le:idcirco
-:wd:idcirco	adverb
+:wd:idcirco_	adverb
 
-:wd:iccirco	adverb orth
+:wd:iccirco_	adverb orth
 
 
 i^de^a		
@@ -90901,7 +90897,7 @@ i^denti^dem		<orth>idem-</orth>
 
 i^de^o		
 :le:ideo
-:wd:i^de^o	adverb
+:wd:i^de^o_	adverb
 
 
 i^di^o^gra^phus		
@@ -91339,9 +91335,9 @@ i_li^ce^us
 
 i_li^co		<orth>illi^co</orth>	
 :le:ilico
-:wd:i_li^co	adverb
+:wd:i_li^co_	adverb
 
-:wd:illi^co	adverb orth
+:wd:illi^co_	adverb orth
 
 
 Ili^enses#2		
@@ -91966,9 +91962,9 @@ illustra_tus
 
 illustre		<orth type=alt>inl-</orth>	
 :le:illustre
-:wd:illustre	adverb
+:wd:illustre_	adverb
 
-:wd:inlustre	adverb orth
+:wd:inlustre_	adverb orth
 
 
 illustris		<orth type=alt>inl-</orth>	
@@ -95128,7 +95124,7 @@ i^n-auspi^ca_tus
 
 in-auspi^ca_to		
 :le:inauspicato
-:wd:in-auspi^ca_to	adverb
+:wd:in-auspi^ca_to_	adverb
 
 
 i^n-ausus		
@@ -99827,7 +99823,7 @@ i^nhu^ma_tus
 i^n-hu_mectus		<itype>a, unc</itype>	<pos>adj.</pos>
 i^n-i^bi		
 :le:inibi
-:wd:i^n-i^bi	adverb
+:wd:i^n-i^bi_^	adverb
 
 
 i^ni^ens		<itype>euntis</itype>
@@ -102541,7 +102537,7 @@ interdi^gi^ti^a
 
 interdi^u		
 :le:interdiu
-:wd:interdi^u	adverb
+:wd:interdi^u_	adverb
 
 
 inter-do	
@@ -102719,7 +102715,7 @@ inte^ri^o_res
 
 inte^ri^o_ra		<orth>inte^ri^-us</orth>	
 :le:interiora
-:wd:inte^ri^o_ra	adverb
+:no:inte^ri^o_r	0_is neut pl
 
 
 inte^ri^ti^o		
@@ -111775,7 +111771,7 @@ le_ta_lis		<orth type=alt>le_tha_l-</orth>
 
 le_ta_li^a		<itype>ium</itype>	
 :le:letalia
-:wd:le_ta_li^a	adverb
+:no:le_ta_l	is_e neut pl
 
 
 le_ta_li^ter	
@@ -121152,11 +121148,8 @@ ma_tu_rus
 
 	<pos>adv.</pos>	<pos>adj.</pos>
 ma_tu_ri		
-:le:maturi
-:wd:ma_tu_ri	adverb
-
-
 ma_tu_re_	
+
 Ma_tu_ta		
 :le:Matuta
 :no:Ma_tu_t	a_ae fem
@@ -123021,7 +123014,7 @@ me^mor#1
 	<pos>adv.</pos>
 me^mo^re		<orth>me^mo^ri^ter</orth>
 :le:memore
-:wd:me^mo^re	adverb
+:wd:me^mo^re_	adverb
 
 Me^mor#2		
 :le:Memor
@@ -125308,7 +125301,7 @@ mille_si^mus		<orth type=alt>-lensimus</orth>
 mille_si^mum	
 milli^es		<orth>mi_li^es</orth>	<orth>milliens</orth>	<orth>mi-liens</orth>	
 :le:millies
-:wd:milli^es	adverb
+:wd:milli^e_s	adverb
 
 :wd:mi-liens	adverb orth
 
@@ -128226,8 +128219,6 @@ morti^fer		<itype>or</itype>
 :aj:morti^fe^r	us_a_um
 morti^fe^rus		<itype>e^ra, e^rum</itype>	<pos>adj.</pos>
 morti^fe^ra		<itype>um</itype>	
-:le:mortifera
-:wd:morti^fe^ra	adverb
 
 
 morti^fe^re_	
@@ -132662,10 +132653,13 @@ nectus
 
 ne^cu^bi		
 :le:necubi
-:wd:ne^cu^bi	adverb
+:wd:ne_cu^bi	adverb
 
-
-ne^c-unde	
+ne^c-unde
+:le:necunde
+:wd:ne_cunde	adverb
+# Cf. OLD
+	
 ne^cunquem		<itype>necumquam quemquam</itype>
 ne^c-u^ter		
 :le:necuter
@@ -134221,7 +134215,7 @@ ni^mi^um
 
 ni^mi^o		
 :le:nimio
-:wd:ni^mi^o	adverb
+:wd:ni^mi^o_	adverb
 
 
 ni^mi^um		<orth>ni^mi^e_</orth>
@@ -134974,7 +134968,7 @@ no_na_gessis
 
 no_na_gi^es		<orth>-gi^ens</orth>	
 :le:nonagies
-:wd:no_na_gi^es	adverb
+:wd:no_na_gi^e_s	adverb
 
 
 no_na_ginta_	
@@ -135016,7 +135010,7 @@ nonge_ni		<orth type=alt>nongente_ni</orth>	<itype>ae, a</itype>
 nongenti		<orth>no_ningenti</orth>	<orth>nongentus</orth>	<itype>i</itype>	<gen>m.</gen>
 no_ni^es		
 :le:nonies
-:wd:no_ni^es	adverb
+:wd:no_ni^e_s	adverb
 
 
 no_ni^ge_si^mus		<orth>nonge_si^mus</orth>	
@@ -135034,7 +135028,7 @@ no_ningente_si^mus
 
 no_ningenti^es		<orth>-ti^ens</orth>	
 :le:noningenties
-:wd:no_ningenti^es	adverb
+:wd:no_ningenti^e_s	adverb
 
 	<orth type=alt>no_n-genti^es</orth>
 No_ni^us		
@@ -140334,7 +140328,7 @@ omni^mo^di_s
 
 omni^mo^do		<orth>omni_ mo^do</orth>	
 :le:omnimodo
-:wd:omni^mo^do	adverb
+:wd:omni^mo^do_	adverb
 
 
 omni^mo^dus		
@@ -140349,7 +140343,7 @@ omni^morbi^a
 
 omni_no		
 :le:omnino
-:wd:omni_no	adverb
+:wd:omni_no_	adverb
 
 
 omni^no_mi^nis		
@@ -148066,7 +148060,7 @@ pa^tu^lus
 
 pauci^es		
 :le:paucies
-:wd:pauci^es	adverb
+:wd:pauci^e_s	adverb
 
 
 pauci^lo^qui^um		
@@ -150716,7 +150710,7 @@ perdi^trix
 
 per-di^u		
 :le:perdiu
-:wd:per-di^u	adverb
+:wd:per-di^u_	adverb
 
 
 per-di^us		
@@ -158883,7 +158877,7 @@ plu_ra_ti_vum
 
 plu_ri^es		<orth type=alt>-ens</orth>	
 :le:pluries
-:wd:plu_ri^es	adverb
+:wd:plu_ri^e_s	adverb
 
 
 plu_ri^fa_ri^am		
@@ -160197,7 +160191,7 @@ pondi^cu^lum
 
 pondo		
 :le:pondo
-:wd:pondo	adverb
+:wd:pondo_	adverb
 
 
 pondus		
@@ -160765,11 +160759,10 @@ porrectum
 
 
 porri^go#1	<itype>Hence</itype>	
-:le:porrigo#1
-:wd:porri^go	adverb
-
-
 porrecte_	
+:le:porrecte
+:wd:porrecte_	adverb
+
 porri_go#2		
 :le:porrigo#2
 :no:porri_g	o_inis fem
@@ -160787,7 +160780,7 @@ porri_na
 
 porro		
 :le:porro
-:wd:porro	adverb
+:wd:porro_	adverb
 
 
 porrum		
@@ -161257,7 +161250,7 @@ posti_cum
 
 posti^de^a		
 :le:postidea
-:wd:posti^de^a	adverb
+:wd:posti^de^a_	adverb
 
 
 posti^le_na		
@@ -165940,10 +165933,6 @@ pro_flu^ens
 
 
 pro_-flu^o	<itype>Hence</itype>	
-:le:profluo
-:wd:pro_-flu^o	adverb
-
-
 pro_flu^enter	
 :le:profluenter
 :wd:pro_flu^enter		adverb
@@ -166932,7 +166921,7 @@ proxi^mus
 
 pro^pi^o_ra		<itype>um</itype>	
 :le:propiora
-:wd:pro^pi^o_ra	adverb
+:no:pro^pi^o_r        0_is neut pl
 
 
 pro^pi^us		<orth>proxi^mus</orth>	
@@ -167048,7 +167037,7 @@ Pro^ponti^a^cus
 
 pro_-porro		
 :le:proporro
-:wd:pro_-porro	adverb
+:wd:pro_-porro_	adverb
 
 
 pro_-porti^o		
@@ -170927,7 +170916,7 @@ qua_^-dra_ge_si^ma
 
 
 :le:quadragies
-:wd:qua_^dra_gi^es	numeral
+:wd:qua_^dra_gi^e_s	numeral
 :wd:qua_^dra_gi^ens	numeral
 
 qua_^dra_ginta_		<pos>num. adj.</pos>
@@ -171237,7 +171226,7 @@ qua_^dringenti		<itype>ae, a</itype>	<pos>adj.</pos>
 [	
 qua_^dringenti^es		
 :le:quadringenties
-:wd:qua_^dringenti^es	adverb
+:wd:qua_^dringenti^e_s	adverb
 
 
 [	
@@ -171296,11 +171285,10 @@ qua_^dra_tus
 
 
 qua_^dro	<itype>Hence</itype>	
-:le:quadro
-:wd:qua_^dro	adverb
-
-
 qua_^dra_te_	
+:le:quadrate
+:wd:qua_^dra_te_	adverb
+
 qua_^dru^la		
 :le:quadrula
 :no:qua_^dru^l	a_ae fem
@@ -171531,9 +171519,9 @@ quam		<orth>quamde</orth>	<orth>quande</orth>
 
 quam-di^u		<orth>quandi^u</orth>	
 :le:quamdiu
-:wd:quam-di^u	adverb
+:wd:quam-di^u_	adverb
 
-:wd:quandi^u	adverb orth
+:wd:quandi^u_	adverb orth
 
 
 quamdi^u_ti^nus		
@@ -171578,7 +171566,7 @@ qua_-nam
 
 quando		<orth>quandod</orth>	
 :le:quando
-:wd:quando	adverb
+:wd:quando_	adverb
 
 
 quando_-cumque_		<orth>-cunque_</orth>	
@@ -172049,7 +172037,7 @@ quincu_^plex
 
 quinde^ci^es		<orth type=alt>-de^ci^ens</orth>	
 :le:quindecies
-:wd:quinde^ci^es	adverb
+:wd:quinde^ci^e_s	adverb
 
 
 quinde^cim		<pos>num. adj.</pos>
@@ -172104,7 +172092,7 @@ quingente_si^mus
 quingenti		<pos>num. adj.</pos>
 quingenti^es		<orth type=alt>-ti^ens</orth>	
 :le:quingenties
-:wd:quingenti^es	adverb
+:wd:quingenti^e_s	adverb
 
 
 qui_ni		<itype>ae, a</itype>
@@ -172140,7 +172128,7 @@ quinqua_ge_si^ma
 quinqua_gi^ens		
 :le:quinquagiens
 :wd:quinqua_gi^ens	adverb
-:wd:quinqua_gi^es	adverb
+:wd:quinqua_gi^e_s	adverb
 
 
 quinqua_ginta		<pos>num. adj.</pos>
@@ -172459,7 +172447,7 @@ quippe
 
 quippi^-ni		<orth type=alt>quippe^ni</orth>	
 :le:quippini
-:wd:quippi^-ni	adverb
+:wd:quippi^-ni_	adverb
 
 
 qui_-qui	
@@ -172679,7 +172667,7 @@ quo^ti^ens		<orth>quo^ti^es</orth>
 :le:quotiens
 :wd:quo^ti^ens	adverb
 
-:wd:quo^ti^es	adverb orth
+:wd:quo^ti^e_s	adverb orth
 
 
 quo^ti^ens-cumque^		
@@ -174529,7 +174517,7 @@ re_ga_les
 
 re_ga_li^a		<itype>i^um</itype>	
 :le:regalia
-:wd:re_ga_li^a	adverb
+:no:re_ga_l    is_e neut pl
 
 
 re_ga_-li^ter	
@@ -186523,7 +186511,7 @@ septingente_si^mus
 septingenti		<itype>ae, a</itype>	<pos>num. adj.</pos>
 septingenti^es		<orth type=alt>-ti^ens</orth>	
 :le:septingenties
-:wd:septingenti^es	adverb
+:wd:septingenti^e_s	adverb
 
 
 septi^nu^bus		
@@ -186560,7 +186548,7 @@ septu^a_ge_simus
 
 septu^a_gi^es		
 :le:septuagies
-:wd:septu^a_gi^es	adverb
+:wd:septu^a_gi^e_s	adverb
 
 
 septu^a_ge_si^es	
@@ -186994,8 +186982,8 @@ sermo_ci^na_trix
 
 
 sermo_ci^no		<orth>sermo_ci^nanter</orth>	
-:le:sermocino
-:wd:sermo_ci^no	adverb
+:le:sermocinanter
+:wd:sermo_ci^nanter	adverb
 
 
 sermo_na_lis		
@@ -188188,7 +188176,7 @@ si_cunde_
 si_c-ut		<itype>and</itype>
 si_c-u^ti		
 :le:sicuti
-:wd:si_c-u^ti	adverb
+:wd:si_c-u^ti_^	adverb
 
 
 Si^cy^on		
@@ -188913,7 +188901,7 @@ si_mi^o^lus
 
 si^mi_tu		<orth>si^mi_tur</orth>	
 :le:simitu
-:wd:si^mi_tu	adverb
+:wd:si^mi_tu_	adverb
 
 
 Si^mo#2		
@@ -201446,11 +201434,7 @@ tanto_ o^pe^re		<orth>tanto^pe^re</orth>	<orth>tantum</orth>
 :le:tanto
 :wd:tanto_	adverb
 
-
 tanti		<orth>tanto_</orth>	<orth>tantum</orth>	
-:le:tanti
-:wd:tanti	adverb
-
 
 tantummo^do	
 tantus-dem		<itype>tanta^dem, tantundem</itype>	<pos>adj.</pos>	<pos>adj.</pos>
@@ -209659,8 +209643,8 @@ tri^parti_tus		<orth>-perti_tus</orth>
 :le:tripartitus
 :aj:tri^parti_t	us_a_um
 :aj:tri^perti_t	us_a_um
-:wd:tri^parti_to	adverb
-:wd:tri^perti_to	adverb
+:wd:tri^parti_to_	adverb
+:wd:tri^perti_to_	adverb
 
 
 Tri^perti_ta		
