@@ -94,7 +94,7 @@
 :wd:u_nde_quadra_ginta_	numeral
 
 :le:undequinquaginta
-:wd:u_ndequi_nqua_ginta_ numeral
+:wd:u_nde_qui_nqua_ginta_ numeral
 
 :le:enim
 :wd:enimve_ro_	adverb
@@ -154,7 +154,7 @@
 :le:juvenis
 :aj:ju_ni^ or_us_comp
 
-:le:octie_s
+:le:octies
 :wd:octie_s adverb
 :wd:octiens adverb
 
@@ -184,7 +184,7 @@
 :aj:se_merm is_e
 
 :le:segnitia
-:no:segni^ti	a_ae fem
+:no:se_gni^ti	a_ae fem
 
 :le:quot
 :wd:quotanni_s adverb
@@ -211,7 +211,7 @@
 :aj:ma^ri^ti^m	us_a_um
 :aj:ma^ri^tu^m	us_a_um
 
-:le:intro_rsum
+:le:introrsum
 :wd:intro_rsum	adverb
 :wd:intro_rsus	adverb
 
@@ -1398,7 +1398,7 @@
 :le:septingenti
 :aj:septingent	us_a_um pl
 
-:le:sexa_ginta
+:le:sexaginta
 :wd:sexa_ginta_	numeral
 
 :le:si
@@ -1510,7 +1510,7 @@
 :wd:tri_cie_s	adverb
 :wd:tri_ciens	adverb
 
-:le:tri_ginta
+:le:triginta
 :wd:tri_ginta_	numeral
 
 :le:tum
@@ -1550,7 +1550,7 @@
 :wd:umquam	adverb
 :wd:unquam	adverb orth
 
-:le:u_ndecim
+:le:undecim
 :wd:u_ndecim	numeral
 
 :le:undique

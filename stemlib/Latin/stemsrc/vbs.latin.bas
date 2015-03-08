@@ -516,7 +516,7 @@
 :vb:inrita_ssit	perfstem 3rd sg perf subj act
 
 :le:intellego
-:vs:intelleg	conj3
+:vs:intelle^g	conj3
 :vs:intelli^g	conj3
 :vs:intelle_x	perfstem
 
@@ -746,9 +746,9 @@
 @ inf
 :vs:pertaes	pp4
 
+:le:pingo
 :vs:ping	conj3
 :vs:pinx perfstem
-:vs:pepig perfstem
 :vs:pict pp4
 
 :le:pleo
@@ -846,8 +846,8 @@
 :le:rego
 :vs:re^g	conj3 no_comp
 :vs:ri^g	conj3 comp_only
-:vs:re^x perfstem
-:vs:re^ct pp4
+:vs:re_x perfstem
+:vs:re_ct pp4
 
 :le:reperio
 :vs:repe^r	conj4
