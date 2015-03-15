@@ -721,6 +721,7 @@ vi_s		irreg_nom3 fem nom sg
 vi_s		irreg_nom3 fem gen sg
 vi_		irreg_nom3 fem dat sg
 vim		irreg_nom3 fem acc sg
+vi_		irreg_nom3 fem abl sg
 vi_r@decl3_i	irreg_nom3 fem pl
 
 :le:vulgus

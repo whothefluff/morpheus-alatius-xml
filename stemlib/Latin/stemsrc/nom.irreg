@@ -1248,6 +1248,7 @@
 :wd:vi_s   irreg_nom3 fem gen sg
 :wd:vi_   irreg_nom3 fem dat sg
 :wd:vim   irreg_nom3 fem acc sg
+:wd:vi_   irreg_nom3 fem abl sg
 :wd:vi_re_s   irreg_nom3 fem nom/voc pl
 :wd:vi_rium   irreg_nom3 fem gen pl
 :wd:vi_ribus   irreg_nom3 fem dat pl

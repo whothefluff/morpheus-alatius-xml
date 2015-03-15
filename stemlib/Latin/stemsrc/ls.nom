@@ -35583,6 +35583,9 @@ certim
 
 
 certo_		<orth>certe_</orth>
+:le:certo#1
+:wd:certo_	adverb
+
 ce^ru_chi		
 :le:ceruchi
 :no:ce^ru_ch	us_i masc pl
@@ -74479,8 +74482,8 @@ fe_-li_ne^us
 fe_lix#1		
 :le:felix#1
 :aj:fe_l	ix_adj
-:wd:fe_lici	ix_adj abl sg masc fem neut
-:wd:fe_licia	ix_adj neut nom voc acc pl
+:wd:fe_li_ci_	ix_adj abl sg masc fem neut
+:wd:fe_li_cia	ix_adj neut nom voc acc pl
 
 
 Felix		<orth>fe_li_ci^ter</orth>
@@ -92537,6 +92540,9 @@ inme^ri^-tum
 
 	<pos>adv.</pos>
 imme^ri^to		<orth type=alt>inm-</orth>
+:le:immerito
+:wd:imme^ri^to_	adverb
+
 immersa_bi^lis		<orth type=alt>inm-</orth>	
 :le:immersabilis
 :aj:immersa_bi^l	is_e
@@ -123887,6 +123893,9 @@ me^ri^tum
 
 
 me^ri^to_		<orth>meritissime</orth>
+:le:merito
+:wd:me^ri^to_	adverb
+
 me^re^tri_ca_bi^lis		
 :le:meretricabilis
 :aj:me^re^tri_ca_bi^l	is_e
@@ -132554,6 +132563,9 @@ ne^cessa_ri^a
 
 	<pos>adv.</pos>
 ne^cessa_ri^e_		<orth type=alt>rare</orth>	<orth>ne^cessa_ri^o_</orth>
+:le:necessario
+:wd:ne^cessa_ri^o_	adverb
+
 ne^cesse		<orth>ne^cessum</orth>	<orth>necessus</orth>
 ne^cessi^tas		
 :le:necessitas
@@ -152571,6 +152583,9 @@ perpe^tu^um
 
 	<pos>adv.</pos>
 perpe^tu^o_		<orth>perpe^tu^um</orth>	<orth>perpe^tu^e_</orth>
+:le:perpetuo#1
+:wd:perpe^tu^o_	adverb
+
 per-pexus		
 :le:perpexus
 :aj:per-pex	us_a_um
@@ -173227,6 +173242,9 @@ ra_rus
 
 	<pos>adv.</pos>	<itype>Hence</itype>	<pos>adv.</pos>
 ra_ro_		<orth>ra_re_</orth>	<orth>ra_renter</orth>	<orth>ra_ri^ter</orth>
+:le:raro
+:wd:ra_ro_	adverb
+
 ra_sa_men		
 :le:rasamen
 :no:ra_sa_	men_minis neut
@@ -184530,6 +184548,9 @@ se_du^lus
 
 
 se_du^lo_		<orth>se_du^le_</orth>
+:le:sedulo
+:wd:se_du^lo_	adverb
+
 se^dum#2		
 :le:sedum#2
 :no:se^d	us_i neut
@@ -187196,6 +187217,9 @@ se_rum
 
 	<pos>adv.</pos>
 se_ra^		<orth>se_rum</orth>	<orth>se_ro_^</orth>
+:le:sero#4
+:wd:se_ro_	adverb
+
 serva_bi^lis		
 :le:servabilis
 :aj:serva_bi^l	is_e
@@ -216739,6 +216763,9 @@ ve_rum
 
 
 ve_rum		<orth>ve_ro_</orth>	<orth>ve_re_</orth>
+:le:vero#1
+:wd:ve_ro_		adverb
+
 ve^ru_tum		<orth type=alt>verru_tum</orth>	
 :le:verutum
 :no:ve^ru_t	us_i neut
