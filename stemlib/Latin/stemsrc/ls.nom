@@ -4042,8 +4042,6 @@ Aegi^a^le_
 Aegi^a^leus		<orth type=alt>quadrisyl.</orth>	
 :le:Aegialeus
 :no:Aegi^a^l	eus_ei masc
-:no:quadrisyl	eus_ei masc orth
-
 
 
 Aegi_des		
@@ -6001,8 +5999,6 @@ a^gi^ta_tus
 A_gla_ia^		<orth type=alt>trisyl.</orth>	
 :le:Aglaia
 :no:A_gla_i	a_ae fem
-:no:trisyla_i	a_ae fem orth
-
 
 
 A_gla^i^a^		<orth>A_gla^i^e_</orth>	
@@ -36800,8 +36796,6 @@ chlora
 chlo_reus		<orth type=alt>dissyl.</orth>	
 :le:chloreus
 :no:chlo_r	eus_ei masc
-:no:dissylo_r	eus_ei masc orth
-
 
 
 chlo_ri^o_n		
@@ -89745,8 +89739,6 @@ Hy_les
 Hy^leus		<orth type=alt>dissyl.</orth>	
 :le:Hyleus
 :no:Hy^l	eus_ei masc
-:no:dissyl	eus_ei masc orth
-
 
 
 Hyllus		<orth type=alt>Hy_lus</orth>	
@@ -91372,8 +91364,6 @@ I_li^o^ne_
 I_li^o^neus		<orth type=alt>quadrisyl.</orth>	
 :le:Ilioneus
 :no:I_li^o^n	eus_ei masc
-:no:quadrisyli^o^n	eus_ei masc orth
-
 
 
 i_li^o_sus		
@@ -91389,8 +91379,6 @@ Ilipa
 I_li_thyia		<orth type=alt>quadrisyl.</orth>	
 :le:Ilithyia
 :no:I_li_thyi	a_ae fem
-:no:quadrisyli_thyi	a_ae fem orth
-
 
 
 I_li^um#1		<orth>I_li^on</orth>	
@@ -122260,8 +122248,6 @@ me^landry^um
 Me^la^neus		<orth type=alt>trisyl.</orth>	
 :le:Melaneus
 :no:Me^la^ne	us_i masc
-:no:trisyla^ne	us_i masc orth
-
 
 
 me^la^ni^a		
@@ -122313,8 +122299,6 @@ Me^lanthus
 Me^lanthe_us		<orth type=alt>quadrisyl.</orth>	
 :le:Melantheus
 :aj:Me^lanthe_	us_a_um
-:aj:quadrisylanthe_	us_a_um orth
-
 
 
 Melanti^as		
@@ -130636,8 +130620,6 @@ My_la^se^us
 My^la^seus		<orth type=alt>trisyl.</orth>	
 :le:Mylaseus
 :no:My^la^s	eus_ei masc
-:no:trisyla^s	eus_ei masc orth
-
 
 
 mylasi^a		<orth>-e^a</orth>	
@@ -134135,8 +134117,6 @@ ni^hi^li		<itype>v nihil</itype>
 Ni_leus		<orth type=alt>dissyl.</orth>	
 :le:Nileus
 :no:Ni_l	eus_ei masc
-:no:dissyl	eus_ei masc orth
-
 
 
 Ni_lidesla^cus	
@@ -158478,8 +158458,6 @@ ple_ctrum
 Ple_i+as		<orth>Ple_jas</orth>	<orth type=alt>dissyl.</orth>	<orth type=alt>Pli_^as</orth>	
 :le:Pleias
 :no:Ple_i+	as_adis fem
-:no:dissyle_i+	as_adis fem orth
-
 
 
 Ple_i^o^ne_		
@@ -160027,54 +160005,54 @@ Pompe_ja_nus
 
 
 Pompe_ji		
-le:Pompeii
+:le:Pompeii
 :no:Pompe_j	us_i masc pl
 
 
 Pompe_ja_nus		
-le:Pompeianus
+:le:Pompeianus
 :aj:Pompe_ja_n	us_a_um
 
 	<pos>Subst.</pos>
 Pom-pe_ja_num		
-le:Pompeianum
+:le:Pompeianum
 :no:Pom-pe_ja_n	us_i neut
 
 
 Pompe_ja_ni		
-le:Pompeiani
+:le:Pompeiani
 :no:Pompe_ja_n	us_i masc pl
 
 
 Pompe_jo^po^lis		
-le:Pompeiopolis
+:le:Pompeiopolis
 :no:Pompe_jo^po^l	is_is fem
 
 
 Pompe_jus		<orth type=alt>trisyl.</orth>	<orth>Pompe_i+us</orth>	<orth type=alt>quadrisyl.</orth>	
-le:Pompeius
+:le:Pompeius
 :no:Pompe_j	us_i masc
 :no:Pompe_i+	us_i masc orth
 
 
 
 Pompe_ja		
-le:Pompeia
+:le:Pompeia
 :no:Pompe_j	a_ae fem
 
 
 Pompe_jus		<orth type=alt>Pompe_i+us</orth>	
-le:Pompeius
+:le:Pompeius
 :aj:Pompe_j	us_a_um
 
 
 Pompe_ja_nus		
-le:Pompeianus
+:le:Pompeianus
 :aj:Pompe_ja_n	us_a_um
 
 
 Pompe_ja_ni		
-le:Pompeiani
+:le:Pompeiani
 :no:Pompe_ja_n	us_i masc pl
 
 
@@ -180050,8 +180028,6 @@ salmo
 Salmo_neus		<orth type=alt>trisyl.</orth>	
 :le:Salmoneus
 :no:Salmo_n	eus_ei masc
-:no:trisylmo_n	eus_ei masc orth
-
 
 
 Salmo_nis		
