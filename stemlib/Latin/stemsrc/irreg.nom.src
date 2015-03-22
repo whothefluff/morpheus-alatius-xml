@@ -123,10 +123,10 @@ ist@ille demonstr
 iter	irreg_nom3 neut nom/voc/acc sg
 itiner@decl3	irreg_nom3 neut
 
-:le:Iuppiter
-Iuppiter	irreg_nom3 masc nom voc sg
-Iupiter	irreg_nom3 masc nom voc sg
-Iov@decl3	irreg_nom3 masc sg
+:le:Juppiter
+Juppiter	irreg_nom3 masc nom voc sg
+Jupiter	irreg_nom3 masc nom voc sg
+Jov@decl3	irreg_nom3 masc sg
 
 
 :le:jus
@@ -148,9 +148,7 @@ niv@decl3_i 	irreg_nom3 fem
 :wd:hic demonstr masc nom sg
 :wd:haec demonstr fem nom sg
 :wd:hoc demonstr neut nom/acc sg
-:wd:huius	demonstr masc/fem/neut gen sg
 :wd:hujus	demonstr masc/fem/neut gen sg
-:wd:huiusce	demonstr masc/fem/neut gen sg
 :wd:hujusce	demonstr masc/fem/neut gen sg
 :wd:huic	demonstr masc/fem/neut dat sg
 :wd:huici	demonstr masc/fem/neut dat sg
@@ -239,7 +237,7 @@ ali@quis indef
 :wd:quamdam indef fem acc sg
 :wd:quandam indef fem acc sg
 :wd:qua_dam indef fem abl sg
-:wd:cuiusdam   indef masc/fem/neut gen sg
+:wd:cujusdam   indef masc/fem/neut gen sg
 :wd:cuidam   indef masc/fem/neut dat sg
 :wd:qui_dam   indef masc nom pl
 :wd:quaedam   indef fem nom pl
@@ -260,7 +258,7 @@ ali@quis indef
 :wd:quemnam indef masc acc sg
 :wd:quamnam indef fem acc sg
 :wd:qua_nam indef fem abl sg
-:wd:cuiusnam   indef masc/fem/neut gen sg
+:wd:cujusnam   indef masc/fem/neut gen sg
 :wd:cuinam   indef masc/fem/neut dat sg
 :wd:qui_nam   indef masc nom pl
 :wd:quaenam   indef fem nom pl
@@ -281,7 +279,7 @@ ali@quis indef
 :wd:quemque indef masc acc sg
 :wd:quamque indef fem acc sg
 :wd:qua_que indef fem abl sg
-:wd:cuiusque   indef masc/fem/neut gen sg
+:wd:cujusque   indef masc/fem/neut gen sg
 :wd:cuique   indef masc/fem/neut dat sg
 :wd:qui_que   indef masc nom pl
 :wd:quaeque   indef fem nom pl
@@ -310,7 +308,7 @@ ali@quis indef
 :wd:quancumque indef fem acc sg
 :wd:quo_cumque indef masc neut abl sg
 :wd:qua_cumque indef fem abl sg
-:wd:cuiuscumque   indef masc/fem/neut gen sg
+:wd:cujuscumque   indef masc/fem/neut gen sg
 :wd:cuicumque   indef masc/fem/neut dat sg
 :wd:qui_cumque   indef masc nom pl
 :wd:quaecumque   indef fem nom pl
@@ -331,7 +329,7 @@ ali@quis indef
 :wd:quamcunque indef fem acc sg
 :wd:quancunque indef fem acc sg
 :wd:qua_cunque indef fem abl sg
-:wd:cuiuscunque   indef masc/fem/neut gen sg
+:wd:cujuscunque   indef masc/fem/neut gen sg
 :wd:cuicunque   indef masc/fem/neut dat sg
 :wd:qui_cunque   indef masc nom pl
 :wd:quaecunque   indef fem nom pl
@@ -356,7 +354,7 @@ ali@quis indef
 :wd:quemvi_s indef masc acc sg
 :wd:quamvi_s indef fem acc sg
 :wd:qua_vi_s indef fem abl sg
-:wd:cuiusvi_s   indef masc/fem/neut gen sg
+:wd:cujusvi_s   indef masc/fem/neut gen sg
 :wd:cuivi_s   indef masc/fem/neut dat sg
 :wd:qui_vi_s   indef masc nom pl
 :wd:quaevi_s   indef fem nom pl
@@ -427,7 +425,7 @@ ec@quis rel_pron
 :wd:quaequam	indef fem nom sg
 :wd:quidquam	indef neut nom/acc sg
 :wd:quicquam	indef neut nom/acc sg
-:wd:cuiusquam	indef masc fem neut gen sg
+:wd:cujusquam	indef masc fem neut gen sg
 :wd:quemquam	indef masc acc sg
 :wd:quamquam	indef fem acc sg
 :wd:quibusam	indef masc fem neut abl/dat pl
@@ -488,7 +486,6 @@ ips@ille demonstr
 
 :le:is
 e@decl1 pron3 fem nom sg
-eius	pron3 masc fem neut gen sg
 ejus	pron3 masc fem neut gen sg
 ei_	pron3 masc fem neut dat sg
 e@decl1 pron3 fem acc sg
@@ -507,7 +504,6 @@ e@decl2 pron3 masc neut pl
 :wd:i_dem 	pron3 masc nom sg
 :wd:idem 	pron3 neut nom/acc sg
 :wd:eadem	pron3 fem nom sg
-:wd:eiusdem	pron3 masc/fem/neut gen sg
 :wd:ejusdem	pron3 masc/fem/neut gen sg
 :wd:eo_dem	pron3 masc/fem/neut dat sg
 :wd:eundem	pron3 masc acc sg

@@ -1,23 +1,23 @@
 
 :le:aio
-:vb:a_io   irreg_pp1 pres ind act 1st sg
+:vb:ajo   irreg_pp1 pres ind act 1st sg
 :vb:a^is   irreg_pp1 pres ind act 2nd sg
 :vb:a^it   irreg_pp1 pres ind act 3rd sg
-:vb:aiunt   irreg_pp1 pres ind act 3rd pl
-:vb:a^ias   irreg_pp1 pres subj act 2nd sg
-:vb:a^iat   irreg_pp1 pres subj act 3rd sg
-:vb:aiant   irreg_pp1 pres subj act 3rd pl
-:vb:aiebam   irreg_pp1 imperf ind act 1st sg
+:vb:ajunt   irreg_pp1 pres ind act 3rd pl
+:vb:aja_s   irreg_pp1 pres subj act 2nd sg
+:vb:ajat   irreg_pp1 pres subj act 3rd sg
+:vb:ajant   irreg_pp1 pres subj act 3rd pl
+:vb:aje_bam   irreg_pp1 imperf ind act 1st sg
 :vb:aibam   irreg_pp1 imperf ind act 1st sg early
-:vb:aieba_s   irreg_pp1 imperf ind act 2nd sg
+:vb:aje_ba_s   irreg_pp1 imperf ind act 2nd sg
 :vb:aiba_s   irreg_pp1 imperf ind act 2nd sg early
-:vb:aiebat   irreg_pp1 imperf ind act 3rd sg
+:vb:aje_bat   irreg_pp1 imperf ind act 3rd sg
 :vb:aibat   irreg_pp1 imperf ind act 3rd sg early
-:vb:aieba_mus   irreg_pp1 imperf ind act 1st pl
+:vb:aje_ba_mus   irreg_pp1 imperf ind act 1st pl
 :vb:aiba_mus   irreg_pp1 imperf ind act 1st pl early
-:vb:aieba_tis   irreg_pp1 imperf ind act 2nd pl
+:vb:aje_ba_tis   irreg_pp1 imperf ind act 2nd pl
 :vb:aiba_tis   irreg_pp1 imperf ind act 2nd pl early
-:vb:aiebant   irreg_pp1 imperf ind act 3rd pl
+:vb:aje_bant   irreg_pp1 imperf ind act 3rd pl
 :vb:aibant   irreg_pp1 imperf ind act 3rd pl early
 
 :le:eo#1

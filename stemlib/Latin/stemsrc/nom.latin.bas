@@ -579,7 +579,7 @@
 
 :le:disjunctio
 :aj:disjuncti	o_oLnis fem
-:aj:diiuncti	o_oLnis fem
+:aj:di_juncti	o_oLnis fem
 
 :le:diu
 :wd:di^u_tius       adverb comp

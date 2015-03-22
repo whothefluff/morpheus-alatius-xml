@@ -1553,7 +1553,7 @@
 :le:badisso
 :de:ba^diss	are_vb
 :le:bajulo
-:de:ba_ju^l	are_vb
+:de:baju^l	are_vb
 :le:balbutio
 :de:balbu_t	ire_vb
 :le:ballo
@@ -1683,7 +1683,7 @@
 :le:caerimonior
 :de:caeri^mo_ni	are_vb dep
 :le:caio
-:de:ca_i	are_vb
+:de:caj	are_vb
 :le:calceo
 :de:calc	are_vb
 :le:calcitro#1
@@ -2567,7 +2567,7 @@
 :le:commeditor
 :de:com-me^di^t	are_vb dep
 :le:commejo
-:de:comme_j	are_vb
+:de:commej	are_vb
 :le:commeleto
 :de:com-me^le^t	are_vb
 :le:commemoro
@@ -4223,7 +4223,8 @@
 :vs:de^-ha^b	conj2
 :le:dehaurio
 :vs:de^-haur	conj4
-:vs:de^-haurlike perfstem
+:vs:de^-haus perfstem
+:vs:de^-haust pp4
 :le:dehonesto
 :de:de^-ho^nest	are_vb
 :le:dehonoro
@@ -5136,11 +5137,11 @@
 :de:disject	are_vb
 :le:disjungo
 :vs:dis-jung	conj3
-:vs:diiung	conj3
+:vs:dijung	conj3
 :vs:dis-junx perfstem
-:vs:diiunx perfstem
+:vs:dijunx perfstem
 :vs:dis-junct pp4
-:vs:diiunct pp4
+:vs:dijunct pp4
 :le:dispalesco
 :vs:dispa_le_sc	conj3
 :le:dispalor
@@ -5616,16 +5617,15 @@
 :le:ejecto
 :de:e_ject	are_vb
 :le:ejulito
-:de:e_ju^li^t	are_vb
+:de:eju^li^t	are_vb
 :le:ejulo
-:de:e_ju^l	are_vb
+:de:eju^l	are_vb
 :le:hejulor
 :de:hejul	are_vb dep
 :le:ejuncesco
 :vs:e_-junce_sc	conj3
 :le:ejuro
-:vs:e_-ju_r	conj1
-:vs:e_-ju_rlike perfstem
+:vs:e_-ju_r	are_vb
 :le:elaboro
 :de:e_-la^bo_r	are_vb
 :le:elambo
@@ -7566,7 +7566,7 @@
 :le:immaneo
 :vs:imma^n	conj2
 :le:immeio
-:vs:imme_i	conj3
+:vs:immej	conj3
 :le:immendo
 :de:immend	are_vb
 :le:immeo
@@ -9194,7 +9194,7 @@
 :le:jaculor
 :de:ja^cu^l	are_vb dep
 :le:jejuno
-:de:je_ju_n	are_vb
+:de:jeju_n	are_vb
 :le:jento
 :de:jent	are_vb
 :le:jocor
@@ -9766,7 +9766,7 @@
 :le:medullo
 :de:me^dull	are_vb
 :le:meio
-:vs:me_i	conj3
+:vs:mej	conj3
 :le:melioresco
 :vs:me^li^o_re_sc	conj3
 :le:melioro
@@ -11095,7 +11095,7 @@
 :le:perjuro
 :de:perju_r	are_vb
 :le:pejoro
-:de:pe_jo_r	are_vb
+:de:pejo_r	are_vb
 :le:pellicio
 :vs:pel-li^c	conj3_io
 :vs:per-li^c	conj3_io
@@ -13987,7 +13987,7 @@
 :le:reitero
 :de:re^-i^te^r	are_vb
 :le:rejecto
-:de:re_ject	are_vb
+:de:reject	are_vb
 :le:relabor
 :vs:re^-la_b	conj3
 :vs:re^-la_ps pp4
@@ -15836,7 +15836,7 @@
 :le:summano
 :de:summa_n	are_vb
 :le:summejo
-:vs:sum-me_j	conj3
+:vs:sum-mej	conj3
 :le:summergo
 :vs:sum-merg	conj3
 :vs:sum-mers perfstem

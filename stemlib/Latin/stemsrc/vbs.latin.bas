@@ -31,10 +31,11 @@
 
 :le:disicio
 :vs:disic	conj3_io
-:vs:disie_c	perfstem
-:vs:diiie_c	perfstem
-:vs:disiect	pp4
-:vs:diiect	pp4
+:vs:disje_c	perfstem
+:vs:dije_c	perfstem
+:vs:dijje_c	perfstem
+:vs:disject	pp4
+:vs:diject	pp4
 
 :le:aspergo1
 :vs:asperg	conj3
