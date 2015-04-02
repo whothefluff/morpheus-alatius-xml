@@ -203,8 +203,7 @@
 :vs:caut pp4
 
 :le:celebro
-:de:cele_br	are_vb
-:de:celebr	are_vb
+:de:cele_^br	are_vb
 
 :le:censeo#1
 :vs:cens	conj2
@@ -373,7 +372,7 @@
 :vs:ex-stinct	perfstem
 :vs:ex-tinct	perfstem
 :vb:extinxem	perfstem 1st sg plup subj act contr
-:vb:exstinxti	perfstem 2nd sg perf ind act contr
+:vb:exstinxti_	perfstem 2nd sg perf ind act contr
 
 :le:implico
 :de:implic	are_vb
@@ -509,12 +508,12 @@
 :vb:inquito_	irreg_pp1	2nd sg fut imperat act 
 
 :le:irrito#1
-:de:ir-rit	are_vb
-:de:inrit	are_vb 
-:vb:irrita_ssis	perfstem 2nd sg perf subj act
-:vb:irrita_ssit	perfstem 3rd sg perf subj act
-:vb:inrita_ssis	perfstem 2nd sg perf subj act
-:vb:inrita_ssit	perfstem 3rd sg perf subj act
+:de:ir-ri_t	are_vb
+:de:inri_t	are_vb 
+:vb:irri_ta_ssis	perfstem 2nd sg perf subj act
+:vb:irri_ta_ssit	perfstem 3rd sg perf subj act
+:vb:inri_ta_ssis	perfstem 2nd sg perf subj act
+:vb:inri_ta_ssit	perfstem 3rd sg perf subj act
 
 :le:intellego
 :vs:intelle^g	conj3
@@ -593,7 +592,7 @@
 :vs:micu	perfstem
 
 :le:morior
-:vs:mo^r	conj4 dep
+:vs:mo^r	conj4 dep early
 :vs:mo^rit	pp4 fut part
 :vs:mo^rtu	pp4 perf dep
 
@@ -772,7 +771,7 @@
 :vs:plic	conj1
 :vs:plicu	perfstem comp_only
 :vs:plicit	pp4 comp_only
-:vs:plicat	pp4 comp_only
+:vs:plica_t	pp4 comp_only
 
 :le:possideo
 :vs:possi^d	conj2
@@ -1132,7 +1131,7 @@
 :le:vivo
 :vs:vi_v	conj3
 :vs:vi_x perfstem
-:vs:vict pp4
+:vs:vi_ct pp4
 
 :le:volvo
 :vs:volv	conj3

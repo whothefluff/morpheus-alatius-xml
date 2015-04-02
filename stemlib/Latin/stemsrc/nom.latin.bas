@@ -993,7 +993,7 @@
 :wd:ne_	conj
 
 :le:Neapolis
-:no:Neapol	is_is fem
+:no:Nea_pol	is_is fem
 
 :le:nempe
 :wd:nempe 	conj
@@ -1110,7 +1110,7 @@
 :le:dispar
 :aj:dis-par		0_adj3
 
-:le:parens
+:le:parens#2
 :no:par	ens_entis masc fem
 
 :le:pars
@@ -1205,7 +1205,7 @@
 :le:posterus
 :aj:poster	us_a_um no_comp
 :aj:poster	us_a_um comp
-:aj:postrem	us_a_um irreg_superl
+:aj:postre_m	us_a_um irreg_superl
 
 :le:postquam
 :wd:postquam	conj

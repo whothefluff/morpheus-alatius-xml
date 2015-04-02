@@ -207,7 +207,7 @@ dis-periend@decl2	irreg_pp1 gerundive masc neut early
 
 :vs:aufer	conj3 gerundive
 :vs:aufe^r conj3 imperf ind
-auferr@emsub	irreg_pp1 imperf
+auferr@emsub	irreg_pp1 imperf subj act
 :vs:aufe^r conj3 fut
 :vs:aufe^r conj3 subj pres
 :vs:auferr conj3 subj imperf
@@ -250,7 +250,7 @@ auferr@emsub	irreg_pp1 imperf
 
 :vs:fer	conj3 gerundive
 :vs:fe^r conj3 imperf ind
-ferr@emsub	irreg_pp1 imperf
+ferr@emsub	irreg_pp1 imperf subj act
 :vs:fe^r conj3 fut
 :vs:fe^r conj3 subj pres
 :vs:ferr conj3 subj imperf
@@ -292,7 +292,7 @@ ferr@emsub	irreg_pp1 imperf
 
 :vs:re^fer	conj3 gerundive
 :vs:re^fe^r conj3 imperf ind
-referr@emsub	irreg_pp1 imperf
+referr@emsub	irreg_pp1 imperf subj act
 :vs:re^fe^r conj3 fut
 :vs:re^fe^r conj3 subj pres
 :vs:re^ferr conj3 subj imperf

@@ -203,7 +203,7 @@
 :vs:ac-ci_s pp4
 :le:accido#2
 :vs:ac-ci^d	conj3
-:vs:ac-ci_d perfstem
+:vs:ac-ci^d perfstem
 :le:accieo
 :vs:ac-ci^	conj2
 :le:accingo
@@ -297,8 +297,8 @@
 :vs:ac-qui^e_t pp4
 :le:acquiro
 :vs:ac-qui_r	conj3
-:vs:ac-si_v perfstem
-:vs:ac-si_t pp4
+:vs:ac-qui_si_v perfstem
+:vs:ac-qui_si_t pp4
 :le:actito
 :de:a_cti^t	are_vb
 :le:acumino
@@ -748,6 +748,11 @@
 :de:albi^c	are_vb
 :le:alesco
 :vs:a^le_sc	conj3
+:le:algeo
+:vs:alg	conj2
+:vs:als perfstem
+:le:algesco
+:vs:alge_sc	conj3
 :le:alieno
 :de:a^li^e_n	are_vb
 :le:allabor
@@ -1840,7 +1845,8 @@
 :le:cavefacio
 :vs:ca^ve^fa^c	conj3_io
 :le:caveo
-:vs:ca^v	conj3
+:vs:ca^v	conj2
+:vb:ca^ve^	irreg_pp1 2nd sg pres imperat act
 :vs:ca_v perfstem
 :vs:caut pp4
 :le:caverno
@@ -3232,9 +3238,9 @@
 :de:con-gy_r	are_vb
 :le:conicio
 :vs:co_ni^c	conj3_io
-:vs:co_nji^c	conj3_io
-:vs:co_nje_c perfstem
-:vs:co_nject pp4
+:vs:conji^c	conj3_io
+:vs:conje_c perfstem
+:vs:conject pp4
 :le:conitor
 :vs:co_-ni_t	conj3
 :le:conjaceo
@@ -6480,8 +6486,8 @@
 :de:ex-pu^t	are_vb
 :le:exquiro
 :vs:ex-qui_r	conj3
-:vs:ex-si_v perfstem
-:vs:ex-si_t pp4
+:vs:ex-qui_si_v perfstem
+:vs:ex-qui_si_t pp4
 :le:exsacrifico
 :de:ex-sa_^cri^fi^c	are_vb
 :le:exsaevio
@@ -8346,8 +8352,8 @@
 :de:inqui^n	are_vb
 :le:inquiro
 :vs:inqui_r	conj3
-:vs:insi_v perfstem
-:vs:insi_t pp4
+:vs:inqui_si_v perfstem
+:vs:inqui_si_t pp4
 :le:insaevio
 :de:in-saev	ire_vb
 :le:insanio
@@ -10047,6 +10053,8 @@
 :de:mu_ni_t	are_vb
 :le:murmurillo
 :de:murmu^rill	are_vb
+:le:murmuro
+:de:murmu^r	are_vb
 :le:murmuror
 :de:murmu^r	are_vb dep
 :le:muro
@@ -10162,6 +10170,7 @@
 :de:ni_^gr	are_vb
 :le:ningo
 :vs:ning	conj3
+:vs:ninx perfstem
 :le:nitefacio
 :vs:ni^te^fa^c	conj3_io
 :vs:ni^te^fe_c perfstem
@@ -10319,9 +10328,9 @@
 :de:o^b-hu^m	are_vb
 :le:obicio
 :vs:o_bi^c	conj3_io
-:vs:o_bji^c conj3_io
-:vs:o_bje_c perfstem
-:vs:o_bject pp4
+:vs:obji^c conj3_io
+:vs:obje_c perfstem
+:vs:object pp4
 :le:obigito
 :de:ob-i^gi^t	are_vb
 :le:objaceo
@@ -11673,8 +11682,8 @@
 :vs:per-qui^e_sc	conj3
 :le:perquiro
 :vs:per-qui_r	conj3
-:vs:per-si_v perfstem
-:vs:per-si_t pp4
+:vs:per-qui_si_v perfstem
+:vs:per-qui_si_t pp4
 :le:perrepo
 :vs:per-re_p	conj3
 :vs:per-re_ps perfstem
@@ -14192,7 +14201,6 @@
 :vs:re^-percuss pp4
 :le:repeto
 :vs:re^-pe^t	conj3
-:vs:re^-pe^t	conj2
 :vs:re^-pe^ti_v perfstem
 :vs:re^-pe^ti^ perfstem
 :vs:re^-pe^ti_t pp4
@@ -14286,9 +14294,9 @@
 :de:re^qui_ri^t	are_vb
 :le:requiro
 :vs:re^-qui_r	conj3
-:vs:re^-si_v perfstem
-:vs:re^-si perfstem
-:vs:re^-si_t pp4
+:vs:re^-qui_si_v perfstem
+:vs:re^-qui_si perfstem
+:vs:re^-qui_si_t pp4
 :le:resaevio
 :de:re^-saev	ire_vb
 :le:resaluto
@@ -15398,9 +15406,9 @@
 :vs:su^b-horre_sc	conj3
 :le:subicio
 :vs:su_b-i^c	conj3_io
-:vs:su_b-ji^c	conj3_io
-:vs:su_b-je_c perfstem
-:vs:su_b-ject pp4
+:vs:sub-ji^c	conj3_io
+:vs:sub-je_c perfstem
+:vs:sub-ject pp4
 :le:subigito
 :de:su^bi^gi^t	are_vb
 :le:subigo

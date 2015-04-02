@@ -5707,7 +5707,7 @@ Afri^ca_nae
 
 Afri^ca_-nus		<orth>Afri^cus</orth>	
 :le:Africanus
-:aj:Afri^ca_-n	us_a_um
+:aj:A_fri^ca_-n	us_a_um
 :aj:A_fri^c	us_a_um orth
 
 
@@ -48343,7 +48343,7 @@ co^qui_na_ris
 co^qui_na_to_ri^us		<orth type=alt>co^ci_-</orth>	
 :le:coquinatorius
 :aj:co^qui_na_to_r	ius_ia_ium
-:aj:co^ci__na_to_r	ius_ia_ium orth
+:aj:co^ci_na_to_r	ius_ia_ium orth
 
 
 
@@ -74880,14 +74880,14 @@ ferrum
 ferru_men		<orth type=alt>fe_ru_-</orth>	
 :le:ferrumen
 :no:ferru_	men_minis neut
-:no:fe_ru__	men_minis neut orth
+:no:fe_ru_	men_minis neut orth
 
 
 
 ferru_mi^na_ti^o		<orth type=alt>fe_ru_-</orth>	
 :le:ferruminatio
 :no:ferru_mi^na_ti^	o_oLnis fem
-:no:fe_ru__mi^na_ti^	o_oLnis fem orth
+:no:fe_ru_mi^na_ti^	o_oLnis fem orth
 
 
 
@@ -94141,9 +94141,9 @@ impre^ti^a_bi^lis		<orth type=alt>inp-</orth>
 
 impri_mis		<orth type=alt>inpr-</orth>	
 :le:imprimis
-:wd:impri_mis	adverb
+:wd:impri_mi_s	adverb
 
-:wd:inpri_mis	adverb orth
+:wd:inpri_mi_s	adverb orth
 
 
 impresse_		
@@ -94153,9 +94153,9 @@ impresse_
 
 imprinci^pa_li^ter		<orth type=alt>inpr-</orth>	
 :le:imprincipaliter
-:wd:imprinci^pa_li^ter	adverb
+:wd:impri_nci^pa_li^ter	adverb
 
-:wd:inprinci^pa_li^ter	adverb orth
+:wd:inpri_nci^pa_li^ter	adverb orth
 
 
 impro^ba_bi^lis		<orth type=alt>inpr-</orth>	
@@ -105703,7 +105703,7 @@ Isthmi^a^cus		<orth type=alt>Isth-mi^cus</orth>
 istic#1		<orth>isthic</orth>	<itype>aec, oc, and uc</itype>
 istic#2		<orth>isti</orth>	
 :le:istic#2
-:wd:istic	adverb
+:wd:isti_c	adverb
 
 
 istim		
@@ -105724,12 +105724,12 @@ isto_
 
 istoc		
 :le:istoc
-:wd:istoc	adverb
+:wd:isto_c	adverb
 
 
 istorsum		
 :le:istorsum
-:wd:istorsum	adverb
+:wd:isto_rsum	adverb
 
 
 Istri		<orth type=alt>Histri</orth>	
@@ -105760,7 +105760,7 @@ Istrus		<orth type=alt>Hist-</orth>
 
 istuc		
 :le:istuc
-:wd:istuc	adverb
+:wd:istu_c	adverb
 
 
 Isty^aeo^nes		
@@ -113610,7 +113610,7 @@ li_ne^a_li^ter
 li_ne^a_mentum		<orth type=alt>li_ni^a_-</orth>	
 :le:lineamentum
 :no:li_ne^a_ment	us_i neut
-:no:li_ni^a__ment	us_i neut orth
+:no:li_ni^a_ment	us_i neut orth
 
 
 
@@ -115817,8 +115817,6 @@ Lugdu_nensis
 lu_gu_^bris		<orth>lu_gu_bris</orth>	
 :le:lugubris
 :aj:lu_gu_^br	is_e
-:aj:lu_gu_br	is_e orth
-
 
 
 lu_gu_^bri^a		
@@ -118746,7 +118744,7 @@ maltha
 Malthi_nus		<orth>Malti_-</orth>	
 :le:Malthinus
 :no:Malthi_n	us_i masc
-:no:Malti__n	us_i masc orth
+:no:Malti_n	us_i masc orth
 
 
 
@@ -125194,15 +125192,6 @@ mi_li^a_ri^i		<orth type=alt>mill-</orth>
 mi^li^a_ri^us#2		<orth type=alt>mill-</orth>	
 :le:miliarius#2
 :aj:mi^li^a_r	ius_ia_ium
-:aj:mi_lli^a_r	ius_ia_ium orth
-
-
-
-mi^li^a_ri^um		<orth type=alt>mill-</orth>	
-:le:miliarium
-:no:mi^li^a_r	ius_i neut
-:no:mi_lli^a_r	ius_i neut orth
-
 
 
 Mi_li^chus		<orth type=alt>Mi_licus</orth>	
@@ -125270,36 +125259,36 @@ mi^li^um
 mille		<orth>mi_lia</orth>	<pos>num. adj.</pos>
 mille^formis		<orth type=alt>milli^formis</orth>	
 :le:milleformis
-:aj:m_ille^fo_rm	is_e
+:aj:mi_lle^fo_rm	is_e
 
 
 mille_na_ri^us		
 :le:millenarius
-:aj:m_ille_na_r	ius_ia_ium
+:aj:mi_lle_na_r	ius_ia_ium
 
 
 mille_ni		<itype>ae, a</itype>
 mille^pe^da		
 :le:millepeda
-:no:m_ille^pe^d	a_ae fem
+:no:mi_lle^pe^d	a_ae fem
 
 
 mille_si^mus		<orth type=alt>-lensimus</orth>	
 :le:millesimus
-:aj:m_ille_si^m	us_a_um
+:aj:mi_lle_si^m	us_a_um
 
 	<pos>adv.</pos>
 mille_si^mum	
 milli^es		<orth>mi_li^es</orth>	<orth>milliens</orth>	<orth>mi-liens</orth>	
 :le:millies
-:wd:m_illi^e_s	adverb
+:wd:mi_lli^e_s	adverb
 
-:wd:mi-liens	adverb orth
+:wd:mi_-liens	adverb orth
 
 
 milli^mo^dus		
 :le:millimodus
-:aj:m_illi^mo^d	us_a_um
+:aj:mi_lli^mo^d	us_a_um
 
 
 milli^o		
@@ -146530,7 +146519,7 @@ pa^renti^ci_da
 
 
 pa_rens		
-:le:parens
+:le:parens#1
 :no:pa_r	ens_entis masc fem
 
 
@@ -161294,7 +161283,7 @@ post-partor
 
 post-princi^pi^a		
 :le:postprincipia
-:no:post-princi^pi^	us_i neut pl
+:no:post-pri_nci^pi^	us_i neut pl
 
 
 postquam		<orth>posquam</orth>	<orth>post quam</orth>
@@ -164846,7 +164835,7 @@ pri_ma
 
 impri-mis		
 :le:imprimis
-:wd:impri-mis	adverb
+:wd:impri_mi_s	adverb
 
 
 pri_mo_		<orth>pri_mum</orth>	<orth>pri-mumdum</orth>	
@@ -164859,47 +164848,47 @@ princeps#1		<itype>ci^pis</itype>	<pos>adj.</pos>
 princeps		<itype>ci^pis</itype>	<gen>m.</gen>
 princi^pes		
 :le:principes
-:no:princi^p	0_is masc pl
+:no:pri_nci^p	0_is masc pl
 
 
 Princeps#2		<itype>ci^pis</itype>	<gen>m.</gen>
 princi^pa_lis		
 :le:principalis
-:aj:princi^pa_l	is_e
+:aj:pri_nci^pa_l	is_e
 
 
 princi^pa_lis		
 :le:principalis
-:no:princi^pa_l	is_is masc
+:no:pri_nci^pa_l	is_is masc
 
 
 princi^pa_li^ter	
 :le:principaliter
-:wd:princi^pa_li^ter		adverb
+:wd:pri_nci^pa_li^ter		adverb
 
 princi^pa_li^tas		
 :le:principalitas
-:no:princi^pa_li^	tas_tatis fem
+:no:pri_nci^pa_li^	tas_tatis fem
 
 
 princi^pa_tus		
 :le:principatus
-:no:princi^pa_t	us_us masc
+:no:pri_nci^pa_t	us_us masc
 
 
 princi^pi^a_lis		
 :le:principialis
-:aj:princi^pi^a_l	is_e
+:aj:pri_nci^pi^a_l	is_e
 
 
 princi^pi^um		
 :le:principium
-:no:princi^p	ius_i neut
+:no:pri_nci^p	ius_i neut
 
 
 princi^pi^a		
 :le:principia
-:no:princi^pi^	us_i neut pl
+:no:pri_nci^pi^	us_i neut pl
 
 
 pri_nus		
@@ -169151,7 +169140,7 @@ pu^gilla_tor
 pu^gilla_to_ri^us		<orth type=alt>pu^gila_-</orth>	
 :le:pugillatorius
 :aj:pu^gilla_to_r	ius_ia_ium
-:aj:pu^gila__to_r	ius_ia_ium orth
+:aj:pu^gila_to_r	ius_ia_ium orth
 
 
 
@@ -172313,123 +172302,123 @@ quinqui^fi^dus
 
 quinta^de^ci^ma_ni		
 :le:quintadecimani
-:no:quinta^de^ci^ma_n	us_i masc pl
+:no:qui_nta^de^ci^ma_n	us_i masc pl
 
 
 quinta_nus		
 :le:quintanus
-:aj:quinta_n	us_a_um
+:aj:qui_nta_n	us_a_um
 
 
 quinta_na		
 :le:quintana
-:no:quinta_n	a_ae fem
+:no:qui_nta_n	a_ae fem
 
 
 quin-ta_ni		
 :le:quintani
-:no:quin-ta_n	us_i masc pl
+:no:qui_n-ta_n	us_i masc pl
 
 
 quinta_ri^us		
 :le:quintarius
-:aj:quinta_r	ius_ia_ium
+:aj:qui_nta_r	ius_ia_ium
 
 
 Quinti^a_nus		<orth type=alt>Quinct-</orth>	
 :le:Quintianus
-:aj:Quinti^a_n	us_a_um
-:aj:Quincti^a_n	us_a_um orth
+:aj:Qui_nti^a_n	us_a_um
+:aj:Qui_ncti^a_n	us_a_um orth
 
 
 
 quinti^ceps		
 :le:quinticeps
-:aj:quinti^c	eps_ipitis masc fem neut
+:aj:qui_nti^c	eps_ipitis masc fem neut
 
 
 Quinti^li^a_nus#1		<orth type=alt>Quinct-</orth>	
 :le:Quintilianus
-:no:Quinti^li^a_n	us_i masc
-:no:Quincti^li^a_n	us_i masc orth
+:no:Qui_nti^li^a_n	us_i masc
+:no:Qui_ncti^li^a_n	us_i masc orth
 
 
 
 Quinti_lis		<orth type=alt>Quinct-</orth>	
 :le:Quintilis
-:no:Quinti_l	is_is masc
-:no:Quincti_l	is_is masc orth
+:no:Qui_nti_l	is_is masc
+:no:Qui_ncti_l	is_is masc orth
 
 
 
 Quinti^li^us		<orth type=alt>Quinct-</orth>	
 :le:Quintilius
-:no:Quinti^l	ius_i masc
-:no:Quincti^l	ius_i masc orth
+:no:Qui_nti^l	ius_i masc
+:no:Qui_ncti^l	ius_i masc orth
 
 
 
 Quin-ti^li^a		<orth type=alt>Quinct-</orth>	
 :le:Quintilia
-:no:Quin-ti^li^	a_ae fem
-:no:Quincti^li^	a_ae fem orth
+:no:Qui_nti^li^	a_ae fem
+:no:Qui_ncti^li^	a_ae fem orth
 
 
 
 Quinti^-li^a_nus		
 :le:Quintilianus
-:aj:Quinti^-li^a_n	us_a_um
+:aj:Qui_nti^-li^a_n	us_a_um
 
 
 Quinti^por		<itype>po^ris</itype>	<gen>m.</gen>
 Quinti^us		<orth type=alt>Quinct-</orth>	
 :le:Quintius
-:no:Quint	ius_i masc
-:no:Quinct	ius_i masc orth
+:no:Qui_nt	ius_i masc
+:no:Qui_nct	ius_i masc orth
 
 
 
 Quinti^us		<orth type=alt>Quinct-</orth>	
 :le:Quintius
-:aj:Quint	ius_ia_ium
-:aj:Quinct	ius_ia_ium orth
+:aj:Qui_nt	ius_ia_ium
+:aj:Qui_nct	ius_ia_ium orth
 
 
 
 Quinti^a_nus		<orth type=alt>Quinct-</orth>	
 :le:Quintianus
-:aj:Quinti^a_n	us_a_um
-:aj:Quincti^a_n	us_a_um orth
+:aj:Qui_nti^a_n	us_a_um
+:aj:Qui_ncti^a_n	us_a_um orth
 
 
 
 quinto_		<orth>quintum</orth>
 quintuplex		
 :le:quintuplex
-:aj:quintupl	ex_icis_adj
+:aj:qui_ntupl	ex_icis_adj
 
 
 quintus#1		<orth>quinctus</orth>	
 :le:quintus#1
-:aj:quint	us_a_um
-:aj:quinct	us_a_um orth
+:aj:qui_nt	us_a_um
+:aj:qui_nct	us_a_um orth
 
 
 	<pos>num. adj.</pos>
 quintum		<orth>quinto_</orth>
 Quintus#2		
 :le:Quintus
-:no:Quint	us_i masc pers_name
+:no:Qui_nt	us_i masc pers_name
 
 
 Quinta		
 :le:Quinta
-:no:Quint	a_ae fem
+:no:Qui_nt	a_ae fem
 
 
 quintus-de^ci^mus		
 :le:quintusdecimus
-:aj:quintus-de^ci^m	us_a_um
+:aj:qui_ntus-de^ci^m	us_a_um
 
 	<pos>num. adj.</pos>
 quippe		
@@ -198636,7 +198625,7 @@ su^per-quartus
 
 su^per-quintus		
 :le:superquintus
-:aj:su^per-quint	us_a_um
+:aj:su^per-qui_nt	us_a_um
 
 
 su^per-ra_sus		
@@ -199072,8 +199061,8 @@ suppres-se_
 
 sup-princi^pa_lis		<orth type=alt>subp-</orth>	
 :le:supprincipalis
-:aj:sup-princi^pa_l	is_e
-:aj:sub-princi^pa_l	is_e orth
+:aj:sup-pri_nci^pa_l	is_e
+:aj:sub-pri_nci^pa_l	is_e orth
 
 
 
@@ -200468,15 +200457,15 @@ syre^on
 :no:syre^	os_i neut
 
 
-Sy_ri^a		<orth>Si^ri^a</orth>	<orth>Su^-ri^a</orth>	
+Sy^ri^a		<orth>Si^ri^a</orth>	<orth>Su^-ri^a</orth>	
 :le:Syria
-:no:Sy_ri^	a_ae fem
+:no:Sy^ri^	a_ae fem
 :no:Su^-ri^	a_ae fem orth
 
 
 
 Sy^ri^us		
-:le:Syrius
+:le:Syrius#1
 :aj:Sy^r	ius_ia_ium
 
 
@@ -200601,7 +200590,7 @@ Sy_ros
 
 
 Sy_ri^us		
-:le:Syrius
+:le:Syrius#2
 :aj:Sy_r	ius_ia_ium
 
 
@@ -201360,7 +201349,7 @@ Tane_tum		<orth>Tanne_tum</orth>
 Tanne_ta_ni		<orth type=alt>Tane_-</orth>	
 :le:Tannetani
 :no:Tanne_ta_n	us_i masc pl
-:no:Tane__ta_n	us_i masc pl orth
+:no:Tane_ta_n	us_i masc pl orth
 
 
 
@@ -212475,7 +212464,7 @@ u_mi^du^lus
 u_mi^dus		<orth>hu_-</orth>	
 :le:umidus
 :aj:u_mi^d	us_a_um
-:aj:hu__mi^d	us_a_um orth
+:aj:hu_mi^d	us_a_um orth
 
 
 
@@ -212653,8 +212642,8 @@ unde^
 
 unde_cente_si^mus		
 :le:undecentesimus
-:aj:unde_cente_si^m	us_a_um
-:aj:unde_centensi^m	us_a_um
+:aj:u_nde_cente_si^m	us_a_um
+:aj:u_nde_centensi^m	us_a_um
 
 	<pos>num. adj.</pos>
 unde_centum		<pos>num. adj.</pos>
@@ -212662,21 +212651,21 @@ unde^ci^es
 
 unde^ci^m		<pos>num. adj.</pos>
 :le:undecim
-:wd:unde^ci^m	numeral
+:wd:u_nde^ci^m	numeral
 
 unde^ci^mus		
 :le:undecimus
-:aj:unde^ci^m	us_a_um
+:aj:u_nde^ci^m	us_a_um
 
 	<pos>num. adj.</pos>
 unde^ci^re_mis		
 :le:undeciremis
-:no:unde^ci^re_m	is_is fem
+:no:u_nde^ci^re_m	is_is fem
 
 
 unde^cu^ma_ni		
 :le:undecumani
-:no:unde^cu^ma_n	us_i masc pl
+:no:u_nde^cu^ma_n	us_i masc pl
 
 
 unde^-cumque		<orth>unde^-cunque</orth>	
@@ -212693,7 +212682,7 @@ unde^-li^bet
 
 unde_na_ri^us		
 :le:undenarius
-:aj:unde_na_r	ius_ia_ium
+:aj:u_nde_na_r	ius_ia_ium
 
 
 un-de_ni		<itype>ae, a</itype>
@@ -212701,28 +212690,28 @@ unde_no_na_ginta		<pos>num. adj.</pos>
 unde^octo_ginta		<pos>num. adj.</pos>
 unde_quadra_ge_si^mus		
 :le:undequadragesimus
-:aj:unde_quadra_ge_si^m	us_a_um
+:aj:u_nde_quadra_ge_si^m	us_a_um
 
 	<pos>num. adj.</pos>
 unde_quadra_gies		<orth>-i^ens</orth>
 unde_quadra_ginta		<pos>num. adj.</pos>
 unde_quinqua_ge_si^mus		
 :le:undequinquagesimus
-:aj:unde_quinqua_ge_si^m	us_a_um
+:aj:u_nde_qui_nqua_ge_si^m	us_a_um
 
 	<pos>num. adj.</pos>
 unde_quinqua_ginta		<pos>num. adj.</pos>
 unde_sexa_ge_si^mus		
 :le:undesexagesimus
-:aj:unde_sexa_ge_si^m	us_a_um
+:aj:u_nde_sexa_ge_si^m	us_a_um
 
 	<pos>num. adj.</pos>
 unde_sexaginta		<pos>num. adj.</pos>
 unde_tri_ce_ni		<itype>ae, a</itype>
 unde_tri_ce_si^mus		<orth>unde_tri_ge_-si^mus</orth>	
 :le:undetricesimus
-:aj:unde_tri_ce_si^m	us_a_um
-:aj:unde_tri_ge_-si^m	us_a_um orth
+:aj:u_nde_tri_ce_si^m	us_a_um
+:aj:u_nde_tri_ge_-si^m	us_a_um orth
 
 
 	<pos>num. adj.</pos>
@@ -212730,21 +212719,21 @@ unde_tri_ginta		<pos>num. adj.</pos>
 unde_vi_ce_ni		<itype>ae, a</itype>
 unde_vi_ce_si^ma_ni		
 :le:undevicesimani
-:no:unde_vi_ce_si^ma_n	us_i masc pl
+:no:u_nde_vi_ce_si^ma_n	us_i masc pl
 
 
 unde_vi_ce_si^mus		<orth>unde_vi_ge_si^-mus</orth>	
 :le:undevicesimus
-:aj:unde_vi_ce_si^m	us_a_um
-:aj:unde_vi_censi^m	us_a_um
-:aj:unde_vi_ge_si^-m	us_a_um orth
-:aj:unde_vi_gensi^-m	us_a_um orth
+:aj:u_nde_vi_ce_si^m	us_a_um
+:aj:u_nde_vi_censi^m	us_a_um
+:aj:u_nde_vi_ge_si^-m	us_a_um orth
+:aj:u_nde_vi_gensi^-m	us_a_um orth
 
 
 
 unde_vi_ginti		<pos>num. adj.</pos>
 :le:undevigniti
-:wd:unde_vi_ginti	numeral
+:wd:u_nde_vi_ginti	numeral
 
 undi^co^la		
 :le:undicola
