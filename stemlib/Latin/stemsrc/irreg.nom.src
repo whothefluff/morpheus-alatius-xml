@@ -33,11 +33,11 @@ ali@ille irreg_nom2
 
 :le:ambo
 ambo_	numeral masc neut pl
-ambo	numeral masc neut pl
-ambo	numeral neut pl acc
+ambo_	numeral neut pl acc
 ambae	numeral	fem pl nom
-ambas	numeral	fem pl acc
-ambos	numeral	masc pl acc
+amba_s	numeral	fem pl acc
+ambo_s	numeral	masc pl acc
+ambo_	numeral	masc pl acc
 ambo_rum	irreg_adj3 masc neut gen pl
 amba_rum	irreg_adj3 fem gen pl
 ambo_bus	irreg_adj3 masc neut dat abl pl

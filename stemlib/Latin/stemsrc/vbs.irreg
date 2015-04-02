@@ -125,7 +125,7 @@
 :vb:ear   irreg_pp1 pres subj pass 1st sg comp_only
 :vb:ea_ris   irreg_pp1 pres subj pass 2nd sg comp_only
 :vb:ea_re   irreg_pp1 pres subj pass 2nd sg comp_only
-:vb:eatur   irreg_pp1 pres subj pass 3rd sg comp_only
+:vb:ea_tur   irreg_pp1 pres subj pass 3rd sg comp_only
 :vb:ea_mur   irreg_pp1 pres subj pass 1st pl comp_only
 :vb:ea_mini_   irreg_pp1 pres subj pass 2nd pl comp_only
 :vb:eantur   irreg_pp1 pres subj pass 3rd pl comp_only
@@ -136,8 +136,8 @@
 :vb:i_bitis   irreg_pp1 fut ind act 2nd pl
 :vb:i_bunt   irreg_pp1 fut ind act 3rd pl
 :vb:i_bor   irreg_pp1 fut ind pass 1st sg comp_only
-:vb:i_be_ris   irreg_pp1 fut ind pass 2nd sg comp_only
-:vb:i_be_re   irreg_pp1 fut ind pass 2nd sg comp_only
+:vb:i_beris   irreg_pp1 fut ind pass 2nd sg comp_only
+:vb:i_bere   irreg_pp1 fut ind pass 2nd sg comp_only
 :vb:i_bitur   irreg_pp1 fut ind pass 3rd sg comp_only
 :vb:i_bimur   irreg_pp1 fut ind pass 1st pl comp_only
 :vb:i_bimini_   irreg_pp1 fut ind pass 2nd pl comp_only
@@ -176,14 +176,14 @@
 :vb:i_bar   irreg_pp1 imperf ind pass 1st sg
 :vb:i_ba_ris   irreg_pp1 imperf ind pass 2nd sg
 :vb:i_ba_re   irreg_pp1 imperf ind pass 2nd sg
-:vb:i_batur   irreg_pp1 imperf ind pass 3rd sg
+:vb:i_ba_tur   irreg_pp1 imperf ind pass 3rd sg
 :vb:i_ba_mur   irreg_pp1 imperf ind pass 1st pl
 :vb:i_ba_mini_   irreg_pp1 imperf ind pass 2nd pl
 :vb:i_bantur   irreg_pp1 imperf ind pass 3rd pl
 :vb:i_rer   irreg_pp1 imperf subj pass 1st sg comp_only
 :vb:i_re_ris   irreg_pp1 imperf subj pass 2nd sg comp_only
 :vb:i_re_re   irreg_pp1 imperf subj pass 2nd sg comp_only
-:vb:i_retur   irreg_pp1 imperf subj pass 3rd sg comp_only
+:vb:i_re_tur   irreg_pp1 imperf subj pass 3rd sg comp_only
 :vb:i_re_mur   irreg_pp1 imperf subj pass 1st pl comp_only
 :vb:i_re_mini_   irreg_pp1 imperf subj pass 2nd pl comp_only
 :vb:i_rentur   irreg_pp1 imperf subj pass 3rd pl comp_only
@@ -288,7 +288,7 @@
 :vb:de_perear   irreg_pp1 pres subj pass 1st sg
 :vb:de_perea_ris   irreg_pp1 pres subj pass 2nd sg
 :vb:de_perea_re   irreg_pp1 pres subj pass 2nd sg
-:vb:de_pereatur   irreg_pp1 pres subj pass 3rd sg
+:vb:de_perea_tur   irreg_pp1 pres subj pass 3rd sg
 :vb:de_perea_mur   irreg_pp1 pres subj pass 1st pl
 :vb:de_perea_mini_   irreg_pp1 pres subj pass 2nd pl
 :vb:de_pereantur   irreg_pp1 pres subj pass 3rd pl
@@ -299,8 +299,8 @@
 :vb:de_peri_bitis   irreg_pp1 fut ind act 2nd pl
 :vb:de_peri_bunt   irreg_pp1 fut ind act 3rd pl
 :vb:de_peri_bor   irreg_pp1 fut ind pass 1st sg
-:vb:de_peri_be_ris   irreg_pp1 fut ind pass 2nd sg
-:vb:de_peri_be_re   irreg_pp1 fut ind pass 2nd sg
+:vb:de_peri_beris   irreg_pp1 fut ind pass 2nd sg
+:vb:de_peri_bere   irreg_pp1 fut ind pass 2nd sg
 :vb:de_peri_bitur   irreg_pp1 fut ind pass 3rd sg
 :vb:de_peri_bimur   irreg_pp1 fut ind pass 1st pl
 :vb:de_peri_bimini_   irreg_pp1 fut ind pass 2nd pl
@@ -332,14 +332,14 @@
 :vb:de_peri_bar   irreg_pp1 imperf ind pass 1st sg
 :vb:de_peri_ba_ris   irreg_pp1 imperf ind pass 2nd sg
 :vb:de_peri_ba_re   irreg_pp1 imperf ind pass 2nd sg
-:vb:de_peri_batur   irreg_pp1 imperf ind pass 3rd sg
+:vb:de_peri_ba_tur   irreg_pp1 imperf ind pass 3rd sg
 :vb:de_peri_ba_mur   irreg_pp1 imperf ind pass 1st pl
 :vb:de_peri_ba_mini_   irreg_pp1 imperf ind pass 2nd pl
 :vb:de_peri_bantur   irreg_pp1 imperf ind pass 3rd pl
 :vb:de_peri_rer   irreg_pp1 imperf subj pass 1st sg
 :vb:de_peri_re_ris   irreg_pp1 imperf subj pass 2nd sg
 :vb:de_peri_re_re   irreg_pp1 imperf subj pass 2nd sg
-:vb:de_peri_retur   irreg_pp1 imperf subj pass 3rd sg
+:vb:de_peri_re_tur   irreg_pp1 imperf subj pass 3rd sg
 :vb:de_peri_re_mur   irreg_pp1 imperf subj pass 1st pl
 :vb:de_peri_re_mini_   irreg_pp1 imperf subj pass 2nd pl
 :vb:de_peri_rentur   irreg_pp1 imperf subj pass 3rd pl
@@ -444,7 +444,7 @@
 :vb:disperear   irreg_pp1 pres subj pass 1st sg
 :vb:disperea_ris   irreg_pp1 pres subj pass 2nd sg
 :vb:disperea_re   irreg_pp1 pres subj pass 2nd sg
-:vb:dispereatur   irreg_pp1 pres subj pass 3rd sg
+:vb:disperea_tur   irreg_pp1 pres subj pass 3rd sg
 :vb:disperea_mur   irreg_pp1 pres subj pass 1st pl
 :vb:disperea_mini_   irreg_pp1 pres subj pass 2nd pl
 :vb:dispereantur   irreg_pp1 pres subj pass 3rd pl
@@ -455,8 +455,8 @@
 :vb:disperi_bitis   irreg_pp1 fut ind act 2nd pl
 :vb:disperi_bunt   irreg_pp1 fut ind act 3rd pl
 :vb:disperi_bor   irreg_pp1 fut ind pass 1st sg
-:vb:disperi_be_ris   irreg_pp1 fut ind pass 2nd sg
-:vb:disperi_be_re   irreg_pp1 fut ind pass 2nd sg
+:vb:disperi_beris   irreg_pp1 fut ind pass 2nd sg
+:vb:disperi_bere   irreg_pp1 fut ind pass 2nd sg
 :vb:disperi_bitur   irreg_pp1 fut ind pass 3rd sg
 :vb:disperi_bimur   irreg_pp1 fut ind pass 1st pl
 :vb:disperi_bimini_   irreg_pp1 fut ind pass 2nd pl
@@ -488,14 +488,14 @@
 :vb:disperi_bar   irreg_pp1 imperf ind pass 1st sg
 :vb:disperi_ba_ris   irreg_pp1 imperf ind pass 2nd sg
 :vb:disperi_ba_re   irreg_pp1 imperf ind pass 2nd sg
-:vb:disperi_batur   irreg_pp1 imperf ind pass 3rd sg
+:vb:disperi_ba_tur   irreg_pp1 imperf ind pass 3rd sg
 :vb:disperi_ba_mur   irreg_pp1 imperf ind pass 1st pl
 :vb:disperi_ba_mini_   irreg_pp1 imperf ind pass 2nd pl
 :vb:disperi_bantur   irreg_pp1 imperf ind pass 3rd pl
 :vb:disperi_rer   irreg_pp1 imperf subj pass 1st sg
 :vb:disperi_re_ris   irreg_pp1 imperf subj pass 2nd sg
 :vb:disperi_re_re   irreg_pp1 imperf subj pass 2nd sg
-:vb:disperi_retur   irreg_pp1 imperf subj pass 3rd sg
+:vb:disperi_re_tur   irreg_pp1 imperf subj pass 3rd sg
 :vb:disperi_re_mur   irreg_pp1 imperf subj pass 1st pl
 :vb:disperi_re_mini_   irreg_pp1 imperf subj pass 2nd pl
 :vb:disperi_rentur   irreg_pp1 imperf subj pass 3rd pl
@@ -535,19 +535,12 @@
 :vs:
 :vs:abs-tul	perfstem
 :vs:ab-lat	pp4
-:vb:auferrem   irreg_pp1 imperf act 1st sg
-:vb:auferre_s   irreg_pp1 imperf act 2nd sg
-:vb:auferret   irreg_pp1 imperf act 3rd sg
-:vb:auferre_mus   irreg_pp1 imperf act 1st pl
-:vb:auferre_tis   irreg_pp1 imperf act 2nd pl
-:vb:auferrent   irreg_pp1 imperf act 3rd pl
-:vb:auferrer   irreg_pp1 imperf pass 1st sg
-:vb:auferre_ris   irreg_pp1 imperf pass 2nd sg
-:vb:auferre_re   irreg_pp1 imperf pass 2nd sg
-:vb:auferre_tur   irreg_pp1 imperf pass 3rd sg
-:vb:auferre_mur   irreg_pp1 imperf pass 1st pl
-:vb:auferre_mini_   irreg_pp1 imperf pass 2nd pl
-:vb:auferrentur   irreg_pp1 imperf pass 3rd pl
+:vb:auferrem   irreg_pp1 imperf subj act 1st sg
+:vb:auferre_s   irreg_pp1 imperf subj act 2nd sg
+:vb:auferret   irreg_pp1 imperf subj act 3rd sg
+:vb:auferre_mus   irreg_pp1 imperf subj act 1st pl
+:vb:auferre_tis   irreg_pp1 imperf subj act 2nd pl
+:vb:auferrent   irreg_pp1 imperf subj act 3rd pl
 
 :le:fero
 :vb:fe^ro_	irreg_pp1 1st sg pres ind act
@@ -584,19 +577,12 @@
 :vs:tu^l perfstem
 :vs:tetu^l perfstem old has_redupl
 :vs:la_t pp4
-:vb:ferrem   irreg_pp1 imperf act 1st sg
-:vb:ferre_s   irreg_pp1 imperf act 2nd sg
-:vb:ferret   irreg_pp1 imperf act 3rd sg
-:vb:ferre_mus   irreg_pp1 imperf act 1st pl
-:vb:ferre_tis   irreg_pp1 imperf act 2nd pl
-:vb:ferrent   irreg_pp1 imperf act 3rd pl
-:vb:ferrer   irreg_pp1 imperf pass 1st sg
-:vb:ferre_ris   irreg_pp1 imperf pass 2nd sg
-:vb:ferre_re   irreg_pp1 imperf pass 2nd sg
-:vb:ferre_tur   irreg_pp1 imperf pass 3rd sg
-:vb:ferre_mur   irreg_pp1 imperf pass 1st pl
-:vb:ferre_mini_   irreg_pp1 imperf pass 2nd pl
-:vb:ferrentur   irreg_pp1 imperf pass 3rd pl
+:vb:ferrem   irreg_pp1 imperf subj act 1st sg
+:vb:ferre_s   irreg_pp1 imperf subj act 2nd sg
+:vb:ferret   irreg_pp1 imperf subj act 3rd sg
+:vb:ferre_mus   irreg_pp1 imperf subj act 1st pl
+:vb:ferre_tis   irreg_pp1 imperf subj act 2nd pl
+:vb:ferrent   irreg_pp1 imperf subj act 3rd pl
 
 :le:refero
 :vb:re^fe^ro_	irreg_pp1 1st sg pres ind act
@@ -632,19 +618,12 @@
 :vb:re^ferri_ irreg_pp1 pres inf pass
 :vs:ret-tul	perfstem
 :vs:re-la_t	pp4
-:vb:referrem   irreg_pp1 imperf act 1st sg
-:vb:referre_s   irreg_pp1 imperf act 2nd sg
-:vb:referret   irreg_pp1 imperf act 3rd sg
-:vb:referre_mus   irreg_pp1 imperf act 1st pl
-:vb:referre_tis   irreg_pp1 imperf act 2nd pl
-:vb:referrent   irreg_pp1 imperf act 3rd pl
-:vb:referrer   irreg_pp1 imperf pass 1st sg
-:vb:referre_ris   irreg_pp1 imperf pass 2nd sg
-:vb:referre_re   irreg_pp1 imperf pass 2nd sg
-:vb:referre_tur   irreg_pp1 imperf pass 3rd sg
-:vb:referre_mur   irreg_pp1 imperf pass 1st pl
-:vb:referre_mini_   irreg_pp1 imperf pass 2nd pl
-:vb:referrentur   irreg_pp1 imperf pass 3rd pl
+:vb:referrem   irreg_pp1 imperf subj act 1st sg
+:vb:referre_s   irreg_pp1 imperf subj act 2nd sg
+:vb:referret   irreg_pp1 imperf subj act 3rd sg
+:vb:referre_mus   irreg_pp1 imperf subj act 1st pl
+:vb:referre_tis   irreg_pp1 imperf subj act 2nd pl
+:vb:referrent   irreg_pp1 imperf subj act 3rd pl
 
 :le:fio
 :vb:fi_e_bam   irreg_pp1 ind act 1st sg
@@ -797,7 +776,7 @@
 :vb:pro_desser   irreg_pp1 imperf subj pass 1st sg
 :vb:pro_desse_ris   irreg_pp1 imperf subj pass 2nd sg
 :vb:pro_desse_re   irreg_pp1 imperf subj pass 2nd sg
-:vb:pro_dessetur   irreg_pp1 imperf subj pass 3rd sg
+:vb:pro_desse_tur   irreg_pp1 imperf subj pass 3rd sg
 :vb:pro_desse_mur   irreg_pp1 imperf subj pass 1st pl
 :vb:pro_desse_mini_   irreg_pp1 imperf subj pass 2nd pl
 :vb:pro_dessentur   irreg_pp1 imperf subj pass 3rd pl

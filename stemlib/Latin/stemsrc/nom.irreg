@@ -98,11 +98,11 @@
 
 :le:ambo
 :wd:ambo_   numeral masc/neut pl
-:wd:ambo   numeral masc/neut pl
 :wd:ambae   numeral fem nom pl
-:wd:ambos   numeral masc acc pl
-:wd:ambas   numeral fem acc pl
-:wd:ambo   numeral neut acc pl
+:wd:ambo_s   numeral masc acc pl
+:wd:ambo_   numeral masc acc pl
+:wd:amba_s   numeral fem acc pl
+:wd:ambo_   numeral neut acc pl
 :wd:ambo_rum   irreg_adj3 masc/neut gen pl
 :wd:amba_rum   irreg_adj3 fem gen pl
 :wd:ambo_bus   irreg_adj3 masc/neut abl/dat pl
