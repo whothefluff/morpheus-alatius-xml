@@ -666,7 +666,7 @@
 
 :le:oboedio
 :de:oboed	ire_vb
-:de:obed	ire_vb
+:de:obe_d	ire_vb
 
 :le:obsideo
 :vs:obsid	conj2

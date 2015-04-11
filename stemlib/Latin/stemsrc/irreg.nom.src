@@ -375,7 +375,7 @@ ali@quis indef
 :wd:ecquam rel_pron fem acc sg
 :wd:ecqua_ rel_pron fem abl sg
 :wd:ecqui_cum rel_pron masc abl sg
-:wd:ecqui_buscum rel_pron masc fem neut abl dat pl
+:wd:ecquibuscum rel_pron masc fem neut abl dat pl
 ec@quis rel_pron
 
 :le:qui#2
@@ -390,7 +390,7 @@ ec@quis rel_pron
 :wd:qua_ rel_pron fem abl sg
 :wd:qua_cum rel_pron fem abl sg
 :wd:qui_cum rel_pron masc abl sg
-:wd:qui_buscum rel_pron masc fem neut abl dat pl
+:wd:quibuscum rel_pron masc fem neut abl dat pl
 :wd:quoi rel_pron masc fem neut dat sg
 @quis rel_pron
 
@@ -403,7 +403,7 @@ ec@quis rel_pron
 :wd:quam interrog fem acc sg
 :wd:qua_ interrog fem abl sg
 :wd:qui_cum interrog masc abl sg
-:wd:qui_buscum interrog masc fem neut abl dat pl
+:wd:quibuscum interrog masc fem neut abl dat pl
 :wd:quoi interrog masc fem neut dat sg
 @quis interrog
 

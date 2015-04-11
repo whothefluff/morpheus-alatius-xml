@@ -4156,8 +4156,8 @@
 :vs:de_-flex pp4
 :le:defleo
 :vs:de_-fl	conj2
-:vs:de_v perfstem
-:vs:de_t pp4
+:vs:de_fle_v perfstem
+:vs:de_fle_t pp4
 :le:deflo
 :de:de_-fl	are_vb
 :le:defloreo
@@ -5232,10 +5232,12 @@
 :le:dissero#1
 :vs:dis-se^r	conj3
 :vs:dis-se_v perfstem
-:vs:dis-seru_ perfstem
+:vs:dis-seru perfstem
 :vs:dis-si^t pp4
 :le:dissero#2
 :vs:dis-se^r	conj3
+:vs:dis-seru perfstem
+:vs:dis-sert pp4
 :le:disserpo
 :vs:dis-serp	conj3
 :le:disserto
@@ -6317,8 +6319,8 @@
 :le:exintero
 :de:exinte^r	are_vb
 :le:existimo
-:de:ex-isti^m	are_vb
-:de:ex-istu^m	are_vb orth
+:de:ex-i_sti^m	are_vb
+:de:ex-i_stu^m	are_vb orth
 :le:exjuro
 :de:ex-ju_r	are_vb
 :le:exmucco
@@ -8484,7 +8486,7 @@
 :le:instabilio
 :de:in-sta^bi^l	ire_vb
 :le:instagno
-:de:in-stagn	are_vb
+:de:in-sta_gn	are_vb
 :le:instauro
 :de:in-staur	are_vb
 :le:insterno
@@ -10210,7 +10212,7 @@
 :le:normo
 :de:norm	are_vb
 :le:noscito
-:de:nosci^t	are_vb
+:de:no_sci^t	are_vb
 :le:nosco
 :vs:no_sc	conj3
 :vs:no_v perfstem
@@ -13157,8 +13159,8 @@
 :le:promico
 :de:pro_-mi^c	are_vb
 :le:promineo
-:vs:pro_-mi_n	conj2
-:vs:pro_-mi_nu^ perfstem
+:vs:pro_-min	conj2
+:vs:pro_-minu^ perfstem
 :le:promino
 :de:pro_-mi^n	are_vb
 :le:promitto
@@ -14312,21 +14314,21 @@
 :le:resarrio
 :de:re^-sarr	ire_vb
 :le:rescindo
-:vs:re_-scind	conj3
-:vs:re_-scinsci^d perfstem
-:vs:re_-scinsciss pp4
+:vs:re-scind	conj3
+:vs:re-scinsci^d perfstem
+:vs:re-scinsciss pp4
 :le:rescisco
-:vs:re_-sci_sc	conj3
-:vs:re_-sci_v perfstem
-:vs:re_-sci^ perfstem
-:vs:re_-sci_t pp4
+:vs:re-sci_sc	conj3
+:vs:re-sci_v perfstem
+:vs:re-sci^ perfstem
+:vs:re-sci_t pp4
 :le:rescribo
-:vs:re_-scri_b	conj3
-:vs:re_-scri_ps perfstem
-:vs:re_-scri_pt pp4
+:vs:re-scri_b	conj3
+:vs:re-scri_ps perfstem
+:vs:re-scri_pt pp4
 :le:resculpo
-:vs:re_-sculp	conj3
-:vs:re_-sculps perfstem
+:vs:re-sculp	conj3
+:vs:re-sculps perfstem
 :le:reseco
 :vs:re^-se^c	conj1
 :vs:re^-se^cu^ perfstem
@@ -14375,59 +14377,59 @@
 :le:respecto
 :de:respect	are_vb
 :le:respergo#1
-:vs:re_-sperg	conj3
-:vs:re_-spers perfstem
-:vs:re_-spers pp4
+:vs:re-sperg	conj3
+:vs:re-spers perfstem
+:vs:re-spers pp4
 :le:respicio
-:vs:re_-spi^c	conj3_io
-:vs:re_-spex perfstem
-:vs:re_-spect pp4
+:vs:re-spi^c	conj3_io
+:vs:re-spex perfstem
+:vs:re-spect pp4
 :le:respiro
-:de:re_-spi_r	are_vb
+:de:re-spi_r	are_vb
 :le:resplendeo
-:vs:re_-splend	conj2
+:vs:re-splend	conj2
 :le:respondeo
-:vs:re_-spond	conj2
-:vs:re_-spond perfstem
-:vs:re_-spons pp4
+:vs:re-spond	conj2
+:vs:re-spond perfstem
+:vs:re-spons pp4
 :le:responsito
-:de:re_sponsi^t	are_vb
+:de:responsi^t	are_vb
 :le:responso
-:de:re_spons	are_vb
+:de:respons	are_vb
 :le:respuo
-:vs:re_-spu^	conj3
-:vs:re_-spu^u^ perfstem
+:vs:re-spu^	conj3
+:vs:re-spu^u^ perfstem
 :le:restagno
-:de:re_-stagn	are_vb
+:de:re-sta_gn	are_vb
 :le:restauro
-:de:re_-staur	are_vb
+:de:re-staur	are_vb
 :le:restibilio
-:de:re_sti^bi^l	ire_vb
+:de:resti^bi^l	ire_vb
 :le:restillo
-:de:re_-still	are_vb
+:de:re-still	are_vb
 :le:restinguo
-:vs:re_-stingu	conj3
-:vs:re_-stinx perfstem
-:vs:re_-stinct pp4
+:vs:re-stingu	conj3
+:vs:re-stinx perfstem
+:vs:re-stinct pp4
 :le:restipulor
-:de:re_-sti^pu^l	are_vb dep
+:de:re-sti^pu^l	are_vb dep
 :le:restito
-:de:re_sti^t	are_vb
+:de:resti^t	are_vb
 :le:restituo
-:vs:re_-sti^tu^	conj3
-:vs:re_-sti^tu^ perfstem
-:vs:re_-sti^tu_t pp4
+:vs:re-sti^tu^	conj3
+:vs:re-sti^tu^ perfstem
+:vs:re-sti^tu_t pp4
 :le:resto
-:vs:re_-st	conj1
-:vs:re_-sti^t perfstem
+:vs:re-st	conj1
+:vs:re-sti^t perfstem
 :le:restringo
-:vs:re_string	conj3
-:vs:re_strinx perfstem
-:vs:re_strict pp4
+:vs:restring	conj3
+:vs:restrinx perfstem
+:vs:restrict pp4
 :le:restruo
-:vs:re_-stru^	conj3
-:vs:re_-stru_x perfstem
-:vs:re_-stru_ct pp4
+:vs:re-stru^	conj3
+:vs:re-stru_x perfstem
+:vs:re-stru_ct pp4
 :le:resudo
 :de:re^-su_d	are_vb
 :le:resulco
@@ -14766,6 +14768,8 @@
 :vs:sal	conj3
 :le:saltito
 :de:salti^t	are_vb
+:le:salto
+:de:salt	are_vb
 :le:saluto
 :de:sa^lu_t	are_vb
 :le:salveo
@@ -15220,7 +15224,7 @@
 :le:stabulor
 :de:sta^bu^l	are_vb dep
 :le:stagno#1
-:de:stagn	are_vb
+:de:sta_gn	are_vb
 :le:stagno#2
 :de:stagn	are_vb
 :le:statumino
@@ -16182,7 +16186,7 @@
 :le:superspero
 :de:su^per-spe_r	are_vb
 :le:superstagno
-:de:su^per-stagn	are_vb
+:de:su^per-sta_gn	are_vb
 :le:superstatumino
 :de:su^per-sta^tu_mi^n	are_vb
 :le:supersterno
@@ -16910,7 +16914,7 @@
 :vs:u_su_-re^ci^p	conj3_io
 :vs:u_su_-re^ce_p perfstem
 :le:usurpo
-:de:usurp	are_vb
+:de:u_surp	are_vb
 :le:uto
 :vs:u_t	conj3
 :le:uvesco

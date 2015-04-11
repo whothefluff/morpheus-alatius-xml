@@ -1,5 +1,5 @@
 :le:aio
-ajo	irreg_pp1 1st sg pres ind act
+ajo_	irreg_pp1 1st sg pres ind act
 a^is	irreg_pp1 2nd sg pres ind act
 a^it	irreg_pp1 3rd sg pres ind act
 ajunt	irreg_pp1 3rd pl pres ind act
@@ -207,16 +207,15 @@ dis-periend@decl2	irreg_pp1 gerundive masc neut early
 
 :vs:aufer	conj3 gerundive
 :vs:aufe^r conj3 imperf ind
-auferr@emsub	irreg_pp1 imperf subj act
+auferr@emsub	irreg_pp1 imperf subj
 :vs:aufe^r conj3 fut
 :vs:aufe^r conj3 subj pres
-:vs:auferr conj3 subj imperf
 :vs:aufe^r conj3 part
 :vb:auferre irreg_pp1 pres inf act
 :vb:auferri_ irreg_pp1 pres inf pass
 :vs:
 :vs:abs-tul	perfstem
-:vs:ab-lat	pp4
+:vs:ab-la_t	pp4
 
 :le:fero
 :vb:fe^ro_	irreg_pp1 1st sg pres ind act
@@ -250,10 +249,9 @@ auferr@emsub	irreg_pp1 imperf subj act
 
 :vs:fer	conj3 gerundive
 :vs:fe^r conj3 imperf ind
-ferr@emsub	irreg_pp1 imperf subj act
+ferr@emsub	irreg_pp1 imperf subj
 :vs:fe^r conj3 fut
 :vs:fe^r conj3 subj pres
-:vs:ferr conj3 subj imperf
 :vs:fe^r conj3 part
 :vb:ferre irreg_pp1 pres inf act
 :vb:ferri_ irreg_pp1 pres inf pass
@@ -292,10 +290,9 @@ ferr@emsub	irreg_pp1 imperf subj act
 
 :vs:re^fer	conj3 gerundive
 :vs:re^fe^r conj3 imperf ind
-referr@emsub	irreg_pp1 imperf subj act
+referr@emsub	irreg_pp1 imperf subj
 :vs:re^fe^r conj3 fut
 :vs:re^fe^r conj3 subj pres
-:vs:re^ferr conj3 subj imperf
 :vs:re^fe^r conj3 part
 :vb:re^ferre irreg_pp1 pres inf act
 :vb:re^ferri_ irreg_pp1 pres inf pass
@@ -426,7 +423,7 @@ potent@decl3_i		irreg_pp1 pres part
 :vs:rettu_s	pp4
 
 :le:queo
-:vb:queo	irreg_pp1 1st sg pres indic act
+:vb:queo_	irreg_pp1 1st sg pres indic act
 :vb:qui_s	irreg_pp1 2nd sg pres indic act
 :vb:quit	irreg_pp1 3rd sg pres indic act
 :vb:qui_mus	irreg_pp1 1st pl pres indic act
@@ -440,7 +437,7 @@ qui_@imperf	irreg_pp1 imperf indic act
 :vs:qui^t	pp4
 
 :le:nequeo
-:vb:nequeo	irreg_pp1 1st sg pres indic act
+:vb:nequeo_	irreg_pp1 1st sg pres indic act
 :vb:nequi_s	irreg_pp1 2nd sg pres indic act
 :vb:nequit	irreg_pp1 3rd sg pres indic act
 :vb:nequi_mus	irreg_pp1 1st pl pres indic act
@@ -454,13 +451,34 @@ nequi_@imperf	irreg_pp1 imperf indic act
 :vs:nequi^t	pp4
 
 :le:do
-:vs:d conj1
 :vb:do_		irreg_pp1 1st sg pres indic act
 :vb:da_s	irreg_pp1 2nd sg pres indic act
 :vb:da^t	irreg_pp1 3rd sg pres indic act
 :vb:da^mus	irreg_pp1 1st pl pres indic act
 :vb:da^tis	irreg_pp1 2nd pl pres indic act
 :vb:da^nt	irreg_pp1 3rd pl pres indic act
+#:vb:dor	irreg_pp1 1st sg pres ind pass
+:vb:da^ris	irreg_pp1 2nd sg pres ind pass
+:vb:da^tur	irreg_pp1 3rd sg pres ind pass
+:vb:da^mur	irreg_pp1 1st pl pres ind pass
+:vb:da^mini_	irreg_pp1 2nd pl pres ind pass
+:vb:da^ntur	irreg_pp1 3rd pl pres ind pass
+d@emsub		irreg_pp1 pres subj
+da^@future	irreg_pp1 fut
+da^@imperf	irreg_pp1 imperf
+:vb:da_	irreg_pp1 2nd sg pres imperat act
+:vb:da^te	irreg_pp1 2nd pl pres imperat act
+:vb:da^to_	irreg_pp1 2nd sg fut imperat act
+:vb:da^to_	irreg_pp1 3rd sg fut imperat act
+:vb:da^to_te	irreg_pp1 2nd pl fut imperat act
+:vb:da^nto_	irreg_pp1 3rd pl fut imperat act
+:vb:da^re	irreg_pp1 2nd sg pres imperat pass
+:vb:da^mini_	irreg_pp1 2nd pl pres imperat pass
+:vb:da^tor	irreg_pp1 2nd sg fut imperat pass
+:vb:da^tor	irreg_pp1 3rd sg fut imperat pass
+:vb:da^ntor	irreg_pp1 3rd pl fut imperat pass
+:vs:d	conj1 gerundive
+:vs:d conj1 part
 :vb:da^re	irreg_pp1 pres inf act
 dui@basvb2	irreg_pp1 pres subj act early
 :vs:de^d perfstem no_comp

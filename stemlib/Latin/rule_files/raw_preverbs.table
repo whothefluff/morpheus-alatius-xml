@@ -14,8 +14,8 @@ retro	retro
 ret	re
 red	re
 re	re
-prod	pro
-pro	pro
+prod	pro_
+pro	pro_
 praeter	praeter
 prae	prae
 per	per
@@ -57,7 +57,7 @@ ad	ad
 ac	ad
 abs	abs
 ab	ab
-a	a
+#a	a_
 #
 #
 #

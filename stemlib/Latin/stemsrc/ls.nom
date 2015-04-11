@@ -3298,6 +3298,10 @@ a^dopti_vus
 
 
 a^dor		<itype>o^ris and o_ris</itype>	<gen>n.</gen>
+:le:ador
+:no:ad	or_oLris neut
+:no:ad	or_oris neut
+
 a^do_ra_bi^lis		
 :le:adorabilis
 :aj:a^do_ra_bi^l	is_e
@@ -3345,7 +3349,7 @@ Adore^us#2
 
 a^do_ri^o_sus		
 :le:adoriosus
-:no:a^do_ri^o_s	us_a_um masc
+:aj:a^do_ri^o_s	us_a_um
 
 
 a^dorna_te_		
@@ -17927,15 +17931,15 @@ assu_mentum		<orth type=alt>ads-</orth>
 
 assumpti^o		<orth>ads-</orth>	
 :le:assumptio
-:no:assumpti^	o_oLnis fem
-:no:adsumpti^	o_oLnis fem orth
+:no:assu_mpti^	o_oLnis fem
+:no:adsu_mpti^	o_oLnis fem orth
 
 
 
 assumpti_vus		<orth type=alt>ads-</orth>	
 :le:assumptivus
-:aj:assumpti_v	us_a_um
-:aj:adsumpti_v	us_a_um orth
+:aj:assu_mpti_v	us_a_um
+:aj:adsu_mpti_v	us_a_um orth
 
 
 
@@ -23707,12 +23711,12 @@ Bi-dini
 
 bidu^us		
 :le:biduus
-:aj:bidu^	us_a_um
+:aj:bi_du^	us_a_um
 
 	<pos>adj.</pos>
 bi_du^um		
 :le:biduum
-:no:b	ius_i neut
+:no:bi_du^	us_i neut
 
 
 bi^enna_lis		
@@ -23874,15 +23878,10 @@ bi^ju^gi^s
 
 
 bi^ju^gus		
+bi_gus		<orth>bi^ju^gis</orth>	
 :le:bijugus
 :aj:bi^ju^g	us_a_um
-
-
-bi_gus		<orth>bi^ju^gis</orth>	
-:le:bigus
-:no:bi_g	us_a_um masc
-:no:bi^j	us_a_um masc orth
-
+:no:bi_g	us_a_um orth
 
 
 bi^-ju^gi		
@@ -37818,7 +37817,7 @@ cincinna_tu^lus
 
 cincinna_tus#1		
 :le:cincinnatus#1
-:no:cincinna_t	us_a_um masc
+:aj:cincinna_t	us_a_um
 
 
 Cincinna_tus#2		
@@ -48987,7 +48986,7 @@ co^rolla_ri^um
 
 co^ro_^na		
 :le:corona
-:no:co^ro_^n	a_ae fem
+:no:co^ro_n	a_ae fem
 
 
 Co^ro_nae		
@@ -50174,17 +50173,17 @@ Crassi^a_nus
 
 crasti^nus#1		
 :le:crastinus#1
-:aj:crasti^n	us_a_um
+:aj:cra_sti^n	us_a_um
 
 
 crasti^-num		
 :le:crastinum
-:no:crasti^-n	us_i neut
+:no:cra_sti^-n	us_i neut
 
 
 Crasti^nus#2		
 :le:Crastinus
-:no:Crasti^n	us_i masc
+:no:Cra_sti^n	us_i masc
 
 
 cra^taegis		
@@ -51730,20 +51729,20 @@ cuimo^di
 cu_jas		<orth>quo_jas</orth>	<itype>a_tis, or</itype>
 cu_ja_tis		
 :le:cujatis
-:aj:cu_ja_t	is_e
+:aj:cuja_t	is_e
 
 
 cu_jus#1		<orth>quo_jus</orth>	
 :le:cujus#1
-:aj:cu_j	us_a_um
-:aj:quo_j	us_a_um orth
+:aj:cuj	us_a_um
+:aj:quoj	us_a_um orth
 
 
 
 cu_jus#2		<orth>quo_jus</orth>	
 :le:cujus#2
-:aj:cu_j	us_a_um
-:aj:quo_j	us_a_um orth
+:aj:cuj	us_a_um
+:aj:quoj	us_a_um orth
 
 
 
@@ -51752,7 +51751,7 @@ cu_jusdammo^di		<orth>cu_jusdam mo^di</orth>
 cu_jusmo^di		<orth type=alt>quo_j-</orth>	<orth>cu_jus mo^di</orth>
 cu_jusmo^dicumque_		
 :le:cujusmodicumque
-:wd:cu_jusmo^dicumque	adverb
+:wd:cujusmo^dicumque	adverb
 
 
 cu_jusnam		<itype>cu_janam, cu_jumnam</itype>
@@ -52269,7 +52268,7 @@ Cu^pencus
 
 Cu^pi_di^ne^us		
 :le:Cupidineus
-:no:Cu^pi_di^ne^	us_a_um masc
+:aj:Cu^pi_di^ne^	us_a_um
 
 
 cu^pi^di^tas		
@@ -66175,7 +66174,7 @@ emphy^teuta
 
 emphy^teu-ti^ca_ri^us		
 :le:emphyteuticarius
-:no:emphy^teu-ti^ca_ri^	us_a_um masc
+:aj:emphy^teu-ti^ca_ri^	us_a_um
 
 
 emphy^teuti^cus		
@@ -73365,7 +73364,7 @@ Fa^le_ri^i
 Fa^lernusa^ger		<orth>Fa^lernus</orth>	<itype>a, um</itype>	<pos>adj.</pos>
 Fa^lernum		
 :le:Falernus
-:no:Fa^lern	us_a_um geog_name
+:aj:Fa^lern	us_a_um geog_name
 
 
 Fa^lisci		
@@ -77129,12 +77128,12 @@ fo^ra_mi^no_sus
 
 fo^ras		
 :le:foras
-:wd:fo^ras	adverb
+:wd:fo^ra_s	adverb
 
 
 fo^rasti^cus		
 :le:forasticus
-:aj:fo^rasti^c	us_a_um
+:aj:fo^ra_sti^c	us_a_um
 
 
 fo^ra_tus		
@@ -77163,7 +77162,7 @@ fordus
 
 hordus		
 :le:hordus
-:no:hord	us_a_um masc
+:aj:hord	us_a_um
 
 
 forda		
@@ -91903,7 +91902,7 @@ illu_ni^us
 
 Illu^ri^cus		
 :le:Illuricus
-:no:Illu^ri^c	us_a_um masc
+:aj:Illu^ri^c	us_a_um
 
 
 Illu^ri^i		<itype>orum</itype>
@@ -94652,7 +94651,7 @@ imputri^bi^-li^ter
 
 i^mu^lus		
 :le:imulus
-:aj:i^mu^l	us_a_um
+:aj:i_mu^l	us_a_um
 
 
 in#1		<orth>endo^</orth>	<orth>indu^</orth>	<pos>prep.</pos>
@@ -95668,7 +95667,7 @@ incoctus#2
 
 incoercitus		
 :le:incoercitus
-:no:incoercit	us_a_um masc
+:aj:incoercit	us_a_um
 
 
 in-co_gi^ta_bi^lis		
@@ -98911,7 +98910,7 @@ infi^me_
 
 imus		
 :le:imus
-:aj:im	us_a_um
+:aj:i_m	us_a_um
 
 
 i_mi		
@@ -121009,7 +121008,7 @@ ma_tri^mo_ni^um
 
 ma_trimus		
 :le:matrimus
-:no:ma_trim	us_a_um masc
+:aj:ma_tri_m	us_a_um
 
 
 ma_trix		
@@ -124857,7 +124856,7 @@ me^tus
 
 Me^tus	
 me_um		
-:le:meum
+:le:meum#1
 :no:me_	us_i neut
 
 
@@ -124872,7 +124871,7 @@ me^i
 
 
 me^um		
-:le:meum
+:le:meum#2
 :no:me^	us_i neut
 
 
@@ -127485,7 +127484,7 @@ mo^nogramma
 
 mo^nogrammus		<orth>-os</orth>	<orth type=alt>-on</orth>	
 :le:monogrammus
-:no:mo^nogramm	us_a_um masc
+:aj:mo^nogramm	us_a_um
 
 
 mo^nogrammus		
@@ -129170,8 +129169,8 @@ multum		<pos>adj.</pos>
 multo_		<orth>plu_s</orth>	<pos>adj.</pos>
 plu_ri^mus		
 :le:plurimus
-:no:plu_ri^m	us_a_um masc
-:no:plu_ru^m	us_a_um masc
+:aj:plu_ri^m	us_a_um
+:aj:plu_ru^m	us_a_um
 
 
 plu_ri^mum	
@@ -129863,7 +129862,7 @@ musca_-ri^um
 
 muscella_ri^um		
 :le:muscellarium
-:no:muscella_r	ius_i neut
+:no:mu_scella_r	ius_i neut
 
 
 muscerda		
@@ -129878,17 +129877,17 @@ musci^dus
 
 musci^pu^la		
 :le:muscipula
-:no:musci^pu^l	a_ae fem
+:no:mu_sci^pu^l	a_ae fem
 
 
 musci^pu^-lum		
 :le:muscipulum
-:no:musci^pu^-l	us_i neut
+:no:mu_sci^pu^-l	us_i neut
 
 
 musci^pu^la_tor		
 :le:muscipulator
-:no:musci^pu^la_t	or_oLris masc
+:no:mu:sci^pu^la_t	or_oLris masc
 
 
 musco_sus		
@@ -129899,18 +129898,18 @@ musco_sus
 musco_se_	
 muscu^la		
 :le:muscula
-:no:muscu^l	a_ae fem
+:no:mu_scu^l	a_ae fem
 
 
 muscu^lo_sus		
 :le:musculosus
-:aj:muscu^lo_s	us_a_um
+:aj:mu_scu^lo_s	us_a_um
 
 
 Musclo_sus		<itype>for Musculosus</itype>
 muscu^lus		
 :le:musculus
-:no:muscu^l	us_i masc
+:no:mu_scu^l	us_i masc
 
 
 muscus		
@@ -131646,21 +131645,21 @@ na^ta_bundus
 Natal	
 na_ta_li_ci^us		<orth type=alt>-ti^us</orth>	
 :le:natalicius
-:aj:na_ta_li_c	ius_ia_ium
+:aj:na_ta_lic	ius_ia_ium
 
 
 na_ta_li_ci^-um		<orth type=alt>-ti^um</orth>	
 :le:natalicium
-:no:na_ta_li_c	ius_i neut
+:no:na_ta_lic	ius_i neut
 
 
 na_ta_li_ci^a		
 :le:natalicia
-:no:na_ta_li_ci^	a_ae fem
+:no:na_ta_lici^	a_ae fem
 
 	
 :le:natalicia
-:no:na_ta_li_ci^	us_i neut pl
+:no:na_ta_lici^	us_i neut pl
 
 
 na_ta_lis#1		
@@ -147906,7 +147905,7 @@ pa_^tri^mo_ni^um
 
 pa^tri_mus		
 :le:patrimus
-:no:pa^tri_m	us_a_um masc
+:aj:pa^tri_m	us_a_um
 
 
 pa_^tri^o_ta		
@@ -149146,14 +149145,15 @@ pe_li^ca_tus		<orth type=alt>pelli-, paeli-</orth>
 
 Pe_ligni		<orth>Paeligni</orth>	
 :le:Peligni
-:no:Pe_lign	us_a_um
-:no:Paelign	us_a_um
+:no:Pe_lign	us_i masc
+:no:Paelign	us_i masc
 
 
 
 Pe_lig-nus		
 :le:Pelignus
 :aj:Pe_lig-n	us_a_um
+:aj:Paelig-n	us_a_um
 
 
 Pelina		
@@ -157734,7 +157734,7 @@ pi^ty^o^campa
 
 pi^us		
 :le:pius
-:no:pi^	us_a_um masc
+:no:pi^	us_a_um
 
 
 pi^i		<orth>pi^um</orth>	<itype>i</itype>	<gen>n.</gen>
@@ -165448,7 +165448,7 @@ pro_consu^la_tus
 
 pro_crasti^na_ti^o		
 :le:procrastinatio
-:no:pro_crasti^na_ti^	o_oLnis fem
+:no:pro_cra_sti^na_ti^	o_oLnis fem
 
 
 pro_cre^a_bi^lis		
@@ -173814,7 +173814,7 @@ re_^cli_nis
 
 re_^cli_-nus		
 :le:reclinus
-:no:re_^cli_-n	us_a_um masc
+:aj:re_^cli_-n	us_a_um
 
 
 re_^-cli_vis		
@@ -175684,7 +175684,7 @@ re^sa^lu_ta_ti^o
 
 re_scissi^o		
 :le:rescissio
-:no:re_scissi^	o_oLnis fem
+:no:rescissi^	o_oLnis fem
 
 
 resci_sso_ri^us		
@@ -175699,12 +175699,12 @@ rescisso_ri^a
 
 re_scriptum		
 :le:rescriptum
-:no:re_scri_pt	us_i neut
+:no:rescri_pt	us_i neut
 
 
 re_scripti^o		
 :le:rescriptio
-:no:re_scri_pti^	o_oLnis fem
+:no:rescri_pti^	o_oLnis fem
 
 
 re^se^ca_bi^lis		
@@ -175868,98 +175868,98 @@ respectus#2
 
 re_spergo#2		
 :le:respergo#2
-:no:re_sperg	o_inis fem
+:no:resperg	o_inis fem
 
 
 re_spersi^o		
 :le:respersio
-:no:re_spersi^	o_oLnis fem
+:no:respersi^	o_oLnis fem
 
 
 re_spersus#2		
 :le:respersus#2
-:no:re_spers	us_us masc
+:no:respers	us_us masc
 
 
 Re_spi^ci^ens	
 re_spi_ra_cu^lum		
 :le:respiraculum
-:no:re_spi_ra_cu^l	us_i neut
+:no:respi_ra_cu^l	us_i neut
 
 
 re_spi_ra_men		
 :le:respiramen
-:no:re_spi_ra_	men_minis neut
+:no:respi_ra_	men_minis neut
 
 
 re_spi_ra_mentum		
 :le:respiramentum
-:no:re_spi_ra_ment	us_i neut
+:no:respi_ra_ment	us_i neut
 
 
 re_spi_ra_ti^o		
 :le:respiratio
-:no:re_spi_ra_ti^	o_oLnis fem
+:no:respi_ra_ti^	o_oLnis fem
 
 
 re_spi_ra_tus		
 :le:respiratus
-:no:re_spi_ra_t	us_us masc
+:no:respi_ra_t	us_us masc
 
 
 re_splendenti^a		
 :le:resplendentia
-:no:re_splendenti^	a_ae fem
+:no:resplendenti^	a_ae fem
 
 
 re_spon-sum		
 :le:responsum
-:no:re_spon-s	us_i neut
+:no:respon-s	us_i neut
 
 
 re_sponsi^o		
 :le:responsio
-:no:re_sponsi^	o_oLnis fem
+:no:responsi^	o_oLnis fem
 
 
 re_sponsi_ve_		
 :le:responsive
-:wd:re_sponsi_ve_	adverb
+:wd:responsi_ve_	adverb
 
 
 re_sponsi_vus		
 :le:responsivus
-:aj:re_sponsi_v	us_a_um
+:aj:responsi_v	us_a_um
 
 
 re_sponsor		
 :le:responsor
-:no:re_spons	or_oLris masc
+:no:respons	or_oLris masc
 
 
 re_sponso_ria		
 :le:responsoria
-:no:re_sponso_ri	us_i neut pl
+:no:responso_ri	us_i neut pl
 
 
 re_sponsus#2		
 :le:responsus#2
-:no:re_spons	us_us masc
+:no:respons	us_us masc
 
 
 re_stagna_ti^o		
 :le:restagnatio
-:no:re_sta_gna_ti^	o_oLnis fem
+:no:resta_gna_ti^	o_oLnis fem
 
 
 re_staura_ti^o		
 :le:restauratio
-:no:re_staura_ti^	o_oLnis fem
+:no:restaura_ti^	o_oLnis fem
 
 
 re_staura_tor		
 :le:restaurator
-:no:re_staura_t	or_oLris masc
+:no:restaura_t	or_oLris masc
 
 
 resti^a_ri^us		
@@ -175969,7 +175969,7 @@ resti^a_ri^us
 
 re_-sti^bi^lis		
 :le:restibilis
-:aj:re_-sti^bi^l	is_e
+:aj:re-sti^bi^l	is_e
 
 
 resti^bi^le		
@@ -175984,7 +175984,7 @@ resti^cu^la
 
 re_stinctio		
 :le:restinctio
-:no:re_stincti	o_oLnis fem
+:no:restincti	o_oLnis fem
 
 
 resti^o		
@@ -175994,7 +175994,7 @@ resti^o
 
 re_sti^pu^la_ti^o		
 :le:restipulatio
-:no:re_sti^pu^la_ti^	o_oLnis fem
+:no:resti^pu^la_ti^	o_oLnis fem
 
 
 restis		
@@ -176004,27 +176004,27 @@ restis
 
 re_sti^trix		
 :le:restitrix
-:no:re_sti^tr	ix_iLcis fem
+:no:resti^tr	ix_iLcis fem
 
 
 re_sti^tu_ti^o		
 :le:restitutio
-:no:re_sti^tu_ti^	o_oLnis fem
+:no:resti^tu_ti^	o_oLnis fem
 
 
 re_sti^tu_tor		
 :le:restitutor
-:no:re_sti^tu_t	or_oLris masc
+:no:resti^tu_t	or_oLris masc
 
 
 re_sti^tu_to_ri^us		
 :le:restitutorius
-:aj:re_sti^tu_to_r	ius_ia_ium
+:aj:resti^tu_to_r	ius_ia_ium
 
 
 re_sti^tu_trix		
 :le:restitutrix
-:no:re_sti^tu_tr	ix_iLcis fem
+:no:resti^tu_tr	ix_iLcis fem
 
 
 Resti^tu_tus#2		
@@ -176034,12 +176034,12 @@ Resti^tu_tus#2
 
 re_strictim		
 :le:restrictim
-:wd:re_strictim	adverb
+:wd:restrictim	adverb
 
 
 re_stricti^o		
 :le:restrictio
-:no:re_stricti^	o_oLnis fem
+:no:restricti^	o_oLnis fem
 
 
 re_stricte_		<pos>adj.</pos>
@@ -177828,7 +177828,8 @@ ru^bellus
 ru^ber		<itype>bra, brum</itype>
 ru^brus		
 :le:rubrus
-:no:ru^br	us_a_um masc
+:aj:ru^b	er_ra_rum
+:aj:ru^br	us_a_um
 
 
 ru^be_ta#1		
@@ -179651,7 +179652,7 @@ Sa^la^pi_nus
 
 Sa^lpi_nus		<orth>Sa^lpi_ni</orth>	
 :le:Salpinus
-:no:Sa^lpi_n	us_a_um masc
+:aj:Sa^lpi_n	us_a_um
 
 
 Sa^la^pi_ni		
@@ -184671,7 +184672,7 @@ se_gre^ga_tus
 se_-grex		<itype>e^gis</itype>
 se_gre^gus		
 :le:segregus
-:no:se_gre^g	us_a_um masc
+:aj:se_gre^g	us_a_um
 
 
 Se^gu_si^a_vi		
@@ -187172,7 +187173,7 @@ se_rus
 
 	<pos>adv.</pos>	<pos>adv.</pos>	<pos>adv.</pos>
 se_ra		
-:le:sera
+:le:sera#2
 :no:se_r	a_ae fem
 
 
@@ -188648,8 +188649,8 @@ si^li_gi^na_ri^us
 
 si^li_gi^ne^us		<orth>si^li_gnus</orth>	
 :le:siligineus
-:no:si^li_gi^ne^	us_a_um masc
-:no:si^li_gn	us_a_um masc orth
+:aj:si^li_gi^ne^	us_a_um
+:aj:si^li_gn	us_a_um orth
 
 
 
@@ -188720,7 +188721,7 @@ si^lu_rus
 
 si^lus#1		
 :le:silus#1
-:aj:si^l	us_a_um
+:aj:si_l	us_a_um
 
 
 si_lo		
@@ -190589,7 +190590,7 @@ so^lum#1
 
 
 so^lus		
-:le:solus
+:le:solus#3
 :no:so^l	us_us masc
 
 	<gen>n.</gen>
@@ -190600,7 +190601,7 @@ so_lummo^do		<itype>solus</itype>
 
 so_lus#1		<itype>a, um</itype>	<gen>f.</gen>	
 :le:solus#1
-:no:so_l	us_a_um masc
+:aj:so_l	us_a_um
 
 	<pos>adv.</pos>
 so_lum		<orth>so_lummo^do</orth>
@@ -190821,7 +190822,8 @@ Sonti^us
 
 so^nus#1		<itype>i</itype>
 so^nus		
-:le:sonus
+:le:sonus#1
+:no:so^n	us_i masc
 :no:so^n	us_us masc
 
 
@@ -216219,7 +216221,7 @@ ve_ri^lo^quus
 ve_ri^si^mi^lis		<orth type=alt>ve_ri^si^mi^li^ter</orth>	<orth>ve_ri^si^mi^li^tu_do</orth>	<itype>more correctly written separately</itype>
 
 :le:verisimilis
-:aj:ve_ri^si^mi^l is_e
+:aj:ve_ri_^si^mi^l is_e
 
 ve_ri_ si^mi^lis	
 ve_ri^tas		

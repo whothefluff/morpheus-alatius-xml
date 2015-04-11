@@ -19,18 +19,13 @@ ant	pres subj act 3rd pl
 #
 e@imperf	imperf subj act 
 #
-ito_	fut imperat act 2nd sg
-ito_	fut imperat act 3rd sg
-io_to_te	fut imperat act 2nd pl
-unto_	fut imperat act 3rd pl
-#
 e	pres imperat act 2nd sg
 ite	pres imperat act 2nd pl
 #
 ito_	fut imperat act 2nd sg
 ito_	fut imperat act 3rd sg
 ito_te	fut imperat act 2nd pl
-itunto_	fut imperat act 3rd pl
+unto_	fut imperat act 3rd pl
 #
 ere	pres inf act
 
