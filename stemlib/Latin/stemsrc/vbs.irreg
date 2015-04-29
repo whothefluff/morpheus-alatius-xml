@@ -39,7 +39,7 @@
 :vb:i_mini_	irreg_pp1 2nd pl pres ind pass comp_only
 :vb:euntur	irreg_pp1 3rd pl pres ind pass comp_only
 :vb:i_		irreg_pp1 2nd sg pres imperat act
-:vb:i_te	irreg_pp1 2nd sg pres imperat act
+:vb:i_te	irreg_pp1 2nd pl pres imperat act
 :vb:i_to_	irreg_pp1 2nd sg fut imperat act
 :vb:i_to_	irreg_pp1 3rd sg fut imperat act
 :vb:i_to_te	irreg_pp1 2nd pl fut imperat act
@@ -48,8 +48,8 @@
 :vb:i_ri_	irreg_pp1 pres inf pass 
 :vb:i_rier	irreg_pp1 pres inf pass early
 :vb:i_sse	irreg_pp2 perf inf act syncop
-:vb:iens	irreg_pp1 pres part act masc fem nom voc
-:vb:iens	irreg_pp1 pres part act neut nom voc acc
+:vb:iens	irreg_pp1 pres part act masc fem nom voc sg
+:vb:iens	irreg_pp1 pres part act neut nom voc acc sg
 :vb:eundus   irreg_pp1 gerundive masc nom sg
 :vb:eunda   irreg_pp1 gerundive fem nom sg
 :vb:eunda   irreg_pp1 gerundive fem nom/voc sg
@@ -644,18 +644,6 @@
 :vb:referrentur   irreg_pp1 imperf subj pass 3rd pl
 
 :le:fio
-:vb:fi_e_bam   irreg_pp1 ind act 1st sg
-:vb:fi_e_ba_s   irreg_pp1 ind act 2nd sg
-:vb:fi_e_bat   irreg_pp1 ind act 3rd sg
-:vb:fi_e_ba_mus   irreg_pp1 ind act 1st pl
-:vb:fi_e_ba_tis   irreg_pp1 ind act 2nd pl
-:vb:fi_e_bant   irreg_pp1 ind act 3rd pl
-:vb:fi^erem   irreg_pp1 subj act 1st sg
-:vb:fi^ere_s   irreg_pp1 subj act 2nd sg
-:vb:fi^eret   irreg_pp1 subj act 3rd sg
-:vb:fi^ere_mus   irreg_pp1 subj act 1st pl
-:vb:fi^ere_tis   irreg_pp1 subj act 2nd pl
-:vb:fi^erent   irreg_pp1 subj act 3rd pl
 :vb:fi_o_   irreg_pp1 pres ind act 1st sg
 :vb:fi_s   irreg_pp1 pres ind act 2nd sg
 :vb:fi^t   irreg_pp1 pres ind act 3rd sg
@@ -679,6 +667,18 @@
 :vb:fi_e_tis   irreg_pp1 fut ind act 2nd pl
 :vb:fi_ent   irreg_pp1 fut ind act 3rd pl
 :vb:fi_to_te   irreg_pp1 fut imperat act 2nd pl
+:vb:fi_e_bam   irreg_pp1 imperf ind act 1st sg
+:vb:fi_e_ba_s   irreg_pp1 imperf ind act 2nd sg
+:vb:fi_e_bat   irreg_pp1 imperf ind act 3rd sg
+:vb:fi_e_ba_mus   irreg_pp1 imperf ind act 1st pl
+:vb:fi_e_ba_tis   irreg_pp1 imperf ind act 2nd pl
+:vb:fi_e_bant   irreg_pp1 imperf ind act 3rd pl
+:vb:fi^erem   irreg_pp1 imperf subj act 1st sg
+:vb:fi^ere_s   irreg_pp1 imperf subj act 2nd sg
+:vb:fi^eret   irreg_pp1 imperf subj act 3rd sg
+:vb:fi^ere_mus   irreg_pp1 imperf subj act 1st pl
+:vb:fi^ere_tis   irreg_pp1 imperf subj act 2nd pl
+:vb:fi^erent   irreg_pp1 imperf subj act 3rd pl
 
 :le:sum#1
 :vb:sum		irreg_pp1 1st sg pres ind act
@@ -966,45 +966,45 @@
 :vb:de_mur   irreg_pp1 pres subj pass 1st pl
 :vb:de_mini_   irreg_pp1 pres subj pass 2nd pl
 :vb:dentur   irreg_pp1 pres subj pass 3rd pl
-:vb:da^bo_   irreg_pp1 fut act 1st sg
-:vb:da^bis   irreg_pp1 fut act 2nd sg
-:vb:da^bit   irreg_pp1 fut act 3rd sg
-:vb:da^bimus   irreg_pp1 fut act 1st pl
-:vb:da^bitis   irreg_pp1 fut act 2nd pl
-:vb:da^bunt   irreg_pp1 fut act 3rd pl
-:vb:da^bor   irreg_pp1 fut pass 1st sg
-:vb:da^beris   irreg_pp1 fut pass 2nd sg
-:vb:da^bere   irreg_pp1 fut pass 2nd sg
-:vb:da^bitur   irreg_pp1 fut pass 3rd sg
-:vb:da^bimur   irreg_pp1 fut pass 1st pl
-:vb:da^bimini_   irreg_pp1 fut pass 2nd pl
-:vb:da^buntur   irreg_pp1 fut pass 3rd pl
-:vb:da^bam   irreg_pp1 imperf act 1st sg
-:vb:da^rem   irreg_pp1 imperf act 1st sg
-:vb:da^ba_s   irreg_pp1 imperf act 2nd sg
-:vb:da^re_s   irreg_pp1 imperf act 2nd sg
-:vb:da^bat   irreg_pp1 imperf act 3rd sg
-:vb:da^ret   irreg_pp1 imperf act 3rd sg
-:vb:da^ba_mus   irreg_pp1 imperf act 1st pl
-:vb:da^re_mus   irreg_pp1 imperf act 1st pl
-:vb:da^ba_tis   irreg_pp1 imperf act 2nd pl
-:vb:da^re_tis   irreg_pp1 imperf act 2nd pl
-:vb:da^bant   irreg_pp1 imperf act 3rd pl
-:vb:da^rent   irreg_pp1 imperf act 3rd pl
-:vb:da^bar   irreg_pp1 imperf pass 1st sg
-:vb:da^rer   irreg_pp1 imperf pass 1st sg
-:vb:da^ba_ris   irreg_pp1 imperf pass 2nd sg
-:vb:da^ba_re   irreg_pp1 imperf pass 2nd sg
-:vb:da^re_ris   irreg_pp1 imperf pass 2nd sg
-:vb:da^re_re   irreg_pp1 imperf pass 2nd sg
-:vb:da^ba_tur   irreg_pp1 imperf pass 3rd sg
-:vb:da^re_tur   irreg_pp1 imperf pass 3rd sg
-:vb:da^ba_mur   irreg_pp1 imperf pass 1st pl
-:vb:da^re_mur   irreg_pp1 imperf pass 1st pl
-:vb:da^ba_mini_   irreg_pp1 imperf pass 2nd pl
-:vb:da^re_mini_   irreg_pp1 imperf pass 2nd pl
-:vb:da^bantur   irreg_pp1 imperf pass 3rd pl
-:vb:da^rentur   irreg_pp1 imperf pass 3rd pl
+:vb:da^bo_   irreg_pp1 fut ind act 1st sg
+:vb:da^bis   irreg_pp1 fut ind act 2nd sg
+:vb:da^bit   irreg_pp1 fut ind act 3rd sg
+:vb:da^bimus   irreg_pp1 fut ind act 1st pl
+:vb:da^bitis   irreg_pp1 fut ind act 2nd pl
+:vb:da^bunt   irreg_pp1 fut ind act 3rd pl
+:vb:da^bor   irreg_pp1 fut ind pass 1st sg
+:vb:da^beris   irreg_pp1 fut ind pass 2nd sg
+:vb:da^bere   irreg_pp1 fut ind pass 2nd sg
+:vb:da^bitur   irreg_pp1 fut ind pass 3rd sg
+:vb:da^bimur   irreg_pp1 fut ind pass 1st pl
+:vb:da^bimini_   irreg_pp1 fut ind pass 2nd pl
+:vb:da^buntur   irreg_pp1 fut ind pass 3rd pl
+:vb:da^bam   irreg_pp1 imperf ind act 1st sg
+:vb:da^ba_s   irreg_pp1 imperf ind act 2nd sg
+:vb:da^bat   irreg_pp1 imperf ind act 3rd sg
+:vb:da^ba_mus   irreg_pp1 imperf ind act 1st pl
+:vb:da^ba_tis   irreg_pp1 imperf ind act 2nd pl
+:vb:da^bant   irreg_pp1 imperf ind act 3rd pl
+:vb:da^rem   irreg_pp1 imperf subj act 1st sg
+:vb:da^re_s   irreg_pp1 imperf subj act 2nd sg
+:vb:da^ret   irreg_pp1 imperf subj act 3rd sg
+:vb:da^re_mus   irreg_pp1 imperf subj act 1st pl
+:vb:da^re_tis   irreg_pp1 imperf subj act 2nd pl
+:vb:da^rent   irreg_pp1 imperf subj act 3rd pl
+:vb:da^bar   irreg_pp1 imperf ind pass 1st sg
+:vb:da^ba_ris   irreg_pp1 imperf ind pass 2nd sg
+:vb:da^ba_re   irreg_pp1 imperf ind pass 2nd sg
+:vb:da^ba_tur   irreg_pp1 imperf ind pass 3rd sg
+:vb:da^ba_mur   irreg_pp1 imperf ind pass 1st pl
+:vb:da^ba_mini_   irreg_pp1 imperf ind pass 2nd pl
+:vb:da^bantur   irreg_pp1 imperf ind pass 3rd pl
+:vb:da^rer   irreg_pp1 imperf subj pass 1st sg
+:vb:da^re_ris   irreg_pp1 imperf subj pass 2nd sg
+:vb:da^re_re   irreg_pp1 imperf subj pass 2nd sg
+:vb:da^re_tur   irreg_pp1 imperf subj pass 3rd sg
+:vb:da^re_mur   irreg_pp1 imperf subj pass 1st pl
+:vb:da^re_mini_   irreg_pp1 imperf subj pass 2nd pl
+:vb:da^rentur   irreg_pp1 imperf subj pass 3rd pl
 
 :le:credo
 :vb:cre_duam	irreg_pp1 1st sg pres subj act

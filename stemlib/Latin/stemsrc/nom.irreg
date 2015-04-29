@@ -45,8 +45,8 @@
 :wd:a_eribus   irreg_nom3 masc abl pl
 
 :le:alter
-:wd:altera   irreg_nom2 sg
 :wd:alter   irreg_nom2 masc nom/voc sg
+:wd:altera   irreg_nom2 fem nom/voc sg
 :wd:altera   irreg_nom2 fem nom sg
 :wd:alterum   irreg_nom2 neut nom/voc sg
 :wd:alteri_us   irreg_nom2 masc/fem/neut gen sg
@@ -885,12 +885,11 @@
 :wd:eadem	pron3 neut nom/voc/acc pl
 :wd:eo_rundem	pron3 masc/neut gen pl
 :wd:ea_rumdem	pron3 fem gen pl
-:wd:ii_sdem	pron3 masc/fem/neut dat pl
-:wd:i_sdem	pron3 masc/fem/neut dat pl
-:wd:ei_sdem	pron3 masc/fem/neut dat pl
+:wd:ii_sdem	pron3 masc/fem/neut dat/abl pl
+:wd:i_sdem	pron3 masc/fem/neut dat/abl pl
+:wd:ei_sdem	pron3 masc/fem/neut dat/abl pl
 :wd:eo_sdem	pron3 masc acc pl
 :wd:ea_sdem	pron3 fem acc pl
-:wd:ei_sdem	pron3 masc/fem/neut abl pl
 
 :le:ego
 :wd:ego   pron1 masc/fem nom sg
@@ -1089,11 +1088,11 @@
 :wd:pedis   irreg_nom3 masc gen sg
 :wd:pedi_   irreg_nom3 masc dat sg
 :wd:pedem   irreg_nom3 masc acc sg
+:wd:pede   irreg_nom3 masc abl sg
 :wd:pede_s   irreg_nom3 masc nom/voc pl
-:wd:pedium   irreg_nom3 masc gen pl
+:wd:pedum   irreg_nom3 masc gen pl
 :wd:pedibus   irreg_nom3 masc dat pl
 :wd:pede_s   irreg_nom3 masc acc pl
-:wd:pedi_s   irreg_nom3 masc acc pl
 :wd:pedibus   irreg_nom3 masc abl pl
 
 :le:rabies
@@ -1217,6 +1216,7 @@
 
 :le:vetus
 :wd:vetus	irreg_adj3 masc fem neut nom voc sg
+:wd:vetus	irreg_adj3 neut acc sg
 :aj:vetust	or_us_comp irreg_comp
 :aj:vet	er_ris_re superl
 :wd:veteris   irreg_adj3 masc/fem/neut gen sg

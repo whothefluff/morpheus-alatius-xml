@@ -21,7 +21,7 @@ a_er@decl3	irreg_nom3 masc
 
 :le:alter
 alter 	irreg_nom2 masc nom/voc sg
-altera 	irreg_nom2 gen nom/voc sg
+altera 	irreg_nom2 fem nom/voc sg
 alterum 	irreg_nom2 neut nom/voc sg
 alter@ille	irreg_nom2
 
@@ -516,12 +516,11 @@ e@decl2 pron3 masc neut pl
 :wd:eadem	pron3 neut nom/voc/acc pl
 :wd:eo_rundem	pron3 masc/neut gen pl
 :wd:ea_rumdem	pron3 fem gen pl
-:wd:ii_sdem	pron3 masc/fem/neut dat pl
-:wd:i_sdem	pron3 masc/fem/neut dat pl
-:wd:ei_sdem	pron3 masc/fem/neut dat pl
+:wd:ii_sdem	pron3 masc/fem/neut dat/abl pl
+:wd:i_sdem	pron3 masc/fem/neut dat/abl pl
+:wd:ei_sdem	pron3 masc/fem/neut dat/abl pl
 :wd:eo_sdem	pron3 masc acc pl
 :wd:ea_sdem	pron3 fem acc pl
-:wd:ei_sdem	pron3 masc/fem/neut abl pl
 
 :le:ego
 ego	pron1 masc fem nom sg
@@ -649,7 +648,7 @@ pelage_		irreg_nom2 neut nom voc acc pl
 
 :le:pes
 pe_s	irreg_nom3 masc nom voc sg
-ped@decl3_i	irreg_nom3 masc
+ped@decl3	irreg_nom3 masc
 
 :le:rabies
 rabie_s	irreg_nom3 fem nom sg
@@ -704,6 +703,7 @@ utr@ille	irreg_adj2
 
 :le:vetus
 :wd:vetus	irreg_adj3 masc fem neut nom voc sg
+:wd:vetus	irreg_adj3 neut acc sg
 veter@decl3	irreg_adj3 masc fem neut
 :aj:vetust	or_us_comp irreg_comp
 :aj:vet	er_ris_re superl

@@ -45,7 +45,7 @@ i_b@ofut	irreg_pp1 fut ind pass comp_only
 i_ba@basvb2	irreg_pp1 imperf ind pass 
 #
 :vb:i_		irreg_pp1 2nd sg pres imperat act
-:vb:i_te	irreg_pp1 2nd sg pres imperat act
+:vb:i_te	irreg_pp1 2nd pl pres imperat act
 #
 :vb:i_to_	irreg_pp1 2nd sg fut imperat act
 :vb:i_to_	irreg_pp1 3rd sg fut imperat act
@@ -61,8 +61,8 @@ i_sse@basvb2	irreg_pp2 plup subj act
 #
 @perfind	perfstem perf indic act comp_only
 #
-:vb:iens	irreg_pp1 pres part act masc fem nom voc
-:vb:iens	irreg_pp1 pres part act neut nom voc acc
+:vb:iens	irreg_pp1 pres part act masc fem nom voc sg
+:vb:iens	irreg_pp1 pres part act neut nom voc acc sg
 eunt@decl3_i	irreg_pp1 pres part act 
 eunte		irreg_pp1 pres part act abl sg masc fem neut
 #
@@ -306,8 +306,8 @@ fi^t	irreg_pp1 3rd sg pres ind act
 fi_mus	irreg_pp1 1st pl pres ind act
 fi_tis	irreg_pp1 2nd pl pres ind act
 fi_unt	irreg_pp1 3rd pl pres ind act
-fi_e_@imperf irreg_pp1 ind act
-fi^e@imperf irreg_pp1 subj act
+fi_e_@imperf irreg_pp1 imperf ind act
+fi^e@imperf irreg_pp1 imperf subj act
 fi_@future2	irreg_pp1 fut ind act
 fi_	irreg_pp1 2nd sg pres imperat act
 fi_te	irreg_pp1 2nd pl pres imperat act
@@ -464,8 +464,9 @@ nequi_@imperf	irreg_pp1 imperf indic act
 :vb:da^mini_	irreg_pp1 2nd pl pres ind pass
 :vb:da^ntur	irreg_pp1 3rd pl pres ind pass
 d@emsub		irreg_pp1 pres subj
-da^@future	irreg_pp1 fut
-da^@imperf	irreg_pp1 imperf
+da^@future	irreg_pp1 fut ind
+da^@imperf	irreg_pp1 imperf subj
+da^@imperf	irreg_pp1 imperf ind
 :vb:da_	irreg_pp1 2nd sg pres imperat act
 :vb:da^te	irreg_pp1 2nd pl pres imperat act
 :vb:da^to_	irreg_pp1 2nd sg fut imperat act
