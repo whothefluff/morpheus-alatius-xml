@@ -97,7 +97,7 @@
 :wd:alii_s   irreg_nom2 fem abl pl
 
 :le:ambo
-:wd:ambo_   numeral masc/neut pl
+:wd:ambo_   numeral masc/neut nom pl
 :wd:ambae   numeral fem nom pl
 :wd:ambo_s   numeral masc acc pl
 :wd:ambo_   numeral masc acc pl
@@ -1039,6 +1039,9 @@
 :wd:complu_ribus   irreg_adj3 abl pl
 :wd:conplu_ribus   irreg_adj3 abl pl
 
+:le:maturus
+:aj:ma_tu_rrim	us_a_um irreg_superl
+
 :le:multus
 :wd:plu_s   irreg_adj3 nom/acc sg irreg_comp
 :wd:plu_ris   irreg_adj3 neut gen sg irreg_comp
@@ -1056,7 +1059,7 @@
 :wd:plu_ribus   irreg_adj3 neut abl pl irreg_comp
 
 :le:os#1
-:wd:o_s   irreg_nom3 neut
+:wd:o_s   irreg_nom3 neut nom/voc/acc
 :wd:o_ris   irreg_nom3 neut gen sg
 :wd:o_ri_   irreg_nom3 neut dat sg
 :wd:o_re   irreg_nom3 neut abl sg

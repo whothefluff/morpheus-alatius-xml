@@ -481,6 +481,7 @@ da^@imperf	irreg_pp1 imperf ind
 :vs:d	conj1 gerundive
 :vs:d conj1 part
 :vb:da^re	irreg_pp1 pres inf act
+:vb:da^ri_	irreg_pp1 pres inf pass
 dui@basvb2	irreg_pp1 pres subj act early
 :vs:de^d perfstem no_comp
 :vs:di^d perfstem comp_only

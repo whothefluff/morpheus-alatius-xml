@@ -1010,9 +1010,9 @@
 :le:antestor
 :de:antest	are_vb dep
 :le:antevenio
-:vs:ante_-ve^n	conj4
-:vs:ante_-ve_n perfstem
-:vs:ante_-vent pp4
+:vs:ante^-ve^n	conj4
+:vs:ante^-ve_n perfstem
+:vs:ante^-vent pp4
 :le:anteverto
 :vs:ante^-vert	conj3
 :vs:ante^-vert perfstem
@@ -1222,6 +1222,9 @@
 :vs:ad-scend perfstem
 :vs:ad-scens pp4
 
+:le:ardesco
+:vs:a_rde_sc	conj3
+
 :le:ascio#1
 :de:asci	are_vb
 :le:ascio#2
@@ -1239,7 +1242,7 @@
 :le:aspero
 :de:aspe^r	are_vb
 :le:aspicio
-:vs:a-spi^c	conj1
+:vs:a-spi^c	conj3_io
 :vs:a-spex	perfstem
 :vs:a-spect	pp4
 :le:asporto
@@ -1333,7 +1336,9 @@
 :le:assugo
 :vs:as-su_g	conj3
 :vs:as-su_ct pp4
-
+:le:assulto
+:de:as-sult	are_vb
+:de:ad-sult	are_vb orth
 :le:assumo
 :vs:ad-su_m	conj3
 :vs:as-su_m	conj3
@@ -1991,7 +1996,7 @@
 :le:circumfinio
 :de:circum-fi_n	ire_vb
 :le:circumfirmo
-:de:circum-fi_rm	are_vb
+:de:circum-firm	are_vb
 :le:circumflagro
 :de:circum-flagr	are_vb
 :le:circumflecto
@@ -2997,7 +3002,7 @@
 :le:concurvo
 :de:con-curv	are_vb
 :le:concustodio
-:de:con-custo_d	ire_vb
+:de:con-cu_sto_d	ire_vb
 :le:concutio
 :vs:con-cu^t	conj3_io
 :vs:con-cuss perfstem
@@ -3759,7 +3764,7 @@
 :vs:cor-ra_s perfstem
 :vs:cor-ra_s pp4
 :le:corregno
-:de:cor-regn	are_vb
+:de:cor-re_gn	are_vb
 :le:correpo
 :vs:cor-re_p	conj3
 :vs:cor-re_ps perfstem
@@ -3922,10 +3927,10 @@
 :le:cuspido
 :de:cuspi^d	are_vb
 :le:custodio
-:vs:custo_d	conj4
-:vs:custo_di_v perfstem
-:vs:custo_di^ perfstem
-:vs:custo_di_t pp4
+:vs:cu_sto_d	conj4
+:vs:cu_sto_di_v perfstem
+:vs:cu_sto_di^ perfstem
+:vs:cu_sto_di_t pp4
 :le:cyathisso
 :de:cy^a^thiss	are_vb
 :le:cymbalisso
@@ -4810,7 +4815,7 @@
 :vs:de_-tra_x perfstem
 :vs:de_-tra^ct pp4
 :le:detrecto
-:de:detrect are_vb 
+:de:de_trect are_vb 
 :le:detriumpho
 :de:de_-tri^umph	are_vb
 :le:detrudo
@@ -12947,9 +12952,9 @@
 :le:pretio
 :de:pre^ti	are_vb
 :le:principio
-:de:princi^pi	are_vb
+:de:pri_nci^pi	are_vb
 :le:principor
-:de:princi^p	are_vb dep
+:de:pri_nci^p	are_vb dep
 :le:privo
 :de:pri_v	are_vb
 :le:probito
@@ -13053,6 +13058,9 @@
 :vs:pro^fect pp4
 :le:proficisco
 :vs:pro^fi^ci_sc	conj3
+:le:pro^fiteor
+:vs:pro^fi^t	conj2
+:vs:pro^fess pp4
 :le:profligo#1
 :de:pro_-fli_g	are_vb
 :le:profligo#2
@@ -13973,7 +13981,7 @@
 :le:reglutino
 :de:re^-glu_ti^n	are_vb
 :le:regno
-:de:regn	are_vb
+:de:re_gn	are_vb
 :le:rego
 :vs:re^g	conj3
 :vs:re_x perfstem
@@ -15882,10 +15890,10 @@
 :vs:su_mt pp4
 
 :le:sumptifacio
-:vs:sumpti^-fa^c	conj3_io
-:vs:sumpti^-fe_c perfstem
+:vs:su_mpti^-fa^c	conj3_io
+:vs:su_mpti^-fe_c perfstem
 :le:sumptito
-:de:sumpti^t	are_vb
+:de:su_mpti^t	are_vb
 :le:suo
 :vs:su^	conj3
 :vs:su^ perfstem
@@ -16914,7 +16922,7 @@
 :vs:u_su_-re^ci^p	conj3_io
 :vs:u_su_-re^ce_p perfstem
 :le:usurpo
-:de:u_surp	are_vb
+:de:u_su_rp	are_vb
 :le:uto
 :vs:u_t	conj3
 :le:uvesco
@@ -17093,6 +17101,8 @@
 :de:ve_sa_n	ire_vb
 :le:vesco
 :vs:ve_sc	conj3
+:le:vesperasco
+:vs:vespe^ra_sc	conj3
 :le:vestigo
 :de:ve-sti_g	are_vb
 :le:vestio

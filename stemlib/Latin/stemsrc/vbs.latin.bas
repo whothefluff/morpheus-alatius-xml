@@ -797,8 +797,8 @@
 :vs:pre_ns pp4
 
 :le:procido#1
-:vs:proci^d	conj3
-:vs:proci^d	perfstem
+:vs:pro_ci^d	conj3
+:vs:pro_ci^d	perfstem
 
 :le:pudeo
 :vs:pud		conj2

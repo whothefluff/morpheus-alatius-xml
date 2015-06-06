@@ -32,7 +32,7 @@ alter@ille	irreg_nom2
 ali@ille irreg_nom2
 
 :le:ambo
-ambo_	numeral masc neut pl
+ambo_	numeral masc neut pl nom
 ambo_	numeral neut pl acc
 ambae	numeral	fem pl nom
 amba_s	numeral	fem pl acc
@@ -619,6 +619,9 @@ con-plu_r@decl3_i irreg_adj3 pl
 complu_r@decl3 irreg_adj3 pl
 con-plu_r@decl3 irreg_adj3 pl
 
+:le:maturus
+:aj:ma_tu_rrim	us_a_um irreg_superl
+
 :le:multus
 plu_s	irreg_adj3 nom/acc sg irreg_comp
 plu_r@decl3 irreg_adj3 neut gen sg irreg_comp
@@ -631,7 +634,7 @@ plu_r@decl3 irreg_adj3 neut abl pl irreg_comp
 plu_r@decl3 irreg_adj3 neut nom/acc pl irreg_comp
 
 :le:os#1
-o_s		irreg_nom3 neut neut/nom/voc/acc 
+o_s		irreg_nom3 neut nom/voc/acc
 o_r@decl3	irreg_nom3 neut sg
 o_r@decl3	irreg_nom3 neut pl nom/voc/acc
 o_r@decl3	irreg_nom3 neut pl dat

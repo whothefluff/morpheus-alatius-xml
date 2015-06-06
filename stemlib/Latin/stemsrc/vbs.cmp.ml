@@ -331,8 +331,8 @@ de-calesco decalesco
 de-carmino#1 decarmino
 de-carmino#2 decarmino
 de-cesso decessor
-de-cieo decies
-de-cio decies
+#de-cieo decies
+#de-cio decies
 de-co decas
 de-co deceris
 de-co decor
@@ -775,7 +775,7 @@ pro-consulo proconsularis
 pro-creo procreo
 pro-dito proditor
 pro-emineo proemineo
-pro-fateor profiteor
+#pro-fateor profiteor
 pro-fero profero
 pro-fluento profluenter
 pro-fugo profuga

@@ -517,7 +517,7 @@
 :no:Curv	us_i masc pers_name
 
 :le:custos
-:no:custo_	s_dis masc fem
+:no:cu_sto_	s_dis masc fem
 
 :le:daps
 :no:dap 	is_is fem
