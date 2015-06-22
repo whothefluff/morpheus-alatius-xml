@@ -31,6 +31,38 @@
 :vb:e_sse	irreg_pp1 pres inf act
 
 
+:le:comedo#1
+:vs:com-ed 		conj3
+:vs:com-e_d		perfstem
+:vs:com-e_s		pp4
+#
+:vb:com-e_s		irreg_pp1 2nd sg pres ind act archaic
+:vb:com-e_st	irreg_pp1 3rd sg pres ind act archaic
+:vb:com-e_stis	irreg_pp1 2nd pl pres ind act archaic
+#
+:vb:com-edim	irreg_pp1 1st sg pres subj act archaic
+:vb:com-edis	irreg_pp1 2nd sg pres subj act archaic
+:vb:com-edit	irreg_pp1 3rd sg pres subj act archaic
+:vb:com-edimus	irreg_pp1 1st pl pres subj act archaic
+:vb:com-editis	irreg_pp1 2nd pl pres subj act archaic
+:vb:com-edint	irreg_pp1 3rd pl pres subj act archaic
+#
+:vb:com-e_sse_s	irreg_pp1 2nd sg imperf subj act archaic
+:vb:com-e_sset	irreg_pp1 3rd sg imperf subj act archaic
+:vb:com-e_sse_mus	irreg_pp1 1st pl imperf subj act archaic
+:vb:com-e_sse_tis	irreg_pp1 2nd pl imperf subj act archaic
+:vb:com-e_ssent	irreg_pp1 3rd pl imperf subj act archaic
+#
+:vb:com-e_s		irreg_pp1 2nd sg pres imperat act archaic
+:vb:com-e_ste	irreg_pp1 2nd pl pres imperat act archaic
+#
+:vb:com-e_sto	irreg_pp1 2nd sg pres imperat act archaic
+:vb:com-e_sto	irreg_pp1 3rd sg pres imperat act archaic
+:vb:com-e_stote	irreg_pp1 2nd pl pres imperat act archaic
+#
+:vb:com-e_sse	irreg_pp1 pres inf act
+
+
 :le:volo#1
 :vb:volo_	irreg_pp1 pres ind act 1st sg
 :vb:vi_s	irreg_pp1 pres ind act 2nd sg

@@ -31,16 +31,23 @@
 
 :le:disicio
 :vs:disic	conj3_io
+:vs:disjic	conj3_io orth
 :vs:disje_c	perfstem
-:vs:dije_c	perfstem
-:vs:dijje_c	perfstem
+:vs:dije_c	perfstem orth
+:vs:dijje_c	perfstem orth
 :vs:disject	pp4
 :vs:diject	pp4
 
 :le:aspergo1
 :vs:asperg	conj3
+:vs:assperg	conj3 orth
+:vs:adsperg	conj3 orth
 :vs:aspers	perfstem
+:vs:asspers	perfstem orth
+:vs:adspers	perfstem orth
 :vs:aspers	pp4
+:vs:asspers	pp4 orth
+:vs:adspers	pp4 orth
 
 :le:transilio
 :de:transi^l	ire_vb
@@ -581,6 +588,8 @@
 
 :le:memini
 :vs:memin 	perfstem
+:vb:memento_	irreg_pp1 2nd sg fut imperat act
+:vb:memento_te	irreg_pp1 2nd pl fut imperat act
 
 :le:metuo
 :vs:metu	conj3
@@ -657,7 +666,10 @@
 :vb:no_rit	perfstem 3rd sg perf subj act contr
 :vs:no_t	pp4
 :vb:no_ris	perfstem 2nd sg futperf ind act contr
-:vb:no_ras	perfstem 2nd sg plup ind act contr
+:vb:no_ram	perfstem 1st sg plup ind act contr
+:vb:no_ra_s	perfstem 2nd sg plup ind act contr
+:vb:no_rat	perfstem 3rd sg plup ind act contr
+:vb:no_rant	perfstem 3rd pl plup ind act contr
 :vb:no_runt	perfstem 3rd pl futperf ind act contr
 :vb:no_sse	perfstem perf inf act contr
 :vs:gno_sc	conj3 orth
@@ -719,7 +731,9 @@
 
 :le:paeniteo
 :vs:paenit	conj2
+:vs:poenit	conj2 orth
 :vs:paenitu_	perfstem
+:vs:poenitu_	perfstem orth
 
 :le:pareo
 :vs:pa_r		conj2
@@ -867,6 +881,7 @@
 :vs:ru^	conj3
 :vs:ru^	perfstem
 :vs:ru^t	pp4
+:vs:ru^i^t	pp4
 
 :le:sacrufico
 :de:sa^_cru^fi^c	are_vb

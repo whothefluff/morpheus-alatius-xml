@@ -25,7 +25,7 @@ ai@imperf	irreg_pp1 ind act imperf early
 #
 :vb:eor	irreg_pp1 1st sg pres ind pass comp_only
 :vb:i_ris	irreg_pp1 2nd sg pres ind pass comp_only
-:vb:i_tur	irreg_pp1 3rd sg pres ind pass comp_only
+:vb:i_tur	irreg_pp1 3rd sg pres ind pass
 :vb:i_mur	irreg_pp1 1st pl pres ind pass comp_only
 :vb:i_mini_	irreg_pp1 2nd pl pres ind pass comp_only
 :vb:euntur	irreg_pp1 3rd pl pres ind pass comp_only
@@ -35,6 +35,7 @@ i_re@basvb2	irreg_pp1 imperf subj act
 #
 ea@basvb2	irreg_pp1 pres subj pass comp_only
 i_re@basvb2	irreg_pp1 imperf subj pass comp_only
+i_re_tur	irreg_pp1 3rd sg imperf subj pass
 #
 i_b@ofut	irreg_pp1 fut ind act
 i_ba@basvb2	irreg_pp1 imperf ind act
@@ -358,7 +359,7 @@ fore@basvb2	irreg_pp1 imperf subj act early
 e_ns    	irreg_pp1 pres part masc/fem/neut nom/voc sg comp_only
 e_ns    	irreg_pp1 pres part neut acc sg comp_only
 ente    	irreg_pp1 pres part masc/fem/neut abl sg comp_only
-ent@decl3	irreg_pp1 pres part masc fem neut comp_only
+ent@decl3_i	irreg_pp1 pres part masc fem neut comp_only
 
 
 :le:prosum
@@ -388,6 +389,40 @@ pro_der@ofut		fut ind act
 :vb:pro_desse		irreg_pp1 pres inf act
 :vs:pro_fut		pp4 fut part
 
+:le:supersum#1
+#
+:vb:supersum		irreg_pp1 1st sg pres ind act
+:vb:superes		irreg_pp1 2nd sg pres ind act
+:vb:superest		irreg_pp1 3rd sg pres ind act
+:vb:supersumus	irreg_pp1 1st pl pres ind act
+:vb:superestis	irreg_pp1 2nd pl pres ind act
+:vb:supersunt	irreg_pp1 3rd pl pres ind act
+#
+supersi@basvb2	irreg_pp1 pres subj act
+supersie@basvb2	irreg_pp1 pres subj act early
+:vb:superfuam	irreg_pp1 1st sg pres subj act early
+:vb:superfua_s	irreg_pp1 2nd sg pres subj act early
+:vb:superfuat	irreg_pp1 3rd sg pres subj act early
+:vb:superfuant	irreg_pp1 3rd pl pres subj act early
+#
+superera@basvb2	irreg_pp1 imperf ind act
+superesse@basvb2	irreg_pp1 imperf subj act
+superer@ofut		irreg_pp1 fut ind act
+:vs:superfu		perfstem
+#
+:vb:superes		irreg_pp1 2nd sg pres imperat act
+:vb:supereste	irreg_pp1 2nd pl pres imperat act
+#
+:vb:superesto_	irreg_pp1 2nd sg fut imperat act
+:vb:superesto_	irreg_pp1 3rd sg fut imperat act
+:vb:superesto_te	irreg_pp1 2nd pl fut imperat act
+:vb:supersunto_	irreg_pp1 3rd pl fut imperat act
+#
+:vb:superesse	irreg_pp1 pres inf act
+:vb:superfore	irreg_pp1 fut inf act
+superfore@basvb2	irreg_pp1 imperf subj act early
+:vs:superfut		pp4 fut part
+
 :le:possum
 #
 :vb:possum		irreg_pp1 1st sg pres ind act
@@ -408,6 +443,53 @@ poter@ofut		irreg_pp1 fut ind act
 pote_ns			irreg_pp1 pres part masc/fem/neut nom/voc sg
 pote_ns			irreg_pp1 pres part neut acc sg
 potent@decl3_i		irreg_pp1 pres part
+
+:le:absum
+#
+:vb:absum		irreg_pp1 1st sg pres ind act
+:vb:abes		irreg_pp1 2nd sg pres ind act
+:vb:abest		irreg_pp1 3rd sg pres ind act
+:vb:absumus	irreg_pp1 1st pl pres ind act
+:vb:abestis	irreg_pp1 2nd pl pres ind act
+:vb:absunt	irreg_pp1 3rd pl pres ind act
+#
+absi@basvb2	irreg_pp1 pres subj act
+absie@basvb2	irreg_pp1 pres subj act early
+:vb:a_fuam	irreg_pp1 1st sg pres subj act early
+:vb:a_fua_s	irreg_pp1 2nd sg pres subj act early
+:vb:a_fuat	irreg_pp1 3rd sg pres subj act early
+:vb:a_fuant	irreg_pp1 3rd pl pres subj act early
+:vb:abfuam	irreg_pp1 1st sg pres subj act early
+:vb:abfua_s	irreg_pp1 2nd sg pres subj act early
+:vb:abfuat	irreg_pp1 3rd sg pres subj act early
+:vb:abfuant	irreg_pp1 3rd pl pres subj act early
+#
+abera@basvb2	irreg_pp1 imperf ind act
+abesse@basvb2	irreg_pp1 imperf subj act
+aber@ofut		irreg_pp1 fut ind act
+:vs:a_fu		perfstem
+:vs:abfu		perfstem
+#
+:vb:abes		irreg_pp1 2nd sg pres imperat act
+:vb:abeste	irreg_pp1 2nd pl pres imperat act
+
+#
+:vb:abesto_	irreg_pp1 2nd sg fut imperat act
+:vb:abesto_	irreg_pp1 3rd sg fut imperat act
+:vb:abesto_te	irreg_pp1 2nd pl fut imperat act
+:vb:absunto_	irreg_pp1 3rd pl fut imperat act
+#
+:vb:abesse	irreg_pp1 pres inf act
+:vb:a_fore	irreg_pp1 fut inf act
+:vb:abfore	irreg_pp1 fut inf act
+a_fore@basvb2	irreg_pp1 imperf subj act early
+abfore@basvb2	irreg_pp1 imperf subj act early
+:vs:a_fut		pp4 fut part
+:vs:abfut		pp4 fut part
+abse_ns    	irreg_pp1 pres part masc/fem/neut nom/voc sg
+abse_ns    	irreg_pp1 pres part neut acc sg
+absente    	irreg_pp1 pres part masc/fem/neut abl sg
+absent@decl3_i	irreg_pp1 pres part masc fem neut
 
 :le:lubet
 :vs:lub	conj2

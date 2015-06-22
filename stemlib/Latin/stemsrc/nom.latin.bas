@@ -590,6 +590,7 @@
 :no:dom	us_i fem abl sg
 :no:dom	us_i fem acc sg
 :no:dom	us_i fem acc pl
+:no:dom	us_i fem gen pl
 :wd:domi_	adverb locative
 
 :le:donec
@@ -695,10 +696,6 @@
 :le:fides#2
 :no:fid is_is fem
 
-:le:flos
-:no:fl	or_oLris masc
-:wd:flo_s	irreg_nom3 masc nom sg
-
 :le:foris
 :no:for is_is fem
 
@@ -759,6 +756,7 @@
 
 :le:heres
 :no:he_r	es_eLdis	masc fem
+:no:hae_r	es_eLdis	masc fem orth
 
 :le:hiems
 :no:hi^em s_is fem
@@ -795,6 +793,7 @@
 :le:imber
 :no:imb	er_ris masc
 :wd:imbri er_ris masc abl sg
+:wd:imbrium er_ris masc gen pl
 
 :le:imperator
 :no:impe^ra_t	or_oLris masc
@@ -869,6 +868,7 @@
 :no:lacrim 	a_ae fem
 :no:dacrim 	a_ae fem early
 :no:lacru^m	a_ae fem early
+:no:lacrym 	a_ae fem orth
 
 :le:Laodicea
 :no:Laodice	a_ae fem
@@ -984,9 +984,9 @@
 :le:natis
 :no:nat	is_is fem
 
-:le:nascor
-:vs:na_t	us_i masc
-:vs:gna_t	us_i masc
+#:le:nascor
+#:vs:na_t	us_i masc
+#:vs:gna_t	us_i masc
 
 :le:ne
 :wd:ne_	adverb
@@ -1079,7 +1079,7 @@
 :le:optimas
 :aj:optima_ s_tis_adj
 :aj:optuma_ s_tis_adj
-:wd:optima_tium s_tis_adj gen pl masc fem neut
+:wd:optima_tum s_tis_adj gen pl masc fem neut
 
 :le:Orgia
 :no:org	ius_i neut pl
@@ -1092,23 +1092,13 @@
 :no:Ori	ens_entis masc fem geog_name
 
 :le:Theodericus
-:no:Theoderic us_i masc pers_name
+:no:Theoderi_c us_i masc pers_name
 
 :le:oscen
 :no:osc	en_inis masc
 
 :le:Panhormus
 :no:Panhorm	us_i masc
-
-:le:par
-:aj:par		0_adj3
-
-:le:compar
-:aj:com-par		0_adj3
-:aj:con-par		0_adj3
-
-:le:dispar
-:aj:dis-par		0_adj3
 
 :le:parens#2
 :no:par	ens_entis masc fem
@@ -1255,7 +1245,7 @@
 :le:promptus
 :aj:pro_mpt	us_a_um
 
-:le:pubes
+:le:pubes#1
 :wd:pu_be_s	irreg_adj3	masc fem nom sg
 :wd:pu_ber	irreg_adj3	masc fem nom sg
 :aj:pu_b	is_eris masc fem neut

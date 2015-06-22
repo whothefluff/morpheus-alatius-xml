@@ -325,14 +325,14 @@
 :wd:Isaachar	irreg_nom3 indecl masc pers_name
 
 :le:Ioannis
-:no:Ioann is_is masc pers_name
-:no:Iohann is_is masc pers_name
-:no:Iohann es_eLi masc pers_name
-:no:Ioann es_eLi masc pers_name
-:no:Joann is_is masc pers_name
-:no:Johann is_is masc pers_name
-:no:Johann es_eLi masc pers_name
-:no:Joann es_eLi masc pers_name
+:no:I^o_ann is_is masc pers_name
+:no:I^o_hann is_is masc pers_name
+:no:I^o_hann es_eLi masc pers_name
+:no:I^o_ann es_eLi masc pers_name
+:no:Jo_ann is_is masc pers_name
+:no:Jo_hann is_is masc pers_name
+:no:Jo_hann es_eLi masc pers_name
+:no:Jo_ann es_eLi masc pers_name
 
 
 :le:Auster
@@ -364,6 +364,5 @@
 :le:Assur
 :wd:Assur	irreg_nom3 indecl masc geog_name
 
-
-
-
+:le:Lutherus
+:no:Lu^the_r us_i masc pers_name
