@@ -354,7 +354,7 @@ if(preverb_of(&GkWord)[0] )
 */
 	
 	stripstemsep(curstem);
-	stripshortmark(curstem);
+	//	stripshortmark(curstem);
 	if( has_quant(curstem) || has_diaeresis(curstem) || hasaccent(curstem)) {
 		strcpy(markedstem,curstem);
 		stripquant(curstem);
