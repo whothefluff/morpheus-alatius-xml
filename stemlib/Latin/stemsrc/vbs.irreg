@@ -768,9 +768,6 @@
 :vb:pro_sunto_		irreg_pp1 3rd pl fut imperat act
 :vb:pro_desse		irreg_pp1 pres inf act
 :vs:pro_fut		pp4 fut part
-:vb:superesse	irreg_pp1 pres inf act
-:vb:superfore	irreg_pp1 fut inf act
-:vs:superfut		pp4 fut part
 :vb:pro_sim   irreg_pp1 pres subj act 1st sg
 :vb:pro_si_s   irreg_pp1 pres subj act 2nd sg
 :vb:pro_sit   irreg_pp1 pres subj act 3rd sg
@@ -790,17 +787,11 @@
 :vb:pro_dera_tis   irreg_pp1 imperf ind act 2nd pl
 :vb:pro_derant   irreg_pp1 imperf ind act 3rd pl
 :vb:pro_dessem   irreg_pp1 imperf subj act 1st sg
-:vb:superforem   irreg_pp1 imperf subj act 1st sg early
 :vb:pro_desse_s   irreg_pp1 imperf subj act 2nd sg
-:vb:superfore_s   irreg_pp1 imperf subj act 2nd sg early
 :vb:pro_desset   irreg_pp1 imperf subj act 3rd sg
-:vb:superforet   irreg_pp1 imperf subj act 3rd sg early
 :vb:pro_desse_mus   irreg_pp1 imperf subj act 1st pl
-:vb:superfore_mus   irreg_pp1 imperf subj act 1st pl early
 :vb:pro_desse_tis   irreg_pp1 imperf subj act 2nd pl
-:vb:superfore_tis   irreg_pp1 imperf subj act 2nd pl early
 :vb:pro_dessent   irreg_pp1 imperf subj act 3rd pl
-:vb:superforent   irreg_pp1 imperf subj act 3rd pl early
 :vb:pro_desser   irreg_pp1 imperf subj pass 1st sg
 :vb:pro_desse_ris   irreg_pp1 imperf subj pass 2nd sg
 :vb:pro_desse_re   irreg_pp1 imperf subj pass 2nd sg
@@ -808,6 +799,64 @@
 :vb:pro_desse_mur   irreg_pp1 imperf subj pass 1st pl
 :vb:pro_desse_mini_   irreg_pp1 imperf subj pass 2nd pl
 :vb:pro_dessentur   irreg_pp1 imperf subj pass 3rd pl
+
+:le:supersum#1
+:vb:supersum		irreg_pp1 1st sg pres ind act
+:vb:superes		irreg_pp1 2nd sg pres ind act
+:vb:superest		irreg_pp1 3rd sg pres ind act
+:vb:supersumus	irreg_pp1 1st pl pres ind act
+:vb:superestis	irreg_pp1 2nd pl pres ind act
+:vb:supersunt	irreg_pp1 3rd pl pres ind act
+:vb:superfuam	irreg_pp1 1st sg pres subj act early
+:vb:superfua_s	irreg_pp1 2nd sg pres subj act early
+:vb:superfuat	irreg_pp1 3rd sg pres subj act early
+:vb:superfuant	irreg_pp1 3rd pl pres subj act early
+:vs:superfu		perfstem
+:vb:superes		irreg_pp1 2nd sg pres imperat act
+:vb:supereste	irreg_pp1 2nd pl pres imperat act
+:vb:superesto_	irreg_pp1 2nd sg fut imperat act
+:vb:superesto_	irreg_pp1 3rd sg fut imperat act
+:vb:superesto_te	irreg_pp1 2nd pl fut imperat act
+:vb:supersunto_	irreg_pp1 3rd pl fut imperat act
+:vb:superesse	irreg_pp1 pres inf act
+:vb:superfore	irreg_pp1 fut inf act
+:vs:superfut		pp4 fut part
+:vb:supersim   irreg_pp1 pres subj act 1st sg
+:vb:supersiem   irreg_pp1 pres subj act 1st sg early
+:vb:supersi_s   irreg_pp1 pres subj act 2nd sg
+:vb:supersie_s   irreg_pp1 pres subj act 2nd sg early
+:vb:supersit   irreg_pp1 pres subj act 3rd sg
+:vb:supersiet   irreg_pp1 pres subj act 3rd sg early
+:vb:supersi_mus   irreg_pp1 pres subj act 1st pl
+:vb:supersie_mus   irreg_pp1 pres subj act 1st pl early
+:vb:supersi_tis   irreg_pp1 pres subj act 2nd pl
+:vb:supersie_tis   irreg_pp1 pres subj act 2nd pl early
+:vb:supersint   irreg_pp1 pres subj act 3rd pl
+:vb:supersient   irreg_pp1 pres subj act 3rd pl early
+:vb:superero_   irreg_pp1 fut ind act 1st sg
+:vb:supereris   irreg_pp1 fut ind act 2nd sg
+:vb:supererit   irreg_pp1 fut ind act 3rd sg
+:vb:supererimus   irreg_pp1 fut ind act 1st pl
+:vb:supereritis   irreg_pp1 fut ind act 2nd pl
+:vb:supererunt   irreg_pp1 fut ind act 3rd pl
+:vb:supereram   irreg_pp1 imperf ind act 1st sg
+:vb:superera_s   irreg_pp1 imperf ind act 2nd sg
+:vb:supererat   irreg_pp1 imperf ind act 3rd sg
+:vb:superera_mus   irreg_pp1 imperf ind act 1st pl
+:vb:superera_tis   irreg_pp1 imperf ind act 2nd pl
+:vb:supererant   irreg_pp1 imperf ind act 3rd pl
+:vb:superessem   irreg_pp1 imperf subj act 1st sg
+:vb:superforem   irreg_pp1 imperf subj act 1st sg early
+:vb:superesse_s   irreg_pp1 imperf subj act 2nd sg
+:vb:superfore_s   irreg_pp1 imperf subj act 2nd sg early
+:vb:superesset   irreg_pp1 imperf subj act 3rd sg
+:vb:superforet   irreg_pp1 imperf subj act 3rd sg early
+:vb:superesse_mus   irreg_pp1 imperf subj act 1st pl
+:vb:superfore_mus   irreg_pp1 imperf subj act 1st pl early
+:vb:superesse_tis   irreg_pp1 imperf subj act 2nd pl
+:vb:superfore_tis   irreg_pp1 imperf subj act 2nd pl early
+:vb:superessent   irreg_pp1 imperf subj act 3rd pl
+:vb:superforent   irreg_pp1 imperf subj act 3rd pl early
 
 :le:possum
 :vb:possum		irreg_pp1 1st sg pres ind act

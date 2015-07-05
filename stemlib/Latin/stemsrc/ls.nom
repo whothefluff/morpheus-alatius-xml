@@ -63543,7 +63543,7 @@ du^o^-de_-vi_ce_si^mus
 
 du^o^-de_-vi_ginti	
 :le:duodeviginti
-:wd:du^o^de_vi_ginti	numeral
+:wd:du^o^de_vi_ginti_	numeral
 
 du^o^-et-vi_ce_si^ma_ni		
 :le:duoetvicesimani
@@ -84648,7 +84648,7 @@ Hadru_me_tum		<orth type=alt>Adru_m-</orth>
 
 Hadrumetus		
 :le:Hadrumetus
-:no:Hadrumet	us_i fem
+:no:Hadru_me_t	us_i fem
 
 
 Hadru_me_ti_nus		<orth type=alt>Adr-</orth>	
@@ -87477,6 +87477,11 @@ hi_c		<itype>haec, ho_c</itype>
 hi_ce, haece		<orth type=alt>ho_ce</orth>	<orth>Hoc est</orth>	<itype>serves to annex a more particular explanation of what has been said</itype>
 Hoc est		<orth>e^rat</orth>	<orth type=alt>quod</orth>	<itype>with the accessory idea of indignation or reproach</itype>
 ha_c		<orth>hi_c</orth>	<orth>heic</orth>	<orth>hicine</orth>	<orth>huc</orth>	<orth>hoc</orth>
+
+:le:hic
+:wd:hi_c	adverb
+
+
 Hi^ce^ta_on		
 :le:Hicetaon
 :no:Hi^ce^ta_	oLn_onis masc
@@ -210687,7 +210692,7 @@ Tro_s#1		<itype>Tro_is</itype>	<gen>m.</gen>
 Tro_ja		<orth>Tro_ia</orth>	
 :le:Troja
 :no:Troj	a_ae fem
-:no:Tro_i	a_ae fem orth
+#:no:Tro_i	a_ae fem orth
 
 
 
@@ -210698,7 +210703,7 @@ Tro_i^us
 
 Tro_ja_nus		
 :le:Troianus
-:aj:Tro_ia_n	us_a_um
+#:aj:Tro_ia_n	us_a_um
 :aj:Troja_n	us_a_um
 
 	<pos>Subst.</pos>
@@ -213077,7 +213082,7 @@ unde_vi_ce_si^mus		<orth>unde_vi_ge_si^-mus</orth>
 
 unde_vi_ginti		<pos>num. adj.</pos>
 :le:undevigniti
-:wd:u_nde_vi_ginti	numeral
+:wd:u_nde_vi_ginti_	numeral
 
 undi^co^la		
 :le:undicola

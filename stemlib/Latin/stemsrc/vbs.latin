@@ -1053,9 +1053,13 @@
 :vs:ap-pang	conj3
 :le:apparesco
 :vs:ap-pa_re_sc	conj3
+:le:appareo
+:vs:ap-pa_r	conj2
+:vs:ap-pa_ru^	perfstem
+:vs:ap-pa_ri^t	pp4
 :le:appario
 :vs:ap-pa^r	conj3_io
-:le:appario
+:le:apparo
 :de:ap-pa^r	are_vb
 :le:appectoro
 :de:ap-pecto^r	are_vb
@@ -4811,7 +4815,8 @@
 :le:detondeo
 :vs:de_-tond	conj2
 :vs:de_-to^tond perfstem
-:vs:de_-a pp4
+:vs:de_-tond perfstem
+:vs:de_-tons pp4
 :le:detono
 :vs:de_-to^n	conj1
 :vs:de_-to^nu^ perfstem
@@ -15425,7 +15430,7 @@
 :le:subdeligo
 :vs:subde_li^g	conj3
 :le:subdescendo
-:vs:subdescend	conj3
+:vs:subde_scend	conj3
 :le:subdiffido
 :vs:sub-diffi_d	conj3
 :le:subdistinguo
