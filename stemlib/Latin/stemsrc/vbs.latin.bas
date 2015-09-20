@@ -175,7 +175,7 @@
 
 :le:caedo
 :vs:caed	conj3 no_comp
-:vs:cecid	perfstem has_redupl no_comp
+:vs:ceci_d	perfstem has_redupl no_comp
 :vs:cecaed	perfstem has_redupl no_comp
 :vs:caes	pp4 has_redupl no_comp
 :vs:ci_d	conj3 comp_only
@@ -591,6 +591,9 @@
 :vb:memento_	irreg_pp1 2nd sg fut imperat act
 :vb:memento_te	irreg_pp1 2nd pl fut imperat act
 
+:le:commemini
+:vs:commemin 	perfstem
+
 :le:metuo
 :vs:metu	conj3
 :vs:metu	perfstem
@@ -732,8 +735,8 @@
 :le:paeniteo
 :vs:paenit	conj2
 :vs:poenit	conj2 orth
-:vs:paenitu_	perfstem
-:vs:poenitu_	perfstem orth
+:vs:paenitu	perfstem
+:vs:poenitu	perfstem orth
 
 :le:pareo
 :vs:pa_r		conj2
@@ -851,9 +854,9 @@
 :vs:rept	perfstem comp_only
 
 :le:recido#1
-:vs:recid	conj3
-:vs:recci_d	perfstem
-:vs:reci_d	perfstem
+:vs:reci^d	conj3
+:vs:recci^d	perfstem
+:vs:reci^d	perfstem
 :vs:reci_s	pp4
 :vs:reca_s	pp4
 
@@ -911,7 +914,7 @@
 :le:sapio
 :vs:sap		conj3_io
 :vs:sapi_v	perfstem
-:vs:sapi_	perfstem
+:vs:sapi^	perfstem
 
 :le:satisfacio
 :vs:satisfac conj3_io

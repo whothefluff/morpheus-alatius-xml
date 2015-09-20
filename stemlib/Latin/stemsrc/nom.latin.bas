@@ -79,7 +79,7 @@
 :wd:sexdecim numeral
 
 :le:paluster
-:aj:palust	er_ris_re
+:aj:palu_st	er_ris_re
 
 :le:apocletus
 :no:apoclet	us_i masc
@@ -454,7 +454,7 @@
 
 :le:Claudius
 :aj:Claud	ius_ia_ium
-:aj:Clod	ius_ia_ium
+:aj:Clo_d	ius_ia_ium
 
 :le:Cleomenes
 :no:Cleomen es_ae masc
@@ -470,7 +470,7 @@
 
 :le:conjunx
 :wd:conjunx	irreg_nom3 fem nom sg masc
-:no:conju^	x_gis	fem masc
+:no:conju	x_gis	fem masc
 :no:conju^g	a_ae fem masc
 
 :le:collegium
@@ -756,7 +756,6 @@
 
 :le:heres
 :no:he_r	es_eLdis	masc fem
-:no:hae_r	es_eLdis	masc fem orth
 
 :le:hiems
 :no:hi^em s_is fem
@@ -1162,9 +1161,9 @@
 :no:Pip	a_ae fem
 
 :le:Piraeeus
-:no:Piraee	us_i masc
-:no:Pirae	us_i masc
-:no:Pirae	us_i neut pl
+:no:Pi_raee	us_i masc
+:no:Pi_rae	us_i masc
+:no:Pi_rae	us_i neut pl
 
 :le:pius
 :aj:pi	us_a_um
@@ -1310,7 +1309,7 @@
 :aj:re_ct	us_a_um
 
 :le:remex
-:no:rem		ex_igis masc
+:no:re_m		ex_igis masc
 
 :le:requies
 :no:requi	es_eLi fem acc sg

@@ -12306,7 +12306,10 @@
 #
 #:le:Pedaeum
 #:no:Pedae us_i neut
-#
+
+:le:Pedaeus
+:no:Pe_dae us_i masc pers_name
+
 #:le:Pedalie
 #:no:Pedali e_es fem
 #
@@ -17465,7 +17468,9 @@
 #:no:Trit ius_i neut
 #
 ##noanalysis:Triton
-#
+:le:Triton
+:no:Tri_to_n 0_is masc pers_name
+
 #:le:Triturrita
 #:no:Triturrit a_ae fem
 #
