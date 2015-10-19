@@ -134,7 +134,9 @@
 :le:abscondo
 :vs:abs-cond	conj3
 :vs:abs-cond perfstem
-:vs:abs-a pp4
+:vs:abs-condi^d perfstem
+:vs:abs-condi^t pp4
+:vs:abs-cons pp4
 :le:absento
 :de:absent	are_vb
 :le:absisto
@@ -267,7 +269,8 @@
 :le:accurro
 :vs:ac-curr	conj3
 :vs:ac-cu^curr perfstem
-:vs:ac-a pp4
+:vs:ac-curr perfstem
+:vs:ac-curs pp4
 :le:accusito
 :de:accu_si^t	are_vb
 :le:accuso
@@ -471,7 +474,7 @@
 :le:admaturo
 :de:ad-ma_tu_r	are_vb
 :le:admeo
-:de:ad-m	are_vb
+:de:ad-me	are_vb
 :le:admetior
 :vs:ad-me_t	conj4
 :vs:ad-mens pp4
@@ -1583,7 +1586,7 @@
 :le:balo
 :de:ba_l	are_vb
 :le:balteo
-:de:bal-t	are_vb
+:de:bal-te	are_vb
 :le:baptizo
 :de:bapti_z	are_vb
 :le:barbesco
@@ -1740,7 +1743,7 @@
 :le:calvor
 :vs:calv	conj3
 :le:calvo
-:vs:cal-v	conj3
+:vs:calv	conj3
 :le:cambio
 :de:camb	ire_vb
 :le:camero
@@ -2070,7 +2073,7 @@
 :le:circumlustro
 :de:circum-lu_str	are_vb
 :le:circummeo
-:de:circum-m	are_vb
+:de:circum-me	are_vb
 :le:circummetior
 :de:circum-me_t	ire_vb dep
 :le:circummingo
@@ -2609,7 +2612,7 @@
 :le:commentor#1
 :de:comment	are_vb dep
 :le:commeo
-:de:com-m	are_vb
+:de:com-me	are_vb
 :le:commercior
 :de:commerci	are_vb dep
 :le:commercor
@@ -2796,7 +2799,7 @@
 :le:complaceo
 :vs:com-pla^c	conj2
 :vs:com-pla^cu^ perfstem
-:vs:com-a pp4
+:vs:com-pla^ci^t pp4
 :le:complaco
 :de:com-pla_c	are_vb
 :le:complano
@@ -4401,7 +4404,7 @@
 :le:demento
 :de:de_ment	are_vb
 :le:demeo
-:de:de_-m	are_vb
+:de:de_-me	are_vb
 :le:demereo
 :vs:de_-me^r	conj2
 :vs:de_-me^ru^ perfstem
@@ -5166,7 +5169,7 @@
 :le:discurro
 :vs:dis-curr	conj3
 :vs:dis-curr perfstem
-:vs:dis-a pp4
+:vs:dis-curs pp4
 :le:discurso
 :de:discurs	are_vb
 :le:discutio
@@ -5712,7 +5715,7 @@
 :le:elicio
 :vs:e_-li^c	conj3_io
 :vs:e_-li^cu^ perfstem
-:vs:e_-a pp4
+:vs:e_-li^ci^t pp4
 :le:elido
 :vs:e_-li_d	conj3
 :vs:e_-li_s perfstem
@@ -5815,7 +5818,7 @@
 :vs:e_-ment	conj4
 :vs:e_-menti_t pp4
 :le:emeo
-:de:e_-m	are_vb
+:de:e_-me	are_vb
 :le:emercor
 :de:e_-merc	are_vb dep
 :le:emereo
@@ -6783,7 +6786,7 @@
 :le:fabricor
 :de:fa_^bri^c	are_vb dep
 :le:fabrico
-:de:fa^bri^-c	are_vb
+:de:fa^bri^c	are_vb
 :le:fabrio
 :vs:fa_^br	conj4
 :vs:fa_^bri_v perfstem
@@ -8012,7 +8015,7 @@
 :le:incurro
 :vs:in-curr	conj3
 :vs:in-curr perfstem
-:vs:in-a pp4
+:vs:in-curs pp4
 :le:incursito
 :de:incursi^t	are_vb
 :le:incurso
@@ -8790,7 +8793,7 @@
 :le:intermaneo
 :vs:inter-ma^n	conj2
 :le:intermeo
-:de:inter-m	are_vb
+:de:inter-me	are_vb
 :le:intermico
 :vs:inter-mi^c	conj1
 :vs:inter-mi^cu^ perfstem
@@ -9967,8 +9970,8 @@
 :vs:mi^se^ru^ perfstem
 :vs:mi^se^ri^t pp4
 :le:misereor
-:vs:mi^se^-r	conj2
-:vs:mi^se^-ri^t pp4
+:vs:mi^se^r	conj2
+:vs:mi^se^ri^t pp4
 :le:miseresco
 :vs:mi^se^re_sc	conj3
 :le:misero
@@ -11025,7 +11028,7 @@
 :le:palpo#1
 :de:palp	are_vb
 :le:palpor
-:de:pal-p	are_vb dep
+:de:palp	are_vb dep
 :le:pampino
 :de:pampi^n	are_vb
 :le:pandiculor
@@ -11605,7 +11608,7 @@
 :le:permaturo
 :de:per-ma_tu_r	are_vb
 :le:permeo
-:de:per-m	are_vb
+:de:per-me	are_vb
 :le:permereo
 :vs:per-me^r	conj2
 :vs:per-me^ru^ perfstem
@@ -11636,7 +11639,8 @@
 :le:permulceo
 :vs:per-mulc	conj2
 :vs:per-muls perfstem
-:vs:per-s pp4
+:vs:per-muls pp4
+:vs:per-mulct pp4
 :le:permundo
 :de:per-mund	are_vb
 :le:permunio
@@ -12645,7 +12649,8 @@
 :le:praemordeo
 :vs:prae-mord	conj2
 :vs:prae-mors perfstem
-:vs:prae-a pp4
+:vs:prae-mord perfstem
+:vs:prae-mors pp4
 :le:praemorior
 :vs:prae-mo^r	conj3_io
 :vs:prae-mo^rtu pp4
@@ -12896,7 +12901,7 @@
 :le:praeterlambo
 :vs:praeter-lamb	conj3
 :le:praetermeo
-:de:praeter-m	are_vb
+:de:praeter-me	are_vb
 :le:praetermitto
 :vs:praeter-mitt	conj3
 :vs:praeter-mi_s perfstem
@@ -12928,7 +12933,7 @@
 :vs:prae-to^tond perfstem
 :le:praetorqueo
 :vs:prae-torqu	conj2
-:vs:prae-t pp4
+:vs:prae-tort pp4
 :le:praetorreo
 :vs:prae-torr	conj2
 :le:praetrunco
@@ -13067,7 +13072,8 @@
 :le:procurro
 :vs:pro_-curr	conj3
 :vs:pro_-cu^curr perfstem
-:vs:pro_-a pp4
+:vs:pro_-curr perfstem
+:vs:pro_-curs pp4
 :le:procurso
 :de:pro_curs	are_vb
 :le:procurvo
@@ -14152,7 +14158,7 @@
 :le:rememoror
 :de:re^me^mo^r	are_vb dep
 :le:remeo
-:de:re^-m	are_vb
+:de:re^-me	are_vb
 :le:remergo
 :vs:re^-merg	conj3
 :le:remetior
@@ -15589,7 +15595,7 @@
 :le:subnecto
 :vs:sub-nect	conj3
 :vs:sub-nexu perfstem
-:vs:sub-x pp4
+:vs:sub-nex pp4
 :le:subnego
 :de:sub-ne^g	are_vb
 :le:subnervo
@@ -15689,7 +15695,7 @@
 :vs:sub-te_x perfstem
 :le:subtendo
 :vs:sub-tend	conj3
-:vs:sub-t pp4
+:vs:sub-tent pp4
 :le:subteneo
 :vs:sub-te^n	conj2
 :le:subteranhelo
@@ -15720,7 +15726,7 @@
 :le:subterluo
 :vs:subter-lu^	conj3
 :le:subtermeo
-:de:subter-m	are_vb
+:de:subter-me	are_vb
 :le:subtermitto
 :vs:subter-mitt	conj3
 :le:subtermoveo
@@ -16209,7 +16215,7 @@
 :le:supermando
 :vs:su^per-mand	conj3
 :le:supermeo
-:de:su^per-m	are_vb
+:de:su^per-me	are_vb
 :le:supermetior
 :vs:su^per-me_t	conj4
 :vs:su^per-mens pp4
@@ -16629,7 +16635,7 @@
 :le:tintinno
 :de:tintinn	are_vb
 :le:tintinnio
-:de:tintin-n	ire_vb
+:de:tintinn	ire_vb
 :le:titillo
 :de:ti_till	are_vb
 :le:titubo
@@ -16786,7 +16792,7 @@
 :le:transluceo
 :vs:trans-lu_c	conj2
 :le:transmeo
-:de:trans-m	are_vb
+:de:trans-me	are_vb
 :le:transmigro
 :de:trans-mi_^gr	are_vb
 :le:transmitto
