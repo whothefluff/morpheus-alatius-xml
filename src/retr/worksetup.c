@@ -230,12 +230,12 @@ static char  SCCSID[] = "@(#)worksetup.c	2.1  9/26/87";
         if( isfield( s , "ti:" ) ) {
                 s += 3;
                 strncpy( wk->wkname , s , sizeof wk->wkname - 1);
-                return;
+                return(0);
         }
         if( isfield( s , "wk:" ) ) {
                 s += 3;
                 wk->wknum = atoi( s );
-                return;
+                return(0);
         }
 
 

@@ -13,7 +13,7 @@ char * keys;
 	ScanAsciiKeys(keys,gstr,avoidgstr,NULL,NULL);
 	wf = forminfo_of(avoidgstr);
 	if( person_of(wf) || number_of(wf) || mood_of(wf) || tense_of(wf) || voice_of(wf) || case_of(wf) )
-		return;
+		return(0);
 		
 	wf = forminfo_of(gstr);
 	

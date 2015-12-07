@@ -162,14 +162,14 @@
         if( w1 ) {
                 if( w2 ) {
                         fprintf(f,"wd:%s%sw2:%s%s", w1 , del , w2 , del );
-                        return;
+                        return(0);
                 }
 /*
                         fprintf(f,"wd:%s%s", w1 , del );
 */
                 if( *w1 )
                         fprintf(f,"wd:%s%s", w1 , del );
-                return;
+                return(0);
         }
 }
 
@@ -180,12 +180,12 @@
 {
         if( srch->Print_ref[0] ) {
                 fprintf(f,"re:\"%s\"%s", srch->Print_ref , del );
-                return;
+                return(0);
         }
         if( srch->endref[0] ) {
                 fprintf(f,"r1:\"%s\"%s", srch->Print_ref , del );
                 fprintf(f,"r2:\"%s\"%s", srch->endref , del );
-                return;
+                return(0);
         }
 }
 

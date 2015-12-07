@@ -33,7 +33,7 @@ InitGstrMem(void)
 
 /*
 	if( (d=AndDialect((Dialect)(ATTIC),dialect_of(gstr))) < 0) {
-			return;
+			return(0);
 	}
 */
 	if( cur_endcnt >= MAXENDINGS ) {

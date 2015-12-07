@@ -557,7 +557,7 @@ simpleaugment(char *s, bool syllabic)
 	gkform = CreatGkword(6);
 	if( ! gkform ) {
 		fprintf(stderr,"no memory for gkform in simpleaugment of [%s]\n",s);
-		return;
+		return(0);
 	}
 		
 	set_workword(gkform,s);
@@ -603,7 +603,7 @@ simpleredupit(char *s, int syllabic, int redupc)
 	gkform = CreatGkword(6);
 	if( ! gkform ) {
 		fprintf(stderr,"no memory for gkform in simpleaugment of [%s]\n",s);
-		return;
+		return(0);
 	}
 		
 	set_workword(gkform,s);

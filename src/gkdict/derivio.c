@@ -323,7 +323,7 @@ checkmultredups(char *asuffkeys, char *dstem, char *dstemkeys, char *suffix, cha
 	gstr = CreatGkString(1);
 	if( ! gkform ) {
 		fprintf(stderr,"no memory for gkform in checkmultredups of [%s]\n",asuffkeys);
-		return;
+		return(0);
 	}
 		
 	set_workword(gkform,dstem);

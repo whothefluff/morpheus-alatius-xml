@@ -431,7 +431,7 @@ init_pnametab()
 	char line[BUFSIZ];
 	int i = 0;
 
-	if( pnames ) return;
+	if( pnames ) return(0);
 	for(pnames=0;pnames<10000;pnames++) {
 		if( ! fgets(line,sizeof line,fpnames) ) {
 			if( pnames == 1 ) pnames = 0;
