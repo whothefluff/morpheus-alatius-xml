@@ -130,10 +130,10 @@
 
 :le:suus
 :aj:su^	us_a_um
-:wd:suo_met us_a_um dat abl masc neut sg
-:wd:sua_met us_a_um dat abl fem sg
-:wd:suo_pte us_a_um dat abl masc neut sg
-:wd:sua_pte us_a_um dat abl fem sg
+:wd:su^o_met us_a_um dat abl masc neut sg
+:wd:su^a_met us_a_um dat abl fem sg
+:wd:su^o_pte us_a_um dat abl masc neut sg
+:wd:su^a_pte us_a_um dat abl fem sg
 
 :le:proconsul
 :no:pro_consul 0_is masc

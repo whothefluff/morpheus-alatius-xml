@@ -1280,7 +1280,7 @@
 :le:ego
 :wd:ego   pron1 masc/fem nom sg
 :wd:mei_   pron1 masc/fem gen sg
-:wd:mihi   pron1 masc/fem dat sg
+:wd:mihi_^   pron1 masc/fem dat sg
 :wd:mi_   pron1 masc/fem dat sg
 :wd:me_   pron1 masc/fem acc sg
 :wd:me_me_   pron1 masc/fem acc sg
@@ -1293,7 +1293,7 @@
 :le:nos
 :wd:egomet   pron1 masc/fem nom sg
 :wd:mei_met   pron1 masc/fem gen sg
-:wd:mihimet   pron1 masc/fem dat sg
+:wd:mihi_^met   pron1 masc/fem dat sg
 :wd:no_s   pron1 masc/fem nom pl
 :wd:no_smet   pron1 masc/fem nom/acc pl
 :wd:nostrum   pron1 masc/fem gen pl
@@ -1310,7 +1310,7 @@
 :wd:tu_te   pron2 masc/fem nom sg
 :wd:tu_temet   pron2 masc/fem nom sg
 :wd:tui_   pron2 masc/fem gen sg
-:wd:tibi   pron2 masc/fem dat sg
+:wd:tibi_^   pron2 masc/fem dat sg
 :wd:te_   pron2 masc/fem acc sg
 :wd:te_d   pron2 masc/fem acc sg early
 :wd:te_   pron2 masc/fem abl sg
@@ -1326,15 +1326,15 @@
 :wd:vo_bi_scum   pron2 masc/fem abl pl
 
 :le:sui
-:wd:sui_   pron3 masc/fem gen sg
+:wd:su^i_   pron3 masc/fem gen sg
 :wd:sibi   pron3 masc/fem dat sg
 :wd:se_   pron3 masc/fem acc sg
 :wd:se_se_   pron3 masc/fem acc sg
 :wd:se_   pron3 masc/fem abl sg
 :wd:se_se_   pron3 masc/fem abl sg
 :wd:se_cum   pron3 masc/fem abl sg
-:wd:sui_   pron3 masc/fem gen pl
-:wd:sibi   pron3 masc/fem dat pl
+:wd:su^i_   pron3 masc/fem gen pl
+:wd:sibi_^   pron3 masc/fem dat pl
 :wd:se_   pron3 masc/fem acc pl
 :wd:se_se_   pron3 masc/fem acc pl
 :wd:se_   pron3 masc/fem abl pl
@@ -1543,14 +1543,12 @@
 :wd:su_i_   irreg_nom3 masc/fem dat sg
 :wd:su_em   irreg_nom3 masc/fem acc sg
 :wd:su_e   irreg_nom3 masc/fem abl sg
-:wd:sue_s   irreg_nom3 masc/fem nom pl
-:wd:su_bus   irreg_nom3 masc/fem dat pl
-:wd:su^bus   irreg_nom3 masc/fem dat pl
-:wd:suibus   irreg_nom3 masc/fem dat pl
-:wd:sue_s   irreg_nom3 masc/fem acc pl
-:wd:su_bus   irreg_nom3 masc/fem abl pl
-:wd:su^bus   irreg_nom3 masc/fem abl pl
-:wd:suibus   irreg_nom3 masc/fem abl pl
+:wd:su^e_s   irreg_nom3 masc/fem nom pl
+:wd:su_^bus   irreg_nom3 masc/fem dat pl
+:wd:su^ibus   irreg_nom3 masc/fem dat pl
+:wd:su^e_s   irreg_nom3 masc/fem acc pl
+:wd:su_^bus   irreg_nom3 masc/fem abl pl
+:wd:su^ibus   irreg_nom3 masc/fem abl pl
 
 :le:tres
 :wd:tre_s   numeral masc/fem nom pl

@@ -214,7 +214,7 @@
 
 :le:censeo#1
 :vs:cens	conj2
-:vs:censu	perfstem
+:vs:censu^	perfstem
 :vs:cens	pp4
 
 :le:cieo
@@ -749,8 +749,9 @@
 :vs:pa_st	pp4
 
 :le:pigeo
-:vs:pig		conj2 
-:vs:pigit	pp4
+:vs:pi^g	conj2
+:vs:pi^gu^ perfstem
+:vs:pi^gi^t pp4
 
 :le:pello
 :vs:pell	conj3
@@ -774,7 +775,7 @@
 
 :le:pono
 :vs:po_n 	conj3
-:vs:po^su 	perfstem
+:vs:po^su^ 	perfstem
 :vs:post 	pp4
 :vs:posit 	pp4
 
@@ -782,7 +783,6 @@
 :vs:pla^c conj2
 :vs:pla^cu^ perfstem
 :vs:pla^ci^t pp4
-#:vs:pla^ci_t pp4
 
 :le:plico
 :vs:plic	conj1
@@ -973,9 +973,9 @@
 :vs:sub-sti^tu_t pp4
 
 :le:suesco
-:vs:su^e_sc	conj3
-:vs:su^e_v	perfstem
-:vs:su^e_t	pp4
+:vs:sue_sc	conj3
+:vs:sue_v	perfstem
+:vs:sue_t	pp4
 :vb:sue_sti	irreg_pp2 2nd sg perf ind act
 :vb:sue_stis	irreg_pp2 2nd pl perf ind act
 :vb:sue_runt	irreg_pp2 3rd pl perf ind act

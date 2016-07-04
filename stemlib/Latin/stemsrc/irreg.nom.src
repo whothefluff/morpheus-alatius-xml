@@ -703,7 +703,7 @@ e@decl2 pron3 masc neut pl
 :le:ego
 ego	pron1 masc fem nom sg
 mei_	pron1 masc fem gen sg
-mihi	pron1 masc fem dat sg
+mihi_^	pron1 masc fem dat sg
 mi_	pron1 masc fem dat sg
 me_	pron1 masc fem acc sg
 me_me_	pron1 masc fem acc sg
@@ -724,7 +724,7 @@ no_bi_scum pron1 masc fem abl pl
 
 egomet	pron1 masc fem nom sg
 mei_met	pron1 masc fem gen sg
-mihimet	pron1 masc fem dat sg
+mihi_^met	pron1 masc fem dat sg
 no_bi_smet	pron1 masc fem abl pl
 no_bi_smet	pron1 masc fem dat pl
 no_smet	pron1 masc fem nom acc pl
@@ -732,7 +732,7 @@ no_smet	pron1 masc fem nom acc pl
 :le:tu
 tu_	pron2 masc fem nom voc sg
 tui_	pron2 masc fem gen sg
-tibi	pron2 masc fem dat sg
+tibi_^	pron2 masc fem dat sg
 te_	pron2 masc fem acc sg
 te_d	pron2 masc fem acc sg early
 te_	pron2 masc fem abl sg
@@ -750,16 +750,16 @@ vo_bi_scum pron2 masc fem abl pl
 vo_smet	pron2 masc fem nom acc pl
 
 :le:sui
-sui_	pron3 masc fem gen sg
-sibi	pron3 masc fem dat sg
+su^i_	pron3 masc fem gen sg
+sibi_^	pron3 masc fem dat sg
 se_	pron3 masc fem acc sg
 se_se_	pron3 masc fem acc sg
 se_	pron3 masc fem abl sg
 se_se_	pron3 masc fem abl sg
 se_cum	pron3 masc fem abl sg
 
-sui_	pron3 masc fem gen pl
-sibi	pron3 masc fem dat pl
+su^i_	pron3 masc fem gen pl
+sibi_^	pron3 masc fem dat pl
 se_	pron3 masc fem acc pl
 se_se_	pron3 masc fem acc pl
 se_	pron3 masc fem abl pl
@@ -853,14 +853,12 @@ sen@comp_adj  	irreg_nom3 masc
 :le:sus
 su_s		irreg_nom3 masc fem nom sg
 su_@decl3	irreg_nom3 masc fem sg
-sue_s		irreg_nom3 masc fem nom pl
-sue_s		irreg_nom3 masc fem acc pl
-su_bus		irreg_nom3 masc fem dat pl
-su^bus		irreg_nom3 masc fem dat pl
-suibus		irreg_nom3 masc fem dat pl
-su_bus		irreg_nom3 masc fem abl pl
-su^bus		irreg_nom3 masc fem abl pl
-suibus		irreg_nom3 masc fem abl pl
+su^e_s		irreg_nom3 masc fem nom pl
+su^e_s		irreg_nom3 masc fem acc pl
+su_^bus		irreg_nom3 masc fem dat pl
+su^ibus		irreg_nom3 masc fem dat pl
+su_^bus		irreg_nom3 masc fem abl pl
+su^ibus		irreg_nom3 masc fem abl pl
 
 :le:tres
 tre_s		numeral masc fem nom pl

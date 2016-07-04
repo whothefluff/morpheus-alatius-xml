@@ -2,7 +2,7 @@
 :no:Tadolic us_a_um geog_name
 
 :le:Ficuleanus
-:no:Ficulean us_i masc geog_name
+:no:Ficulea_n us_i masc geog_name
 
 :le:Pindenessus
 :no:Pindiness us_i masc geog_name
@@ -66,7 +66,7 @@
 :no:Lesbi a_ae fem pers_name
 
 :le:Academicus
-:no:Academic us_a_um is_group
+:no:Acade_mic us_a_um is_group
 
 :le:Pythocles
 :no:Pythocl es_is masc pers_name
@@ -84,7 +84,7 @@
 :no:Ascylt os_i masc pers_name
 
 :le:Quartilla
-:no:Quartill a_ae fem pers_name
+:no:Qua_rtill a_ae fem pers_name
 
 :le:Scintilla
 :no:Scintill a_ae fem pers_name
@@ -136,7 +136,7 @@
 :wd:Hiericho	irreg_nom3 indecl masc geog_name
 
 :le:Chremes
-:no:Chrem es_eLi masc pers_name
+:no:Chre^m es_eLi masc pers_name
 
 :le:Mercius
 :no:Merci us_i ethnic masc
@@ -173,11 +173,12 @@
 :wd:Bethleem	irreg_nom3 indecl masc geog_name
 
 :le:Israel
-:wd:Israhel	irreg_nom3 indecl masc geog_name
+:wd:Isra_e_l	irreg_nom3 indecl masc geog_name
+:wd:Isra_he_l	irreg_nom3 indecl masc geog_name
 
 :le:Jacobus
-:wd:Jacob	irreg_nom3 indecl masc pers_name
-:wd:Iacob	irreg_nom3 indecl masc pers_name
+:wd:Ja_co_b	irreg_nom3 indecl masc pers_name
+:wd:Ia_co_b	irreg_nom3 indecl masc pers_name
 
 :le:Samuel
 :wd:Samuel	irreg_nom3 indecl masc pers_name
@@ -232,7 +233,7 @@
 :no:Phara oLn_oLnis masc pers_name
 
 :le:Spiritus
-:no:Spirit us_us masc pers_name
+:no:Spi_rit us_us masc pers_name
 
 :le:Moses
 :no:Mos 	es_eIi masc pers_name

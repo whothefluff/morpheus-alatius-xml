@@ -2864,7 +2864,7 @@ a^di^pe^us
 
 a^dipsath^eon		
 :le:adipsatheon
-:no:a^dipsath^e	os_i neut
+:no:a^dipsathe^	os_i neut
 
 
 a^dipsos		
@@ -4389,7 +4389,7 @@ Aene_si
 
 ae_ne^us		<orth>a^he_n-</orth>	
 :le:aeneus
-:aj:ae_ne^	us_a_um
+:aj:a^e_ne^	us_a_um
 :aj:a^he_ne^	us_a_um orth
 
 
@@ -4458,13 +4458,10 @@ a^e_nus#3		<orth>a^he_n-</orth>
 :aj:a^he_n	us_a_um orth
 
 
-
 a^e_num	
 Aeo^les		<orth>Aeoli_s</orth>	
 :le:Aeoles
 :no:Aeo^l	0_is masc pl
-:no:A	0_is masc pl orth
-
 
 
 Aeo^li^a		
@@ -13472,7 +13469,7 @@ Appi^e^tas
 Appi^o^lae		<orth>Api^-</orth>	
 :le:Appiolae
 :no:Appi^o^la	a_ae fem
-:no:Api^^o^la	a_ae fem orth
+:no:Api^o^la	a_ae fem orth
 
 
 
@@ -17937,8 +17934,8 @@ assuctus
 
 assu^e_tu_do		<orth>ads-</orth>	
 :le:assuetudo
-:no:assu^e_tu_d	o_inis fem
-:no:adsu^e_tu_d	o_inis fem orth
+:no:assue_tu_d	o_inis fem
+:no:adsue_tu_d	o_inis fem orth
 
 
 
@@ -22379,7 +22376,7 @@ Basti^ta_ni
 Bastu^li		<orth type=alt>Bascu^-</orth>	
 :le:Bastuli
 :no:Bastu^l	us_i masc pl
-:no:Bascu^^l	us_i masc pl orth
+:no:Bascu^l	us_i masc pl orth
 
 
 
@@ -22711,7 +22708,7 @@ Be_dri^a^cum		<orth>Be_bri^a^cum</orth>	<orth>Be_tri^a^cum</orth>
 Be_dri^a^censis		<orth type=alt>Be_tri^-</orth>	
 :le:Bedriacensis
 :aj:Be_dri^a^cens	is_e
-:aj:Be_tri^^a^cens	is_e orth
+:aj:Be_tri^a^cens	is_e orth
 
 
 
@@ -26094,7 +26091,7 @@ Bro^te^as
 Bru^a^ni^um		<orth type=alt>Bry^a^-</orth>	
 :le:Bruanium
 :no:Bru^a^n	ius_i neut
-:no:Bry^a^^n	ius_i neut orth
+:no:Bry^a^n	ius_i neut orth
 
 
 
@@ -28011,7 +28008,7 @@ chaere^phyl-lum
 caeri^mo_ni^a		<orth>ce_ri^-</orth>	
 :le:caerimonia
 :no:caeri^mo_ni^	a_ae fem
-:no:ce_ri^^mo_ni^	a_ae fem orth
+:no:ce_ri^mo_ni^	a_ae fem orth
 
 
 
@@ -37841,7 +37838,7 @@ Ci^mo_-li^us
 
 Ci_mon		<orth>Ci_mo</orth>	
 :le:Cimon
-:no:Cim	oLn_oLnis masc
+:no:Ci_m	oLn_oLnis masc
 
 
 ci^naedi^as		
@@ -44468,10 +44465,10 @@ conci^tor
 :no:conci^t	or_oLris masc
 
 
-conci^tus#1		<orth>conci_tus</orth>	
-:le:concitus#1
-:aj:conci^t	us_a_um
-:aj:conci_t	us_a_um orth
+#conci^tus#1		<orth>conci_tus</orth>	
+#:le:concitus#1
+#:aj:conci^t	us_a_um
+#:aj:conci_t	us_a_um orth
 
 
 
@@ -46983,7 +46980,7 @@ constu_^pra_tor
 
 consu^a_sor		
 :le:consuasor
-:no:consu^a_s	or_oLris masc
+:no:consua_s	or_oLris masc
 
 
 con-substanti^a_lis		
@@ -47004,18 +47001,18 @@ con-substanti_vus
 consu^e_tus		<orth>consu^e_te_</orth>
 consu^e_ti^o		
 :le:consuetio
-:no:consu^e_ti^	o_oLnis fem
+:no:consue_ti^	o_oLnis fem
 
 
 consu^e_tu_di^na_ri^us		
 :le:consuetudinarius
-:aj:consu^e_tu_di^na_r	ius_ia_ium
+:aj:consue_tu_di^na_r	ius_ia_ium
 
 
 consu^e_tu_-di^na_ri^e_	
 consu^e_tu_do		
 :le:consuetudo
-:no:consu^e_tu_d	o_inis fem
+:no:consue_tu_d	o_inis fem
 
 
 consul		<itype>u^lis</itype>	<gen>m.</gen>
@@ -51203,7 +51200,7 @@ Croesi^us
 Cro^mmy^u_-a_cris		<orth type=alt>Cro^my^-</orth>	
 :le:Crommyuacris
 :no:Cro^mmy^u_-a_cr	is_idis fem
-:no:Cro^my^^u_-a_cr	is_idis fem orth
+:no:Cro^my^u_-a_cr	is_idis fem orth
 
 
 
@@ -51633,9 +51630,12 @@ cu^bi^cu^la_ri^us
 
 
 cu^bi^cu^la_ris		<pos>adj.</pos>
+:le:cubicularis
+:aj:cu^bi^cu^la_r	is_e
+
 cu^-bi^cu^la_ri^us		
 :le:cubicularius
-:no:cu^-bi^cu^la_r	ius_i masc
+:no:cu^bi^cu^la_r	ius_i masc
 
 
 cu^bi^cu^la_tus		
@@ -58263,7 +58263,7 @@ de_su_da_ti^o
 
 de_su^e_tu_do		
 :le:desuetudo
-:no:de_su^e_tu_d	o_inis fem
+:no:de_sue_tu_d	o_inis fem
 
 
 de_-su_go	
@@ -62718,7 +62718,7 @@ dorsu^a_lis
 
 dorsualia		
 :le:dorsualia
-:no:dorsual	is_is neut pl
+:no:dorsu^a_l	is_is neut pl
 
 
 dorsum		
@@ -75324,6 +75324,8 @@ fe_ti^a_lis
 fe_ti^dus		<orth type=alt>faet-, foet-</orth>	
 :le:fetidus
 :aj:fe_ti^d	us_a_um
+:aj:foeti^d	us_a_um
+:aj:faeti^d	us_a_um
 
 
 fe_ti^fer		<orth type=alt>foet-</orth>	
@@ -75594,7 +75596,7 @@ fi^de^i^commissa_ri^us
 
 fideicommis-sarius		
 :le:fideicommissarius
-:no:fideicommis-sar	ius_i masc
+:no:fi^de^i^commis-sar	ius_i masc
 
 
 fi^de^i^commissum		
@@ -77687,7 +77689,7 @@ fornix
 Fornix Fa^bi^us	
 Forojuliensis		
 :le:Forojuliensis
-:aj:Forojuliens	is_e
+:aj:Foroju_liens	is_e
 
 
 forpex		
@@ -83632,7 +83634,7 @@ grandi^tas
 
 grandi^uscu_lus		
 :le:grandiusculus
-:aj:grandi^uscu_l	us_a_um
+:aj:grandi^uscu^l	us_a_um
 
 
 grando		
@@ -89932,7 +89934,7 @@ Hy_laeus
 
 Hylaeus		
 :le:Hylaeus
-:aj:Hylae	us_a_um
+:aj:Hy_lae	us_a_um
 
 
 Hy^las		
@@ -90757,7 +90759,7 @@ I_a^si^us#2
 
 I^a_son		<orth>I^a_so</orth>	
 :le:Jason
-:no:J^a_s	oLn_onis masc
+:no:Ja_s	oLn_onis masc
 :no:I^a_s	oLn_onis masc
 
 
@@ -95256,7 +95258,7 @@ i^n-assigna_tus
 
 i^n-assu^e_tus		
 :le:inassuetus
-:aj:i^n-assu^e_t	us_a_um
+:aj:i^n-assue_t	us_a_um
 
 
 i^natta_mi^na_tus		
@@ -96424,7 +96426,7 @@ inconstanti^a
 
 in-consu^e_tus		
 :le:inconsuetus
-:aj:in-consu^e_t	us_a_um
+:aj:in-consue_t	us_a_um
 
 
 inconsulte_		<orth>inconsulto_</orth>
@@ -101951,12 +101953,12 @@ insua_sum
 
 in-su^a_vis		
 :le:insuavis
-:aj:in-su^a_v	is_e
+:aj:in-sua_v	is_e
 
 
 insu^a_vi^tas		
 :le:insuavitas
-:no:insu^a_vi^	tas_tatis fem
+:no:insua_vi^	tas_tatis fem
 
 
 in-subdi^ti_vus		
@@ -102013,7 +102015,7 @@ in-su_dus
 
 insu^e_factus		
 :le:insuefactus
-:aj:insu^e_fact	us_a_um
+:aj:insue_fact	us_a_um
 
 
 insue_tu_do		
@@ -103037,7 +103039,7 @@ intermenstru^um
 
 inter-menstr^uus		
 :le:intermenstruus
-:aj:inter-menstr^u	us_a_um
+:aj:inter-menstru^	us_a_um
 
 
 intermenstru^um		
@@ -106607,9 +106609,9 @@ Jeri^cho
 Je_sus		<orth>I^e_sus</orth>	<itype>u</itype>	<gen>m.</gen>
 :le:Jesus
 :wd:Je_sus	irreg_nom2 masc nom sg pers_name
-:wd:Je_su	irreg_nom2 masc gen dat abl voc sg pers_name
+:wd:Je_su_	irreg_nom2 masc gen dat abl voc sg pers_name
 :wd:Je_sum	irreg_nom2 masc acc sg pers_name
-:wd:Je_sui	irreg_nom2 masc dat sg orth pers_name
+:wd:Je_sui_	irreg_nom2 masc dat sg orth pers_name
 
 Jo_annes	
 Jo_annis		
@@ -111931,7 +111933,7 @@ leptynti^cus
 
 le^pus		
 :le:lepus
-:no:le^p	us_oris neut
+:no:le^p	us_oris masc
 
 	<gen>com.</gen>
 le^puscu^lus		
@@ -119688,25 +119690,25 @@ manso_ri^us
 mansu^e_fi_o		<itype>factus, fie^ri</itype>
 mansu^e_facti^o		
 :le:mansuefactio
-:no:mansu^e_facti^	o_oLnis fem
+:no:mansue_facti^	o_oLnis fem
 
 
 mansu^e_fi_o	
 mansu^e_s		<itype>u^is, and e_tis</itype>	<pos>adj.</pos>
 mansu^e_tus		
-:le:mansuetus
-:wd:mansu^e_tus	adverb
+:le:mansuete
+:wd:mansue_te_	adverb
 
 
 mansu^e_te_	
 mansu^e_ta_ri^us		
 :le:mansuetarius
-:no:mansu^e_ta_r	ius_i masc
+:no:mansue_ta_r	ius_i masc
 
 
 mansu^e_tu_do		
 :le:mansuetudo
-:no:mansu^e_tu_d	o_inis fem
+:no:mansue_tu_d	o_inis fem
 
 
 mante_le		<orth type=alt>manti_le</orth>	
@@ -131313,7 +131315,7 @@ My^ti^le_nae
 My^ti^le_naeus		<orth type=alt>Mi^ty^-</orth>	
 :le:Mytilenaeus
 :aj:My^ti^le_nae	us_a_um
-:aj:Mi^ty^^ti^le_nae	us_a_um orth
+:aj:Mi^ty^ti^le_nae	us_a_um orth
 
 
 
@@ -156033,7 +156035,7 @@ Pho_cus
 
 Phoe_be_		
 :le:Phoebe
-:no:Phoe_b	e_es fem
+:no:Phoeb	e_es fem
 
 
 Phoebe_um		
@@ -156560,7 +156562,7 @@ Phy_^la^ci^-des		<orth type=alt>Phyll-</orth>
 phy^la^cista		<orth type=alt>phu^la^-</orth>	
 :le:phylacista
 :no:phy^la^cist	a_ae masc
-:no:phu^la^^cist	a_ae masc orth
+:no:phu^la^cist	a_ae masc orth
 
 
 
@@ -160677,7 +160679,7 @@ Popli^cu^la		<orth type=alt>Popli^co^la</orth>	<orth>Publi^-co^la</orth>
 Po^pli^fu^gi^a		<orth type=alt>Po^pu^-</orth>	
 :le:Poplifugia
 :no:Po^pli^fu^gi^	us_i neut pl
-:no:Po^pu^^gi^	us_i neut pl orth
+:no:Po^pu^gi^	us_i neut pl orth
 
 
 
@@ -164705,7 +164707,7 @@ Preli^us		<orth>Prili^us</orth>	<orth>la^cus</orth>
 pre_lum		<orth type=alt>prae-</orth>	
 :le:prelum
 :no:pre_l	us_i neut
-:no:prae_l	us_i neut orth
+:no:prael	us_i neut orth
 
 
 
@@ -179533,7 +179535,7 @@ saeclum
 saecu^la_ris		<orth type=alt>se_cu^-</orth>	
 :le:saecularis
 :aj:saecu^la_r	is_e
-:aj:se_cu^^la_r	is_e orth
+:aj:se_cu^la_r	is_e orth
 
 
 
@@ -182069,16 +182071,12 @@ satum
 
 
 sa^tur		<itype>u^ra, u^rum</itype>	<pos>adj.</pos>
-sa^tu^ra		
-:le:satura
-:no:sa^tu^r	a_ae fem
-
 
 sa^tu^ra		<orth>sa^ti^ra</orth>	<orth>sa^ty^ra</orth>	
 :le:satura
 :no:sa^tu^r	a_ae fem
+:no:sa^ti^r	a_ae fem orth
 :no:sa^ty^r	a_ae fem orth
-
 
 
 Sa^tu^raepa^lu_s#2	
@@ -182288,7 +182286,7 @@ sauri_tis
 
 Sau_rocto^nos		
 :le:Sauroctonos
-:no:Sau_rocto^n	os_i masc
+:no:Saurocto^n	os_i masc
 
 
 Sauro^ma^tae		
@@ -182512,7 +182510,7 @@ scaeni^cus		<orth type=alt>scen-</orth>
 
 scae_-ni^cus		
 :le:scaenicus
-:no:scae_-ni^c	us_i masc
+:no:scaeni^c	us_i masc
 
 
 scaeni^ca		
@@ -193832,7 +193830,7 @@ stelli^o#1		<orth type=alt>ste_li^o</orth>
 
 Stellio#2		
 :le:Stellio
-:no:Stelli	o_oLnis masc
+:no:Ste_lli	o_oLnis masc
 
 
 stelli^o_na_tus		
@@ -207451,7 +207449,7 @@ to^ni_^trus
 
 to^ni_^tru^um		
 :le:tonitruum
-:no:to^n	ius_i neut
+:no:to^ni_^tru	us_i neut
 
 
 To^nans		<itype>antis</itype>	<gen>m.</gen>
@@ -213081,6 +213079,9 @@ unde_cente_si^mus
 	<pos>num. adj.</pos>
 unde_centum		<pos>num. adj.</pos>
 unde^ci^es	
+:le:undecies
+:wd:u_nde^ci^e_s	adverb
+:wd:u_nde^ci^e_ns	adverb orth
 
 unde^ci^m		<pos>num. adj.</pos>
 :le:undecim
