@@ -16,7 +16,7 @@ FILE * f;
 	while(*p) p++;
 	p--;
 	
-	if( isdigit(*s) ) return;
+	if( isdigit(*s) ) return(0);
 	strcpy(endkeys,"os_ou os_h_on os_on h_hs a_hs");
 	while(p>tmp) {
 		if( *p == 'o' || *p == 'h' ) {

@@ -393,7 +393,7 @@ char *s;
 {
 	if( ! foddfile ) {
 		foddfile = fopen("oddfile","w");
-		if( ! foddfile)  return;
+		if( ! foddfile)  return(0);
 	}
 	fprintf(foddfile,"%s\t%s\n", curlemma , s );
 }
@@ -408,7 +408,7 @@ char * oddptr;
 	char curbuf[BUFSIZ*4];
 	char curformula[BUFSIZ*4];
 	char * s;
-return;	
+return(0);	
 	strcpy(curformula,origformula);
 	curbuf[0] = 0;
 	
@@ -472,7 +472,7 @@ conjoinX(gk_string *gstr,char * s1,char * s2)
 
 	if( ! newgstr ) {
 		/*fprintf(stderr,"no contracts for [%s]\n", gkstring_of(gstr) );*/
-		return;
+		return(0);
 	}
 	
 /*

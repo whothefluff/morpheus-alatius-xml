@@ -280,21 +280,21 @@ set_orth()
 	if(!strcmp("<orth>adf-</orth>",yytext) ) {
 		if( ! strncmp(orthstem,"af-f",4) ) {
 			orthstem[1] = 'd';
-			return;
+			return(0);
 		}
 	}
 
 	if(!strcmp("<orth>adl-</orth>",yytext) ) {
 		if( ! strncmp(orthstem,"al-l",4) ) {
 			orthstem[1] = 'd';
-			return;
+			return(0);
 		}
 	}
 
 	if(!strcmp("<orth>adn-</orth>",yytext) ) {
 		if( ! strncmp(orthstem,"an-n",4) ) {
 			orthstem[1] = 'd';
-			return;
+			return(0);
 		}
 	}
 
@@ -309,10 +309,10 @@ set_orth()
 			orthstem[1] = 'd';
 		}
 
-		return;
+		return(0);
 	}
 	orthstem[0] = 0;
-return;
+return(0);
 
 
 	while(*t && *t !='<') {

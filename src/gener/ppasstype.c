@@ -12,7 +12,7 @@ gk_string * gstr;
 	Stemtype GetStemNum();
 	
 	
-	if( ! get_ppasstype(origstem,newstem,stemname) ) return;
+	if( ! get_ppasstype(origstem,newstem,stemname) ) return(0);
 	strcpy(origstem,newstem);
 	set_stemtype(gstr,GetStemNum(stemname));
 }

@@ -33,7 +33,7 @@ static gk_string BlankGstr;
 
 			*s = 0;
 			mk_compend(Have,Avoid,savestr,s+1);
-			return;
+			return(0);
 		}
 		s++;
 	}
@@ -57,7 +57,7 @@ static gk_string BlankGstr;
 			mk_end(gkstring_of(euph_forms+i),euph_forms+i,&AvoidGstr);
 		}
 		FreeGkString(euph_forms);
-		return;
+		return(0);
 	}
 /*
  * allow only one contraction per ending for now

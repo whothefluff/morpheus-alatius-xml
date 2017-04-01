@@ -6,7 +6,7 @@ xFclose(FILE *f)
 {
 	if( ! f ) {
 		fprintf(stderr,"hey! trying to close a NULL pointer!\n");
-		return;
+		return(0);
 	}
 	fclose(f);
 }

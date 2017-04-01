@@ -694,7 +694,7 @@ static
 
 	if( sofar == 0 ) {
 		*gstrings = *newgstr;
-		return;
+		return(0);
 	}
 
 /* 
@@ -711,7 +711,7 @@ printf("starting with: "); PrntGkFlags(newgstr,stdout); printf("\n", rval );
 
 		if( rval > 0 ) {
 			*(gstrings+i) = *newgstr;
-			return;
+			return(0);
 		}
 		*(gstrings+i) = *(gstrings+i-1);
 	}

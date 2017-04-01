@@ -26,7 +26,7 @@ AccComposForm(gk_string *gstr)
  *
 	if( has_morphflag(morphflags_of(gstr),STEM_ACC) && 
 		! has_morphflag(morphflags_of(gstr),INDECLFORM) ) {
-			return;
+			return(0);
 	}
  * grc 7/28/89
  * this should be unnecessary and leaving it in causes us to fail with

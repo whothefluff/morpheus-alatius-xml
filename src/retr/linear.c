@@ -468,7 +468,7 @@
                 curlen = (*LinFread)(AuthName, curb , (int)(fend-lowbound) );
                 curb[curlen] = 0;
                 eofflag++;
-                return;
+                return(0);
         } 
 
 /* set input buffer to STORBUF chars before end of file */
@@ -487,7 +487,7 @@
                 nextlen = (*LinFread)( AuthName, nextb , (int)x );
                 nextb[(int)nextlen] = 0;
                 lastout++;
-                return;
+                return(0);
         }
 
         if( (nextlen=(*LinFread)(AuthName,  nextb ,  (STORBUF) )) < 0 )
@@ -806,7 +806,7 @@ char *
         if( a == curb && curlastline[0] ) {
                 a =towordbegin(&curlastline[strlen(curlastline)-1],curlastline);
                 txtcpy( p , a , curb , word , MAXWORD );
-                return;
+                return(0);
         }
 
         txtcpy( p , a , nextb , word , MAXWORD );
@@ -933,7 +933,7 @@ char *
         char mess[MAXMESS];
 
         if( ! (srch->rflags&BYTEFLAG) )
-                return;
+                return(0);
 
         sprintf(mess,"bytes:%ld ", bytes );
 }
@@ -946,7 +946,7 @@ char *
                 if (*sp == c) {
                         tlen -= sp - scanpoint;
                         scanpoint = sp;
-                        return;
+                        return(0);
                 }
                         
         } while (*sp++);
@@ -964,7 +964,7 @@ char *
                 if (ctab[ *sp ] ) {
                         tlen -= sp - scanpoint;
                         scanpoint = sp;
-                        return;
+                        return(0);
                 }
                         
         } while (*sp++);

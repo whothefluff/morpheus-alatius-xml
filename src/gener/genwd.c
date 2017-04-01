@@ -42,7 +42,7 @@ GenDictEntry(Gkword,dentry)
 /*printf("endstring: [%s] keys:%s\n", endstring_of(&TmpGkword), keys );*/
 
 	gkforms = GenStemForms(&TmpGkword,keys,0);
-	if( ! gkforms ) return;
+	if( ! gkforms ) return(0);
 
 	for(formcnt=0;workword_of((gkforms+formcnt))[0];formcnt++) ;
 
@@ -71,7 +71,7 @@ GenDictEntry(Gkword,dentry)
 	Gkword = CreatGkword(1 );
 	if( ! Gkword ) {
 		fprintf(stderr,"could not allocate memory for Gkword in GenNxtWord\n");
-		return;
+		return(0);
 	}
 
 	for(;;) {
@@ -398,7 +398,7 @@ static
 	CurBuf = CreatGkword(MAX_FORM_VARIANTS+1);
 	if( ! CurBuf) {
 		fprintf(stderr,"no memory for CurBuf in AddWdEndings: raww [%s]\n", rawword_of(Gkword) );
-		return;
+		return(0);
 	}
 
 	SaveGkWord = * Gkword;

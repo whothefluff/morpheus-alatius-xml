@@ -205,7 +205,7 @@ void * zogalloc(size_t, size_t);
 init_prvb_tab(void)
 {
 	
-	if( prvb_tab ) return;
+	if( prvb_tab ) return(0);
 	prvb_tab = (char *)calloc((size_t)(TABSIZE+1),(size_t)(sizeof * prvb_tab) );
 		
 	if (! prvb_tab) {
