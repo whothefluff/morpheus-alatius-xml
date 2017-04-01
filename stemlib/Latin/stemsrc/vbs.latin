@@ -4151,6 +4151,10 @@
 :de:de_-do^l	are_vb
 :le:dedomo
 :de:de_-do^m	are_vb
+:le:deduco
+:vs:de_-du_c	conj3
+:vs:de_-du_x perfstem
+:vs:de_-duct pp4
 :le:defaeco
 :de:de_-faec	are_vb
 :le:defatigo
@@ -8331,6 +8335,8 @@
 :le:inicio
 :vs:ini^c	conj3_io
 :vs:inji^c	conj3_io
+:vs:inje_c perfstem
+:vs:inject pp4
 :le:inigo
 :vs:i^ni^g	conj3
 :vs:i^ne_g perfstem

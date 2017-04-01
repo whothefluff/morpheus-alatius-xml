@@ -76,6 +76,32 @@
 :wd:dispa^re_s   irreg_adj3 masc/fem acc pl
 :wd:dispa^ribus   irreg_adj3 masc/fem/neut abl pl
 
+:le:impar
+:wd:impa_r   irreg_adj3 masc/fem/neut nom/voc sg
+:wd:inpa_r   irreg_adj3 masc/fem/neut nom/voc sg
+:wd:impa^ris   irreg_adj3 masc/fem/neut gen sg
+:wd:inpa^ris   irreg_adj3 masc/fem/neut gen sg
+:wd:impa^ri_   irreg_adj3 masc/fem/neut dat sg
+:wd:inpa^ri_   irreg_adj3 masc/fem/neut dat sg
+:wd:impa^rem   irreg_adj3 masc/fem acc sg
+:wd:inpa^rem   irreg_adj3 masc/fem acc sg
+:wd:impa_r   irreg_adj3 neut acc sg
+:wd:inpa_r   irreg_adj3 neut acc sg
+:wd:impa^re   irreg_adj3 masc/fem/neut abl sg
+:wd:inpa^re   irreg_adj3 masc/fem/neut abl sg
+:wd:impa^re_s   irreg_adj3 masc/fem nom/voc pl
+:wd:inpa^re_s   irreg_adj3 masc/fem nom/voc pl
+:wd:impa^ra   irreg_adj3 neut nom/voc/acc pl
+:wd:inpa^ra   irreg_adj3 neut nom/voc/acc pl
+:wd:impa^rum   irreg_adj3 masc/fem/neut gen pl
+:wd:inpa^rum   irreg_adj3 masc/fem/neut gen pl
+:wd:impa^ribus   irreg_adj3 masc/fem/neut dat pl
+:wd:inpa^ribus   irreg_adj3 masc/fem/neut dat pl
+:wd:impa^re_s   irreg_adj3 masc/fem acc pl
+:wd:inpa^re_s   irreg_adj3 masc/fem acc pl
+:wd:impa^ribus   irreg_adj3 masc/fem/neut abl pl
+:wd:inpa^ribus   irreg_adj3 masc/fem/neut abl pl
+
 :le:hepar
 :wd:he_pa^r	irreg_nom3 neut nom voc acc sg
 :wd:he_pa^tis   irreg_nom3 neut gen sg
@@ -1327,7 +1353,7 @@
 
 :le:sui
 :wd:su^i_   pron3 masc/fem gen sg
-:wd:sibi   pron3 masc/fem dat sg
+:wd:sibi_^   pron3 masc/fem dat sg
 :wd:se_   pron3 masc/fem acc sg
 :wd:se_se_   pron3 masc/fem acc sg
 :wd:se_   pron3 masc/fem abl sg

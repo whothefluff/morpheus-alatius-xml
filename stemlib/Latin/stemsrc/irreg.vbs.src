@@ -300,6 +300,16 @@ referr@emsub	irreg_pp1 imperf subj
 :vs:ret-tul	perfstem
 :vs:re-la_t	pp4
 
+:le:refert
+:vb:re_fe^rt	irreg_pp1 3rd sg pres ind act
+:vb:re_fe^runt	irreg_pp1 3rd pl pres ind act
+:vb:re_fe^ret	irreg_pp1 3rd sg fut ind act
+:vb:re_fe^rat	irreg_pp1 3rd sg pres subj act
+:vb:re_fe^re_bat	irreg_pp1 3rd sg imperf act act
+:vb:re_fe^rret	irreg_pp1 3rd sg imperf subj act
+:vb:re_ferre irreg_pp1 pres inf act
+:vs:re_tul	perfstem
+
 :le:fio
 fi_o_	irreg_pp1 1st sg pres ind act
 fi_s	irreg_pp1 2nd sg pres ind act

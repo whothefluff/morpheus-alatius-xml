@@ -26,6 +26,14 @@ dispa_r		irreg_adj3 masc fem neut nom voc sg
 dispa_r		irreg_adj3 neut acc sg
 dispa^r@decl3	irreg_adj3 masc fem neut
 
+:le:impar
+impa_r		irreg_adj3 masc fem neut nom voc sg
+impa_r		irreg_adj3 neut acc sg
+inpa_r		irreg_adj3 masc fem neut nom voc sg orth
+inpa_r		irreg_adj3 neut acc sg orth
+impa^r@decl3	irreg_adj3 masc fem neut
+inpa^r@decl3	irreg_adj3 masc fem neut orth
+
 :le:hepar
 :wd:he_pa^r	irreg_nom3 neut nom voc acc sg
 he_pa^t@decl3	irreg_nom3 neut

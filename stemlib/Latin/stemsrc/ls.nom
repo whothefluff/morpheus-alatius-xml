@@ -80797,7 +80797,7 @@ garga^ri_za_tus
 
 Gargetti^us		
 :le:Gargettius
-:no:Gargett	ius_i masc
+:no:Garge_tt	ius_i masc
 
 
 Gargi^li^us		
@@ -93183,10 +93183,6 @@ impalpe^bra_ti^o		<orth type=alt>inp-</orth>
 
 
 impar		<orth type=alt>inp-</orth>	<itype>a^ris</itype>	<pos>adj.</pos>
-:le:impar
-:aj:impar	0_is
-:aj:inpar	0_is orth
-
 impa^ri^ter	
 :le:impariter
 :wd:impa^ri^ter		adverb
@@ -201843,8 +201839,8 @@ tantus
 
 
 tanto_ o^pe^re		<orth>tanto^pe^re</orth>	<orth>tantum</orth>	
-:le:tanto
-:wd:tanto_	adverb
+:le:tantopere
+:wd:tanto^pe^re	adverb
 
 tanti		<orth>tanto_</orth>	<orth>tantum</orth>	
 
@@ -213120,6 +213116,9 @@ unde_na_ri^us
 
 
 un-de_ni		<itype>ae, a</itype>
+:le:undeni
+:aj:u_nde_n	us_a_um
+
 unde_no_na_ginta		<pos>num. adj.</pos>
 unde^octo_ginta		<pos>num. adj.</pos>
 unde_quadra_ge_si^mus		
@@ -220703,6 +220702,7 @@ vulpes		<orth type=alt>volp-</orth>	<itype>is</itype>
 vulpis		
 :le:vulpis
 :no:vulp	is_is fem
+:no:volp	is_is fem orth
 
 
 vulpi_nus		<orth type=alt>volp-</orth>	
