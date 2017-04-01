@@ -27,7 +27,7 @@ Ystrncpy(char *s1, const char *s2, size_t len)
 		if( ! p ) {
 			fprintf(stderr,"could not allocate %d byte buf in Xstrncpy!\n", len+1);
 			*s1 = 0;
-			return;
+			return(0);
 		}
 		strncpy(p,s2,(size_t)len);
 		*(p+len-1) = 0;

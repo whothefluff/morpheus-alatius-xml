@@ -20,11 +20,11 @@ addaccent(char *word, int accent, char *p)
 	if(*word == '*' && Is_breath(*(word+1)) ) {
 		if( p == (word+2)) {
 			cinsert(accent,word+2);
-			return;
+			return(0);
 		}
 		if( p == (word+3) && is_diphth(p,word) == YES) {
 			cinsert(accent,word+2);
-			return;
+			return(0);
 		}
 	} 
 

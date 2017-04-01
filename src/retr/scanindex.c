@@ -240,7 +240,7 @@ static
         if( curkey[0] != '@' && ! isupper(curkey[0]) && curkey[0] != '*' ) {
                 srch->l_lno = 1;
                 srch->l_start = 0;
-                return;
+                return(0);
         }
 
 /*
@@ -280,7 +280,7 @@ static
 /*
 printf("srch->l_start %ld; l_lno %ld; l_len %ld\n", srch->l_start , srch->l_lno , srch->l_len);
 */
-                return;
+                return(0);
 }
 
 static
@@ -396,7 +396,7 @@ if( ThFreq == 0 ) {
 	fprintf(stderr,"failed on [%s]\n", string);
         ClP2File( BIGINDNAME );
         ClAuthorsFile( BIGINDNAME );
-	return;
+	return(0);
 }
 
         if( OpTlgp2File( BIGINDNAME ) ) {

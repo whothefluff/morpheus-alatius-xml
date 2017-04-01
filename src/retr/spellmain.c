@@ -93,7 +93,7 @@ zap_p(s)
 char *s;
 {
 	if( strlen(s) < 4 )
-		return;
+		return(0);
 	while(*s) {
 		if( *s == 'p' ) *s = '.';
 		s++;

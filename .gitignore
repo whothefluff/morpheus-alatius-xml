@@ -1,0 +1,67 @@
+bin
+src/anal/cruncher
+src/anal/deverbal
+src/anal/findbase
+src/anal/pname
+src/gener/checkstype
+src/gener/do_conj
+src/gener/gener
+src/gkdict/combitype
+src/gkdict/conj1
+src/gkdict/fixgend
+src/gkdict/fixhesc
+src/gkdict/indexcomps
+src/gkdict/indexnoms
+src/gkdict/indexvbs
+src/gkdict/latnom
+src/gkdict/latvb
+src/gkdict/newlems
+src/gkdict/newlems2
+src/gkdict/setquant
+src/gkdict/splitlat
+src/gkdict/splitlems
+src/gkends/buildderiv
+src/gkends/buildend
+src/gkends/buildword
+src/gkends/indderivtables
+src/gkends/indendtables
+stemlib/Latin/conjfile
+stemlib/Latin/conjfile.short
+stemlib/Latin/endtables/ascii
+stemlib/Latin/endtables/indices/nendind
+stemlib/Latin/endtables/indices/vbendind
+stemlib/Latin/steminds/
+
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/

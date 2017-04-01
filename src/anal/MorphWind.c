@@ -471,7 +471,7 @@ Str255		theFontName;
 
 	theWind = FrontWindow ();
 	if ((te = GetEWindowTE (theWind)) == nil)
-		return;				/* not an edit window */
+		return(0);				/* not an edit window */
 	GetItem (fontMenu, item, theFontName);
 	GetFNum (theFontName, &font);
 	SetEWindowStyle (theWind, font, (**te).txSize, (**te).crOnly, (**te).just);
@@ -491,7 +491,7 @@ WindowPtr	theWind;
 
 	theWind = FrontWindow ();
 	if ((te = GetEWindowTE (theWind)) == nil)
-		return;				/* not an edit window */
+		return(0);				/* not an edit window */
 	SetEWindowStyle (theWind, (**te).txFont, sizes[item-1], (**te).crOnly, (**te).just);
 	SetTextMenus (false);
 }
@@ -509,7 +509,7 @@ WindowPtr	theWind;
 
 	theWind = FrontWindow ();
 	if ((te = GetEWindowTE (theWind)) == nil)
-		return;				/* not an edit window */
+		return(0);				/* not an edit window */
 	font = (**te).txFont;
 	size = (**te).txSize;
 	just = (**te).just;
@@ -557,7 +557,7 @@ int len;
 
 	theWind = FrontWindow ();
 	if ((te = GetEWindowTE (theWind)) == nil)
-		return;				/* not an edit window */	
+		return(0);				/* not an edit window */	
 
 
 	switch(item) {
@@ -575,7 +575,7 @@ int len;
 			xFree(locbuf,"locbuf");
 			xFree(smkbuf,"smkbuf");
 			locbuf = smkbuf = NULL;
-			return;
+			return(0);
 		case Beta2SMK:
 			len = (**te).teLength;
 			locbuf = malloc(len+1);
@@ -590,9 +590,9 @@ int len;
 			xFree(locbuf,"locbuf");
 			xFree(smkbuf,"smkbuf");
 			locbuf = smkbuf = NULL;
-			return;
+			return(0);
 		default:
-			return;
+			return(0);
 	}
 }
 
@@ -622,7 +622,7 @@ Handle hdest;
 
 	theWind = FrontWindow ();
 	if ((te = GetEWindowTE (theWind)) == nil)
-		return;				/* not an edit window */	
+		return(0);				/* not an edit window */	
 
 	switch (item)
 	{
@@ -661,17 +661,17 @@ Handle hdest;
 		case Prose:
 		case Paradigm:
 			SetNewDialect(item);
-			return;
+			return(0);
 		case QuickSearch:
 			toggle_quickflag();
-			return;
+			return(0);
 /* grc 6/6/88
 		case CheckPreverb:
 			toggle_checkpreverb();
-			return;
+			return(0);
 */
 		default:
-			return;
+			return(0);
 	}
 
 	GetDictWindow();
@@ -824,7 +824,7 @@ ZapWindowDialect(WindowPtr curWind)
 		if( dial_map[i].aWindowPtr == curWind ) {
 			dial_map[i].aWindowPtr = NULL;
 			dial_map[i].WindowDialect = 0;
-			return;
+			return(0);
 		}
 	}
 }
@@ -850,13 +850,13 @@ SetWindowDialect(WindowPtr curWind, Dialect dial)
 		if( dial_map[i].aWindowPtr == curWind ) {
 			dial_map[i].WindowDialect = dial;
 /*printf("a) i %d dial %lo\n", i , dial );*/
-			return;
+			return(0);
 		}
 		if( dial_map[i].aWindowPtr == NULL ) {
 			dial_map[i].aWindowPtr = curWind;
 			dial_map[i].WindowDialect = dial;
 /*printf("b) i %d dial %lo\n", i , dial );*/
-			return;
+			return(0);
 		}
 	}
 /*printf("failing on SetWindowDialect\n");*/

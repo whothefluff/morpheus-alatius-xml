@@ -73,6 +73,6 @@ printdump(char *s)
 	if( ! fdumpout ) {
 		fdumpout = fopen("dumpfile","w");
 	}
-	if( ! fdumpout ) return;
+	if( ! fdumpout ) return(0);
 	fprintf(fdumpout,"%s\r", s );
 }

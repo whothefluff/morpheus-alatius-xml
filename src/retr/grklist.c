@@ -189,35 +189,35 @@ static
         if( isfield( s , "sn" ) ) {
                 s += 3;
                 strncpy( tauth->tlgsname , s , sizeof tauth->tlgsname );
-                return;
+                return(0);
         }
         if( isfield( s , "Wc" ) ) {
                 s += 3;
                 tauth->tlgnworks = atoi( s );
-                return;
+                return(0);
         }
 
         if( isfield( s , "ln" ) ) {
                 s += 3;
                 tauth->tlgfilelen = atol( s );
-                return;
+                return(0);
         }
 
 
 	if( isfield( s , "cdfile" ) ) {
 		tauth->tlgflags |= USE_CD;
-		return;
+		return(0);
 	}
 
 	if( isfield( s , "hdfile" ) ) {
 		tauth->tlgflags |= USE_HD;
-		return;
+		return(0);
 	}
 
         if( isfield( s , "di" ) ) {
                 s += 3;
                 strncpy( tauth->tlgauthdir , s , sizeof tauth->tlgauthdir );
-                return;
+                return(0);
         }
 }
 

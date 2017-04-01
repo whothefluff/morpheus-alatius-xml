@@ -189,7 +189,7 @@ rstprevb(char *word, char *prevb, gk_string *gstr)
 	MorphFlags * oddpb = morphflags_of(gstr);
 
 	fullpb[0] = 0;
-	if( Is_indeclform(oddpb) ) return;
+	if( Is_indeclform(oddpb) ) return(0);
 
 	if( cur_lang() == LATIN || cur_lang() == ITALIAN ) {
 	   if( !has_morphflag(oddpb,RAW_PREVERB) ) {
@@ -350,7 +350,7 @@ rstprevb(char *word, char *prevb, gk_string *gstr)
 		
 		strcat(work,word);
 		strcpy(word,work);
-		return;
+		return(0);
 	   }
 	}
 	
@@ -382,7 +382,7 @@ rstprevb(char *word, char *prevb, gk_string *gstr)
 		stripbreath(tmpword); /* avoid forms such as a)na-oi)/gw */
 		Xstrncat(work,tmpword,MAXWORDSIZE);
 		Xstrncpy(word,work,MAXWORDSIZE);
-		return;
+		return(0);
 	}
 	
 	set_morphflag(morphflags_of(&TmpGstr),0);
@@ -675,7 +675,7 @@ shift_eis_to_es(char *s)
 	while(*s) {
 		if(!Xstrncmp(s,"eis",3) || !Xstrncmp(s,"ei)s",4) ) {
 			strcpy(s+1,s+2);
-			return;
+			return(0);
 		}
 		s++;
 	}
@@ -689,7 +689,7 @@ shift_pros_to_poti(char *s)
 			strcpy(tmp,s+4);
 			strcpy(s,"poti");
 			strcat(s,tmp);
-			return;
+			return(0);
 		}
 		s++;
 	}
@@ -703,7 +703,7 @@ shift_pros_to_proti(char *s)
 			strcpy(tmp,s+4);
 			strcpy(s,"proti");
 			strcat(s,tmp);
-			return;
+			return(0);
 		}
 		s++;
 	}
@@ -717,12 +717,12 @@ shift_upo_to_upai(char *s)
 			strcpy(tmp,s+3);
 			strcpy(s,"upai");
 			strcat(s,tmp);
-			return;
+			return(0);
 		} else if(!Xstrncmp(s,"u(po",4) ) {
 			strcpy(tmp,s+4);
 			strcpy(s,"u(pai");
 			strcat(s,tmp);
-			return;
+			return(0);
 		}
 		s++;
 	}
@@ -736,12 +736,12 @@ shift_uper_to_upeir(char *s)
 			strcpy(tmp,s+4);
 			strcpy(s,"upeir");
 			strcat(s,tmp);
-			return;
+			return(0);
 		} else if(!Xstrncmp(s,"u(per",5) ) {
 			strcpy(tmp,s+5);
 			strcpy(s,"u(peir");
 			strcat(s,tmp);
-			return;
+			return(0);
 		}
 		s++;
 	}
@@ -755,7 +755,7 @@ shift_para_to_parai(char *s)
 			strcpy(tmp,s+4);
 			strcpy(s,"parai");
 			strcat(s,tmp);
-			return;
+			return(0);
 		} 
 		s++;
 	}
@@ -769,7 +769,7 @@ shift_meta_to_peda(char *s)
 			strcpy(tmp,s+4);
 			strcpy(s,"peda");
 			strcat(s,tmp);
-			return;
+			return(0);
 		}
 		s++;
 	}
@@ -783,13 +783,13 @@ shift_en_to_eni(char *s)
 			strcpy(tmp,s+3);
 			strcpy(s,"e)ni");
 			strcat(s,tmp);
-			return;
+			return(0);
 		}
 		if(!Xstrncmp(s,"en",2) && Xstrncmp(s,"eni",3)) {
 			strcpy(tmp,s+2);
 			strcpy(s,"eni");
 			strcat(s,tmp);
-			return;
+			return(0);
 		}
 		s++;
 	}

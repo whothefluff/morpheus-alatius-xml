@@ -210,7 +210,7 @@ printf("gkword:%s\n", outline );
 		
 	boundflg++;
 	wordfont = curfont;
-	return;
+	return(0);
 	}
 if( tlgch[ c ] )
 	{
@@ -343,7 +343,7 @@ for(i=GAPLIST;i>=0;i--)
 		Gaps[i+1].first = sbyte;
 		Gaps[i+1].second = endbyte;
 		Gaps[i+1].previous = prevbyte;
-		return;
+		return(0);
 		}
 	}
 }
@@ -431,7 +431,7 @@ register char * s;
 			a = anum;
 			if( *s++ != '"' ) {
 				fprintf(stderr,"bad format: %s\n", s-1 );
-				return;
+				return(0);
 			}
 			while( *s != '"' && *s )
 				*a++ = *s++;
@@ -465,7 +465,7 @@ register char * s;
 			a = wknum;
 			if( *s++ != '"' ) {
 				fprintf(stderr,"bad format: %s\n", s-1 );
-				return;
+				return(0);
 			}
 			while( *s != '"' && *s )
 				*a++ = *s++;
@@ -489,7 +489,7 @@ register char * s;
 
 			if( *s++ != '"' ) {
 				fprintf(stderr,"bad format: %s\n", s-1 );
-				return;
+				return(0);
 			}
 			while( *s != '"' && *s )
 				*a++ = *s++;
@@ -501,7 +501,7 @@ register char * s;
 			break;
 		default:
 			s++;
-			return;
+			return(0);
 		}
 	}
 }
@@ -603,10 +603,10 @@ int i;
 	fclose( f );
 
 	if( endwork && authcount == 0 )
-		return;
+		return(0);
 
 	if( authwords == 0 )
-		return;
+		return(0);
 
 	if( (f=fopen("auths.common","a")) == NULL ) {
 		fprintf(stderr,"Could not open %s\n", authfile );
@@ -651,7 +651,7 @@ if( nworks == 1 && endwork )
 	fclose( f );
 
 	if( workwords == 0 )
-		return;
+		return(0);
 	if( (f=fopen("works.common","a")) == NULL ) {
 		fprintf(stderr,"Could not open %s\n", workfile );
 		exit( -1 );

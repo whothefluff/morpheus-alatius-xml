@@ -55,11 +55,11 @@ char *s;
 printf("%s = %s at %ld\n", s, curl, curlno );
 */
 			thesaur(stdout,TmpSrch,curlno,curl);
-			return;
+			return(0);
 		} else if( n < 0 ) {
 			if( char_strcmp(s,curl) < 0 ) {
 				fprintf(stderr,"quit %d:  %s = %s at %ld\n", n, s, curl, curlno );
-				return;
+				return(0);
 			}
 		}
 		

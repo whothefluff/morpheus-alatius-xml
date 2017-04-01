@@ -74,7 +74,7 @@ static Morph_args ** key_table = NULL;
 /* 
 			  else {
 			 	fprintf(stderr,"hey: got a negation in [%s], but no place to put it!\n", savekeys);
-				return;
+				return(0);
 			}
 */
 			continue;
@@ -373,7 +373,7 @@ DomainNames(char *domp, char *res, char *dels)
 	
 	*res = 0;
 	if( ! di )
-		return;
+		return(0);
 	mf = (Morph_flags)di;
 
 	while( morph_args->morph_key[0] ) {
@@ -386,7 +386,7 @@ DomainNames(char *domp, char *res, char *dels)
 		}
 		morph_args++;
 	}
-	return;
+	return(0);
 }
 
  GeogRegionNames(GeogRegion gr, char *res, char *dels)
@@ -402,7 +402,7 @@ DomainNames(char *domp, char *res, char *dels)
 	
 	*res = 0;
 	if( ! gr )
-		return;
+		return(0);
 	mf = (Morph_flags)gr;
 
 	while( morph_args->morph_key[0] ) {
@@ -413,7 +413,7 @@ DomainNames(char *domp, char *res, char *dels)
 		}
 		morph_args++;
 	}
-	return;
+	return(0);
 }
 
 char *

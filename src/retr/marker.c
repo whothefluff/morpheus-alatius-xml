@@ -349,7 +349,7 @@ char *
         tlg_gkfield( &x_field , tlg_ref );
         tlg_gkfield( &y_field , tlg_ref );
         if( z_field.ch >= 'p' )
-                return;
+                return(0);
         tlg_gkfield( &z_field , tlg_ref );
         if( z_field.num == prevline && prevchl == z_field.ch )
                 PrintFlag = 0;
@@ -379,7 +379,7 @@ char *
         if( printed )
                 sprintf( print_ref , "%s%c", print_ref, delimc );
         if( z_field.ch >= 'p' )
-                return;
+                return(0);
         prnt_gkfield( &z_field , print_ref );
         if( z_field.num == prevline && prevchl == z_field.ch )
                 PrintFlag = 0;
@@ -413,7 +413,7 @@ char *
         if( Gk->oddlabel[0] ) {
                 sprintf(tmp,"%c:\"%s\"", field, Gk->oddlabel );
                 strcat( s , tmp );
-                return;
+                return(0);
         }
         if( Gk->ch ) {
                 if( Gk->num ) 
@@ -421,12 +421,12 @@ char *
                 else
                         sprintf(tmp,"%c\"%c\"", field , Gk->ch );
                 strcat( s , tmp );
-                return;
+                return(0);
         }
         if( Gk->num ) {
                 sprintf(tmp,"%c%d", field , Gk->num );
                 strcat( s , tmp );
-                return;
+                return(0);
         }
                 
 }

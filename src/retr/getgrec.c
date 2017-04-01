@@ -132,48 +132,48 @@ char *
         if( isfield( s , "sn" ) ) {
                 s += 3;
                 wstrncpy( rec->sname , s , sizeof rec->sname );
-                return;
+                return(0);
         }
 
         if( isfield( s , "wd" ) ) {
                 s += 3;
                 wstrncpy( rec->gotstr , s , sizeof rec->gotstr );
-                return;
+                return(0);
         }
 
         if( isfield( s , "w1" ) ) {
                 s += 3;
                 wstrncpy( rec->gotstr , s , sizeof rec->gotstr );
-                return;
+                return(0);
         }
         if( isfield( s , "w2" ) ) {
                 s += 3;
                 wstrncpy( rec->gotstr2 , s , sizeof rec->gotstr2 );
-                return;
+                return(0);
         }
         if( isfield( s , "ti" ) ) {
                 s += 3;
                 wstrncpy( rec->title , s , sizeof rec->title );
-                return;
+                return(0);
         }
         if( isfield( s , "fq" ) || isfield( s , "af" ) ) {
                 s += 3;
                 rec->freq = atol( s );
-                return;
+                return(0);
         }
         if( isfield( s , "re" ) ) {
                 s += 3;
                 wstrncpy( rec->Print_ref , s , sizeof rec->Print_ref );
-                return;
+                return(0);
         }
         if( isfield( s , "pN" ) ) {
                 rec->pnull = 1;
-                return;
+                return(0);
         }
         if( isfield( s , "pA" ) ) {
                 s += 3;
                 rec->p2 = atol( s );
-        return;
+        return(0);
         }
         if( isfield(s , "r2" ) ) {
                 char * a = rec->endref;
@@ -185,7 +185,7 @@ char *
                         *a++ = *s++;
                 }
                 *a = 0;
-        return;
+        return(0);
         }
         if( isfield(s , "r1" ) ) {
                 char * a = rec->Print_ref;
@@ -197,38 +197,38 @@ char *
                         *a++ = *s++;
                 }
                 *a = 0;
-        return;
+        return(0);
         }
 
         if( isfield( s , "pS" ) ) {
                 s += 3;
                 rec->pword = atol( s );
-                return;
+                return(0);
         }
         if( isfield( s , "pW" ) ) {
                 s += 3;
                 rec->pword = atol( s );
-                return;
+                return(0);
         }
         if( isfield( s , "wk" ) ) {
                 s += 3;
                 rec->recwknum = atoi( s );
-                return;
+                return(0);
         }
         if( isfield( s , "ti" ) ) {
                 s += 3;
                 strncpy( rec->title , s , sizeof rec->title );
-                return;
+                return(0);
         }
         if( isfield( s , "p1" ) ) {
                 s += 3;
                 rec->pword = atol( s );
-                return;
+                return(0);
         }
         if( isfield( s , "p2" ) ) {
                 s += 3; 
                 rec->pw2 = atol( s );
-                return;
+                return(0);
         }
 }
 
@@ -244,7 +244,7 @@ char *
                 for(i=0;i<lim;i++) {
                         if( *s2 == '"' ) {
                                 *s1 = 0;
-                                return;
+                                return(0);
                         }
                         *s1++ = *s2++;
                 }
@@ -252,7 +252,7 @@ char *
                 for(i=0;i<lim;i++) {
                         if( WHITE( *s2 ) ) {
                                 *s1 = 0;
-                                return;
+                                return(0);
                         }
                         *s1++ = *s2++;
                 }

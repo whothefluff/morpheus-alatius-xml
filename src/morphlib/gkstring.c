@@ -20,7 +20,7 @@ FreeGkString(gk_string *gstring)
 {
 	if( ! gstring ) {
 		fprintf(stderr,"hey! asked to free NULL gstring \n");
-		return;
+		return(0);
 	}
 /*
 printf("free gstring \n");
@@ -73,7 +73,7 @@ ClearGkstring(gk_string *gstr)
 	gk_string *CreatGkString();
 	
 	*gstr = BlnkGstr;
-	return;
+	return(0);
 /*
 	gstring = CreatGkString(1);
 	*gstr = * gstring;
@@ -85,7 +85,7 @@ FreeGkword(gk_word *Gkword)
 {
 	if( ! Gkword ) {
 		fprintf(stderr,"hey! asked to free NULL gkword \n");
-		return;
+		return(0);
 	}
 	if( totanal_of(Gkword) && analysis_of(Gkword) )
 		FreeGkAnal(analysis_of(Gkword));
