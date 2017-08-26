@@ -1269,7 +1269,7 @@
 
 :le:quattuor
 :wd:quattu^or	numeral
-:wd:quatu^or	numeral
+:wd:qua_tu^or	numeral
 :wd:quattor	numeral
 
 :le:quia
