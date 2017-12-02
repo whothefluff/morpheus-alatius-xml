@@ -1210,10 +1210,10 @@
 :no:praesaep	is_is fem
 :no:praesaepi	a_ae fem
 :no:praesaep	ius_i neut
-:no:praesep	is_is neut
-:no:praesep	is_is fem
-:no:praesepi	a_ae fem
-:no:praesep	ius_i neut
+:no:praese_p	is_is neut
+:no:praese_p	is_is fem
+:no:praese_pi	a_ae fem
+:no:praese_p	ius_i neut
 
 :le:Preciani
 :aj:Precian	us_a_um

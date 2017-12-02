@@ -5407,6 +5407,9 @@ aevum		<orth>aevom</orth>
 	<gen>m.</gen>
 Aex	
 A_fer		<itype>fra, frum</itype>	<pos>adj.</pos>
+:le:Afer
+:aj:A_f	er_ra_rum
+
 A_fer		<orth>A^_fri</orth>	<itype>o_rum</itype>	<gen>m.</gen>
 af-fa^ber		<orth>adf-</orth>	<itype>bra, brum</itype>	<pos>adj.</pos>	
 :le:affaber
@@ -191470,7 +191473,7 @@ sordu^lentus
 
 so_^rex		
 :le:sorex
-:no:so_^r	ex_icis masc
+:no:so_r	ex_icis masc
 
 
 So_ri^ca_ri^a		
@@ -197567,17 +197570,17 @@ suctus#2
 
 su^cu^la#1		
 :le:sucula#1
-:no:su^cu^l	a_ae fem
+:no:su_cu^l	a_ae fem
 
 
 su^cu^la#2		
 :le:sucula#2
-:no:su^cu^l	a_ae fem
+:no:su_cu^l	a_ae fem
 
 
 su^cu^la#3		
 :le:sucula#3
-:no:su^cu^l	a_ae fem
+:no:su_cu^l	a_ae fem
 
 
 su_cu^lentus		<orth type=alt>succ-</orth>	
@@ -197589,7 +197592,7 @@ su_cu^lentus		<orth type=alt>succ-</orth>
 
 su^cu^lus		
 :le:suculus
-:no:su^cu^l	us_i masc
+:no:su_cu^l	us_i masc
 
 
 su_cus		<orth type=alt>succus</orth>	
@@ -198625,17 +198628,17 @@ su^o^ve^tauri_li^a		<orth>so_li^tauri_li^a</orth>
 
 su^pellecti^ca_ri^us		
 :le:supellecticarius
-:aj:su^pelle_cti^ca_r	ius_ia_ium
+:aj:su^pellecti^ca_r	ius_ia_ium
 
 
 su^pellex		
 :le:supellex
-:no:su^pelle_	x_cis fem
-:no:su^pelle_ctil	is_is fem
-:no:su^pelle_ctil	0_is fem abl
-:no:suppelle_	x_cis fem orth
-:no:suppelle_ctil	is_is fem orth
-:no:suppelle_ctil	0_is fem abl orth
+:no:su^pelle	x_cis fem
+:no:su^pellectil	is_is fem
+:no:su^pellectil	0_is fem abl
+:no:suppelle	x_cis fem orth
+:no:suppellectil	is_is fem orth
+:no:suppellectil	0_is fem abl orth
 
 
 su^per#2		
@@ -213160,9 +213163,9 @@ unde_vi_ce_si^ma_ni
 unde_vi_ce_si^mus		<orth>unde_vi_ge_si^-mus</orth>	
 :le:undevicesimus
 :aj:u_nde_vi_ce_si^m	us_a_um
-:aj:u_nde_vi_censi^m	us_a_um
+:aj:u_nde_vi_ce_nsi^m	us_a_um
 :aj:u_nde_vi_ge_si^-m	us_a_um orth
-:aj:u_nde_vi_gensi^-m	us_a_um orth
+:aj:u_nde_vi_ge_nsi^-m	us_a_um orth
 
 
 
@@ -213239,9 +213242,9 @@ u_netvi_ce_si^ma_ni		<orth type=alt>u_na^et-</orth>
 u_netvi_ce_si^mus		<orth type=alt>u_na^et-</orth>	
 :le:unetvicesimus
 :aj:u_netvi_ce_si^m	us_a_um
-:aj:u_netvi_censi^m	us_a_um orth
+:aj:u_netvi_ce_nsi^m	us_a_um orth
 :aj:u_na^etvi_ce_si^m	us_a_um orth
-:aj:u_na^etvi_censi^m	us_a_um orth
+:aj:u_na^etvi_ce_nsi^m	us_a_um orth
 
 
 	<pos>num. adj.</pos>
@@ -215281,10 +215284,11 @@ ve_cordia
 :no:ve_cordi	a_ae fem
 
 
+ve_-cors		<orth type=alt>va_ecors</orth>	<itype>cordis</itype>	<pos>adj.</pos>
 :le:vecors
 :aj:ve_-cor	s_dis_adj
 :aj:vae-cor	s_dis_adj
-ve_-cors		<orth type=alt>va_ecors</orth>	<itype>cordis</itype>	<pos>adj.</pos>
+
 vecta_bi^lis		
 :le:vectabilis
 :aj:vecta_bi^l	is_e
@@ -217118,6 +217122,9 @@ Vertum-na_li^a
 
 
 ve^ru		<itype>u_s</itype>
+:le:veru
+:no:ve^r	us_us neut
+
 ve^rum		<orth>ve^ro_nes</orth>	<itype>plumbei</itype>	<gen>n.</gen>
 ve^ru_cu^la_tus		
 :le:veruculatus
@@ -218051,6 +218058,16 @@ vi_ce_si^ma_ti^o
 
 
 vi_ce_si^mus		<orth>vi_censi^mus</orth>	<orth>vi_ge_si^mus</orth>	<orth>vi_ce_nsi^-ma</orth>	<orth type=alt>-suma</orth>	<itype>ae</itype>	<gen>f.</gen>
+:le:vicesimus
+:aj:vi_ce_si^m	us_a_um
+:aj:vi_ce_nsi^m	us_a_um
+:aj:vi_ge_si^-m	us_a_um orth
+:aj:vi_ge_nsi^-m	us_a_um orth
+:aj:vi_ce_su^m	us_a_um orth
+:aj:vi_ce_nsu^m	us_a_um orth
+:aj:vi_ge_su^-m	us_a_um orth
+:aj:vi_ge_nsu^-m	us_a_um orth
+
 Vi_ce_ti^a		<orth type=alt>Vi_centi^a</orth>	
 :le:Vicetia
 :no:Vi_ce_ti^	a_ae fem
@@ -220417,6 +220434,9 @@ vo^max
 
 
 vo_mer		<itype>e^ris</itype>
+:le:vomer
+:no:vo_m	er_eris masc
+
 vo_mis		
 :le:vomis
 :no:vo_m	is_is masc
