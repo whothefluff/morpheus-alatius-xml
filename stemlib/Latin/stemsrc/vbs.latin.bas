@@ -786,9 +786,9 @@
 
 :le:plico
 :vs:plic	conj1
-:vs:plicu	perfstem comp_only
-:vs:plicit	pp4 comp_only
-:vs:plica_t	pp4 comp_only
+:vs:plicu	perfstem
+:vs:plicit	pp4
+:vs:plica_t	pp4
 
 :le:possideo
 :vs:possi^d	conj2
