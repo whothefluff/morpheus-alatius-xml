@@ -3808,7 +3808,7 @@
 :vs:cor-re_p	conj3
 :vs:cor-re_ps perfstem
 :le:correpto
-:de:corrept	are_vb
+:de:corre_pt	are_vb
 :le:corresuscito
 :de:cor-re^susci^t	are_vb
 :le:corrideo
@@ -5309,6 +5309,10 @@
 :vs:dis-serp	conj3
 :le:disserto
 :de:dissert	are_vb
+:le:dissideo
+:vs:dis-si^d	conj2
+:vs:dis-se_d perfstem
+:vs:dis-sess pp4
 :le:dissimulo
 :de:dissi^mu^l	are_vb
 :le:dissipo
@@ -5576,11 +5580,6 @@
 :de:ef-fe_mi^n	are_vb
 :le:efferasco
 :vs:effe^ra_sc	conj3
-
-:le:effero#1
-:vs:ec-fe^r	conj3 ind
-:vs:ec-fe^r	conj3 subj
-:vs:ec-fe^r	conj3 part
 
 :le:effero#2
 :de:ef-fe^r	are_vb
@@ -5943,7 +5942,7 @@
 :vs:e_-nu_b	conj3
 :vs:e_-nu_ps perfstem
 :le:enucleo
-:de:e_-nu_cl	are_vb
+:de:e_-nu_cle	are_vb
 :le:enudo
 :de:e_-nu_d	are_vb
 :le:enumero
@@ -6013,6 +6012,10 @@
 :vs:e_-rupt pp4
 :le:erunco
 :de:e_-runc	are_vb
+:le:eruo
+:vs:e_-ru^	conj3
+:vs:e_-ru^ perfstem
+:vs:e_-ru^t pp4
 :le:escendo
 :vs:e_-scend	conj3
 :vs:e_-scend perfstem
@@ -9875,7 +9878,7 @@
 :le:memoro
 :de:me^mo^r	are_vb
 :le:mendico
-:de:mendic	are_vb
+:de:mendi_c	are_vb
 :le:mendicor
 :de:mendi_c	are_vb dep
 :le:menstruo
@@ -10522,7 +10525,7 @@
 :vs:ob-re_ps perfstem
 :vs:ob-re_pt pp4
 :le:obrepto
-:de:obrept	are_vb
+:de:obre_pt	are_vb
 :le:obretio
 :vs:obre_t	conj4
 :vs:obre_ti_v perfstem
@@ -11788,7 +11791,7 @@
 :vs:per-re_ps perfstem
 :vs:per-re_pt pp4
 :le:perrepto
-:de:perrept	are_vb
+:de:perre_pt	are_vb
 :le:perrodo
 :vs:per-ro_d	conj3
 :vs:per-ro_s perfstem
@@ -13283,7 +13286,7 @@
 :vs:pro_-mo_v perfstem
 :vs:pro_-mo_t pp4
 :le:prompto
-:de:prompt	are_vb
+:de:pro_mpt	are_vb
 :le:promulgo
 :de:pro_mulg	are_vb
 :le:promutuor
@@ -14380,7 +14383,7 @@
 :le:repropitio
 :de:re^-pro^pi^ti	are_vb
 :le:repto
-:de:rept	are_vb
+:de:re_pt	are_vb
 :le:repubesco
 :vs:re^-pu_be_sc	conj3
 :le:repudio
@@ -16608,6 +16611,8 @@
 :vs:te^pu^ perfstem
 :le:tepido
 :de:te^pi^d	are_vb
+:le:terebro
+:de:te^re^br	are_vb
 :le:tergeo
 :vs:terg	conj3
 :vs:tergs perfstem
@@ -17304,7 +17309,7 @@
 :le:vinculo
 :de:vincu^l	are_vb
 :le:vindemio
-:de:vinde_mi	are_vb
+:de:vi_nde_mi	are_vb
 :le:vindico
 :de:vindi^c	are_vb
 :le:vio

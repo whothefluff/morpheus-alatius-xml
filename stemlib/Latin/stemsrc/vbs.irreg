@@ -88,9 +88,9 @@
 :vb:eunda   irreg_pp1 gerundive neut nom/voc/acc pl
 :vb:ienda   irreg_pp1 gerundive neut nom/voc/acc pl early
 :vb:eundo_rum   irreg_pp1 gerundive masc/neut gen pl
-:vb:eundu_m   irreg_pp1 gerundive masc/neut gen pl poetic
+:vb:eundum   irreg_pp1 gerundive masc/neut gen pl poetic
 :vb:iendo_rum   irreg_pp1 gerundive masc/neut gen pl early
-:vb:iendu_m   irreg_pp1 gerundive masc/neut gen pl poetic early
+:vb:iendum   irreg_pp1 gerundive masc/neut gen pl poetic early
 :vb:eunda_rum   irreg_pp1 gerundive fem gen pl
 :vb:ienda_rum   irreg_pp1 gerundive fem gen pl early
 :vb:eundi_s   irreg_pp1 gerundive masc/neut dat pl
@@ -252,9 +252,9 @@
 :vb:de_pereunda   irreg_pp1 gerundive neut nom/voc/acc pl
 :vb:de_perienda   irreg_pp1 gerundive neut nom/voc/acc pl early
 :vb:de_pereundo_rum   irreg_pp1 gerundive masc/neut gen pl
-:vb:de_pereundu_m   irreg_pp1 gerundive masc/neut gen pl poetic
+:vb:de_pereundum   irreg_pp1 gerundive masc/neut gen pl poetic
 :vb:de_periendo_rum   irreg_pp1 gerundive masc/neut gen pl early
-:vb:de_periendu_m   irreg_pp1 gerundive masc/neut gen pl poetic early
+:vb:de_periendum   irreg_pp1 gerundive masc/neut gen pl poetic early
 :vb:de_pereunda_rum   irreg_pp1 gerundive fem gen pl
 :vb:de_perienda_rum   irreg_pp1 gerundive fem gen pl early
 :vb:de_pereundi_s   irreg_pp1 gerundive masc/neut dat pl
@@ -408,9 +408,9 @@
 :vb:dispereunda   irreg_pp1 gerundive neut nom/voc/acc pl
 :vb:disperienda   irreg_pp1 gerundive neut nom/voc/acc pl early
 :vb:dispereundo_rum   irreg_pp1 gerundive masc/neut gen pl
-:vb:dispereundu_m   irreg_pp1 gerundive masc/neut gen pl poetic
+:vb:dispereundum   irreg_pp1 gerundive masc/neut gen pl poetic
 :vb:disperiendo_rum   irreg_pp1 gerundive masc/neut gen pl early
-:vb:disperiendu_m   irreg_pp1 gerundive masc/neut gen pl poetic early
+:vb:disperiendum   irreg_pp1 gerundive masc/neut gen pl poetic early
 :vb:dispereunda_rum   irreg_pp1 gerundive fem gen pl
 :vb:disperienda_rum   irreg_pp1 gerundive fem gen pl early
 :vb:dispereundi_s   irreg_pp1 gerundive masc/neut dat pl
@@ -548,6 +548,54 @@
 :vb:auferre_mur   irreg_pp1 imperf subj pass 1st pl
 :vb:auferre_mini_   irreg_pp1 imperf subj pass 2nd pl
 :vb:auferrentur   irreg_pp1 imperf subj pass 3rd pl
+
+:le:effero#1
+:vb:effe^ro_	irreg_pp1 1st sg pres ind act
+:vb:effe^rs	irreg_pp1 2nd sg pres ind act
+:vb:effe^rt	irreg_pp1 3rd sg pres ind act
+:vb:effe^rimus	irreg_pp1 1st pl pres ind act
+:vb:effe^rtis	irreg_pp1 2nd pl pres ind act
+:vb:effe^runt	irreg_pp1 3rd pl pres ind act
+:vb:effe^ror	irreg_pp1 1st sg pres ind pass
+:vb:effe^rris	irreg_pp1 2nd sg pres ind pass
+:vb:effe^rtur	irreg_pp1 3rd sg pres ind pass
+:vb:effe^rimur	irreg_pp1 1st pl pres ind pass
+:vb:effe^rimini_	irreg_pp1 2nd pl pres ind pass
+:vb:effe^runtur	irreg_pp1 3rd pl pres ind pass
+:vb:effe^r	irreg_pp1 2nd sg pres imperat act
+:vb:effe^rte	irreg_pp1 2nd pl pres imperat act
+:vb:effe^rto_	irreg_pp1 2nd sg fut imperat act
+:vb:effe^rto_	irreg_pp1 3rd sg fut imperat act
+:vb:effe^rto_te	irreg_pp1 2nd pl fut imperat act
+:vb:effe^runto_	irreg_pp1 3rd pl fut imperat act
+:vb:effe^rre	irreg_pp1 2nd sg pres imperat pass
+:vb:effe^rimini_	irreg_pp1 2nd pl pres imperat pass
+:vb:effe^rtor	irreg_pp1 2nd sg fut imperat pass
+:vb:effe^rtor	irreg_pp1 3rd sg fut imperat pass
+:vb:aufe^runtor	irreg_pp1 3rd pl fut imperat pass
+:vs:effer	conj3 gerundive
+:vs:effe^r conj3 imperf ind
+:vs:effe^r conj3 fut
+:vs:effe^r conj3 subj pres
+:vs:effe^r conj3 part
+:vb:efferre irreg_pp1 pres inf act
+:vb:efferri_ irreg_pp1 pres inf pass
+:vs:
+:vs:ex-tul	perfstem
+:vs:e_-la_t	pp4
+:vb:efferrem   irreg_pp1 imperf subj act 1st sg
+:vb:efferre_s   irreg_pp1 imperf subj act 2nd sg
+:vb:efferret   irreg_pp1 imperf subj act 3rd sg
+:vb:efferre_mus   irreg_pp1 imperf subj act 1st pl
+:vb:efferre_tis   irreg_pp1 imperf subj act 2nd pl
+:vb:efferrent   irreg_pp1 imperf subj act 3rd pl
+:vb:efferrer   irreg_pp1 imperf subj pass 1st sg
+:vb:efferre_ris   irreg_pp1 imperf subj pass 2nd sg
+:vb:efferre_re   irreg_pp1 imperf subj pass 2nd sg
+:vb:efferre_tur   irreg_pp1 imperf subj pass 3rd sg
+:vb:efferre_mur   irreg_pp1 imperf subj pass 1st pl
+:vb:efferre_mini_   irreg_pp1 imperf subj pass 2nd pl
+:vb:efferrentur   irreg_pp1 imperf subj pass 3rd pl
 
 :le:fero
 :vb:fe^ro_	irreg_pp1 1st sg pres ind act

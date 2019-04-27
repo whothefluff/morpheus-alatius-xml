@@ -218,6 +218,48 @@ auferr@emsub	irreg_pp1 imperf subj
 :vs:abs-tul	perfstem
 :vs:ab-la_t	pp4
 
+
+:le:effero#1
+:vb:effe^ro_	irreg_pp1 1st sg pres ind act
+:vb:effe^rs	irreg_pp1 2nd sg pres ind act
+:vb:effe^rt	irreg_pp1 3rd sg pres ind act
+:vb:effe^rimus	irreg_pp1 1st pl pres ind act
+:vb:effe^rtis	irreg_pp1 2nd pl pres ind act
+:vb:effe^runt	irreg_pp1 3rd pl pres ind act
+
+:vb:effe^ror	irreg_pp1 1st sg pres ind pass
+:vb:effe^rris	irreg_pp1 2nd sg pres ind pass
+:vb:effe^rtur	irreg_pp1 3rd sg pres ind pass
+:vb:effe^rimur	irreg_pp1 1st pl pres ind pass
+:vb:effe^rimini_	irreg_pp1 2nd pl pres ind pass
+:vb:effe^runtur	irreg_pp1 3rd pl pres ind pass
+:vb:effe^r	irreg_pp1 2nd sg pres imperat act
+:vb:effe^rte	irreg_pp1 2nd pl pres imperat act
+
+:vb:effe^rto_	irreg_pp1 2nd sg fut imperat act
+:vb:effe^rto_	irreg_pp1 3rd sg fut imperat act
+:vb:effe^rto_te	irreg_pp1 2nd pl fut imperat act
+:vb:effe^runto_	irreg_pp1 3rd pl fut imperat act
+
+:vb:effe^rre	irreg_pp1 2nd sg pres imperat pass
+:vb:effe^rimini_	irreg_pp1 2nd pl pres imperat pass
+
+:vb:effe^rtor	irreg_pp1 2nd sg fut imperat pass
+:vb:effe^rtor	irreg_pp1 3rd sg fut imperat pass
+:vb:aufe^runtor	irreg_pp1 3rd pl fut imperat pass
+
+:vs:effer	conj3 gerundive
+:vs:effe^r conj3 imperf ind
+efferr@emsub	irreg_pp1 imperf subj
+:vs:effe^r conj3 fut
+:vs:effe^r conj3 subj pres
+:vs:effe^r conj3 part
+:vb:efferre irreg_pp1 pres inf act
+:vb:efferri_ irreg_pp1 pres inf pass
+:vs:
+:vs:ex-tul	perfstem
+:vs:e_-la_t	pp4
+
 :le:fero
 :vb:fe^ro_	irreg_pp1 1st sg pres ind act
 :vb:fe^rs	irreg_pp1 2nd sg pres ind act

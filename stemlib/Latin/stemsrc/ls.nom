@@ -1164,6 +1164,9 @@ acceptum
 
 accepte	
 acci^pi^ter		<itype>tris</itype>	<gen>c.</gen>
+:le:accipiter
+:no:acci^pi^t	er_ris masc fem
+
 acci^pi^tri_na		
 :le:accipitrina
 :no:acci^pi^tri_n	a_ae fem
@@ -26977,7 +26980,8 @@ Butuntinenses
 
 bu_ty_^rum		<orth>y_</orth>	<orth>bu^-ty^ron</orth>	
 :le:butyrum
-:no:bu_ty_^r	us_i neut
+:no:bu_ty_r	us_i neut
+:no:bu_tu_r	us_i neut orth
 
 
 buxans		<itype>antis</itype>	<pos>adj.</pos>
@@ -28177,7 +28181,7 @@ caesi^cius
 
 caesi_m		
 :le:caesim
-:wd:caesi_m	adverb
+:wd:caesim	adverb
 
 
 caesi^o		
@@ -29710,7 +29714,7 @@ campa^gus
 
 campana#1		
 :le:campana#1
-:no:campan	a_ae fem
+:no:campa_n	a_ae fem
 
 
 campa_ne^us		<orth>campa_ni^us</orth>	
@@ -43362,7 +43366,7 @@ compa^ra_tor#2
 
 compa^ra-tus		
 :le:comparatus
-:no:compa^ra-t	us_us masc
+:no:compa^ra_t	us_us masc
 
 
 com-pa^ri^lis		
@@ -50354,13 +50358,13 @@ cra_ti^ci^us		<orth>-ti^us</orth>
 
 cra_ti^cu^la		
 :le:craticula
-:no:cra_ti^cu^l	a_ae fem
+:no:cra_ti_cu^l	a_ae fem
 
 
 craticulum	
 cra_ti^cu^lus		
 :le:craticulus
-:aj:cra_ti^cu^l	us_a_um
+:aj:cra_ti_cu^l	us_a_um
 
 
 Cra^ti_nus		
@@ -56737,7 +56741,15 @@ Delphis
 
 
 delphi_nus		<itype>i, and in the pure Greek form</itype>
+:le:delphinus
+:no:delphi_n	us_i masc
+
+
 delphi_n		<itype>i_nis</itype>	<gen>m.</gen>
+:le:delphin
+:no:delphi_n	0_is masc
+
+
 delta		
 :le:delta
 :no:delt	a_ae fem
@@ -58520,7 +58532,8 @@ de_verti^cu^lum		<orth>di_vert-</orth>	<orth>de_vort-</orth>
 :le:deverticulum
 :no:de_verti^cu^l	us_i neut
 :no:de_vorti^cu^l	us_i neut orth
-
+:no:di_verti^cu^l	us_i neut orth
+:no:di_vorti^cu^l	us_i neut orth
 
 
 de_-vescor		<itype>vesci</itype>
@@ -61711,12 +61724,12 @@ di^u_tu^le
 
 di^u_turni^tas		
 :le:diuturnitas
-:no:di^u_turni^	tas_tatis fem
+:no:di^u^turni^	tas_tatis fem
 
 
 di^u_turnus		
 :le:diuturnus
-:aj:di^u_turn	us_a_um
+:aj:di^u^turn	us_a_um
 
 
 diu_turne	
@@ -68450,7 +68463,7 @@ E^ri^go_nus
 
 e^ri_^lis		<orth>he^ri_lis</orth>	
 :le:erilis
-:aj:e^ri_^l	is_e
+:aj:e^ri_l	is_e
 :aj:he^ri_l	is_e orth
 
 
@@ -75962,6 +75975,9 @@ fi^me_tum
 
 
 fi^mus		<itype>i</itype>
+:le:fimus
+:no:fi^m	us_i masc
+
 fi^mum		
 :le:fimum
 :no:fi^m	us_i neut
@@ -85280,14 +85296,14 @@ ha^re_na		<orth>a^re_na</orth>
 ha^re_na_ce^us		<orth type=alt>aren-</orth>	
 :le:harenaceus
 :aj:ha^re_na_ce^	us_a_um
-:aj:arena_ce^	us_a_um orth
+:aj:a^re_na_ce^	us_a_um orth
 
 
 
 ha^re_na_ri^us		<orth type=alt>aren-</orth>	
 :le:harenarius
 :aj:ha^re_na_r	ius_ia_ium
-:aj:arena_r	ius_ia_ium orth
+:aj:a^re_na_r	ius_ia_ium orth
 
 
 
@@ -85309,14 +85325,14 @@ ha^re_na_ri^um
 ha^re_na_ti^o		<orth type=alt>aren-</orth>	
 :le:harenatio
 :no:ha^re_na_ti^	o_oLnis fem
-:no:arena_ti^	o_oLnis fem orth
+:no:a^re_na_ti^	o_oLnis fem orth
 
 
 
 ha^re_na_tus		<orth type=alt>aren-</orth>	
 :le:harenatus
 :aj:ha^re_na_t	us_a_um
-:aj:arena_t	us_a_um orth
+:aj:a^re_na_t	us_a_um orth
 
 
 
@@ -85328,21 +85344,21 @@ ha^re_na_tum
 ha^re_ni^fo^di_na		<orth type=alt>aren-</orth>	
 :le:harenifodina
 :no:ha^re_ni^fo^di_n	a_ae fem
-:no:areni^fo^di_n	a_ae fem orth
+:no:a^re_ni^fo^di_n	a_ae fem orth
 
 
 
 ha^re_ni^va^gus		<orth type=alt>aren-</orth>	
 :le:harenivagus
 :aj:ha^re_ni^va^g	us_a_um
-:aj:areni^va^g	us_a_um orth
+:aj:a^re_ni^va^g	us_a_um orth
 
 
 
 ha^re_no_sus		<orth type=alt>aren-</orth>	
 :le:harenosus
 :aj:ha^re_no_s	us_a_um
-:aj:areno_s	us_a_um orth
+:aj:a^re_no_s	us_a_um orth
 
 
 
@@ -85359,28 +85375,28 @@ ha^re_no_sa
 ha^re_nu^la		<orth type=alt>aren-</orth>	
 :le:harenula
 :no:ha^re_nu^l	a_ae fem
-:no:arenu^l	a_ae fem orth
+:no:a^re_nu^l	a_ae fem orth
 
 
 
 ha^ri^o^la_ti^o		<orth type=alt>ar-</orth>	
 :le:hariolatio
 :no:ha^ri^o^la_ti^	o_oLnis fem
-:no:ari^o^la_ti^	o_oLnis fem orth
+:no:a^ri^o^la_ti^	o_oLnis fem orth
 
 
 
 ha^ri^o^lus		<orth type=alt>ar-</orth>	
 :le:hariolus
 :no:ha^ri^o^l	us_i masc
-:no:ari^o^l	us_i masc orth
+:no:a^ri^o^l	us_i masc orth
 
 
 
 hari^o^la		
 :le:hariola
-:no:hari^o^l	a_ae fem
-:no:ari^o^l	a_ae fem orth
+:no:ha^ri^o^l	a_ae fem
+:no:a^ri^o^l	a_ae fem orth
 
 Harmo^di^us		
 :le:Harmodius
@@ -85704,6 +85720,10 @@ he^be^nus		<orth>e^be^nus</orth>
 
 
 he^bes		<itype>e^tis</itype>	<pos>adj.</pos>
+:le:hebes
+:aj:he^be^	s_tis_adj
+
+
 he^be^ti^a		
 :le:hebetia
 :no:he^be^t	is_is neut pl
@@ -86139,6 +86159,7 @@ hellu^a_ti^o		<orth type=alt>he_l-</orth>
 hellu^o		<orth type=alt>he_luo</orth>	
 :le:helluo
 :no:hellu^	o_oLnis masc
+:no:he_lu^	o_oLnis masc orth
 
 
 Hellusii		
@@ -89263,7 +89284,7 @@ hortu^la_nus
 
 hortulanus		
 :le:hortulanus
-:no:hortulan	us_i masc
+:no:hortu^la_n	us_i masc
 
 
 hortu^lus		
@@ -98260,6 +98281,9 @@ i^n-e_la^bo_ra_tus
 
 
 i^n-e_le^gans		<itype>antis</itype>	<pos>adj.</pos>
+:le:i^n-elegans
+:aj:i^n-e_le^gan	s_tis_adj
+
 i^ne_le^ganter	
 :le:ineleganter
 :wd:i^ne_le^ganter		adverb
@@ -99711,7 +99735,7 @@ inge^ni^o^lum
 inge^ni^o_sus		<orth type=alt>inge^nu^-</orth>	
 :le:ingeniosus
 :aj:inge^ni^o_s	us_a_um
-:aj:inge^n	us_a_um orth
+:aj:inge^nu^o_s	us_a_um orth
 
 
 
@@ -109303,7 +109327,9 @@ la_ni^pendi^um
 la_ni^pendi^us		<orth>la_ni^-pendus</orth>	
 :le:lanipendius
 :aj:la_ni^pend	ius_ia_ium
-:aj:la_n	ius_ia_ium orth
+
+:le:lanipendus
+:aj:la_ni^pend	us_a_um
 
 
 
@@ -129259,7 +129285,7 @@ multi^-me^ter
 
 multi^-mo^dis		
 :le:multimodis
-:wd:multi^-mo^dis	adverb
+:wd:multi^-mo^di_s	adverb
 
 
 multi^-mo^dus		
@@ -137634,23 +137660,21 @@ obre_pi^la_ti^o
 
 obrepti_ci^us		<orth>-ti^us</orth>	
 :le:obrepticius
-:aj:obrepti_c	ius_ia_ium
+:aj:obre_pti_c	ius_ia_ium
 
 
 obrepti^o		
 :le:obreptio
-:no:obrepti^	o_oLnis fem
+:no:obre_pti^	o_oLnis fem
 
 
 obrepti_vus		
 :le:obreptivus
-:aj:obrepti_v	us_a_um
+:aj:obre_pti_v	us_a_um
 
 	<pos>adv.</pos>
 obrepti_ve_	
 obreptus		
-:le:obreptus
-:aj:obrept	us_a_um
 
 
 Obri^mas		
@@ -150997,7 +151021,7 @@ per-di^us
 
 per-di^u^turnus		
 :le:perdiuturnus
-:aj:per-di^u_turn	us_a_um
+:aj:per-di^u^turn	us_a_um
 
 
 per-di_ve^s		<itype>i^tis</itype>	<pos>adj.</pos>
@@ -157445,6 +157469,9 @@ pi_pa_tus
 
 
 pi^per		<orth type=alt>pi^pe^ris</orth>	<gen>n.</gen>
+:le:piper
+:no:pi^p	er_eris neut
+
 pi^pe^ra_ta_ri^us		
 :le:piperatarius
 :aj:pi^pe^ra_ta_r	ius_ia_ium
@@ -166840,6 +166867,7 @@ pro_muntu^ri^um		<orth type=alt>pro_mon-</orth>
 :no:pro_muntu^r	ius_i neut
 :no:pro_montu^r	ius_i neut orth
 :no:pro_munto^r	ius_i neut orth
+:no:pro_monto^r	ius_i neut orth
 
 
 
@@ -168296,7 +168324,7 @@ pro_vinci^a_tim
 
 pro_-vinde_mi^a_tor		
 :le:provindemiator
-:no:pro_-vinde_mi^a_t	or_oLris masc
+:no:pro_-vi_nde_mi^a_t	or_oLris masc
 
 
 pro_vi_si^o		
@@ -175894,28 +175922,28 @@ re^pro_misso^r
 
 repta_bundus		
 :le:reptabundus
-:aj:repta_bund	us_a_um
+:aj:re_pta_bund	us_a_um
 
 
 repta_ti^o		
 :le:reptatio
-:no:repta_ti^	o_oLnis fem
+:no:re_pta_ti^	o_oLnis fem
 
 
 repta_tus		
 :le:reptatus
-:no:repta_t	us_us masc
+:no:re_pta_t	us_us masc
 
 
 repti^lis		
 :le:reptilis
-:aj:repti^l	is_e
+:aj:re_pti^l	is_e
 
 
 repti^le		<itype>is</itype>
 rep-ta_tus		
 :le:reptatus
-:aj:rep-ta_t	us_a_um
+:aj:re_pta_t	us_a_um
 
 
 re^pu^di^a_ti^o		
@@ -191614,6 +191642,9 @@ sospe^s
 
 
 sospi^-ta		<itype>ae</itype>	<pos>adj.</pos>
+:le:sospita
+:no:sospi^t	us_a_um fem
+
 sospi^ta_lis		
 :le:sospitalis
 :aj:sospi^ta_l	is_e
@@ -199764,8 +199795,8 @@ surrepti_vus		<orth type=alt>subr-</orth>
 
 surreptum		<orth type=alt>subr-</orth>	
 :le:surreptum
-:no:surrept	us_i neut
-:no:subrept	us_i neut orth
+:no:surre_pt	us_i neut
+:no:subre_pt	us_i neut orth
 
 
 
