@@ -681,7 +681,7 @@ checkstring3(gk_word *Gkword)
 	case 'c': case 'p': case 't':
 	  p_start = p_word;
 	  p_tail = p_word + 1;
-	  memmove(p_tail, p_word, strlen(p_word));
+	  memmove(p_tail, p_word, strlen(p_word) + 1);
 	  *p_start = 's';
 	  set_workword(Gkword, workword);
 	  rval = checkstring3(Gkword);
