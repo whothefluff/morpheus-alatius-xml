@@ -284,7 +284,6 @@
 :de:a^cerb	are_vb
 :le:acervo
 :de:a^cerv	are_vb
-:de:a^ceru	are_vb
 :le:acetasco
 :vs:a^ce_ta_sc	conj3
 :vs:a^ce_ta_v perfstem
@@ -1281,8 +1280,8 @@
 :le:assero#2
 :vs:as-se^r	conj3
 :vs:ad-se^r	conj3 orth
-:vs:as-seru	perfstem
-:vs:ad-seru	perfstem orth
+:vs:as-se^ru^	perfstem
+:vs:ad-se^ru^	perfstem orth
 :vs:as-sert	pp4
 :vs:ad-sert	pp4 orth
 
@@ -2313,7 +2312,6 @@
 
 :le:coacervo
 :de:co^-a^cerv	are_vb
-:de:co^-a^ceru	are_vb
 
 :le:coacto
 :de:co^act	are_vb
@@ -5815,7 +5813,7 @@
 :de:e_-manc	are_vb
 :le:emaneo
 :vs:e_-ma^n	conj2
-:vs:e_-ma^ns perfstem
+:vs:e_-ma_ns perfstem
 :le:emano
 :de:e_-ma_n	are_vb
 :le:emargino
@@ -8001,7 +7999,7 @@
 :le:increbesco
 :vs:incre_be_sc	conj3
 :vs:incre_bre_sc	conj3
-:vs:incre_bru	perfstem
+:vs:incre_bru^	perfstem
 
 :le:increbro
 :de:in-cre_br	are_vb
@@ -10568,7 +10566,6 @@
 :vs:ob-si^t pp4
 :le:observo
 :de:ob-serv	are_vb
-:de:ob-seru	are_vb
 :le:obsibilo
 :de:ob-si_bi^l	are_vb
 :le:obsidior
@@ -13651,8 +13648,6 @@
 :vs:qui^e_sc	conj3
 :vs:qui^e_v perfstem
 :vs:qui^e_t pp4
-:le:quiesco
-:de:qui^esc	are_vb
 :le:quietor
 :de:qui^e_t	are_vb dep
 :le:quinquiplico
@@ -14925,7 +14920,7 @@
 :vs:sarpt pp4
 :le:sarrio
 :vs:sarr	conj4
-:vs:sarru	perfstem
+:vs:sarru^	perfstem
 :le:satio#1
 :de:sa^ti	are_vb
 :le:satullo
@@ -15145,11 +15140,9 @@
 :vs:servi_v perfstem
 :vs:servi^ perfstem
 :vs:servi_t pp4
-:de:seru	ire_vb
 
 :le:servo
 :de:serv	are_vb
-:de:seru	are_vb
 
 :le:sessito
 :de:sessi^t	are_vb

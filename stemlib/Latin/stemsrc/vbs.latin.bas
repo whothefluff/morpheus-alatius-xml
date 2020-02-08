@@ -404,7 +404,7 @@
 :vb:faxis	perfstem 2nd sg perf subj act
 :vb:faxit	perfstem 3rd sg perf subj act
 :vb:faxint	perfstem 3rd pl perf subj act
-:vb:faxo	perfstem 1st sg fut perf indic act
+:vb:faxo_	perfstem 1st sg fut perf indic act
 
 
 :le:fateor

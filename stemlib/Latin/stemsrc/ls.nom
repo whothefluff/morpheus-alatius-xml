@@ -22939,29 +22939,33 @@ be^lo^ne_
 be_lu^a		<orth>bellu^a</orth>	
 :le:belua
 :no:be_lu^	a_ae fem
-:no:be_llu^	a_ae fem orth
+:no:bellu^	a_ae fem orth
 
 
 
 be_lu^a_lis		<orth type=alt>bell-</orth>	
 :le:belualis
 :aj:be_lu^a_l	is_e
-:aj:be_llu^a_l	is_e orth
+:aj:bellu^a_l	is_e orth
 
 
 
 be_lu^a_tusbell-		<itype>a, um</itype>	<pos>adj.</pos>
+:le:beluatus
+:aj:be_lu^a_t	us_a_um
+:aj:bellu^a_t	us_a_um orth
+
 be_lu^i_lis		<orth type=alt>bell-</orth>	
 :le:beluilis
 :aj:be_lu^i_l	is_e
-:aj:be_llu^i_l	is_e orth
+:aj:bellu^i_l	is_e orth
 
 
 
 be_lu^i_nus		<orth type=alt>bell-</orth>	
 :le:beluinus
 :aj:be_lu^i_n	us_a_um
-:aj:be_llu^i_n	us_a_um orth
+:aj:bellu^i_n	us_a_um orth
 
 
 
@@ -22973,7 +22977,7 @@ Be_lu_num
 be_lu^o_sus		<orth type=alt>bell-</orth>	
 :le:beluosus
 :aj:be_lu^o_s	us_a_um
-:aj:be_llu^o_s	us_a_um orth
+:aj:bellu^o_s	us_a_um orth
 
 
 
@@ -23001,14 +23005,14 @@ Be_li^a^s
 be_lu_tus		<orth type=alt>bell-</orth>	
 :le:belutus
 :aj:be_lu_t	us_a_um
-:aj:be_llu_t	us_a_um orth
+:aj:bellu_t	us_a_um orth
 
 
 
 be_lu^us		<orth type=alt>bell-</orth>	
 :le:beluus
 :aj:be_lu^	us_a_um
-:aj:be_llu^	us_a_um orth
+:aj:bellu^	us_a_um orth
 
 
 
@@ -67718,14 +67722,14 @@ e^pista^tes
 :no:e^pista^t	es_ae masc
 
 
-e^pi_sto^li^cus		
+e^pisto^li^cus
 :le:epistolicus
-:aj:e^pi_sto^li^c	us_a_um
+:aj:e^pisto^li^c	us_a_um
 
 
-e^pi_sto^li^um		
+e^pisto^li^um
 :le:epistolium
-:no:e^pi_sto^l	ius_i neut
+:no:e^pisto^l	ius_i neut
 
 
 e^pistra^te_gi_a		
@@ -75418,6 +75422,10 @@ fe_tu_ti_na
 :wd:fi_#1	exclam
 fi^ber#1		<gen>m.</gen>
 fiber		<itype>extremus</itype>
+:le:fiber
+:no:fi^b	er_ri masc
+
+
 fi_^bra		
 :le:fibra
 :no:fi_^br	a_ae fem
@@ -137613,7 +137621,7 @@ o^boedi^enter
 o^boedi^enti^a		<orth type=alt>obed-</orth>	
 :le:oboedientia
 :no:o^boedi^enti^	a_ae fem
-:no:obedi^enti^	a_ae fem orth
+:no:obe_di^enti^	a_ae fem orth
 
 
 
@@ -137624,7 +137632,7 @@ o^boedi^-enter
 o^boedi_ti^o		<orth type=alt>obed-</orth>	
 :le:oboeditio
 :no:o^boedi_ti^	o_oLnis fem
-:no:obedi_ti^	o_oLnis fem orth
+:no:obe_di_ti^	o_oLnis fem orth
 
 
 

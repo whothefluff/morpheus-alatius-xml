@@ -120,9 +120,7 @@
 
 :le:colluvio
 :no:collu^vi^	o_oLnis fem
-:no:collu^ui^	o_oLnis fem
-:no:col-lu^ui^	o_oLnis fem
-:no:con-lu^ui^	o_oLnis fem
+:no:con-lu^vi^	o_oLnis fem orth
 
 :le:clades
 :no:cla_d	es_is fem
