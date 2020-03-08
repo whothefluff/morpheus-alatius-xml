@@ -27,10 +27,24 @@ src/gkends/indderivtables
 src/gkends/indendtables
 stemlib/Latin/conjfile
 stemlib/Latin/conjfile.short
+stemlib/Latin/oddfile
+stemlib/Latin/derivs/ascii
+stemlib/Latin/derivs/indices
 stemlib/Latin/endtables/ascii
-stemlib/Latin/endtables/indices/nendind
-stemlib/Latin/endtables/indices/vbendind
+stemlib/Latin/endtables/indices
 stemlib/Latin/steminds/
+stemlib/Greek/conjfile
+stemlib/Greek/derivs/ascii
+stemlib/Greek/derivs/indices
+stemlib/Greek/endtables/ascii
+stemlib/Greek/endtables/indices
+stemlib/Greek/steminds/
+stemlib/Greek/stemsrc/flatlems
+stemlib/Greek/stemsrc/goodstem
+stemlib/Greek/stemsrc/headnolen
+stemlib/Greek/stemsrc/stripref
+stemlib/Greek/stemsrc/zapfirstf
+stemlib/Greek/stemsrc/dopnom
 
 
 # Object files
