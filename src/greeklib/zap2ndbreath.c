@@ -69,7 +69,7 @@ char *s;
 		if( *s=='r' && *(s+1) == ')' 
 		&&  *(s+2)=='r' && *(s+3) == '(' ) {
 			strcpy(s,"rr");
-			memmove(s+2,s+4,strlen(s+4)+1); /*original: strcat(s,s+4);*/
+			memmove(s+2,s+4,strlen(s+4)+1);
 		}
 		s++;
 	}
