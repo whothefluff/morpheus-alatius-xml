@@ -1,5 +1,5 @@
 INCLUDE=../includes
-CFLAGS= -O2   -I${INCLUDE}
+CFLAGS= -O2   -I${INCLUDE}   -Wno-implicit-int   -Wno-implicit-function-declaration
 MORPHLIB=morphlib.a
 RM=rm
 CC=cc
