@@ -377,7 +377,7 @@ checkcomderiv2(char *asuffkeys, char *dstem, char *dstemkeys, char *suffix, char
 			s++;
 			while(*s&&*s!=':') s++;
 			if(*s) s++;
-			strcpy(derivsuff,s);
+			memmove(derivsuff,s,strlen(s)+1);
 			p = derivsuff;
 			while(*p) {
 				if( *p == ':' ) *p = ' ';

@@ -96,7 +96,7 @@ int conjmode;
 					linebuf[strlen(linebuf)-1] = 0;
 			strcpy(origline,linebuf);
 			nextkey(linebuf,stembuf);
-			strcpy(stembuf,stembuf+4);
+			memmove(stembuf,stembuf+4,strlen(stembuf)-3);
 			nextkey(linebuf,globalkeys);
 			/*
 			 * keys that are attached directly to the derivstr are inherited by
