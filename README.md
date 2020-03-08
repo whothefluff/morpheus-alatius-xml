@@ -24,4 +24,3 @@ Running the cruncher
 ```
 MORPHLIB=stemlib bin/cruncher < wordlist > crunched
 ```
-
