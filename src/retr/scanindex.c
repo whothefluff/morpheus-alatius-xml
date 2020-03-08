@@ -245,7 +245,7 @@ static
 
 /*
 	if( *(curkey+1) == '*') {
-		strcpy(curkey+1,curkey+2);
+		memmove(curkey+1,curkey+2,strlen(curkey+2)+1);
 		*(curkey+1) = toupper(*(curkey+1));
 	}
 */
@@ -297,7 +297,7 @@ char *s;
 	char * a = s;
 	while(*a&&!isalpha(*a)) a++;
 	*s = *a;
-	strcpy(a,a+1);
+	memmove(a,a+1,strlen(a+1)+1);
 }
 
 /*
@@ -319,7 +319,7 @@ static
 		char * a = s;
 		while(*a&&!isalph(*a)) a++;
 		*s = *a;
-		strcpy(a,a+1);
+		memmove(a,a+1,strlen(a+1)+1);
 */
 	}
         if( isupper( *t ) ) *t = tolower( *t );

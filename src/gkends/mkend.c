@@ -282,7 +282,7 @@ printf("gks [%s] lastc [%c] stem [%s] endstr [%s]\n", gkstring_of(gstr), lastc ,
 	
 	zap_extra_lmarks(stem);
 	if( Is_lvwl(*(lastn(stem,1))) && *endstr == HARDLONG ) {
-		strcpy(endstr,endstr+1);
+		memmove(endstr,endstr+1,strlen(endstr+1)+1);
 	}
 }
 
@@ -290,7 +290,7 @@ zap_extra_lmarks(char *s)
 {
 	while(*s) {
 		if( Is_lvwl(*s) && *(s+1) == HARDLONG ) {
-			strcpy(s+1,s+2);
+			memmove(s+1,s+2,strlen(s+2)+1);
 		}
 		s++;
 	}

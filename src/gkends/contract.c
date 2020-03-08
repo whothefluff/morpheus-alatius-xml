@@ -225,7 +225,7 @@ printf("str [%s] skipdial %o match d [%o]\n", curstring, skipdial, dialect_of(ma
 			 	*p1++ = ACUTE;
 			 	*p1++ = SUBSCR;
 			 	if( *p1 == HARDLONG ) /* if  "aoi_" contracts to "w|", strip the "_"*/
-			 		strcpy(p1,p1+1);
+			 		memmove(p1,p1+1,strlen(p1+1)+1);
 			 }
 			strcat(savestr,tmp);
 			strcpy(gkstring_of(gstr),savestr);
@@ -272,7 +272,7 @@ printf("str [%s] skipdial %o match d [%o]\n", curstring, skipdial, dialect_of(ma
 			while(*p1) {
 				if( *p1 == SUBSCR && *(p1+1) == HARDLONG ) {
 					p1++;
-					strcpy(p1,p1+1);
+					memmove(p1,p1+1,strlen(p1+1)+1);
 				}
 				p1++;
 			}

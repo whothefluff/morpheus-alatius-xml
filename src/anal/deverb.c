@@ -154,7 +154,7 @@ testcmpstem3(char*needlemma,char *stem,char * stemkeys,char* matchkeys,char*tran
 
         if( *stem == 'r'  && getbreath(stem) == NOBREATH ) {
 
-		if( *(stem+1) == 'r' ) strcpy(stem,stem+1); /* rr --> r */
+		if( *(stem+1) == 'r' ) memmove(stem,stem+1,strlen(stem+1)+1); /* rr --> r */
                 Xstrncpy(tmp,"r(",(int)sizeof tmp);
                 Xstrncat(tmp,stem+1,(int)sizeof tmp);
                 Xstrncpy(stem,tmp,BUFSIZ);

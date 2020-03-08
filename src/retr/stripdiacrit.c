@@ -16,7 +16,7 @@ register char * s;
 {
 	while(*s) {
 		if( IS_ACC(*s) ) {
-			strcpy(s,s+1);
+			memmove(s,s+1,strlen(s+1)+1);
 			continue;
 		}
 		s++;
@@ -29,7 +29,7 @@ register char * s;
 {
 	while(*s) {
 		if( IS_BREATH(*s) ) {
-			strcpy(s,s+1);
+			memmove(s,s+1,strlen(s+1)+1);
 			continue;
 		}
 		s++;

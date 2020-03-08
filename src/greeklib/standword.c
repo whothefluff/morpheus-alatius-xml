@@ -99,7 +99,7 @@ char *s;
 	while(*s) {
 		if(*s == ACUTE || *s == GRAVE || *s == CIRCUMFLEX ) {
 			if( haveacc ) {
-				strcpy(s,s+1);
+				memmove(s,s+1,strlen(s+1)+1);
 				continue;
 			}
 			haveacc = 1;				
@@ -112,7 +112,7 @@ striphyph(char *s)
 {
 	while(*s) {
 		if(*s=='-' ) {
-			strcpy(s,s+1);
+			memmove(s,s+1,strlen(s+1)+1);
 			if( !*s ) break;
 		}
 		s++;

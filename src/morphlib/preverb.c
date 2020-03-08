@@ -674,7 +674,7 @@ shift_eis_to_es(char *s)
 {
 	while(*s) {
 		if(!Xstrncmp(s,"eis",3) || !Xstrncmp(s,"ei)s",4) ) {
-			strcpy(s+1,s+2);
+			memmove(s+1,s+2,strlen(s+2)+1);
 			return(0);
 		}
 		s++;

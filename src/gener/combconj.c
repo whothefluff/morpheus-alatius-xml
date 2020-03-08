@@ -156,7 +156,7 @@ char * preverb;
 		 */
 		
 		nextkey(keytmp,suffstr);
-		strcpy(suffstr,suffstr+1);
+		memmove(suffstr,suffstr+1,strlen(suffstr+1)+1);
 	}
 	if( * globalkeys ) {
 		char tmp[LONGSTRING];

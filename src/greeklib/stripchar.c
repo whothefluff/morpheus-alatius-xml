@@ -11,7 +11,7 @@ stripchar(char *s, int c)
 	
 	while(*s1) {
 		if( *s1 == c ) {
-			strcpy(s1,s1+1);
+			memmove(s1,s1+1,strlen(s1+1)+1);
 			continue;
 		}
 		s1++;

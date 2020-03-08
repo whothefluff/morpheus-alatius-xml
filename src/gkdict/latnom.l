@@ -43,7 +43,7 @@ set_lemma(char *p)
 	strcpy(curlemma,p);
 	while(*t) {
 		if( !isalpha(*t) && *t!='#' && !isdigit(*t) ) {
-			strcpy(t,t+1);
+			memmove(t,t+1,strlen(t+1)+1);
 			continue;
 		}
 		t++;

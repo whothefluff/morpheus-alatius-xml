@@ -66,7 +66,7 @@ set_lemma()
 	t = lemma;
 	while(*t) {
 		if( !isalpha(*t)) {
-			strcpy(t,t+1);
+			memmove(t,t+1,strlen(t+1)+1);
 			continue;
 		}
 		t++;

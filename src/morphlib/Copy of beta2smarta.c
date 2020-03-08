@@ -283,7 +283,7 @@ beta2mac(char *source, unsigned char *res, int xlit)
 					while(*t&&!isalpha(*t)) t++;
 					if(isalpha(*t) && islower(*t) ) *t = toupper(*t);
 				} else {
-					strcpy(sp,sp+1);
+					memmove(sp,sp+1,strlen(sp+1)+1);
 					if(islower(*sp)) *sp = toupper(*sp);
 				}
 			} 

@@ -13,7 +13,7 @@ standalpha(char *s )
 	while(*s) {
 		if(!strncmp("a_",s,2)) {
 			*s++ = 'h';
-			strcpy(s,s+1);
+			memmove(s,s+1,strlen(s+1)+1);
 		}
 		s++;
 	}

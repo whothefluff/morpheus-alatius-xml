@@ -743,7 +743,7 @@ zap2ndacc(char *s)
 	while(*s) {
 		if(*s=='//' || *s == '=' ) {
 			if(hasacc ) {
-				strcpy(s,s+1);
+				memmove(s,s+1,strlen(s+1)+1);
 				continue;
 			}
 			hasacc++;
