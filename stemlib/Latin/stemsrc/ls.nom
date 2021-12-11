@@ -98869,6 +98869,10 @@ in-fandus
 
 in-fans		<orth>infas</orth>	<pos>adj.</pos>
 infans		<itype>fantis</itype>
+:le:infans
+:aj:inf	ans_adj
+
+
 infanta_ri^us		
 :le:infantarius
 :aj:infanta_r	ius_ia_ium
