@@ -257,8 +257,11 @@ printf("1 [%s] 2 [%s] rval %d\n", gkstring_of((gk_string *)gstr1), gkstring_of((
 		return(rval);
 }
 
-int CompGkForms(gk_word *gkform1, gk_word *gkform2)
+int CompGkForms(const void *a, const void *b)
 {
+    const gk_word *gkform1 = (const gk_word *)a;
+    const gk_word *gkform2 = (const gk_word *)b;
+
 	gk_string Gstr1;
 	gk_string Gstr2;
 	int rval =0;

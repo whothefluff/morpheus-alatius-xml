@@ -13,7 +13,7 @@ gk_word * GenStemForms(gk_word *, char *, int);
 gk_word * GenIrregForm(gk_word *, char *, int);
 
 Dialect AndDialect();
-int CompGkForms(gk_word *gkform1, gk_word *gkform2);
+int CompGkForms(const void *a, const void *b);
 
 gk_string BlankGstr;
 gk_word TmpGkword;

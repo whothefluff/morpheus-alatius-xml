@@ -9,7 +9,7 @@ int ClearGkstring(gk_string *);
 int FreeGkword(gk_word *);
 int CpGkAnal(gk_word *, gk_word *);
 int CompGkString(const void *, const void *);
-int CompGkForms(gk_word *, gk_word *);
+int CompGkForms(const void *, const void *);
 int low_bit_of(int);
 int CompByDictStr(const void *, const void *);
 int RevCompByStr(gk_string *, gk_string *);

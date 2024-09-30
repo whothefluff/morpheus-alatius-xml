@@ -4,7 +4,7 @@ static char curlemma[LONGSTRING];
 static gk_string BlnkGstr;
 gk_word *  GenStemForms(gk_word *,char *,int);
 gk_word *  GenIrregForm(gk_word *,char *,int);
-int CompGkForms(gk_word *gkform1, gk_word *gkform2);
+int CompGkForms(const void *a, const void *b);
 
  GenStemLink(FILE * f,FILE * fout)
 {
