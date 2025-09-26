@@ -30183,7 +30183,7 @@ ca_ni^pa
 
 ca^nis#1		<orth>ca^nes</orth>	<gen>comm.</gen>
 Ca^nis#2		
-:le:Canis
+:le:Canis#2
 :no:Ca^n	is_is masc
 
 
@@ -32887,7 +32887,7 @@ ca_sus#1		<orth>cassus</orth>
 
 casu		<itype>adverbially</itype>
 Ca_sus#2		
-:le:Casus
+:le:Casus#2
 :no:Ca_s	us_i masc
 
 
@@ -34261,7 +34261,7 @@ Ce^lende^ri_-tis
 ce^ler#1		<itype>e^ris, e</itype>
 ce^leris		<orth>ce^le^re^</orth>	<orth>ce^le^ri^ter</orth>
 Ce^ler#2		
-:le:Celer
+:le:Celer#2
 :no:Ce^l	er_eris masc
 
 
@@ -34405,7 +34405,7 @@ celsi^tu_do
 
 celse_	
 Celsus#2		
-:le:Celsus
+:le:Celsus#2
 :no:Cels	us_i masc
 
 
@@ -118510,7 +118510,7 @@ maxi^me_		<orth type=alt>maxu^me_</orth>	<orth>magi^s</orth>	<orth>ma^ge^</orth>
 
 
 Magnus#2		
-:le:Magnus
+:le:Magnus#2
 :no:Magn	us_i masc
 
 
@@ -172785,7 +172785,7 @@ quintus#1		<orth>quinctus</orth>
 	<pos>num. adj.</pos>
 quintum		<orth>quinto_</orth>
 Quintus#2		
-:le:Quintus
+:le:Quintus#2
 :no:Qui_nt	us_i masc pers_name
 
 

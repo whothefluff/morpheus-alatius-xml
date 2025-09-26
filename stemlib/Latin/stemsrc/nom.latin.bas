@@ -333,11 +333,11 @@
 :le:astutus
 :aj:astu_t	us_a_um
 
-:le:assiduus
+:le:assiduus#1
 :no:assidu us_i masc
 :no:ad-sidu us_i masc
 
-:le:assiduus
+:le:assiduus#2
 :aj:assidu us_a_um
 :aj:ad-sidu us_a_um
 
@@ -396,17 +396,17 @@
 :le:Calidius
 :aj:Calid	ius_ia_ium
 
-:le:canis
+:le:canis#1
 :no:can is_is_C	masc fem
 
-:le:casus
+:le:casus#1
 :no:ca_s	us_us masc
 :no:cass	us_us masc
 
 :le:celeber
 :aj:celeb er_ris_re
 
-:le:celer
+:le:celer#1
 :aj:cel	er_era_erum superl
 @	comp
 :aj:celer		0_adj3 
@@ -417,7 +417,7 @@
 :le:celere
 :wd:celere	adverb
 
-:le:celsus
+:le:celsus#1
 :aj:cels	us_a_um
 
 :le:centum
@@ -460,7 +460,7 @@
 :le:Climachias
 :no:Climachi as_ae masc
 
-:le:coitus
+:le:coitus#2
 :no:coet	us_us masc
 
 :le:cohors
@@ -694,7 +694,7 @@
 :le:fides#2
 :no:fid is_is fem
 
-:le:foris
+:le:foris#1
 :no:for is_is fem
 
 :le:fors
@@ -910,7 +910,7 @@
 :le:Magius
 :no:Mag	ius_i masc
 
-:le:magnus
+:le:magnus#1
 :aj:magn	us_a_um no_comp
 :aj:maxi^m	us_a_um irreg_superl
 :aj:maxu^m	us_a_um irreg_superl
@@ -1119,10 +1119,10 @@
 :le:pater
 :no:pa^t	er_ris masc
 
-:le:pecus
+:le:pecus#1
 :no:pec 	or_oris	neut
 
-:le:pecus
+:le:pecus#2
 :no:pecu 	s_dis masc fem
 
 :le:Penates
@@ -1225,11 +1225,11 @@
 :le:prior
 :wd:priusquam	adverb
 
-:le:pro
+:le:pro#1
 :wd:pro_	prep
 :wd:pro_	adverb
 
-:le:pro
+:le:pro#2
 :wd:pro_	exclam
 
 :le:propter
@@ -1273,7 +1273,7 @@
 :le:quia
 :wd:quia	conj
 
-:le:quies
+:le:quies#1
 :no:qui 	es_eLtis fem
 :wd:quie 	irreg_nom3 abl fem sg early
 
@@ -1289,11 +1289,11 @@
 :le:quinque
 :wd:qui_nque	numeral
 
-:le:quintus
+:le:quintus#1
 :aj:qui_nt	us_a_um
 :aj:qui_nct	us_a_um
 
-:le:quintus	
+:le:quintus#2	
 :no:Qui_nt	us_i masc
 :no:Qui_nt	a_ae fem
 
@@ -1432,7 +1432,7 @@
 :le:stirps
 :no:stirp	s_is fem
 
-:le:super
+:le:super#2
 :wd:super	prep
 :wd:super	adverb
 
@@ -1512,10 +1512,10 @@
 :le:Turpio
 :no:Turpi	o_oLnis masc
 
-:le:uber
+:le:uber#1
 :no:u_b 		er_eris neut
 
-:le:uber
+:le:uber#2
 :aj:u_ber	0_adj3
 :aj:u_beri	or_us_comp	comp
 :aj:u_berrim	us_a_um	irreg_superl

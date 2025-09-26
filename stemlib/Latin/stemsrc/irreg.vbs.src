@@ -441,7 +441,7 @@ pro_der@ofut		fut ind act
 :vb:pro_desse		irreg_pp1 pres inf act
 :vs:pro_fut		pp4 fut part
 
-:le:supersum#1
+:le:supersum
 #
 :vb:supersum		irreg_pp1 1st sg pres ind act
 :vb:superes		irreg_pp1 2nd sg pres ind act
