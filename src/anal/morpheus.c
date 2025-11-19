@@ -169,14 +169,10 @@ int	alpheiosCheckstring(const char* string, PrntFlags prntflags, FILE* fout)
 	return(nanals);
 }
 
-/* clean string: lowercase and strip trailing digits */
+/* clean string: strip trailing digits */
 void	cleanstring(char *s)
 {
 	char*	ptr = s + strlen(s);
 	while ((ptr > s) && isdigit(*--ptr))
 		*ptr = '\0';
-
-	char*	endPtr = s + strlen(s);
-	for (ptr = s; ptr < endPtr; ++ptr)
-		*ptr = tolower(*ptr);
 }
