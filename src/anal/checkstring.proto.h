@@ -3,6 +3,7 @@
 
 
 /* checkstring.c */
+gk_word * AnalyzeString(char *, PrntFlags);
 int checkstring(char *, PrntFlags, FILE *);
 void checkstring1(gk_word *);
 int checkstring2(gk_word *);
