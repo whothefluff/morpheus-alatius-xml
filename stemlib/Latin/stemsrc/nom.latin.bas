@@ -360,13 +360,13 @@
 :le:Calidius
 :aj:Calid	ius_ia_ium
 
-:le:canis
+:le:canis#1
 :no:can is_is_C	masc fem
 
 :le:celeber
 :aj:celeb er_ris_re
 
-:le:celer
+:le:celer#1
 :aj:cel	er_era_erum superl
 @	comp
 :aj:celer		0_adj3 
@@ -377,7 +377,7 @@
 :le:celere
 :wd:celere	adverb
 
-:le:celsus
+:le:celsus#1
 :aj:cels	us_a_um
 
 :le:centum
@@ -401,10 +401,6 @@
 
 :le:citer
 :aj:citer ior_ius_comp 
-
-:le:Claudius
-:aj:Claud	ius_ia_ium
-:aj:Clo_d	ius_ia_ium
 
 :le:Cleomenes
 :no:Cleomen es_ae masc
@@ -1023,10 +1019,6 @@
 :le:plebs
 :no:ple_b s_is fem
 
-:le:Pompeius
-:aj:Pompe_	ius_i masc pers_name
-:aj:Pompe_j	us_i masc pers_name
-
 :le:Populianus
 :aj:Populian	us_a_um
 
@@ -1034,6 +1026,13 @@
 :aj:poster	us_a_um no_comp
 :aj:poster	ior_ius_comp
 :aj:postre_m	us_a_um irreg_superl
+:aj:postu^m	us_a_um irreg_superl
+:no:postu^m	us_i masc
+:no:postu^m	us_i neut
+#:wd:poste^ri^us adverb
+:no:postu^m us_i neut
+#:no:poste^-ri^o_r	0_is masc pl
+#:no:poste^ri^o_r	0_is neut pl
 
 :le:postquam
 :wd:postquam	conj
@@ -1112,10 +1111,6 @@
 
 :le:quinque
 :wd:qui_nque	numeral
-
-:le:quintus#2
-:no:Qui_nt	us_i masc
-:no:Qui_nt	a_ae fem
 
 :le:quodsi
 :wd:quodsi_ 	conj
@@ -1273,7 +1268,7 @@
 :no:Tiber	is_idis masc
 :no:Tibr	is_idis masc
 
-:le:tigris
+:le:tigris#1
 :no:tigr	is_idos masc fem
 :no:tigr	is_is masc fem
 

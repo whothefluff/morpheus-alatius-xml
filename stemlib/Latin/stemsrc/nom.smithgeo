@@ -437,8 +437,8 @@
 :le:Albucella
 :no:Albucell a_ae fem
 
-:le:Album
-:no:Alb us_i neut
+#:le:Album
+#:no:Alb us_i neut
 
 :le:Alcomenae
 :no:Alcomen a_ae fem pl
@@ -952,8 +952,8 @@
 
 #noanalysis:Ar
 
-:le:Ara
-:no:Ar a_ae fem
+#:le:Ara
+#:no:Ar a_ae fem
 
 :le:Arabitae
 :no:Arabit a_ae fem pl
@@ -1040,7 +1040,7 @@
 :no:Arax us_i masc
 
 :le:Arba
-:no:Arb a_ae fem
+:no:Arb a_ae fem sg
 
 :le:Arbaca
 :no:Arbac a_ae fem
@@ -1560,8 +1560,8 @@
 :le:Asteris
 :no:Aster is_is fem
 
-:le:Asterium
-:no:Aster ius_i neut
+#:le:Asterium
+#:no:Aster ius_i neut
 
 :le:Astigi
 :no:Astig us_i masc pl
@@ -3409,8 +3409,8 @@
 :le:Carilocus
 :no:Cariloc us_i masc
 
-:le:Carine
-:no:Carin e_es fem
+#:le:Carine
+#:no:Carin e_es fem
 
 :le:Carisa
 :no:Caris a_ae fem
@@ -3803,14 +3803,14 @@
 :le:Cerasae
 :no:Ceras a_ae fem pl
 
-:le:Cerasus
-:no:Ceras us_i masc
+#:le:Cerasus
+#:no:Ceras us_i masc
 
 :le:Cerata
 :no:Cerat a_ae fem
 
-:le:Ceraunii
-:no:Cerauni us_i masc pl
+#:le:Ceraunii
+#:no:Cerauni us_i masc pl
 
 :le:Ceraunilia
 :no:Ceraunili a_ae fem
@@ -3901,8 +3901,8 @@
 
 #noanalysis:Cesero
 
-:le:Cestrus
-:no:Cestr us_i masc
+#:le:Cestrus
+#:no:Cestr us_i masc
 
 :le:Cetaeum
 :no:Cetae us_i neut
@@ -4798,8 +4798,8 @@
 :le:Coronta
 :no:Coront a_ae fem
 
-:le:Coronus
-:no:Coron us_i masc
+#:le:Coronus
+#:no:Coron us_i masc
 
 :le:Coropissus
 :no:Coropiss us_i masc
@@ -5846,8 +5846,8 @@
 :le:Dromiscus
 :no:Dromisc us_i masc
 
-:le:Dromus
-:no:Drom us_i masc
+#:le:Dromus
+#:no:Drom us_i masc
 
 :le:Dropici
 :no:Dropic us_i masc pl
@@ -6104,8 +6104,8 @@
 :le:Eiresidae
 :no:Eiresid a_ae fem pl
 
-:le:Elaeus
-:no:Elae us_i masc
+#:le:Elaeus
+#:no:Elae us_i masc
 
 :le:Elaeussa
 :no:Elaeuss a_ae fem
@@ -6145,8 +6145,8 @@
 :le:Eleia
 :no:Elei a_ae fem
 
-:le:Eleii
-:no:Elei us_i masc pl
+#:le:Eleii
+#:no:Elei us_i masc pl
 
 :le:Elephantophagi
 :no:Elephantophag us_i masc pl
@@ -7601,8 +7601,8 @@
 
 #noanalysis:Helisson
 
-:le:Helium
-:no:Hel ius_i neut
+#:le:Helium
+#:no:Hel ius_i neut
 
 :le:Hellenopolis
 :no:Hellenopol is_is fem
@@ -9908,8 +9908,8 @@
 :le:Marpessa
 :no:Marpess a_ae fem
 
-:le:Marses
-:no:Mars es_is fem
+#:le:Marses
+#:no:Mars es_is fem
 
 :le:Marsonia
 :no:Marsoni a_ae fem
@@ -10737,8 +10737,8 @@
 :le:Myriandrus
 :no:Myriandr us_i masc
 
-:le:Myricus
-:no:Myric us_i masc
+#:le:Myricus
+#:no:Myric us_i masc
 
 :le:Myrlea
 :no:Myrle a_ae fem
@@ -11037,8 +11037,8 @@
 :le:Nepheris
 :no:Nepher is_is fem
 
-:le:Nereae
-:no:Nere a_ae fem pl
+#:le:Nereae
+#:no:Nere a_ae fem pl
 
 :le:Nericus
 :no:Neric us_i masc
@@ -11434,8 +11434,8 @@
 :le:Olenacum
 :no:Olenac us_i neut
 
-:le:Olenus
-:no:Olen us_i masc
+#:le:Olenus
+#:no:Olen us_i masc
 
 :le:Olerus
 :no:Oler us_i masc
@@ -11618,8 +11618,8 @@
 :le:Optatiana
 :no:Optatian a_ae fem
 
-:le:Opus
-:no:Op us_i masc
+#:le:Opus
+#:no:Op us_i masc
 
 :le:Oratha
 :no:Orath a_ae fem
@@ -12011,8 +12011,8 @@
 
 #noanalysis:Pallacopas
 
-:le:Pallae
-:no:Pall a_ae fem pl
+#:le:Pallae
+#:no:Pall a_ae fem pl
 
 :le:Pallanum
 :no:Pallan us_i neut
@@ -12114,8 +12114,8 @@
 :le:Panysus
 :no:Panys us_i masc
 
-:le:Paphus
-:no:Paph us_i masc
+#:le:Paphus
+#:no:Paph us_i masc
 
 :le:Papira
 :no:Papir a_ae fem
@@ -12429,8 +12429,8 @@
 :le:Perceiana
 :no:Perceian a_ae fem
 
-:le:Pergamus
-:no:Pergam us_i masc
+#:le:Pergamus
+#:no:Pergam us_i masc
 
 :le:Pergantium
 :no:Pergant ius_i neut
@@ -12544,8 +12544,8 @@
 :le:Phalanna
 :no:Phalann a_ae fem
 
-:le:Phalarus
-:no:Phalar us_i masc
+#:le:Phalarus
+#:no:Phalar us_i masc
 
 :le:Phalasarna
 :no:Phalasarn a_ae fem
@@ -13163,8 +13163,8 @@
 :le:Portae
 :no:Port a_ae fem pl
 
-:le:Porthmus
-:no:Porthm us_i masc
+#:le:Porthmus
+#:no:Porthm us_i masc
 
 :le:Portus
 :no:Port us_i masc
@@ -15578,8 +15578,8 @@
 :le:Solonius
 :no:Soloni us_i masc
 
-:le:Solus
-:no:Sol us_i masc
+#:le:Solus
+#:no:Sol us_i masc
 
 :le:Solygeia
 :no:Solygei a_ae fem
@@ -15795,8 +15795,8 @@
 :le:Strevinta
 :no:Strevint a_ae fem
 
-:le:Strongylus
-:no:Strongyl us_i masc
+#:le:Strongylus
+#:no:Strongyl us_i masc
 
 :le:Struchates
 :no:Struchat es_is fem
@@ -16951,8 +16951,8 @@
 :le:Tigava
 :no:Tigav a_ae fem
 
-:le:Tigra
-:no:Tigr a_ae fem
+#:le:Tigra
+#:no:Tigr a_ae fem
 
 :le:Tiguadra
 :no:Tiguadr a_ae fem

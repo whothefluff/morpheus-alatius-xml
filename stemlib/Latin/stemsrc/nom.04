@@ -56,8 +56,8 @@
 :le:Hieremias
 :no:Hieremi as_ae masc pers_name
 
-:le:Core
-:no:Cor e_es fem pers_name
+#:le:Core
+#:no:Cor e_es fem pers_name
 
 :le:Ioras
 :no:Ior as_ae masc pers_name
@@ -219,8 +219,8 @@
 :no:Ezechi as_a masc pers_name
 :no:Ezechi a_ae masc pers_name
 
-:le:Helias
-:no:Heli as_ae masc pers_name
+#:le:Helias
+#:no:Heli as_ae masc pers_name
 
 :le:Ioas
 :no:Io as_ae masc pers_name

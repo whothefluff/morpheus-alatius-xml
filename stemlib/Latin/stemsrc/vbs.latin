@@ -1623,6 +1623,7 @@
 :de:be	are_vb
 :le:beto
 :vs:be_t	conj3
+:vs:baet	conj3 orth
 :le:bibo#1
 :vs:bi^b	conj3
 :vs:bi^b perfstem
@@ -1631,6 +1632,8 @@
 :le:bipartio
 :vs:bi^-part	conj4
 :vs:bi^-parti_t pp4
+:le:bito#1
+:vs:bi_t	conj3
 :le:bitumino
 :de:bi^tu_mi^n	are_vb
 :le:blactero
@@ -2280,7 +2283,7 @@
 :de:cla_thr	are_vb
 :le:claudeo
 :vs:claud	conj2
-:le:claudo
+:le:claudo#2
 :vs:claud	conj3
 :vs:claus pp4
 :le:claudico
@@ -3846,8 +3849,6 @@
 :vs:cre_di^t pp4
 :le:cremo
 :de:cre^m	are_vb
-:le:creo#1
-:de:cr	are_vb
 :le:crepito
 :de:cre^pi^t	are_vb
 :le:crepo
@@ -12140,6 +12141,12 @@
 :vs:pingue^fact pp4
 :le:pinguesco
 :vs:pingue_sc	conj3
+:le:pinso
+:vs:pins	conj3
+:vs:pins perfstem
+:vs:pinsu^ perfstem
+:vs:pins pp4
+:vs:pinsi^t pp4
 :le:pio
 :de:pi	are_vb
 :le:pipilo
@@ -12150,6 +12157,8 @@
 :de:pi_p	ire_vb
 :le:pipo
 :de:pi_p	are_vb
+:le:piso#1
+:de:pi_s	are_vb
 :le:piscor
 :de:pisc	are_vb dep
 :le:pisito

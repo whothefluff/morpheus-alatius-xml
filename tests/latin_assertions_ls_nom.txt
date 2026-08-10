@@ -1,0 +1,3140 @@
+# form	required lemma
+
+Absyrtis	Absyrtis Absyrtus#1 Absyrtus#2
+Absyrtus	Absyrtus#1 (a son of Aeetes)
+Absyrtus	Absyrtus#2 (a river in Illyria)
+
+Acanthus	Acanthus#2 (a town of Macedonia)
+acanthus	acanthus#1 (a plant)
+
+Achaeus	Achaeus#1 (Son of Xuthus)
+Achaeus	Achaeus#2 (Belonging to Achaia)
+
+achates	achates#1 (the agate stone)
+Achates	Achates#2 (a river in the southern part of Sicily)
+Achates	Achates#3 (the armor-bearer and faithful friend of Aeneas)
+
+Acis	Ace (a town in Galilee)
+Acis	Acis#1 (a river in Sicily)
+Acis	Acis#2 (one of the Cyclades)
+
+Acragas	Acragas#1 (a mountain on the S. W. coast of Sicily)
+Acragas	Acragas#2 (a celebrated graver)
+
+acritas	acritas#1 (acritudo)
+Acritas	Acritas#2 (the most southerly promontory in Messenia)
+
+acte	acte#1 (a plant)
+acte	actum (a public transaction in the Senate)
+acte	ago (to act)
+Acte	Acte#2 (coastland)
+
+Actius	Actius#1 (pertaining to Actium)
+Actius	Actius#2 (a proper name)
+
+actor	actor#1 (One who drives)
+Actor	Actor#2 (a companion of Aeneas)
+Actorides	Actor#2 (son or grandson of Actor)
+Actoridae	Actor#2 (sons of Actor)
+
+actorius	actorius#1 (active)
+Actorius	Actorius#2 (a Roman name)
+
+Adoneus	Adoneus#1 (trisyllabic Adonis)
+Adoneus	Adoneus#2 (pertaining to Adonis)
+
+adorea	adorea (a reward of valor)
+adorea	adoreus#1 (pertaining to spelt)
+adoreum	adorea (spelt)
+adoreum	adoreus#1 (pertaining to spelt)
+adoreus	adoreus#1 (pertaining to spelt)
+Adoreus	Adoreus#2 (a mountain of Galatia)
+
+Aegeus	Aegeus#1 (son of Pandion)
+Aegeus	Aegeus#2 (trisyllabic Aegaeus)
+
+Aegyptus	Aegyptus#1 (Egypt)
+Aegyptus	Aegyptus#2 (a king of Egypt)
+
+Aenea	Aeneas (the hero)
+Aenea	Aenea#1 (spelling for Aeneas)
+Aenea	Aenea#2 (a city of Chalcidice)
+Aenia	Aenea#2 (spelling for Aenea#2)
+Aeneates	Aenea#2 (the inhabitants of Aenea)
+Aeneaticus	Aenea#2 (belonging to Aenea)
+
+Aenus	Aenus#1 (a city of Thrace)
+Aenii	Aenus#1 (the inhabitants of Aenus)
+Aenus	Aenus#2 (the river Inn)
+aenus	aenus#3 (of copper)
+aenum	aenus#3 (a bronze vessel)
+
+Aeolus	Aeolus (god of the wind)
+Aeolis	Aeolis#1 (a country in Asia Minor)
+Aeolis	Aeolis#2 (a female descendant of Aeolus)
+
+Aesis	Aesis#1 (a river in Umbria)
+Aesis	Aesis#2 (a town in Umbria)
+Aesinas	Aesis#2 (pertaining to Aesis#2)
+Aesinates	Aesis#2 (the inhabitants of Aesis#2)
+
+aethra	aethra#1 (the upper, pure air)
+Aethra	Aethra#2 (Daughter of Oceanus and Tethys)
+
+agricola	agricola#1 (a cultivator of land)
+Agricola	Agricola#2 (a Roman proper name)
+
+agrius	agrius#1 (wild)
+Agrius	Agrius#2 (son of Parthaon)
+
+alba	alba#1 (a white precious stone)
+alba	album (whiteness)
+alba	albus (white)
+Alba	Alba#2 (the name of several cities: Alba-Longa, Alba-Fucentia, Alba-Pompeia, Alba-Helvia/Helvorum)
+Alba	Alba#3 (the name of a king in Alba Longa)
+Alba	Alba#4 (a river in Hispania Tarraconensis)
+
+albinus	albinus#1 (one who covers walls with stucco)
+Albinus	Albinus#2 (a Roman family name)
+
+Albion	Albion#1 (an ancient name for Britain)
+Albion	Albion#2 (a son of Neptune)
+
+alburnus	alburnus#1 (a white fish)
+Alburnus	Alburnus#2 (a mountain in Lucania)
+
+Alcis	Alcis#1 (an appellation of Minerva among the Macedonians)
+Alcis	Alcis#2 (a deity of the Naharvali)
+Alcis	Alce (a town in Hispania Tarraconensis)
+
+Aleus	Aleus#1 (spelling for 'Alius'/'Elius')
+Aleus	Aleus#2 (the Alean)
+
+algidus	algidus#1 (cold)
+Algidus	Algidus#2 (a high snow-capped mountain + pertaining to 'Algidum')
+Algidum	Algidus#2 (a high snow-capped mountain)
+Algidum	Algidum (a town upon Algidus)
+
+Alis	Elis (variant for 'Elis')
+alis	alis#1 (spelling for alius)
+alis	ala (a wing)
+alis	alo (to feed)
+alis	alum (garlic)
+alus	alum (garlic)
+Alis	Alis#2 (a town in Achaia)
+
+Alius	Alius#1 (Elian)
+alius	alius#2 (another)
+
+alsius	alsius#1 (chilly)
+Alsius	Alsius#2 (belonging to the maritime city Alsium)
+
+althaea	althaea#1 (wild mallows)
+Althaea	Althaea#2 (daughter of Thestius)
+
+ambrosius	ambrosius#1 (immortal)
+Ambrosius	Ambrosius#2 (a celebrated Church father of the fourth century)
+
+ampelos	ampelos#1 (a vine)
+Ampelos	Ampelos#2 (a city of Macedonia)
+Ampelos	Ampelos#3 (a beautiful youth)
+
+anas	anas#1 (the duck)
+anas	anas#2 (disease of old women)
+Anas	Anas#3 (a river in Spain)
+
+ancon	ancon#1 (the arm of a workman's square)
+Ancon	Ancon#2 (a headland and bay)
+Ancon	Ancon#3 (an ancient seaport town in the north of Picenum)
+Ancona	Ancon#3 (spelling for Ancon#3)
+Ancona	Ancon#2 (a headland and bay)
+
+ancus	ancus#1 (appellatur, qui aduncum bracchium habet)
+Ancus	Ancus#2 (the fourth king of Rome)
+
+Andecavi	Andes#1 (variant for Andes#1)
+Andicavi	Andes#1 (variant for Andes#1)
+Andes	Andes#1 (a Gallic tribe in the region of the present Anjou)
+Andes	Andes#2 (a village near Mantua)
+
+anhydros	anhydros#1 (the narcissus)
+Anhydros	Anhydros#2 (an island in the Aegean Sea)
+
+Anienus	Anienus#1 (spelling for Anio)
+Anienus	Anienus#2 (of or pertaining to the Anio)
+
+Anna	Anna#1 (the sister of Dido)
+#Anna-Perenna	Anna#2 (an old Italian goddess)
+
+anser	anser#1 (a goose)
+Anser	Anser#2 (a petulant and obscene poet)
+
+anthedon	anthedon#1 (a species of the medlar-tree)
+Anthedon	Anthedon#2 (a town and harbor in Boeotia)
+Anthedonius	Anthedon#2 (Anthedonic)
+
+anthrax	anthrax#1 (Natural cinnabar)
+Anthrax	Anthrax#2 (name of a slave)
+
+Antiochensis	Antiochensis#1 (belonging to Antiochia)
+Antiochenses	Antiochensis#1 (the inhabitants of Antiochia)
+Antiochenses	Antiochensis#2 (belonging to King Antiochus)
+Antiochensis	Antiochensis#2 (belonging to King Antiochus)
+
+Antiochenus	Antiochenus#1 (belonging to Antiochia)
+Antiochenus	Antiochenus#2 (belonging to King Antiochus)
+
+aper	aper#1 (a wild boar)
+Aper	Aper#2 (a Roman cognomen)
+
+Aphrodisias	Aphrodisias#1 (a region in Asiatic Aeolis)
+aphrodisias	aphrodisias#2 (an aromatic plant)
+
+apicium	apicius#1 (a type of wine)
+apicius	apicius#1 (sought by bees)
+Apicius	Apicius#2 (a notorious epicure under Augustus and Tiberius)
+Apicianus	Apicius#2 (pertaining to Apicius#2)
+
+apis	apis#1 (a bee)
+apis	apo (to fasten)
+Apis	Apis#2 (the ox worshipped as a god by the Egyptians)
+Apis	Apis#3 (a harbor in Lake Maeotis)
+
+Appianus	Appianus#1 (pertaining to Appia)
+Appianus	Appianus#2 (of or pertaining to Appius)
+Appianus	Appianus#3 (appian)
+
+aquila	aquila#1 (an eagle)
+aquila	aquilus (dark-colored)
+Aquila	Aquila#2 (a Roman proper name)
+
+Arabus	Arabus#1 (Arabian)
+Arabus	Arabus#2 (a river in Gedrosia)
+Arabus	Arabus#3 (the son of Apollo and Babylon)
+
+aracia	aracia#1 (a kind of white figtree)
+Aracia	Aracia#2 (an island in the Persian Gulf)
+
+#aratus	aratus#1 (part. of aro)
+aratus	aro (to plough)
+Aratus	Aratus#2 (a Greek poet of Soli)
+
+Arbis	Arbis#1 (a town in Gedrosia)
+Arbis	Arbis#2 (a river rising in Carmania)
+
+arbuscula	arbuscula#1 (a small tree)
+Arbuscula	Arbuscula#2 (the name of a mimic actress in the time of Cicero)
+
+Arcadicus	Arcadia#1 (Arcadian)
+Arcadius	Arcadia#1 (Arcadian)
+Arcadia	Arcadia#1 (a mountainous province in the centre of the Peloponnesus)
+Arcadia	Arcadia#2 (a town in Crete)
+
+arcanum	arcanus#1 (a secret)
+arcanus	arcanus#1 (shut up)
+Arcanus	Arcanus#2 (of or pertaining to Arcae)
+Arcani	Arcanus#2 (the inhabitants of Arcae)
+Arcani	Arcanum (a villa of Q. Cicero)
+Arcanum	Arcanum (a villa of Q. Cicero)
+Arcanum	Arcanus#2 (of or pertaining to Arcae)
+
+ardea	ardea#1 (a heron)
+Ardea	Ardea#2 (the capital of the Rutuli)
+Ardeas	Ardea#2 (belonging to Ardea)
+Ardeates	Ardea#2 (the inhabitants of Ardea)
+Ardeatinus	Ardea#2 (Ardean)
+
+argenteus	argenteus#1 (Of or from silver)
+Argenteus	Argenteus#2 (a standing epithet of a river in Gallia Narbonensis)
+
+argestes	argestes#1 (the west-southwest wind)
+Argestes	Argestes#2 (son of Astraeus and Aurora)
+
+Aria	Aria#1 (a Persian province between Hyrcania)
+Aria	Aria#2 (an island in the Pontus Euxinus)
+
+aris	aris#1 (a kind of arum)
+aris	ara (altar)
+aris	aros (a plant)
+aron	aros (spelling for aros)
+arum	aros (spelling for aros)
+Aris	Aris#2 (a Sardinian)
+Aris	Ares (the war-god)
+
+Arius	Arius#1 (a river in Aria)
+Arius	Arius#2 (a renowned heretic)
+
+Arna	Arna#1 (a town in Umbria)
+Arna	Arne#1 (a town in Boeotia)
+Arna	Arne#2 (a woman who betrayed her country)
+arna	arna#2 (a lamb)
+
+Arne	Arne#1 (a town in Boeotia)
+Arne	Arne#2 (a woman who betrayed her country)
+Arne	Arnus (a river of Etruria)
+
+Ascanius	Ascanius#1 (Ascanian)
+Ascanius	Ascanius#2 (son of Aeneas and Creusa)
+
+Asia	Asia#1 (a town in Lydia)
+Asia	Asius (of Asia)
+asia	asia#2 (rye)
+
+astacus	astacus#1 (a kind of crab)
+Astacus	Astacus#2 (the father of Menalippus)
+Astacus	Astacus#3 (a town in Bithynia)
+
+asteria	asteria#1 (a precious stone)
+asteria	asterias (a kind of heron)
+asteria	asterion#1 (a species of spider)
+Asteria	Asteria#2 (the daughter of Polus and Phoebe)
+
+asterion	asterion#1 (a species of spider)
+Asterion	Asterion#2 (a river in Argolis)
+
+astur	astur#1 (a species of hawk)
+Astur	Astur#2 (belonging to the province of Asturia)
+
+Athenaeus	Athenaeus#1 (Pertaining to the city of Athens)
+Athenaeus	Athenaeus#2 (a Greek grammarian of Naucratis)
+Athenaeum	Athenaeus#2 (a temple of Minerva at Athens)
+Athenaeum	Athenaeus#1 (Pertaining to the city of Athens)
+Athenaeum	Athenaeum (a fortress in Athamania)
+
+atratus	atratus#1 (clothed in black for mourning)
+Atratus	Atratus#2 (a small river in the vicinity of Rome)
+
+atta	atta#1 (a salutation used to old men)
+Atta	Atta#2 (a surname for persons who walk upon the tips of their shoes)
+
+#Attice	Attice#1 (in the Attic manner)
+Attice	Attice#2 (Attic; might need a new stemtype)
+Attice	Attice#3 (spelling for Attica)
+Attice	Atticus (pertaining to Attica)
+Attici	Atticus (the Athenians)
+
+Augustinus	Augustinus#1 (of or pertaining to Augustus)
+Augustinus	Augustinus#2 (a Roman cognomen)
+
+augustus	augustus#1 (majestic)
+Augustus	Augustus#2 (a surname of Octavius Caesar after he attained to undivided authority + relating to Augustus#2)
+
+aulus	aulus#1 (a fluteshaped kind of scollop)
+Aulus	Aulus#2 (a Roman praenomen)
+
+aurum	aurum (gold)
+#ausum	aurum (Sab. for 'aurum')
+
+avitus	avitus#1 (belonging to a grandfather)
+Avitus	Avitus#2 (a Roman cognomen)
+
+Axius	Axius#1 (a Roman nomen)
+Axius	Axius#2 (a river in Macedonia)
+
+axon	axon#1 (a line upon the sundial)
+Axon	Axon#2 (a river in Caria)
+
+Baca	Baccha#1 (spelling for 'Baccha')
+Bacca	Baccha#1 (spelling for 'Baccha')
+Baccha	Baccha#1 (a Bacchanet)
+Baccha	Baccha#2 (a kind of Spanish wine)
+
+Baccheus	Baccheus (Bacchic + relating to the Bacchae or Bacchantes)
+
+Bacchius	Bacchius#1 (of Bacchus)
+Bacchius	Bacchius#2 ('pes Bacchius' a metrical foot either ¯¯˘ or ˘¯¯)
+Bacchius	Bacchius#3 (a Greek proper name)
+
+Bacchus	Bacchus#1 (son of Jupiter and a Theban woman)
+Bacchus	Bacchus#2 (a sea-fish)
+
+Bacis	Baccha#1 (spelling for 'Baccha')
+Bacis	Bacis#1 (a soothsayer of Boeotia)
+Bacis	Bacis#2 (a sacred bull)
+Bacem	Bacis#2 (acc. of Bacis#2)
+
+balatro	balatro#1 (a babbler)
+Balatro	Balatro#2 (cognomen of Servilius)
+
+balbus	balbus#1 (stammering)
+Balbus	Balbus#2 (a Roman cognomen)
+
+balista	balista#1 (spelling for ballista)
+Balista	Balista#2 (a mountain in Liguria)
+
+barba	barba#1 (the beard)
+Barba	Barba#2 (a Roman name)
+
+Barea	Barea#1 (a town in Hispania Tarraconensis)
+Barea	Barea#2 (a Roman cognomen)
+
+baritus	baritus (the war-cry of the Germans)
+
+barditus	barditus (the war-song of the Germans)
+
+barritus	barritus#1 (the cry of the elephant)
+barritus	barritus#2 (spelling for 'baritus, the war-cry of the Germans)
+barritus	barrio (to make the sound of an elephant)
+
+barrus	barrus#1 (an elephant)
+Barrus	Barrus#2 (a cognomen of T. Betucius)
+
+Basilia	Basilia#1 (the name of the books of Kings in the Bible)
+Basilia	Basilia#2 (another name for the island Balcia)
+
+batrachus	batrachus#1 (a fish)
+Batrachus	Batrachus#2 (a Greek architect at Rome in the time of Pompey the Great)
+
+bestia	bestia#1 (a beast)
+Bestia	Bestia#2 (a cognomen in the Calpurnian family)
+
+bibulus	bibulus#1 (drinking readily)
+Bibulus	Bibulus#2 (a proper name)
+
+baeto	beto (spelling for 'beto')
+bito	bito#1 (spelling for 'beto')
+Bito	Bito#2 (a son of the Argive priestess Cydippe)
+
+blaesus	blaesus#1 (lisping)
+blaesus	blaesus#1 (the one who lisps)
+Blaesus	Blaesus#2 (a cognomen in the Sempronian gens)
+
+bonum	bonus (good; ignoring 'bonum' because it provides literally nothing at all)
+
+botrys	botrys#1 (the grape)
+Botrys	Botrys#2 (a town in Phoenicia)
+
+brigantes	brigantes#1 (a species of small worm in the eyelashes)
+Brigantes	Brigantes#2 (the most northern and powerful people in Roman Britain)
+
+brochus	brochus#1 (projecting)
+brocchus	brochus#1 
+broccus	brochus#1 
+broncus	broncus (spelling for brochus)
+Brochus	Brochus#2 (a Roman cognomen)
+
+Bruttianus	Bruttii (spelling for 'Brutianus')
+Brutianus	Brutianus (of the Bruttii + pertaining to M. Junius Brutus)
+
+brutus	brutus#1 (heavy; deleted in commit 14eb113730ec6fcb85252100dfb2b4d7b1b09ed2)
+Brutus	Brutus#2 (a Roman cognomen)
+
+bubulcus	bubulcus#1 (one who ploughs with oxen)
+Bubulcus	Bubulcus#2 (the cognomen of several persons in the gens Junia)
+
+bulbus	bulbus#1 (a bulb)
+Bulbus	Bulbus#2 (a Roman name)
+
+bura	bura#1 (spelling for buris)
+Bura	Bura#2 (a town in Achaia)
+
+buris	buris#1 (the curved hinder part of the plough of the ancients)
+buris	bura#1 (spelling for buris)
+Buris	Buris#2 (a city of Achaia)
+Buris	Bura#2 (a town in Achaia)
+Buris	Buri (a German people)
+
+caballus	caballus#1 (an inferior riding- or pack-horse)
+Caballus	Caballus#2 (a Roman cognomen)
+
+Cacus	Cacus#1 (son of Vulcan)
+cacus	cacus#2 (a servant)
+
+Caecinianus	Caecina#1 
+Caecina	Caecina#1 (a surname in the gens Licinia)
+Caecina	Caecina#2 (a river in Etruria)
+
+caecum	caecus#1 (uncertainty)
+caeci	caecus#1 (the blind people)
+caecus	caecus#1 (having no light)
+Caecus	Caecus#2 (agnomen of Appius Claudius Crassus)
+
+caelestinus	caelestinus#1 (heavenly)
+Caelestinus	Caelestinus#2 (a late Roman historian)
+
+caeparius	caeparius#1 (a trader in onions)
+Caeparius	Caeparius#2 (a Roman proper name)
+
+caeruleum	caeruleus#1 (a blue color)
+caerula	caeruleus#1 (the sea + the sky)
+caerulus	caeruleus#1 (spelling for 'caeruleus')
+caeruleus	caeruleus#1 (dark-colored)
+Caeruleus	Caeruleus#2 (the name of an aqueduct at Rome)
+
+caesius	caesius#1 (bluish gray)
+caesius	caedo (to cut)
+#caesius	caesus#1 (part. 'cut')
+Caesius	Caesius#2 (a Roman cognomen)
+
+caldus	caldus#1 (spelling for 'calidus')
+Caldus	Caldus#2 (a Roman cognomen)
+
+calide	calidus (quickly)
+calidum	calidus (a hot drink)
+calidus	calidus (warm)
+
+calor	calor#1 (warmth)
+calor	calo#1 (to call together)
+Calor	Calor#2 (a river in Samnium)
+
+calva	calva (the scalp without the hair)
+calva	calvus#1 (bald)
+calvus	calvus#1 (bald)
+Calvus	Calvus#2 (a cognomen of several persons)
+
+camillae	camilla#1 (a maiden of unblemished birth and character)
+Camilla	Camilla#2 (a Volscian heroine)
+camillus	camillus#1 (a noble youth employed in the sacrifices of the Flamen Dialis)
+camilla	camilla#1 (a maiden of unblemished birth and character)
+camilla	camillum#2 (in architecture, a case/box/receptacle)
+Camillus	Camillus#2 (a cognomen of several persons in the gens Furia)
+
+campter	campter (a bending)
+
+#canens	canens#1 (part. of caneo)
+#canens	canens#2 (part. of cano)
+Canens	Canens#3 (daughter of Janus)
+
+cani	canus (in plural 'gray hairs')
+cani	cano (to sing)
+cani	canis#1 (a dog)
+
+canis	canis#1 (a dog)
+canis	canus (hoary)
+canis	cano (to sing)
+Canis	Canis#2 (a small river tributary to the Po)
+Canis	Cana (Greek for 'canistra')
+Canis	Canae (a town on the coast of Aeolis)
+
+Canopicus	Canopus#1 (of Canopus#1)
+Canopeus	Canopus#1 (of Canopus#1)
+Canopitis	Canopus#1 (of Canopus#1)
+Canopitanus	Canopus#1 (of Canopus#1)
+Canopitae	Canopus#1 (the inhabitants of Canopus#1)
+Canopus	Canopus#1 (an islandtown in Lower Egypt)
+Canopus	Canopus#2 (the brightest star in the constellation Argo)
+
+canthus	canthus#1 (the iron ring around a carriage-wheel)
+Canthus	Canthus#2 (name of an Argonaut)
+
+capella	capella#1 (a she-goat)
+Capella	Capella#2 (a Roman proper name)
+
+capitium	capitium#1 (a covering for the head)
+Capitium	Capitium#2 (a town in Sicily)
+
+capito	capito#1 (one that has a large head)
+capito	capio#1 (to take in hand)
+capito	capitum (fodder for cattle)
+capetum	capitum (spelling for capitum)
+Capito	Capito#2 (a Roman cognomen)
+
+capitulum	capitulum#1 (a small head)
+Capitulum	Capitulum#2 (a town of the Hernici in Latium)
+
+capsa	capsa#1 (a repository)
+Capsa	Capsa#2 (a town in Africa)
+
+carbo	carbo#1 (a coal)
+Carbo	Carbo#2 (a Roman surname in the gens Papiria)
+
+carina	carina#1 (the keel of a ship)
+carina	carino#1 (to abuse)
+carina	carino#2 (to supply with a shell)
+Carina	Carina#2 (a town of Troas)
+Carina	Carina#3 (a mountain in Crete)
+Carinae	Carina#2 (a town of Troas)
+Carinae	Carina#3 (a mountain in Crete)
+Carinae	carina#1 (the Keels, a celebrated quarter in the fourth region of Rome)
+
+carruca	carruca#1 (a sort of four-wheeled travelling and state coach)
+Carruca	Carruca#2 (a town in Hispania Baetica)
+
+Cassiope	Cassiope#1 (the proud wife of Cepheus)
+Cassiopea	Cassiope#1 (alternative spelling)
+Cassiepea	Cassiepea (alternative spelling for Cassiope1)
+Cassiope	Cassiope#2 (a town in Corcyra)
+
+castor	castor#1 (the castor)
+Castor	Castor#2 (the son of the Spartan king Tyndarus and Leda)
+
+casus	casus#1 (a falling)
+casus	cado (to fall down)
+Casus	Casus#2 (a river of Albania)
+
+catheter	catheter (a surgical instrument for drawing off the urine)
+
+catillus	catillus#1 (a small bowl)
+Catillus	Catillus#2 (a son of Amphiaraus)
+
+catulinus	catulinus#1 (of or pertaining to a little dog)
+catulina	catulinus#1 (the flesh of the dog)
+Catulinus	Catulinus#2 (of Q. Lutatius Catulus)
+
+catulus	catulus#1 (the young of animals)
+Catulus	Catulus#2 (a cognomen in the gens Lutatia)
+
+cauter	cauter (a branding-iron)
+
+celer	celer#1 (swift)
+celer	celo (to hide something from one)
+Celer	Celer#2 (a Roman cognomen in the gens Caecilia)
+Celer	Celer#3 (chief of the Celeres)
+
+Celeres	Celeres (the orig. general name for patricians)
+Celeres	Celer#2 (a Roman cognomen in the gens Caecilia)
+Celeres	Celer#3 (chief of the Celeres)
+
+celsus	celsus#1 (raised high)
+Celsus	Celsus#2 (a Roman cognomen)
+
+cento	cento#1 (a garment of several bits or pieces sewed together)
+Cento	Cento#2 (a Roman cognomen)
+
+Ceramicus	Ceramicus#1 (the name of two places)
+Ceramicus	Ceramicus#2 (from Ceramus)
+
+cerasus	cerasus#1 (the cherrytree)
+Cerasus	Cerasus#2 (a town in Pontus)
+
+ceraunius	ceraunius (pertaining to thunder or lightning)
+ceraunium	ceraunius (a precious stone)
+Ceraunii	ceraunius (proper name)
+Ceraunia	ceraunius (a ridge of mountains in Epirus)
+Ceraunia	Ceraunia (= κερωνία)
+ceraunus	ceraunus#1 (spelling for ceraunium)
+Ceraunus	Ceraunus#2 (cognomen of king Ptolemaeus)
+
+cestros	cestros#1 (the plant betony)
+Cestros	Cestros#2 (a river of Pamphylia)
+Cestrus	Cestros#2 (spelling for Cestros2)
+
+character	character (an instrument for branding or marking)
+
+chelonitis	chelonitis#1 (a precious stone like the tortoise)
+Chelonitis	Chelonitis#2 (an island in the Arabian Gulf)
+
+Chilo	Chilo#1 (a cognomen)
+Chilo	Chilo#2 (a Lacedaemonian)
+
+chordus	chordus#1 (lateborn)
+Chordus	Chordus#2 (a Roman cognomen)
+
+cicuta	cicuta#1 (the hemlock given to criminals as poison)
+Cicuta	Cicuta#2 (the name of a usurer)
+
+cilo	cilo#1 (having a prominent forehead pressed in upon the sides)
+Cilo	Cilo#2 (a Roman cognomen)
+
+cinara	cinara#1 (a kind of artichoke)
+Cinara	Cinara#2 (a Greek proper name)
+
+cincinnatus	cincinnatus#1 (with curled hair)
+Cincinnatus	Cincinnatus#2 (a cognomen of the renowned L. Quinctius)
+
+cingulum	cingulum#1 (the girdle encircling the hips)
+Cingulum	Cingulum#2 (a small town in Picenum)
+
+Cispius	Cispius#1 (a Roman gentile name)
+Cispius	Cispius#2 (one of the peaks of the Mons Esquilinus)
+
+civilis	civilis#1 (Of or pertaining to citizens)
+civile	civilis#1 (courtesy)
+Civilis	Civilis#2 (a proper name)
+
+civiliter	civilis#1 (pertaining to citizens)
+civiliter	civiliter (citizen-like)
+
+Claudius	Claudius (name of two very celebrated Roman gentes)
+Clodius	Clodius (variant for 'Claudius')
+Claudia	Claudius (Claudian)
+Claudia	Claudia (name of two very celebrated Roman gentes)
+Clodia	Clodius (Claudian)
+Clodia	Clodia (variant for 'Claudia')
+Claudianus	Claudianus#1 (pertaining to a Claudius)
+Claudianus	Claudianus#2 (a Roman poet of Alexandria)
+
+#clausus	clausus#1 (part. from claudo)
+clausus	claudo#1 (to shut something that is open)
+clausus	claudo#2 (spelling of claudeo 'to limp')
+Clausus	Clausus#2 (a Sabine proper name)
+
+clemens	clemens#1 (mild)
+Clemens	Clemens#2 (a proper name)
+
+climacter	climacter (a critical epoch in human life)
+
+Clitae	Clitae#1 (a town of Macedonia)
+Clitae	Clitae#2 (a tribe on the coast of Cilicia Trachea)
+
+Coa	Coa#2 (a fictitious nickname of Clodia)
+Coa	Coa#1 (garments)
+Cos	Cos#2 (one of the Sporadic Islands in the Myrtoan Sea)
+Cous	Cous (spelling for Cos2)
+Coos	Coos (spelling for Cos2)
+Coos	Cous (spelling for Cos2)
+Coa	Cous (of Cos2, a Coan)
+Coa	Cos#2 (a type of wine)
+Coum	Cos#2 (a type of wine)
+Coum	Coa#1 (garments)
+Coum	Coos (spelling for Cos2)
+Coum	Cous (spelling for Cos2)
+
+collina	collina#1 (hilly land)
+collina	collinus (pertaining to a hill)
+Collina	Collina#2 (goddess of hills)
+Collina	collinus (pertaining to the hills in the northeastern part of Rome)
+
+colonia	colonia#1 (a possession in land)
+Colonia	Colonia#2 (a name given to several colonial or provincial cities)
+
+Colophonius	Colophon#1 (Colophonian)
+Colophonii	Colophon#1 (the Colophonians)
+Colophoniacus	Colophon#1 (Colophonian)
+Colophon	Colophon#1 (one of the twelve Ionian towns in Lydia)
+colophon	colophon#2 (colophon dixerunt, cum aliquid finitum significaretur)
+colophonos	colophon#2 (irregular genitive for colophon2)
+
+colotes	colotes#1 (a kind of lizard)
+Colotes	Colotes#2 (an Epicurean philosopher of Lampsacus)
+
+columella	columella#1 (a small column)
+Columella	Columella#2 (a Roman cognomen in the gens Junia)
+
+come	come#1 (a plant)
+come	comis (courteous)
+come	como#1 (to bring together)
+Come	Come#2 (Come Hiera, a town in Caria)
+Come	Comum (a considerable town in Gallia Transpadana)
+
+cometes	cometes#1 (a comet)
+Cometes	Cometes#2 (a Greek proper name)
+
+Cominius	Cominius#1 (a Roman proper name)
+cominius	cominius#2 (spelling for colminiana)
+colminiana	"" (does not exist funnily)
+
+commodo commodo#2 (to adjust according to a measure)
+commodo commodo#1 (just in time)
+commodo commodus#1 (that has a due or proper measure)
+commodo commodum#1 (a convenient oportunity)
+commodus	commodus#1 (that has a due or proper measure)
+Commodus	Commodus#2 (a Roman cognomen)
+commode commode (properly)
+commode commodum#1 (a convenient oportunity)
+commode commodus#1 (that has a due or proper measure)
+Commoda	Commodus#2 (name of the month Commodus wished to name after himself; forcing adj analysis here)
+
+concordia	concordia#1 (an agreeing together, union, harmony, concord)
+concordia	concors (agreeing)
+Concordia	Concordia#2 (the goddess of Concord)
+
+#consentia	consentia#1 (consentia sacra, sacred rites established by common agreement)
+Consentia	Consentia#2 (the capital of the Bruttii)
+
+constantia	constantia#1 (steadiness)
+constantia	consto (to stand together)
+Constantia	Constantia#2 (a Roman proper name)
+
+cora	cora#1 (the pupil of the eye)
+Cora	Cora#2 (a name of Proserpine)
+Cora	Cora#3 (an ancient town of Latium, in the territory of the Volsci)
+
+corax	corax#1 (a raven)
+Corax	Corax#2 (the most ancient Greek rhetorician in Sicily)
+Corax	Corax#3 (a mountain in Aetolia)
+
+cornicen	cornicen#1 (a horn-blower, corneter)
+Cornicen	Cornicen#2 (a surname of several persons in the gens Oppia)
+
+corniculum	corniculum#1 (a little horn)
+corniculum	corniculus (the civil office of a cornicularius)
+Corniculum	Corniculum#2 (an ancient town in Latium)
+
+cornus	cornu (horn)
+cornus	cornus#1 (a cornel cherry-tree)
+cornus	cornus#2 (spelling for cornu)
+Cornus	Cornus#3 (a city on the western coast of Sardinia)
+
+cornutus	cornutus#1 (horned)
+Cornutus	Cornutus#2 (a Roman cognomen)
+
+coronis	coronis#1 (a curved line or flourish formed with a pen, which writers or transcribers were accustomed to make at the end of a book or chapter)
+coronis	corona (a garland)
+Coronis	Coronis#2 (daughter of the Thessalian Phlegyas)
+Coronis	Corone (a city on the west coast of the Messenian bay)
+Coronis	Coronae (name of the two daughters of the Theban Orion)
+
+Coronidis	Coronis#2 (daughter of the Thessalian Phlegyas, mother of Aesculapius by Apollo)
+Coronidis	Coronides (the son of Coronis)
+
+corycus	corycus#1 (a leathern sack filled with sand, flour)
+Corycus	Corycus#2 (a promontory in Cilicia)
+
+cos	cos#1 (any hard stone, flintstone)
+Cos	Cos#2 (one of the Sporadic Islands in the Myrtoan Sea)
+
+cossus	cossus#1 (a kind of larva under the bark of trees)
+Cossus	Cossus#2 (a surname in the gens Cornelia)
+
+cotula	cotula (a small vessel)
+cotyla	cotyla#1 (spelling for cotula)
+Cotyla	Cotyla#2 (a Roman surname)
+
+crassus	crassus#1 (solid, thick, dense, fat, gross)
+Crassus	Crassus#2 (a family name in the gens Licinia)
+
+crastinus	crastinus#1 (Of to-morrow)
+Crastinus	Crastinus#2 (a Roman surname)
+
+crater	crater (a vessel in which wine was mingled with water)
+
+Crates	Crates#1 (a Greek proper name)
+crates	crates#2 (falsely assumed as nom. instead of cratis)
+cratis	crates#2 (falsely assumed as nom. instead of cratis)
+crates	cratis (wicker-work, a hurdle)
+cratis	cratis (wicker-work, a hurdle)
+cratis	cratio (to harrow)
+
+Cres	Cres (a Cretan man)
+Cressa	Cressa (a Cretan woman)
+Cretaeus	Cretaeus (Cretan)
+Cretaeus	Creta#1 (the Cretan)
+Cretenses	Creta#1 (the Cretans)
+Cretenses	Cretensis (Cretan)
+Creticus	Creticus (Cretan)
+Creticus	Creta#1 (a surname of Q. Metellus)
+cretica	cretica (clematitis)
+cretice	cretica (hibiscus)
+Creta	Creta#1 (Crete, an island in the Mediterranean Sea)
+creta	creta#2 (chalk)
+creta	cerno (to separate)
+creta	cresco (to come forth, grow)
+#creta	cretus#1 (part. of cerno) 
+#creta	cretus#2 (part. of cresco)
+
+crispus	crispus#1 (curled, crisped, crimped)
+Crispus	Crispus#2 (a Roman surname)
+
+crista	crista#1 (a tuft on the head of animals)
+Crista	Crista#2 (a Roman surname)
+
+Closter	Closter (son of Arachne)
+
+Ctesiphon	Ctesiphon#1 (an Athenian defended by Demosthenes)
+Ctesiphon	Ctesiphon#2 (a town in Assyria, residence of the Parthian kings)
+
+cunctator	cunctator#1 (one who acts with hesitation or tardiness, a delayer, loiterer, lingerer)
+Cunctator	Cunctator#2 (a surname of the dictator Q. Fabius Maximus)
+
+cuneus	cuneus#1 (a wedge)
+Cuneus	Cuneus#2 (a promontory in Lusitania)
+
+curio	curio#1 (the priest of a curia)
+curio	curio#3 (wasted by sorrow, lean, emaciated)
+curio	curius#1 (full of sorrow)
+Curio	Curio#2 (a surname in the gens Scribonia)
+Curio	Curius#2 (the name of a Roman gens)
+
+curius	curius#1 (full of sorrow)
+Curius	Curius#2 (the name of a Roman gens)
+
+cursor	cursor#1 (a runner)
+cursor	curso (to run hither and thither)
+Cursor	Cursor#2 (a surname of L. Papirius)
+
+cyclaminon	cyclaminos (the plant sowbread)
+
+cycnus	cycnus#1 (the swan)
+Cycnus	Cycnus#2 (a king of the Ligurians)
+
+Cyme	Cyme#1 (a town of Aeolis, near the mod. Sanderli or Sandarlio)
+Cyme	Cyme#2 (spelling for Cumae)
+
+Cynice	Cynice#1 (after the manner of the Cynics)
+Cynice	Cynicus (a Cynic philosopher)
+Cynice	Cynice#2 (the Cynic sect)
+
+Cynosura	Cynosura#1 (the constellation at the north pole, the Cynosura)
+#cynosura	cynosura#2 (cynosura ova, 'addle-eggs')
+
+Cyprus	Cyprus#1 (an island in the Mediterranean Sea)
+cyprus	cyprus#2 (a tree growing in Cyprus and Egypt)
+cyprus	cyprus#3 (Sabine for 'bonus')
+
+cypselus	cypselus#1 (a kind of swallow)
+Cypselus	Cypselus#2 (a tyrant at Corinth)
+
+Cyrene	Cyrene#2 (a nymph, mother of Aristaeus)
+Cyrene	Cyrene#1 (the chief town of a province of the same name in Libya)
+Cyrenae	Cyrene#1 (spelling for Cyrene1)
+Cyrenae	Cyrene#2 (a nymph, mother of Aristaeus)
+
+Cytis	Cytis#1 (an island at the entrance of the Arabian Gulf, producing chrysolite)
+Cytis	Cytae (a town in Colchis)
+cytis	cytis#2 (an unknown precious stone)
+
+Cyzicos	Cyzicos#1 (a king of the Dolones, after whom the town of Cyzicum was named)
+Cyzicus	Cyzicos#1 (alternative nominative for Cyzicos1)
+Cyzicus	Cyzicum (a town celebrated in ancient times)
+Cyzicos	Cyzicos#2 (spelling for Cyzicum)
+Cyzicos	Cyzicum (a town celebrated in ancient times)
+
+daedalus	daedalus#1 (artificial, skilful)
+Daedalus	Daedalus#2 (the mythical Athenian architect)
+daedale	daedalus#1 (artificial, skilful)
+daedale	daedale (skilfully)
+
+daemon	daemon#1 (a spirit)
+Daemon	Daemon#2 (the name of a Greek sculptor)
+
+dama	dama#1 (spelling for damma)
+Dama	Dama#2 (name of a slave)
+
+Dardanus	Dardanus#1 (the son of Jupiter and Electra of Arcadia)
+Dardanius	Dardanus#1 (poetic for 'Trojan')
+Dardania	Dardanus#1 (the city Dardania)
+Dardania	Dardani (the country Dardania)
+Dardanides	Dardanus#1 (son or descendant of Dardanus)
+Dardanis	Dardanus#1 (poetic for 'Trojan')
+Dardanis	Dardanus#2 (spelling for Dardanus1, poetic for 'Trojan'/'Roman')
+Dardanis	Dardani (a people in Upper Moesia)
+Dardanius	Dardanus#1 (poetic for Magic)
+Dardanius	Dardanus#2 (spelling for Dardanus1, poetic for 'Trojan'/'Roman')
+Dardanus	Dardanus#2 (spelling for Dardanus1, poetic for 'Trojan'/'Roman')
+
+December	December (the tenth month of the Roman year)
+
+Decianus	Decianus#1 (spelling for Decius)
+Decianus	Decianus#2 (a Roman surname)
+
+decimus	decimus#1 (the tenth)
+Decimus	Decimus#2 (proper names)
+
+digitus	digitus#1 (a finger)
+Digitus	Digitus#2 (a proper name)
+
+Dionysia	Dionysia#1 (a noted dancer)
+Dionysia	Dionysia#2 (spelling for Dionysus)
+Dionysia	Dionysus (pertaining to Bacchus)
+
+dipsas	dipsas#1 (a kind of serpent whose bite causes violent thirst)
+Dipsas	Dipsas#2 (a name given to an old bawd)
+
+discus	discus#1 (a quoit)
+Discus	Discus#2 (the name of a freedman)
+
+dolabella	dolabella#1 (a small pick-axe)
+Dolabella	Dolabella#2 (the name of a Roman family in the gens Cornelia)
+
+Dolichos	Dolichos#1 (the name of a gladiator)
+dolichos	dolichos#2 (a plant)
+
+dolo	dolo#1 (to chip with an axe)
+dolo	dolo#2 (a staff with a short sharp iron point)
+dolo	dolus (a device, artifice)
+Dolo	Dolo#3 (a spy of the Trojans in the Trojan war)
+
+domitius	domo (part of 'to tame')
+domitius	domitius#1 (pertaining to the house)
+Domitius	Domitius#2 (the appellation of a Roman gens)
+
+doto	doto#1 (to endow)
+Doto	Doto#2 (a sea-nymph)
+
+draco	draco#1 (a sort of serpent)
+Draco	Draco#2 (a proper name)
+
+dromo	dromo#1 (a sort of shell-fish)
+dromo	dromos (a place for running)
+Dromo	Dromo#2 (the name of a slave)
+Dromo	dromos (the plain near Sparta)
+
+Dryas	Dryas#1 (the father of Lycurgus king of Thrace)
+Dryas	Dryas#2 (spelling for Dryades)
+
+durius	durius#1 (the Trojan horse)
+durius	durus (hard)
+Durius	Durius#2 (one of the principal rivers of Spain)
+
+echinus	echinus#1 (a hedgehog)
+Echinus	Echinus#2 (a city of Phthiotis)
+
+echion	echion#1 (a medicament prepared from the ashes of adders)
+Echion	Echion#2 (one of the heroes who sprang up from the dragon's teeth sown by Cadmus)
+
+electrus	electrus#1 (of amber)
+Electrus	Electrus#2 (son of Perseus and father of Alcmena)
+
+Elaeus	Elaeus (a city on the Hellespont in the Thracian Chersonesus)
+Eleus	Eleus#1 (Elean)
+Eleus	Eleus#2 (Spelling for 'Elaeus')
+Alis	Elis (variant for 'Elis')
+Elei	Eleus#1 (Elean)
+Elei	Elis (the inhabitants of Elis)
+Elii	Elis (the inhabitants of Elis)
+Elias	Elias#1 (Elean)
+Elidensis	Elidensis (of Elis)
+Eleis	Eleis (Elean)
+Eleis	Elea (a city of Lucania)
+Eleis	Eleus#1 (Elean)
+Eleis	Elis (the inhabitants of Elis)
+Elis	Elis (the most westerly district of the Peloponnesus)
+Elias	Elias#2 (Elijah)
+Helias	Elias#2 (spelling for Elias#2)
+Helia	Elias#2 (spelling for Elias#2)
+
+ephorus	ephorus#1 (a member of a well-known body of Spartan magistrates)
+Ephorus	Ephorus#2 (a celebrated Greek historian of Cumae)
+
+Epiphania	Epiphania#1 (a city of Cilicia)
+Epiphania	Epiphania#2 (the festival of the Epiphany)
+
+epulo	epulo#1 (a guest at a feast or banquet)
+epulo	epulum (sumptuous food)
+Epulo	Epulo#2 (a proper name)
+
+Erasinus	Erasinus#1 (a river of Argolis)
+Erasinus	Erasinus#2 (a favorite boy)
+
+esus	esus#1 (spelling for 1. edo)
+esus	esus#2 (an eating)
+esus	edo#1 (to eat)
+Esus	Esus#3 (a Gallic deity)
+
+Euryalus	Euryalus#1 (a hill near Syracuse)
+Euryalus	Euryalus#2 (a friend of Nisus)
+
+eusebes	eusebes#1 (an unknown precious stone)
+Eusebes	Eusebes#2 (a surname of Ariobarzanes)
+
+falcula	falcula#1 (a small sickle)
+Falcula	Falcula#2 (a Roman surname)
+
+fanum	fanum#1 (a place dedicated to some deity by forms of consecration)
+Fanum	Fanum#2 (a city in Umbria)
+
+fatuus	fatuus#1 (foolish)
+fatuus	fatuus#1 (a fool)
+Fatuus	Fatuus#2 (another name for the prophesying Faunus)
+
+faustus	faustus#1 (of favorable or fortunate omen)
+Faustus	Faustus#2 (a surname of L. Cornelius Sulla)
+
+faventia	faventia#1 (a being favorable)
+faventia	faveo (to be favorable)
+Faventia	Faventia#2 (a city of Gallia Cisalpina)
+
+festus	festus#1 (belonging to the holidays)
+Festus	Festus#2 (a Roman surname)
+
+fidentia	fidentia#1 (confidence)
+fidentia	fido (to trust)
+Fidentia	Fidentia#2 (a small town in Gallia Cisalpina)
+
+figulus	figulus#1 (a potter)
+Figulus	Figulus#2 (a Roman surname in the gens Marcia and Nigidia)
+
+fimbria	fimbria#1 (alternative of fimbriae)
+Fimbria	Fimbria#2 (a Roman surname in the gens Flavia)
+
+fimbriatus	fimbriatus#1 (fibrous)
+Fimbriatus	Fimbriatus#2 (made a Fimbria of)
+
+fiscella	fiscella (a small basket for fruit)
+fiscellus	fiscellus#1 (a small basket for fruit)
+Fiscellus	Fiscellus#2 (a chain of mountains in the Sabine territory)
+
+flaccus	flaccus#1 (flabby)
+Flaccus	Flaccus#2 (a Roman surname)
+
+flamen	flamen#1 (a priest of one particular deity)
+flamen	flamen#2 (a blowing)
+Flamen	Flamen#3 (a surname in the gens Claudia)
+
+flaminium	flaminius#1 (the office or dignity of flamen)
+flaminius	flaminius#1 (belonging to a flamen)
+Flaminius	Flaminius#2 (the name of a Roman gens)
+Flaminia	Flaminius#2 (the name of a Roman gens)
+flaminia	flaminia (the dwelling of the flamen Dialis)
+flaminia	flaminius#1 (the office or dignity of flamen)
+Flaminianus	Flaminianus (belonging to a Flaminius)
+
+flamma	flamma#1 (a blazing fire)
+flamma	flammo (to flame)
+Flamma	Flamma#2 (a Roman surname)
+
+florus	florus#1 (shining)
+Florus	Florus#2 (a Roman surname)
+
+foruli	foruli#1 (a book-case)
+Foruli	Foruli#2 (an ancient city of the Sabines)
+
+fronto	fronto#1 (one who has a broad forehead)
+Fronto	Fronto#2 (a proper name)
+
+fucinus	fucinus#1 (colored with orchil)
+Fucinus	Fucinus#2 (a lake of Latium)
+
+Fundanius	Fundanius#1 (the name of a Roman gens)
+Fundanius	Fundanus (belonging to Fundi)
+Fundanius	Fundanius#2 (spelling for Fundi)
+
+Fuscinus	Fuscinus#1 (spelling for 2. Fuscus, II.)
+Fuscinus	Fuscinus#2 (a friend of Juvenal to whom his fourteenth Satire is addressed)
+
+fuscus	fuscus#1 (dark)
+Fuscus	Fuscus#2 (a Roman surname)
+
+gallina	gallina#1 (a hen)
+Gallina	Gallina#2 (the name of a gladiator)
+
+galla	galla#1 (oak-apple)
+Galli	Galli#1	(the Gauls)
+Gallicanus	Galli#1 (inhabitant of Gallia)
+Gallicana	Galli#1
+Galli	Galli#2 (the priests of Cybele)
+gallus	gallus#1 (a cock)
+Gallus	Gallus#2 (a Gaul)
+Gallus	Gallus#2 (Gallic)
+Galli	Gallus#2 (Gallic)
+Galli	Gallus#3 (a tributary of the Sagaris of Phrygia and Bithynia)
+Galla	Galla#2 (a female Gaul)
+Galla	Galla#3 (a priest of Cybele)
+Galla	Gallus#2 (Gallic)
+Gallius	Gallus#2 (Gallic)
+Gallus	Gallus#3 (a tributary of the Sagaris of Phrygia and Bithynia)
+Gallus	Gallus#3 (a priest of Cybele)
+Gallus	Gallus#4 (a Roman surname)
+Gallus	Gallus#4 
+Galli	Gallus#4
+Gallia	Gallia (the country of the Gauls)
+Gallicus	Gallicus (belonging to the Gauls + of the river Gallus + of the priests of Cybele)
+gallica	gallica (a Gallic shoe)
+Gallice	Gallice (in Gallic)
+Gallice	Gallicus (Gallic)
+Gallius	Gallius#1 (Gallic)
+Gallia	Gallius#1 (Gallic)
+Gallius	Gallius#2 (a Roman gens)
+Gallia	Gallius#2 (a Roman gens)
+Gallicanus	Gallicanus (belonging to the Roman province Gallia)
+Gallicana	Gallicanus (belonging to the Roman province Gallia)
+Gallulus	Gallulus (poetic for the city Arelas)
+
+gaza	gaza#1 (Persian for 'royal treasure')
+Gaza	Gaza#2 (the name of several cities)
+
+gelo	gelo#1 (to cause to freeze)
+gelo	gelum (alternative to 'frost')
+Gelo	Gelo#2 (king of Syracuse)
+
+gillo	gillo#1 (a cooling-vessel)
+Gillo	Gillo#2 (the name of a legacyhunter)
+
+glaucus	glaucus#1 (gleaming)
+glaucus	glaucus#2 (a bluish-colored fish)
+Glaucus	Glaucus#3 (a Greek proper name)
+
+gryllus	gryllus#1 (a cricket)
+Gryllus	Gryllus#2 (a Greek proper name)
+
+gurges	gurges#1 (a raging abyss)
+Gurges	Gurges#2 (a surname)
+
+gutta	gutta#1 (a drop)
+Gutta	Gutta#2 (a Roman surname)
+
+gymnasium	gymnasium#1 (a public school among the Greeks for gymnastic exercises)
+Gymnasium	Gymnasium#2 (name of a Greek maiden)
+
+hageter	hageter (the leader)
+
+halter	halter (leaden weights held in the hands in leaping exercises)
+
+harmonia	harmonia#1 (an agreement of sounds)
+Harmonia	Harmonia#2 (daughter of Mars and Venus)
+
+hemina	hemina#1 (a measure)
+Hemina	Hemina#2 (surname of the historian L. Cassius)
+
+Heniochus	Heniochus#1 (spelling for Heniochi, II. A.)
+Heniochus	Heniochus#2 (the constellation of the Wagoner)
+
+era	era (the mistress of a house)
+hera	hera#1 (spelling for era)
+Hera	Hera#2 (the Grecian goddess Hera)
+Hera	Hera#3 (another name of Hybla Minor in Sicily)
+Hera	Here#2 (the goddess of inheritance)
+
+Heracleus	Heracleus#1 (belonging to Heraclea)
+Heracleus	Heracleus#2 (belonging to Hercules)
+Heraclius	Heracleus#2 (belonging to Hercules)
+Heraclius	Heraclius (belonging to Heraclea)
+
+Heraclides	Heraclides#1 (a proper name)
+Heraclides	Heraclides#2 (a male descendant of Hercules)
+
+here	here#1 (spelling for 'heri')
+here	herus (spelling for 'erus')
+Here	Here#2 (the goddess of inheritance)
+
+Hermes	Hermes (a Hermes pillar)
+
+Herous	Herous#1 (of Hero)
+herous	herous#2 (of or relating to a hero)
+herous	herous#2 (an epic verse)
+herous	herous#2 (a monument to the memory of a hero)
+
+hiera	hiera#1 (a sort of antidote against poison)
+Hiera	Hiera#2 (the name of several islands)
+
+hilarus	hilarus#1 (spelling for hilaris)
+Hilarus	Hilarus#2 (name of a Roman freedman)
+
+Hippius	Hippius#1 (a Roman proper name)
+Hippius	Hippius#2 (id est equester)
+
+hora	hora#1 (an hour)
+Hora	Hora#2 (the wife of Quirinus)
+
+Horatianus	Horatius#1 (belonging to the poet Horace)
+Horatius	Horatius#1 (name of a Roman gens)
+Horatius	Horatius#2 (belonging to a Horatius)
+
+horreum	horreum#1 (a storehouse)
+Horreum	Horreum#2 (a city of Molossis in Epirus)
+
+hortator	hortator#1 (an inciter)
+Hortator	Hortator#2 (a Roman surname)
+
+hostus	hostus#1 (the yield of an olive-tree)
+Hostus	Hostus#2 (a Roman praenomen)
+
+Hyas	Hyas#1 (a son of Atlas)
+Hyas	Hyas#2 (the Hyad)
+Hyas	Hyes (one of the first three Dioscuri)
+
+hydrus	hydrus#1 (a water-serpent)
+Hydrus	Hydrus#2 (a city of Calabria)
+
+Iasius	Iasius#1 (son of Jupiter and Electra)
+Iasion	Iasion (spelling for 'Iasius')
+Iasides Iasides (a male descendant of Iasius)
+Iasides Iasis (the daughter of Iasius)
+Iasis	Iasis (the daughter of Iasius)
+Iasis	Iassus (an ancient and wealthy town on the coast of Caria)
+Iasius	Iasius#2 (belonging to Iasius + belonging to Iassus)
+Iassus	Iassus (an ancient and wealthy town on the coast of Caria)
+Iasus	Iassus (spelling for 'Iassus')
+Iassius Iassus (belonging to Iassus)
+Iassenses Iassus (the inhabitants of Iassus)
+
+Ida	Ida (a high mountain in Crete)
+Ide	Ida (spelling for Ida)
+Ida	Idas (son of Aphareus)
+
+Idaeus	Idaeus#1 (belonging to Ida + belonging to Mount lda)
+Idaeus	Idaeus#2 (a herald and charioteer of Priam)
+
+ile	ile (the groin)
+ileum	ile (spelling for 'ile')
+ileum	ileos (a severe kind of colic)
+ilium	ilium#2 (spelling for 'ile')
+ilium	ilia#1 (spelling for 'ile')
+ilia	ilia#1 (spelling for 'ile')
+Ilia	Ilia#2 (a poetical name of Rhea Silvia)
+Ilia	Ilium#1 (a poetical name for Troy)
+Ilia	Ilius (belonging to Ilium)
+Ilia	Ilion (spelling for 'Ilium')
+ilium	ilium#2 (spelling for 'ile')
+Ilium	Ilium#1 (a poetical name for Troy)
+Ilium	Ilios (spelling for 'Ilium')
+Ilium	Ilius (belonging to Ilium)
+Ilium	Ilion (spelling for 'Ilium')
+Ilii	Ilium#1 (the Trojans)
+Ilii	Ilios (spelling for 'Ilium')
+Ilii	Ilius (belonging to Ilium)
+Ilii	Ilion (spelling for 'Ilium')
+Ilios	Ilios (spelling for 'Ilium')
+Ilios	Ilium#1 (a poetical name for Troy)
+Ilios	Ilius (belonging to Ilium)
+Ilion	Ilion (spelling for 'Ilium')
+Ilienses	Ilienses#1 (inhabitants of Ilium)
+Ilienses	Ilienses#2 (a people in Sardinia)
+Iliacus	Iliacus#1 (belonging to Ilium)
+iliacus	iliacus#2 (relating to the colic)
+Iliades	Iliades (a Trojan + a son of Ilia)
+Iliades Ilias (Trojan women)
+Ilias	Ilias (a Trojan woman)
+Ilias	Ilia#2 (a poetical name of Rhea Silvia)
+Ilias	Ilius (belonging to Ilium)
+Ilius	Ilius (belonging to Ilium)
+
+Indus	Indus#1 (belonging to India + an Indian)
+Indus	Indus#2 (the name of two rivers)
+Indi	Indi (the inhabitants of India)
+Indi	Indus#1 (belonging to India)
+Indi	Indus#2 (the name of two rivers)
+
+industria	industria#1 (diligence)
+industria	industrius (diligent)
+Industria	Industria#2 (a city in Liguria)
+
+insitor	insitor#1 (an ingrafter)
+Insitor	Insitor#2 (the god that presides over grafting)
+
+insula	insula#1 (an island)
+Insula	Insula#2 (a part of Syracuse cut off from the rest by a narrow arm of the sea)
+
+ion	ion#1 (a kind of violet)
+Ion	Ion#2 (an Athenian)
+
+Iphis	Iphis#1 (a youth of Cyprus)
+Iphis	Iphis#2 (a Cretan girl who was changed into a man)
+
+Isauria	Isauri (the country of the Isauri)
+Isaurus	Isaurus#1 (a river in Picenum)
+Isauricus	Isauri (Isaurian + a surname of P. Servilius Vatia)
+Isaurica	Isauri (Isaurian + a surname of P. Servilius Vatia)
+Isaurus	Isaurus#2 (Isaurian)
+Isauri	Isauri (an Asiatic tribe between Pamphylia, Lycaonia, and Cilicia)
+Isauri	Isaurus#1 (a river in Picenum)
+Isauri	Isaurus#2 (Isaurian)
+
+Ismarus	Ismarus#1 (a mountain on the southern coast of Thrace)
+Ismarus	Ismarus#2 (a Lydian)
+
+issus	issus#1 (a childish form of 'ipse')
+Issus	Issus#2 (a city of Cilicia)
+
+iulus	iulus#1 (down)
+Iulus	Iulus#2 (the son of Ascanius and grandson of Aeneas)
+
+#jactus	jactus#1 (part. from 'jacio')
+jactus	jacio (to throw)
+jactus	jactus#2 (a throwing, casting, hurling)
+Jactus	Jactus#3 (a river flowing into the Po)
+
+Jovius	Jovius#1 (belonging to Jupiter)
+Jovius	Jovius#2 (a surname of the emperor Diocletian + belonging to Diocletian)
+Jovianus	Jovius#2 (belonging to Diocletian)
+Joviani	Jovius#2 (soldiers of Diocletian's legion of honor)
+
+juba	juba#1 (the flowing hair on the neck of an animal, the mane)
+Juba	Juba#2 (the name of two Numidian-kings)
+
+Julianus	Julianus#1 (belonging to Julius Caesar, Julian)
+Julianus	Julianus#2 (Julian, a Roman proper name)
+
+Justinianus	Justinianus#1 (spelling for Justinus)
+Justinianus	Justinianus#2 (Justinian)
+
+juvenalis	juvenalis#1 (youthful, juvenile)
+Juvenalis	Juvenalis#2 (Juvenal)
+
+juvenilis	juvenilis (youthful, juvenile)
+
+juvencus	juvencus#1 (young + a young bullock)
+Juvencus	Juvencus#2 (a priest in Spain in the time of Constantine the Great)
+
+labeo	labeo#1 (one who has large lips, who is blubber-lipped)
+Labeo	Labeo#2 (a surname)
+
+lacerna	lacerna#1 (a kind of cloak which the Romans wore over the toga on journeys, or in damp and cold weather)
+Lacerna	Lacerna#2 (the name of a rich charioteer)
+
+lamia	lamia#1 (a witch)
+lamia	lamium (dead-nettle)
+Lamia	Lamia#2 (a surname in the gens Aelia)
+Lamia	Lamia#3 (a city in Phthiotis)
+
+lanarius	lanarius#1 (belonging to wool + a worker in wool)
+lanarius	lanaris (woolly)
+lanaria	lanarius#1 (a wool-factory)
+lanaria	lanaris (woolly)
+Lanarius	Lanarius#2 (the surname of P. Calpurnius)
+
+lanatus	lanatus#1 (furnished with wool, bearing wool, woolly)
+Lanatus	Lanatus#2 (a surname in the gens Menenia)
+
+Lar	Lar#1 (a praenomen of Etruscan origin)
+Lar	Lar#2 (one of the Lares#1)
+Lases	Lases (old spelling for Lares#1)
+Lares	Lares#1 (tutelar deities)
+Larum	Lares#1 (tutelar deities)
+Larium	Lares#1 (tutelar deities)
+Larium	Lares#2 (a city in Numidia)
+Larium	Larius (a lake in Gallia Cisalpina + of Larius)
+Lares	Lares#2 (a city in Numidia)
+Laris	Lares#2 (a city in Numidia)
+Laris	Lares#1 (tutelar deities)
+Laris	Lar#2 (a praenomen of Etruscan origin)
+Laris	Lara (daughter of the river-god Almo)
+
+largus	largus#1 (abundant, copious, plentiful, large, much)
+Largus	Largus#2 (a Roman surname)
+
+Lateranus	Lateranus#1 (a family name in the gens Claudia, Sextia, and Plautia)
+Lateranus	Lateranus#2 (the god of the hearth)
+
+laterensis	laterensis#1 (belonging to the side + an attendant)
+Laterensis	Laterensis#2 (a Roman surname in the gens Juventia)
+
+Latinus	Latinus#1 (belonging to Latium)
+Latinus	Latinus#2 (a king of the Laurentians)
+Latium	Latium (a country of Italy)
+Latius	Latium (belonging to Latium)
+Latine	Latinae (in Latin) 
+Latine	Latium (the Latin language) 
+Latine	Latinus#1 (belonging to Latium) 
+Latine	Latinus#2 (a king of the Laurentians)
+Latini	Latinae (the inhabitants of Latium)
+Latini	Latium (the Latin language) 
+Latini	Latinus#1 (belonging to Latium) 
+Latini	Latinus#2 (a king of the Laurentians)
+Latini	Latinius (a Roman proper name)
+Latinae	Latinae (the festival of the allied Latins)
+Latinae	Latinus#1 (belonging to Latium)
+Latinum	Latium (the Latin language)
+Latinum	Latinae (the inhabitants of Latium)
+Latinum	Latinus#1 (belonging to Latium)
+Latinum	Latinus#2 (a king of the Laurentians)
+Latinienses	Latium (the Latin people)
+Latinienses	Latiniensis (belonging to Latium + a Roman surname)
+Latialiter	Latialis (in the Latin manner + belonging to Latium)
+Latiariter	Latialis (in the Latin manner + belonging to Latium)
+Latiar	Latialis (the festival of Jupiter Latiaris)
+Latiniensis	Latiniensis (belonging to Latium + a Roman surname)
+Latiniensis	Latium (belonging to Latium)
+Latialis	Latialis (belonging to Latium)
+Latiaris	Latialis (belonging to Latium)
+
+latro	latro#1 (to bark)
+latro	latro#2 (a hired servant, hireling, mercenary, satellite, bodyguard)
+Latro	Latro#3 (a Roman surname)
+
+leaena	leaena#1 (a lioness)
+Leaena	Leaena#2 (an heroic courtesan of Athens, in the time of Harmodius and Aristogiton)
+
+ladanum	ladanum (the resinous juice obtained from the shrub lada)
+ledanum	ladanum (spelling for 'ladanum')
+lada	lada (a shrub in Cyprus from which a resin was obtained)
+leda	leda#2 (spelling for lada)
+ledon	leda#2 (spelling for lada)
+Lede	Ledus (a river in Gallia Narbonensis)
+Lede	Leda#1 (the daughter of Thestius)
+Leda	Leda#1 (the daughter of Thestius)
+Leda	Ledas (the name of a man)
+
+Lenaeus	Lenaeus#1 (Bacchic + Bacchus)
+Lenaeus	Lenaeus#2 (a surname of a king)
+
+lento	lento#1 (to make flexible, to bend)
+lento	lentus (pliant)
+Lento	Lento#2 (a Roman surname)
+
+lentulus	lentulus#1 (rather slow)
+Lentulus	Lentulus#2 (a surname of a distinguished family in the gens Cornelia)
+
+#leo	leo#1 (the root of deleo)
+leo	leo#2 (a lion)
+leo	leus (smooth)
+Leo	Leo#3 (the priests of the Persian god Mithras)
+
+leoninus	leoninus#1 (belonging to a lion, a lion's)
+Leoninus	Leoninus#2 (belonging to the emperor Leo, Leonine)
+
+Leontini	Leontini (a very ancient town on the eastern side of Sicily + the inhabitants of Leontini)
+Leontinus	Leontini (belonging to Leontini)
+
+lepidus	lepidus#1 (pleasant, agreeable, charming, fine, elegant, neat)
+Lepidus	Lepidus#2 (a surname in the gens Aemilia)
+
+leuca	leuca#1 (a Gallic mile of 1500 Roman paces)
+leuca	leuce#1 (the spotted dead-nettle)
+leuce	leuce#1 (the spotted dead-nettle)
+Leuca	Leuca#2 (a town in Calabria, near the Iapygian promontory)
+Leuca	Leuce#2 (the name of several islands)
+Leuce	Leuce#2 (the name of several islands)
+Leuce	Leucus (collec. for a people of Gallia Belgica)
+
+leucaspis	leucaspis#1 (armed with a white shield)
+Leucaspis	Leucaspis#2 (one of the companions of Aeneas)
+
+Libanus	Libanus#1 (Mount Lebanon, in Syria + of Lebanon)
+Libanus	Libanus#2 (the name of a slave)
+
+liber	liber#1 (that acts according to his own will and pleasure, is his own master; free, unrestricted, unrestrained, unimpeded, unshackled; independent, frank, open, bold)
+liber	liber#2 (a child)
+Liber	Liber#3 (an old Italian deity, who presided over planting and fructification)
+liber	liber#4 (the inner bark or rind of a tree)
+
+liberalis	liberalis#1 (belonging to freedom, relating to the freeborn condition of a man)
+Liberalis	Liberalis#2 (belonging to Liber or Bacchus)
+
+liber	libo#1 (to take a little from any thing)
+liber	liber#1 (that acts according to his own will and pleasure)
+liber	liber#2 (a child)
+liber	liber#4 (the inner bark or rind of a tree)
+libri	liber#4 (the inner bark or rind of a tree)
+liberum	liber#1 (that acts according to his own will and pleasure)
+liberum	liber#2 (a child)
+liberorum	liber#1 (that acts according to his own will and pleasure)
+liberorum	liber#2 (a child)
+Liber	Liber#3 (an old Italian deity)
+libo	libo#1 (to take a little from any thing)
+libo	libum (a cake)
+Libo	Libo#2 (a Roman surname in the gens Marcia and Scribonia)
+libus	libum (spelling for 'libus')
+
+Liburnus	Liburni (a Liburnian + belonging to the Liburnians)
+Liburnus	Liburnus#1 (a Liburnian + belonging to the Liburnians)
+Liburni	Liburni (the Liburnians)
+Liburni	Liburnus#1 (belonging to the Liburnians)
+Liburni	Liburnus#2 (the god of lustful enjoyment)
+Liburnus	Liburnus#2 (the god of lustful enjoyment)
+Liburna	Liburni (a light, fast-sailing vessel)
+Liburna	Liburnus#1 (belonging to the Liburnians)
+Liburnia	Liburni (the country of Liburnia)
+Liburnicus	Liburni (Liburnic, Liburnian)
+Liburnica	Liburni (anothere spelloing for 'Liburna')
+
+licinus	licinus#1 (bent or turned upward)
+Licinus	Licinus#2 (a surname in the gens Fabia and Porcia)
+
+limus	limus#1 (sidelong, askew, aslant, askance)
+limus	limus#2 (slime, mud, mire)
+limus	limus#3 (a girdle or apron trimmed with purple)
+Limus	Limus#4 (the god of oblique glances)
+
+Lipara	Lipara#1 (one of the Aeolian isles, to the north of Sicily, with a city of the same name)
+lipara	lipara#2 (an emollient plaster)
+Liparis	Lipara#1 (one of the Aeolian isles, to the north of Sicily, with a city of the same name + the Liparian Islands)
+Liparis	Liparis#1 (a Cilician river near the town of Soli)
+liparis	liparis#2 (a false reading for lelepris)
+liparis	lipara#2 (an emollient plaster)
+Liparaeus	Lipara#1 (Liparaean)
+Liparaei	Lipara#1 (the Liparaeans)
+Liparensis	Lipara#1 (Liparaean)
+Liparenses	Lipara#1 (spelling for 'Liparani')
+Liparitani	Lipara#1 (the Liparitans)
+Liparitani	Liparitanus (Liparitan)
+
+locusta	locusta#1 (a marine shell-fish, a lobster)
+Locusta	Locusta#2 (a woman famous for her skill in poisons, in the time of Nero and Claudius)
+Locusta	Locusta#3 (name of a man)
+
+Lucensis Lucensis (of Luca#1)
+Luca	Luca#1 (a city of Etruria)
+Luca	Luca#2 (Lucanian)
+Lucas	Luca#2 (Lucanian)
+Lucas	Luca#1 (a city of Etruria)
+Lucas	Lucas
+Luca	Lucas
+
+Lucius	Lucius#1 (a Roman praenomen)
+lucius	lucius#2 (a fish)
+
+lucus	lucus#1 (a wood, grove or thicket of trees sacred to a deity)
+Lucus	Lucus#2 (Lucus, a city of the Vocontii)
+lucus	lucus#3 (light)
+
+luna	luno (to bend like a half-moon)
+luna	luna#1 (the moon)
+Luna	Luna#2 (a city of Etruria)
+
+lurco	lurco#1 (to eat voraciously, to devour)
+lurco	lurco#2 (a gormandizer, glutton)
+Lurco	Lurco#3 (a Roman surname)
+
+luscinia	luscinia (a nightingale)
+luscinia	luscinius#2 (applied by Commodus to persons one of whose eyes he had destroyed)
+luscini	luscinus#1 (one-eyed persons)
+luscini	luscinius#1 (a nightingale)
+luscini	luscinius#2 (applied by Commodus to persons one of whose eyes he had destroyed)
+luscini	luscinus#3 (spelling for 'luscinia')
+luscinus	luscinus#1 (one-eyed)
+Luscinus	Luscinus#2 (a Roman surname)
+luscinus	luscinus#3 (spelling for 'luscinia')
+luscinius	luscinus#1 (one-eyed)
+luscinius	luscinius#1 (a nightingale)
+luscinius	luscinius#2 (applied by Commodus to persons one of whose eyes he had destroyed)
+
+luter	luter (a hand-basin)
+luter	luto#1 (to bedaub with mud)
+luter	luto#2 (to pay)
+
+Lycaon	Lycaon#1 (a king of Arcadia, father of Callisto)
+lycaon	lycaon#2 (an animal of the wolf kind)
+
+Lycia	Lycium#1 (a kind of thorn)
+Lycia	Lycium#2 (a gymnasium very near Athens, in which Aristotle taught)
+Lycia	Lycia (a country of Asia Minor)
+Lucia	Lycia (a country of Asia Minor)
+Lycii	Lycia (the Lycians)
+Lycii	Lycium#1 (a kind of thorn)
+Lycii	Lycium#2 (a gymnasium very near Athens, in which Aristotle taught)
+Lycium	Lycium#1 (a kind of thorn)
+Lycium	Lycia (a kind of thorn)
+Lycius	Lycium#1 (Lycian)
+Lycium	Lycium#2 (a gymnasium very near Athens, in which Aristotle taught)
+Lyceum	Lycium#2 (a gymnasium very near Athens, in which Aristotle taught)
+
+lygos	lygos#1 (a plant, the chaste tree, agnus castus, Abraham's balm)
+Lygos	Lygos#2 (an ancient name of Byzantium)
+
+lysimachia	lysimachia#1 (a plant)
+Lysimachia	Lysimachia#2 (a city in Thrace)
+
+lysis	lysis#1 (a loosening, rupture)
+Lysis	Lysis#2 (a small river in Asia Minor)
+Lysis	Lysis#3 (a Pythagorean of Tarentum, instructor of Epaminondas)
+
+Macae	Macae#1 (a people in the north-eastern part of Arabia Felix)
+Macae	Macae#2 (a people of Africa in the regio Syrtica)
+
+machaera	machaera#1 (a sword)
+Machaera	Machaera#2 (an auctioneer)
+
+macula	maculo (to make spotted)
+macula	macula#1 (a spot, mark, stain)
+Macula	Macula#2 (a Roman surname)
+
+Maecius	Maecius#1 (the name of a Roman gens)
+Maecius	Maecius#2 (the name of a place in Latium)
+
+magnus	magnus#1 (great, large)
+Magnus	Magnus#2 (a Roman surname)
+
+maia	majus (an old word for 'magnus')
+maia	maia#1 (a large kind of crab)
+Maia	Maia#2 (Daughter of Atlas and Pleione)
+Maia	Maius (the month of May)
+
+Mamers	Mamers (the Oscan name for Mars)
+Mamertini	Mamers (the Mamertines)
+Mamertini	Mamertinus#1 (consul)
+Mamertini	Mamertinus#2 (belonging to the Mamertines)
+Mamertinus	Mamertinus#1 (consul)
+Mamertinus	Mamertinus#2 (belonging to the Mamertines)
+
+mammula	mammula#1 (a little breast or teat)
+Mammula	Mammula#2 (a Roman proper name)
+
+manale	manalis#1 (a ewer)
+manalis	manalis#1 (flowing)
+Manalis	Manalis#2 (belonging to the Manes)
+
+Mania	Mania#1 (the mother of the Lares)
+mania	mania#2 (madness)
+Mania	Mania#3 (a Roman prænomen)
+Manius	Manius (a Roman prænomen)
+
+manto	mantum (a Spanish cloak)
+manto	manto#1 (to stay, remain, wait)
+Manto	Manto#2 (the daughter of Tiresias)
+Manto	Mantus (the Etruscan Pluto)
+
+Marathus	Marathus#1 (a favorite of Tibullus)
+Marathus	Marathus#2 (spelling for Marathos)
+
+Marcianus	Marcianus#1 (belonging to a Marcius + pertaining to Marcus)
+Marcianus	Marcianus#2 (a freedman and steward of Cicero)
+Marcianus	Marcianus#3 (spelling for 'Martianus')
+Martianus	Martianus (a Roman jurist)
+
+marcus	marcus#1 (a large hammer)
+Marcus	Marcus#2 (a Roman praenomen)
+
+Mareum	Marium (spelling for 'Marium')
+Maria	Marium (an ancient town of Cyprus)
+Maria	Maria#1 (a female proper name)
+Maria	Maria#2 (a town of the Parthians)
+Maria	Marius (pertaining to C. Marius)
+
+Maro	Marus (a river in Dacia)
+Maro	Maro#1 (the family name of the poet P. Vergilius)
+Maro	Maro#2 (a mountain in Sicily, near the river Himera)
+Maro	Maro#3 (the companion and instructor of the youthful Bacchus)
+
+Marpessus	Marpessus#1 (a town in the Troas, on Mount Ida)
+Marpessus	Marpessus#2 (a mountain in the island of Paros)
+
+Marrubius	Marrubium#2 (belonging to Marrubium#2)
+marrubium	marrubium#1 (the plant horehound)
+Marrubium	Marrubium#2 (a city in Latium, the capital of the Marsians)
+Marruvii	Marrubium#2 (the inhabitants of Marrubium)
+Marruvini	Marrubium#2 (spelling for 'Marruvi')
+
+Marsi	Marsi (a people in Latium)
+Marsi	Marsus#1 (belonging to the Marsi)
+Marsi	Marsus#2 (an epigrammatic poet in the time of Augustus)
+Marsus	Marsus#1 (belonging to the Marsi)
+Marsus	Marsus#2 (an epigrammatic poet in the time of Augustus)
+
+Marsyas	Marsyas#1 (a satyr who challenged Apollo to a trial of skill on the flute)
+Marsyas	Marsyas#2 (the name of several rivers)
+
+Mars	Mars (the god)
+Martius	Martius (belonging to Mars)
+Martius	Mars (March)
+Mavortius Mavortius (belonging to Mars)
+Martiales	Mars (the soldiers of the legio Martia)
+Martiales	Martialis#1 (belonging to the legio Martia)
+Martiales	Martialis#2 (the poet)
+Martialis	Mars (a priest of Mars)
+Martialis	Martialis#1 (belonging to the legio Martia)
+Martialis	Martialis#2 (the poet)
+Mavors	Mavors (old and poetic name for Mars)
+Mavortius	Mavortius (Meleager, son of Mavors)
+Mavortius	Mavors (belonging to Mars)
+
+massa	masso#1 (to chew)
+massa	massa#1 (that which adheres together like dough, a lump, mass)
+Massa	Massa#2 (a Roman surname)
+
+maternus	maternus#1 (belonging to a mother, maternal)
+Maternus	Maternus#2 (a Roman surname)
+
+matrona	matrona#1 (a married woman, wife, matron)
+Matrona	Matrona#2 (a river in Gaul)
+
+Medica	Medica#1 (an excellent kind of clover introduced from Media)
+Medica	Medicus#2 (Median)
+Medica	Maedi (the Maedian territory)
+medica	medica#2 (a female physician)
+medica	medico (to heal)
+medica	medicus#1 (pertaining to healing + medicinal herbs)
+Medea	Medea
+Mede	Medea (alternative nominative for 'Medea')
+Mede	Medus#1 (Median)
+Mede	Medus#2 (son of Aegeus and Medea)
+Mede	Medus#3 (a small river of Persia)
+Media	Medea (spelling for 'Medea')
+Medeis	Medea (Medean)
+Media	Medi (a country lying between Armenia, Parthia, Hyrcania, and Assyria)
+Medi	Medi (the Medes)
+Maedi	Maedi (a Thracian people on the borders of Macedonia)
+Medi	Maedi (spelling for Maedi)
+Medi	Medus#1 (Median)
+Medi	Medus#2 (son of Aegeus and Medea)
+Medi	Medus#3 (a small river of Persia)
+Medus	Medus#1 (Median)
+Medus	Medus#2 (son of Aegeus and Medea)
+Medus	Medus#3 (a small river of Persia)
+Maedicus	Maedi (belonging to the Maedi)
+Medicus	Maedi (spelling for 'Maedicus')
+Medicus	Medicus#2 (Median)
+Medicus	Medi (a surname of the emperor Verus)
+
+medion	medion#1 (a medicinal plant)
+Medion	Medion#2 (a city of Acarnania)
+
+Megara	Megara#1 (a Numantine)
+Megara	Megara#2 (a city in the country of Megaris + a city of Sicily)
+Megara	Megara#3 (wife of Hercules, whom, in his madness, he destroyed, together with her children)
+Megara	Megarus (belonging to the city of Megara)
+Megareus	Megareus#1 (belonging to the city of Megara)
+Megareus	Megareus#3 (a son of Neptune)
+Megarea	Megarea#2 (spelling for 'Megara')
+Megarea	Megareus#1 (belonging to the city of Megara)
+Megareius	Megareius#1 (belonging to the city of Megara)
+Megareius	Megareius#2 (belonging to the city of Megara)
+Megareius	Megareus#3 (belonging to Megareus)
+Megareius	Megareus#1 (belonging to the city of Megara)
+
+meles	meles#1 (a marten or badger)
+Meles	Meles#2 (a river in Ionia, near Smyrna, on the banks of which, it is said, Homer was born)
+Meles	Meles#3 (plur., a village in the Samnite territory)
+
+Meliboeensis	Meliboea (a maritime town of Thessaly)
+Meliboeus	Meliboeus#1 (name of a shepherd)
+Meliboeus	Meliboeus#2 (Meliboean)
+
+melica	melica (a kind of vessel)
+melica	melicus#1 (a lyric poem)
+melicus	melicus#1 (musical, tuneful, melodious)
+Melicus	Melicus#2 (Median)
+
+melinus	melinus#1 (belonging to the marten)
+melinus	melinus#2 (belonging to honey)
+melinus	melinus#3 (belonging to quinces)
+Melinus	Melinus#4 (belonging to the island of Melos)
+melinum	melinum#1 (oleum)
+Melinum	Melinum#2 (a kind of white color)
+Melinum	Melinus#4 (belonging to the island of Melos)
+melinum	melinus#1 (belonging to the marten)
+melinum	melinus#2 (belonging to honey)
+melinum	melinus#3 (belonging to quinces)
+Melius	Melius#2 (belonging to the isle of Melos)
+melius	bonus (better)
+melos	melos#1 (a tune)
+Melos	Melos#2 (an island in the Aegean Sea)
+Melo	Melo#1 (old Latin name for the Nile)
+Melo	Melos#2 (an island in the Aegean Sea)
+melo	melo#2 (an apple-shaped melon)
+melo	melos#1 (a tune)
+
+mella	mellum (a dog's collar)
+mella	mello (to make or collect honey)
+mella	mel (honey)
+mella	mella#1 (honey-water)
+Mella	Mella#2 (a river in Upper Italy, near Brescia)
+Mella	Mella#3 (a Roman surname in the gens Annaea)
+
+memor	memor#1 (mindful of)
+Memor	Memor#2 (a Roman surname)
+
+maena	maena (a kind of small sea-fish)
+mena	mena#1 (spelling for 'maena')
+Mena	Mena#2 (daughter of Jupiter)
+Mena	Mena#3 (a Roman surname)
+Mena	Menas (a freedman of Sextus Pompeius)
+
+Menaeus	Menaeus#1 (belonging to the city of Menae, in Sicily)
+menaeus	menaeus#2 (monthly)
+
+mento	mentum#1 (the chin of persons and animals)
+mento	mento#1 (one who has a long chin, long-chin)
+Mento	Mento#2 (a Roman proper name)
+
+merenda mereo (to deserve)
+merenda mereor (deponent form of 'mereo')
+merenda	merendo (to take an afternoon luncheon)
+merenda	merenda#1 (an afternoon luncheon)
+Merenda	Merenda#2 (a Roman surname)
+
+Merops	Merops#1 (a king of Ethiopia, husband of Clymene, and reputed to be the father of Phaethon)
+merops	merops#2 (a bird that devours bees)
+
+merula	merula#1 (a blackbird, ousel, merle)
+Merula	Merula#2 (a Roman surname)
+Merula	Merula#3 (a river of Liguria)
+
+metropolis	metropolis#1 (a city from which other cities have been colonized, a mother-city)
+Metropolis	Metropolis#2 (the proper name of several cities)
+
+metropolitanus	metropolitanus#1 (belonging to a metropolis)
+Metropolitanus	metropolitanus#1 (the bishop of a metropolitan church)
+Metropolitanus	Metropolitanus#2 (belonging to the city of Metropolis)
+
+Miletus	Miletus#1 (the father of Caunus and Byblis)
+Miletus	Miletus#2 (the city of Miletus, in Caria, the birthplace of Thales)
+
+Milo	Milo#1 (a celebrated athlete of Crotona)
+Milo	Milo#2 (a name assumed by T. Annius)
+
+minio	minius#1 (of cinnabar)
+minio	minium (native cinnabar)
+minio	minio#1 (to color with red-lead)
+Minio	Minio#2 (a small river in Etruria)
+Minio	Minius#2 (a river in Lusitania)
+
+minius	minius#1 (of cinnabar)
+Minius	Minius#2 (a river in Lusitania)
+
+mnester	mnester#1 (a wooer, suitor)
+Mnester	Mnester#2 (a Roman surname)
+
+mira	miro (to wonder)
+mira	mirus (wonders)
+mira	moera#1 (a part, a degree, in the astronomical sense)	
+moera	moera#1 (a part, a degree, in the astronomical sense)
+Moera	Moera#2 (the name of one of the Fates)
+Moeris	Moera#2 (the name of one of the Fates)
+Moeris	Moeris#1 (Moeris, a king of Egypt in the fifteenth century)
+Moeris	Moeris#2 (the Lake Moeris, in Egypt)
+Moeris	Moeris#3 (the name of a shepherd and sorcerer)
+
+molliculus	molliculus#1 (soft, tender, delicate)
+Molliculus	Molliculus#2 (a Roman surname)
+
+molo	molo#1 (to grind)
+Molo	Molo#2 (a surname of Apollonius of Rhodes)
+Molo	Molus#1 (spelling for 'Tmolus')
+Molo	Molus#2 (the father of Meriones)
+Molos	Molus#2 (the father of Meriones)
+Molos	Molus#1 (spelling for 'Tmolus')
+Molus	Molus#2 (the father of Meriones)
+Molus	Molus#1 (spelling for 'Tmolus')
+
+Molossus	Molossus#1 (belonging to the Molossi + a Molossian hound)
+Molossus	Molossus#2 (son of Pyrrhus, king of Epirus, and Andromache)
+
+montanus	montanus#1 (belonging to a mountain, mountain-)
+Montanus	Montanus#2 (a Roman surname)
+
+mulio	mulio#1 (a mule-keeper, a mule-driver, muleteer; a mule-dealer, mule-hirer)
+Mulio	Mulio#2 (a Roman surname)
+
+murcus	murcus#1 (a coward, who, to escape military service, cuts off his thumb)
+Murcus	Murcus#2 (a Roman surname)
+
+Murena	Murena#1 (the murena)
+Murena	Murena#2 (a Roman surname in the)
+
+Musa	Musa#1 (a muse)
+Musa	Musa#2 (a Roman surname)
+
+Musaeus	Musaeus#1 (spelling for Museus)
+Musaeus	Musaeus#2 (a famous Greek poet in the time of Orpheus)
+Museus	Museus (belonging to the muses)
+
+musca	musca#1 (a fly)
+Musca	Musca#2 (a Roman surname)
+
+myrice	myrice#1 (the tamarisk, a kind of shrub)
+Myrice	Myrice#2 (a nymph, from whom Hannibal's wife Imilce was said to be descended)
+
+Myron	Myron#1 (a celebrated sculptor of Eleutherae in Attica)
+myron	myron#2 (an ointment, unguent)
+
+naevius	naevius#1 (that has a mole)
+Naevius	Naevius#2 (name of a Roman + belonging to a Naevius)
+Naevianus	Naevianus (belonging to the poel Naevius)
+
+nana	nana#1 (a female dwarf)
+Nana	Nana#2 (a nymph, daughter of Sangarius and mother of Atys)
+
+narcissus	narcissus#1 (the narcissus)
+Narcissus	Narcissus#2 (Narcissus)
+
+nasica	nasica#1 (who has a large)
+Nasica	Nasica#2 (a surname in the Scipio family)
+
+natale	natalis#1 (the place of birth)
+natalis	natalis#1 (belonging to one's birth + a birthday)
+natales	natalis#1 (birth)
+Natalis	Natalis#2 (a Roman surname)
+
+Nauplius	Nauplius#1 (a son of Neptune and Amymone)
+nauplius	nauplius#2 (a kind of shell-fish)
+
+#Nazareth	Nazareth (a city in Palestine)
+Nazara	Nazareth (spelling for 'Nazareth')
+Nazarenus	Nazareth (belonging to Nazareth + the Nazarene)
+Nazarus	Nazareth (belonging to Nazareth)
+Nazaraeus	Nazaraeus#1 (a Nazarite, a man set apart to the service of God)
+Nazaraeus	Nazaraeus#2 (a Nazarene)
+
+Nemea	Nemea#1 (a city in Argolis)
+Nemea	Nemea#2 (a river flowing between the territories of Corinth and Sicyon + the Nemean games)
+Nemea	Nemeus (Nemean)
+Nemee	Nemea#1 (spelling for Nemea#1)
+Nemee	Nemeus (Nemean)
+Nemaeus	Nemea#1 (Nemean)
+Nemeaeus	Nemea#1 (Nemean)
+Nemeus	Nemeus (Nemean)
+nemen	Nemea#2 (a yarn)
+
+Nemesis	Nemesa (a river in Belgic Gaul)
+Nemesis	Nemesis#1 (the goddess of justice)
+Nemesis	Nemesis#2 (a mistress of Tibullus)
+
+neo	neo#1 (to spin)
+Neo	Neo#2 (a male proper name)
+
+Nepeta	Nepeta#1 (a city in Etruria)
+nepeta	nepeta#2 (a plant, Italian catnip)
+
+nepos	nepos#1 (a grandson, son's)
+Nepos	Nepos#2 (a surname in the)
+
+nepotilla	nepotilla#1 (a little granddaughter)
+Nepotilla	Nepotilla#2 (a Roman surname)
+
+Nereidos	Nereis#1 (a Nereid)
+Nereis	Nereis#1 (a Nereid)
+Nereis	Nereis#2 (one of the daughters of Priam)
+Nereis	Nereis#3 (a daughter of Pyrrhus)
+Nereis	Nereus (the son of Oceanus and Tethys)
+Nereus	Nereus (the son of Oceanus and Tethys)
+Nereius	Nereius (belonging to Nereus)
+Nerine	Nerine (a daughter of Nereus)
+Nerinus	Nerine (belonging to Nereus)
+
+nico	nico#1 (to beckon)
+Nico	Nico#2 (a physician)
+
+nigellus	nigellus#1 (somewhat black, dark)
+Nigellus	Nigellus#2 (a Roman surname)
+
+#nisus	nisus#1 (part. from nitor)
+nisus	nitor#1 (to bear or rest upon something)
+nisus	nisus#2 (a pressing)
+Nisus	Nisus#3 (a king of Megara)
+
+noctua	noctua#1 (a night-owl, an owl)
+Noctua	Noctua#2 (a Roman surname)
+
+Nola	Nola#1 (the Unwilling)
+nola	nola#2 (a little bell)
+Nola	Nola#3 (a city of remote antiquity in Campania)
+
+nona	nonus (the ninth)
+nona	nona#1 (the ninth hour of the day)
+nono	nonus (ningthly)
+Nona	Nona#2 (one of the three Fates)
+
+#notus	notus#1 (part. of nosco)
+notus	nosco (to get a knowledge of)
+Notus	Notus#2 (the south wind)
+
+novellus	novellus#1 (young, new)
+Novellus	Novellus#2 (a Roman surname)
+
+nucula	nucula#1 (a small nut)
+Nucula	Nucula#2 (a Roman proper name)
+
+numerius	numerius#1 (belonging to number)
+Numerius	Numerius#2 (a Roman)
+Numerius	Numerius#3 (the name of a Roman)
+Numerianus	Numerius#3 (belonging to a Numerius)
+
+Numicus	Numicius#1 (spelling for 'Numicius#1')
+Numicius	Numicius#1 (a small river in Latium)
+Numicius	Numicius#2 (the name of a Roman)
+
+Nymphaeum	Nymphaeus (a river in Latium)
+Nymphaeum	Nymphaeum#1 (a promontory and seaport in Illyria, on the borders of Macedonia)
+nymphaeum	nymphaeum#2 (spelling for 'nympheum')
+
+Nysa	Nysa#1 (the nurse of Bacchus)
+Nysa	Nysa#2 (the name of several cities)
+
+obba	obba#1 (a beaker, noggin; a decanter)
+Obba	Obba#2 (a city in Africa near Carthage)
+
+#obsequens	obsequens#1 (part from obsequor)
+Obsequens	Obsequens#2 (a Roman proper name)
+
+ocrea	ocrea#1 (x greave)
+Ocrea	Ocrea#2 (a Roman surname)
+
+Oeneus	Oeneus#2 (Oenean)
+Oeneus	Oeneus#1 (a king of Aetolia or Calydon)
+Oeneis	Oeneus#1 (the daughter of Oeneus)
+Oeneis	Oeneus#2 (Oenean)
+Oeneius Oeneus#1 (Oenean)
+Oeneius Oeneus#2 (Oenean)
+Oenides Oenides (a male descendant of Oeneus)
+
+oenus	oenus#1 (an ancient form for 'unus')
+Oenus	Oenus#2 (a river in Laconia which flows into the Eurotas)
+Oenunta Oenus#2 (a river in Laconia which flows into the Eurotas)
+
+Oenusa	Oenusa#1 (an island near Chios)
+Oenusae	Oenusae#2 (three islands near Messenia)
+Oenusae Oenusa#1 (an island near Chios)
+
+ofella	ofella#1 (a bite)
+Ofella	Ofella#2 (a Roman surname)
+
+Olenius	Olenius#1 (poet. for Achaian)
+Olenius	Olenius#2 (a centurion under Drusus)
+Olenie	Olenie (poet. for Achaian)
+Olenie	Olenius#1 (poet. for Achaian)
+Olenie	Olenius#2 (a centurion under Drusus)
+Olenides	Olenides (the son of Olenus)
+Olenos	Olenos#1 (the husband of Lethaea)
+Olenus	Olenos#1 (the husband of Lethaea)
+Olenos	Olenos#2 (an ancient city in Achaia)
+Olenus	Olenos#2 (an ancient city in Achaia)
+
+Olympias	Olympia 
+Olympias	Olympius (Olympic)
+Olympias	Olympias#1 (the period of four years that elapsed between the Olympic games)
+Olympias	Olympias#2 (the daughter of Neoptolemus)
+Olympias	Olympias#3 (a north-west wind)
+Olympus	Olympus#1 (the name of several mountains)
+Olimpus	Olympus#1 (spelling for 'Olympus#1')
+Olimpos	Olympus#1 (spelling for 'Olympus#1')
+Olympus	Olympus#2 (a city in Cilicia)
+Olympus	Olympus#3 (a famous fluteplayer)
+Olympiades	Olympiades (the Muses)
+Olympiades	Olympias#1 (the period of four years that elapsed between the Olympic games)
+Olympiades	Olympias#2 (the daughter of Neoptolemus)
+Olympiades	Olympias#3 (a north-west wind)
+Olympicus	Olympicus (Olympic)
+Olympius	Olympius (Olympic)
+Olympia	Olympia (a sacred region in Elis Pisatis + the Olympic games held every four years at Olympia)
+Olympia	Olympius (Olympic)
+Olumpus	Olympia (spelling for 'Olympia')
+Olympiacus	Olympia (Olympic)
+Olympianus	Olympia (Olympic)
+Olympius	Olympia (an appellation bestowed on distinguished men by the Greeks and Romans)
+Olympium	Olympia (the temple of the Olympic Jupiter)
+Olympium	Olympius (Olympic)
+Olympieum	Olympieum (a temple of the Olympic Jupiter)
+
+Onchestus	Onchestus#1 (a city of Boeotia)
+Onchestus	Onchestus#2 (a river in Thessaly)
+
+ophion	ophion#1 (a fabulous animal of Sardinia)
+Ophion	Ophion#2 (a proper name)
+
+ophites	ophites#1 (a kind of marble spotted like a snake)
+Ophites	Ophites#2 (a son of Hercules)
+
+ophiusa	ophiusa#1 (a magical herb growing on the island of Elephantine)
+Ophiusa	Ophiusa#2 (an ancient name of Cyprus)
+
+Opis	Opis#1 (a nymph in the train of Diana)
+Opis	Opis#2 (spelling for 2. Ops)
+
+ops	ops#1 (powert)
+Ops	Ops#2 (the goddess of plenty)
+Opis	Ops#2 (the goddess of plenty)
+Opis	Opis#2 (alternative nominative singluar for 'Ops#2')
+
+optimus bonus (best)
+
+opus	opus#1 (work)
+Opus	Opus#3 (a town of Locris)
+Opuntius	Opuntius (Opuntian)
+Opuntii Opus#3 (the inhabitants of Opus)
+Opuntii	Opuntius (Opuntian)
+
+ora	orum (spelling for 'aurum')
+ora	os#1 (the mouth)
+ora	oro (to plead)
+ora	ora#1 (the extremity)
+Ora	Ora#2 (the name of Hersilia)
+Hora	Ora#2 (spelling for 'Ora#2')
+Hora	Hora#2 (the wife of Quirinus)
+
+orca	orca#1 (a kind of whale)
+Orca	Orca#2 (a Roman surname)
+
+Orchomenus	Orchomenus (son of Athamas and Themisto)
+Orchomenos	Orchomenus (spelling for Orchomenus)
+Orchomenon	Orchomenus (the son of Athamas and Themisto)
+Orchomenum	Orchomenus (spelling for Orchomenus)
+
+origo	origo#1 (earliest beginning)
+Origo	Origo#2 (a female proper name)
+
+orneus	orneus#1 (of the wild mountain-ash)
+Orneus	Orneus#2 (a Centaur at the wedding of Pirithous)
+
+ortygia	ortygia#1 (a quail)
+Ortygia	Ortygia#2 (another name for the isle of Delos)
+Ortygie	Ortygia#2 (spelling for 'Ortygia#2')
+Ortygius	Ortygia#2 (Ortygian)
+
+orum	orum (spelling for 'aurum')
+
+otus	otus#1 (a kind of owl)
+Otus	Otus#2 (the name of a giant)
+
+paenula	paenula#1 (a woollen outer garment covering the whole body)
+Paenula	Paenula#2 (a Roman surname)
+
+paeonia	paeonia#1 (the peony)
+Paeonia	Paeonia#2 (the country of the Poeonians)
+Paeonia	Paeonius#1 (belonging to Poeonia)
+Paeonia	Paeonius#2 (belonging to the god of medicine)
+Paeonis	Paeonis (a female Poeonian)
+Paeonis	Paeones (a people of Macedonia)
+paeon	paeon (a metrical foot of four syllables ˘˘˘¯)
+Paeonius	Paeonius#1 (belonging to Poeonia)
+Paeonius	Paeonius#2 (belonging to the god of medicine)
+Paeones	Paeones (a people of Macedonia)
+Paeon	Paeones (a Poeonian)
+
+paetus	paetus#1 (having leering eyes)
+Paetus	Paetus#2 (a surname)
+
+Palica	Palica (a town in Sicily)
+Palici	Palici#1 (the sons of Jupiter and the nymph Thalia or Aetna)
+Palicus	Palici#1 (one of the Palici#1)
+Palici	Palici#2 (spelling for Palica)
+
+Palladium	Palladium (the image or statue of Pallas)
+Palladium	Palladius#1 (belonging to Pallas)
+Palladium	Palladius#2 (a Roman surname)
+Palladius	Palladius#1 (belonging to Pallas)
+Palladius	Palladius#2 (a Roman surname)
+Pallas	Pallas#1 (Surname of the Greek goddess Athene)
+Pallas	Pallas#2 (the name of several mythic and historical personages)
+
+panax	panax (spelling for 'panacea')
+panaces	panax (spelling for 'panacea')
+panaces	panacea#1 (spelling for 'panacea')
+panacea	panacea#1 (a herb to which was ascribed the power of healing all diseases)
+Panacea	Panacea#2 (one of the four daughters of Aesculapius)
+Panacea	Panacea#3 (a city in Crete)
+
+Panda	Panda#1 (a Roman goddess)
+Panda	Panda#2 (a Scythian river)
+
+pandecter	pandecter (the title of the fourth book of the work of Apicius)
+
+Panopea	Panope#1 (a sea-nymph)
+Panope	Panope#1 (a sea-nymph)
+Panope	Panope#2 (a town in the south of Phocis)
+
+pansus	"" (pansa#1 is fem only even though it's an adjective)
+pansa	pansa#1 (broad-footed)
+Pansa	Pansa#2 (a Roman surname)
+
+panthera	panthera#1 (a panther)
+panthera	panthera#2 (an entire capture)
+panther	panther#1 (spelling for 'panthera#1')
+panther	panther#2 (a hunting-net for catching wild beasts)
+
+Paphus	Paphos#1 (son of Pygmalion)
+Paphos	Paphos#1 (alternative nominative for Paphos#1)
+Paphus	Paphos#2 (son of Pygmalion)
+Paphos	Paphos#2 (alternative nominative for Pahos#2)
+Paphiacus	Paphiacus (Paphian)
+Paphie	Paphiacus (the Paphian)
+Paphius	Paphiacus (Paphian)
+Paphii	Paphos#2 (the inhabitants of Paphos)
+Paphii	Paphiacus (Paphian)
+
+parma	parma#1 (a small)
+Parma	Parma#2 (the city of Parma)
+
+parra	parra#1 (the common)
+Parra	Parra#2 (a Roman surname)
+
+Parrasius	Parrhasius#2 (spelling for Parrhasius#2)
+Parrhasius	Parrhasius#1 (Arcadian)
+Parrhasia	Parrhasia (a town of Arcadia)
+Parrhasia	Parrhasius#1 (Arcadian)
+Parrasia	Parrhasia (spelling for Parrhasia)
+Parrhasius	Parrhasius#2 (a celebrated Greek painter)
+Parrhasis	Parrhasia (poet. for Arcadian)
+
+Parthus	Parthus#1 (belonging to the Parthians)
+Parthus	Parthus#2 (a Parthian)
+Parthus	Parthus#3 (a city in Illyria)
+
+passer	passer#1 (a sparrow)
+Passer	Passer#2 (a Roman surname)
+
+passerinus	passerinus#1 (of)
+Passerinus	Passerinus#2 (the name of a very fleet horse)
+
+patella	patella#1 (a small pan)
+Patella	Patella#2 (a goddess that presiaed over the shooting of grain)
+
+patina	patina#1 (a broad)
+Patina	Patina#2 (a Roman surname)
+
+paulus	paulus#1 (little)
+Paulus	Paulus#2 (a Roman surname)
+
+pavus	pavus (spelling for pavo#1)
+pavo	pavus (spelling for pavo#1)
+pavo	pavo#1 (a peacock)
+Pavo	Pavo#2 (a Roman surname)
+
+pedo	pedo#1 (to foot)
+pedo	pedo#2 (to break wind)
+pedo	pedo#3 (one who has broad feet)
+pedo	pedum#1 (a shepherd's crook)
+Pedo	Pedo#4 (a Roman surname)
+Pedo	Pedum#2 (a town of remote antiquity in Latium)
+pedum	pedum#1 (a shepherd's crook)
+pedum	pes (a foot of man or beast)
+Pedum	Pedum#2 (a town of remote antiquity in Latium)
+Pedanus	Pedanus (of Pedum)
+Pedanum	Pedum#2 (an estate near Pedum)
+Pedanum	Pedanus (of Pedum)
+Pedani	Pedum#2 (the inhabitants of Pedum)
+Pedani	Pedanus (of Pedum)
+
+Pegasus	Pegasus#1 (the winged horse of the Muses)
+Pegasus	Pegasus#2 (a celebrated jurist in the reign of the emperor Vespasian)
+
+pelagius	pelagius#1 (belonging to the sea)
+pelagium	pelagium (purple color)
+pelagium	pelagius#1 (belonging to the sea)
+pelagia	pelagia (a kind of pearl-mussel)
+pelagia	pelagius#1 (belonging to the sea)
+pelagia	pelagium (purple color)
+Pelagius	Pelagius#2 (a famous heretic of the fifth century)
+
+Pelias	Pelias#1 (that comes from Pelion + belonging to Pelias#2)
+Pelias	Pelias#2 (a king of Thessaly)
+Pelias	Pelia (spelling for Pelias#2)
+Pelias	Pelion (belonging to Pelion)
+Peliades	Pelias#2 (the daughters of Pelias#2)
+Peliades	Pelias#1 (that comes from Pelion + belonging to Pelias#2)
+Pelion	Pelion (a high mountain in Thessaly)
+Pelius	Pelion (belonging to Pelion)
+Pelia	Pelia (spelling for Pelias#2)
+Pelia	Pelias#2 (a king of Thessaly)
+Pelia	Pelion (belonging to Pelion)
+
+peloris	peloris#1 (a large shell-fish)
+Peloris	Peloris#2 (a promontory on the north-eastern extremity of Sicily)
+Peloris	Pelorus (a promontory on the north-eastern coast of Sicily)
+Pelorus	Pelorus (a promontory on the north-eastern coast of Sicily)
+Peloros	Pelorus (alternative nom sg for 'Pelorus')
+Pelorum	Pelorus (alternative for 'Pelorus')
+Peloritanus	Pelorus (Pelorian)
+
+pennus	pennus#1 (pointed)
+Pennus	Pennus#2 (a Roman surname)
+
+Peraea	Peraea#1 (a strip of land in Caria)
+Peraea	Peraea#2 (a city in Aeolis)
+
+perdix	perdix#1 (a partridge)
+Perdix	Perdix#2 (the nephew of Daedalus)
+
+Pergamum	Pergamum#1 (spelling for Pergama)
+Pergamum	Pergamum#2 (a city in Mysia)
+Pergamum	Pergamum#3 (a city in Creta)
+Pergamum	Pergama (poet. for the citadel of Troy)
+Pergameus	Pergameus (poet. for Trojan + belonging to the city of Pergamum)
+Pergamenus	Pergamenus (belonging to Pergamum in Mysia)
+Pergamena	Pergamum#2 (parchment + the country about Pergamum)
+Pergamena	Pergamenus (belonging to Pergamum in Mysia)
+Pergameni	Pergamum#2 (the inhabitants of Pergamum)
+Pergameni	Pergamenus (belonging to Pergamum in Mysia)
+
+periclymenos	periclymenos#1 (a climbing plant)
+periclymenus	periclymenos#1 (nominative for periclymenos#1)
+Periclymenus	Periclymenus#2 (son of Neleus and brother of Nestor)
+
+pero	pero#1 (a kind of boot made of raw hide)
+Pero	Pero#2 (the daughter of Neleus and wife of Bias)
+
+Persa	Persa#1 (a Persian)
+Persa	Persa#2 (daughter of Oceanus)
+Persa	Perses (a Persian)
+Persae	Persae (the Persians)
+Persae	Persa#1 (a Persian)
+Persae	Persa#2 (daughter of Oceanus)
+Persae	Persa#3 (the name of a little dog)
+Persae	Perses (a Persian)
+Perses	Perses (a Persian)
+Persis	Persis (the country of Persis)
+Persis	Persa#2 (daughter of Oceanus)
+Persis	Persa#3 (the name of a little dog)
+Persis	Persae (the Persians)
+Persia	Persia (Persia)
+Persicus	Persicus#1 (Persian + belonging to King Perses)
+Persicus	Persae (a peach-tree)
+Perseius	Perseius (belonging to Persa#2 + Persean)
+Perseius	Perseus#2 (belonging to Perseus)
+Persice	Persice#1 (in Persian)
+Persice	Persice#2 (a portico in Lacedaemon)
+Persice	Persicus#1 (Persian + belonging to King Perses)
+Persice	Persae (a peach tree + a peach)
+Persica	Persica (Persian history)
+Persica	Persice#2 (a portico in Lacedaemon)
+Persica	Persae (a peach-tree)
+Persica	Persicus#1 (Persian + belonging to King Perses)
+Perseis	Perseis (the female descendant of Persa#2)
+Perseis	Perseus#2 (belonging to Perseus)
+Persa	Persa#3 (the name of a little dog)
+Perseius	Perseius (belonging to Perseus + belonging to Persa)
+persicus	persicus#2 (corrupted for 'persibus')
+Persicum	Persae (a peach)
+Persicum	Persica (Persian history)
+Persicum	Persicus#1 (Persian + belonging to King Perses)
+
+petra	petra#1 (a rock)
+Petra	Petra#2 (the name of several cities)
+Petra	Petra#3 (a Roman proper name)
+
+petro	petro#1 (a rustic)
+Petro	Petro#2 (a Roman surname)
+
+petronius	petronius#1 (petrean)
+Petronius	Petronius#2 (name of a Roman + belonging to a Petronius)
+
+peuce	peuce#1 (the pinetree)
+Peuce	Peuce#2 (the name of an island in the Danube)
+
+phaleris	phalerae (a smooth, shining ornament for the breast)
+phaleris	phaleris (spelling for phalaris#1)
+phalaris	phalaris#1 (the plant canarygrass)
+Phalaris	Phalaris#2 (a tyrant of Agrigentum)
+Phalaris	Phalara (a harbor of Phthiotis)
+Phalaris	
+
+Phasianus	Phasianus (belonging to the Phasis)
+Phasias	Phasianus (belonging to the Phasis + Medea)
+Phasianus	Phasianus (a phaesant)
+Phasiana	Phasianus (variant for 'Phaesianus' meaning 'phaesant')
+Phasis	Phasis#1 (a river in Colchis)
+Phasis	Phasis#2 (Phasian)
+
+phiala	phiala#1 (a broad)
+Phiala	Phiala#2 (a companion of Diana)
+Phiale	Phiala#2 (spelling for Phiala#2)
+
+philus	philus#1 (beloved)
+Philus	Philus#2 (a Roman surname)
+
+philyra	philyra#1 (the linden-tree)
+Philyra	Philyra#2 (a nymph)
+
+Phlegra	Phlegra (a country of Macedonia)
+Phlegraeus	Phlegraeus#1 (Phlegroean)
+Phlegraeus	Phlegraeus#2 (one of the Centaurs)
+
+phoca	phoca (a seal)
+phoce	phoca (spelling for 'phoca')
+phocis	phoca (a seal)
+phocis	phocis#1 (a kind of pear-tree on the isle of Chios)
+Phocis	Phocis#2 (the country between Boeotia and Aetolia)
+Phocis	Phocus (son of Aeacus)
+
+Phoenix	Phoenix#1 (a Phoenician)
+Phoenix	Phoenix#2 (the son of Amyntor)
+phoenix	phoenix#3 (the phoenix)
+
+phormio	phormio#1 (wicker-work of reeds)
+Phormio	Phormio#2 (the name of a parasite in Terence)
+
+physeter	physeter (a blow-pipe)
+
+pictor	pictor#1 (a painter)
+Pictor	Pictor#2 (a surname in the)
+
+picus	picus#1 (a woodpecker)
+Picus	Picus#2 (son of Saturn)
+
+pietas	pietas#1 (dutiful conduct)
+Pietas	Pietas#2 (a Roman surname)
+
+#pilatus	pilatus#1 (Part. of 'pilo')
+pilatus	pilo#1 (to ram down)
+pilatus	pilo#2 (to grow hairy)
+pilatus	pilatus#2 (armed with javelins)
+Pilatus	Pilatus#3 (a Roman surname)
+
+pisciculus	pisciculus#1 (a little fish)
+Pisciculus	Pisciculus#2 (a Roman surname)
+
+pinso	pinso (to beat)
+pinsi	pinso (to beat)
+pinsui	pinso (to beat)
+pinsum	pinso (to beat)
+pinsitum	pinso (to beat)
+piso	piso#1 (spelling for pinso)
+pisavi	piso#1 (spelling for pinso)
+pisatum	piso#1 (spelling for pinso)
+piso	pisum (spelling for 'pisa')
+piso	piso#2 (a mortar)
+Piso	Piso#3 (a Roman surname)
+
+pithecium	pithecium#1 (a little ape)
+Pithecium	Pithecium#2 (the name of an attendant)
+
+placentia	placeo (to please)
+placentia	placentia#1 (suavity)
+Placentia	Placentia#2 (a city in)
+
+plancus	plancus#1 (a kind of eagle)
+Plancus	Plancus#2 (a Roman surname)
+
+plautus	plautus#1 (Flat)
+Plautus	Plautus#2 (an Umbrian surname)
+
+polite	polite (in a polished manner)
+polite	polio#1 (to smooth)
+polio	polion (a strong-smelling plant)
+polio	polio#1 (to smooth)
+polio	polio#2 (spelling for 'pellio')
+Polio	Polio#3 (the name of a music-teacher)
+Pollio	Polio#3 (spelling for Polio#3)
+Pollio	Pollio#2 (a Roman surname)
+Polio	Pollio#2 (spelling for Pollio#2)
+
+pollentia	polleo (to be strong)
+pollentia	pollentia#1 (might)
+Pollentia	Pollentia#2 (a city in Picenum)
+
+pollex	pollex#1 (the thumb)
+Pollex	Pollex#2 (the name of a slave of Cicero)
+
+polus	polus#1 (the end of an axis)
+Polus	Polus#2 (a celebrated Greek tragic actor)
+
+Pompeji	Pompeji (a maritime city in the south of Campania)
+Pompeji	Pompejus (name of a Roman gens)
+Pompejanum	Pompeji (a villa of Cicero)
+Pompejanum	Pompejanus (belonging to Pompeii + of Pompey)
+Pompejanum	Pompejus (allies of Pompey)
+Pompejani	Pompeji (the inhabitants of Pompeii)
+Pompejani	Pompejanus (belonging to Pompeii + of Pompey)
+Pompejus	Pompejus (name of a Roman gens)
+Pompeius	Pompejus (variant of 'Pompejus' + belonging to a Pompey)
+Pompejani	Pompejus (allies of Pompey)
+Pompeja	Pompeja (name of a Roman gens)
+Pompeja	Pompejus (belonging to a Pompey)
+Pompejanus	Pompejanus (belonging to Pompeii + of Pompey)
+Pompejopolis	Pompejopolis (a city of Cilicia)
+
+Pontia	Pontia#1 (a woman notorious as the poisoner of her own children)
+Pontia	Pontia#2 (an island in the Tuscan Sea)
+
+pontus	pontus#1 (poet. for the sea)
+Pontus	Pontus#2 (the Black Sea)
+Pontici	Pontus#2 (the inhabitants of the province of Pontus)
+Pontici	Ponticus#1 (belonging to Pontus#2)
+Pontici	Ponticus#2 (a poet)
+Ponticum	Pontus#2 (alternative for Pontus#2)
+Ponticum	Ponticus#1 (belonging to Pontus#2)
+Ponticum	Ponticus#2 (a poet)
+Ponticus	Ponticus#1 (belonging to Pontus#2)
+Ponticus	Ponticus#2 (a poet)
+
+pontus	pontus#1 (the sea)
+Pontus	Pontus#2 (the Black Sea)
+
+Populonia	Populonia#1 (a surname of Juno)
+Populonia	Populonia#2 (a town on the coast of Etruria)
+Populonium	Populonia#2 (variant for Populonia#2)
+Populonii	Populonia#2 (variant for Populonia#2)
+
+porthmos	porthmos#1 (a strait)
+Porthmos	Porthmos#2 (a town of Euboea)
+
+porus	porus#1 (a passage)
+porus	porus#2 (tufa)
+Porus	Porus#3 (a king of India)
+
+posca	posca#1 (an acidulous drink of vinegar and water)
+Posca	Posca#2 (a Roman surname)
+
+
+postremus	posterus (coming after)
+postumus	posterus (coming after)
+posthumus	posthumus (spelling for 'postumus')
+posterior	posterus (coming after)
+#posterius	posterus (later)
+postumum	posterus (that which is last)
+Postumus	Postumus#2 (a Roman surname)
+
+potentia	possum (to be able)
+potentia	potentia#1 (might)
+Potentia	Potentia#2 (a town in Picenum)
+
+potitus	potior (to become master of)
+Potitus	Potitus#2 (a Roman surname)
+
+prester	prester (a fiery whirlwind)
+
+Priapus	Priapus#1 (Priapus)
+Priapus	Priapus#2 (a town of Mysia)
+
+priscus	priscus#1 (of)
+Priscus	Priscus#2 (a Roman surname)
+
+probus	probus#1 (good)
+Probus	Probus#2 (a Roman surname)
+
+proditius	prodo (to give)
+proditius	prodeo (to go or come forth)
+proditius	prodicius#1 (spelling for prodicius#1)
+prodicius	prodicius#1 (treacherous)
+Prodicius	Prodicius#2 (belonging to Prodicus)
+
+psecas	psecas#1 (a female slave who perfumed her mistress's hair)
+Psecas	Psecas#2 (the name of an attendant of Diana)
+
+pulto	pulto#1 (to beat)
+Pulto	Pulto#2 (a Roman surname)
+
+#puta	puta#1 (imper. 'namely'/'for instance', semantically from 'suppose')
+Puta	Puta#2 (a goddess that presides over the pruning of trees)
+
+Pyramus	Pyramus#1 (the lover of Thisbe)
+Pyramus	Pyramus#2 (a river in Cilicia)
+
+Pyrgus	Pyrgo (the nurse of Priam’s children)
+pyrgus	pyrgus#1 (a little wooden tower on the side of a gaming-board)
+Pyrgus	Pyrgus#2 (a castle in Elis)
+
+Pyrrhia	Pyrrhia (name of a thievish female slave)
+Pyrrhia	Pyrrhias#1 (of the city of Pyrrha in Lesbos)
+Pyrrhias	Pyrrhia (name of a thievish female slave)
+Pyrrhias	Pyrrhias#1 (commander of the Aetolians)
+Pyrrhias	Pyrrhias#2 (of the city of Pyrrha in Lesbos)
+
+Pythias	Pythias#1 (a false reading for 'Phintias')
+Pythias	Pythias#2 (name of a female slave)
+Pythias	Pythius (Pythian)
+Pythias	Pythia (the priestess who uttered the responses of the Delphic Apollo)
+
+Pytho	Pytho#1 (the former name of Delphi and its environs)
+Pytho	Pytho#2 (a masculine proper name)
+Pytho	Pytho#3 (a familiar spirit)
+
+quadra	quadra#1 (a square)
+quadra	quadro (to make four-cornered)
+quadra	quadrum (a square)
+quadra	quadrus (squared)
+#quadratus	quadratus#1 (part. of quadro)
+quadratus	quadro (to make four-cornered)
+quadratus	quadratus#2 (a square)
+quadratum	quadratus#2 (a square)
+quadratum	quadratum (a square)
+quadratum	quadro (to make four-cornered)
+Quadratus	Quadratus#3 (a Roman surname)
+Quadra	Quadra#2 (a Roman surname)
+
+quadrigarius	quadrigarius#1 (belonging to a four-horse chariot + one who drives a four-horse chariot in the circus)
+Quadrigarius	Quadrigarius#2 (a Roman surname)
+
+Quintilianus	Quintilianus#1 (Quintilian)
+Quintilianus	Quintilianus#2 (belonging to a Quintilius)
+
+quintus	quintus#1 (the fifth)
+quinctus quintus#1 (spelling for 'quintus')
+quinto	quintus#1 (the fifth)
+quinto	quinto (for the fifth time)
+quintum	quintus#1 (the fifth)
+quintum	quinto (for the fifth time)
+Quintus	Quintus#2 (Roman praenomen)
+Quinta	Quintus#2 (Roman praenomen)
+
+Quirinus	Quirinus#1 (a proper name)
+Quirinus	Quirinus#2 (of)
+
+regillus	regillus#1 (royal)
+Regillus	Regillus#2 (a town of the Sabines)
+
+regulus	regulus#1 (the ruler of a small country)
+Regulus	Regulus#2 (a Roman surname)
+
+remora	remora#1 (delay)
+Remora	Remora#2 (the name given to Rome by Remus)
+
+remulus	remulus#1 (a small oar)
+Remulus	Remulus#2 (a proper name)
+
+remus	remus#1 (an oar)
+Remus	Remus#2 (the brother of Romulus)
+Remus	Remus#3 (Iccius Remus)
+
+#restitutus	restitutus#1 (part. of restituo)
+restitutus	restituo (to put or set up again)
+Restitutus	Restitutus#2 (a Roman surname)
+
+Rhea	Rhea#1 (an old Italian name)
+Rhea	Rhea#2 (another name for Cybele)
+
+Rhoeteus	Rhoeteus#1 (belonging to the promontory of Rhoeteum)
+Rhoeteius	Rhoeteus#1 (Trojan)
+Rhoeteus	Rhoeteus#2 (the name of a Rutulian)
+
+Rhoetus	Rhoetus (a giant)
+Rhoecus	Rhoetus (spelling for 'Rhoetus')
+
+Romulus	Romulus#1 (the founder and first king of Rome)
+Romulus	Romulus#2 (of Romulus)
+
+#rubricatus	rubricatus#1 (part. of 'rubrico')
+rubricatus	rubrico (to color red)
+Rubricatus	Rubricatus#2 (a river of Spain)
+Rubricatum	Rubricatus#2 (alternative for Rubricatus#2)
+
+rufus	rufus#1 (red)
+Rufus	Rufus#2 (a common Roman surname)
+
+ruga	rugo (to crease)
+ruga	ruga#1 (a crease in the face)
+Ruga	Ruga#2 (a Roman surname)
+
+Rumina	Rumina#1 (a Roman goddess of nursing mothers)
+#Rumina-ficus	Rumina#2 (the fig-tree of Romulus and Remus)
+
+Ruminalis	Ruminalis#1 (the fig-tree of Romulus and Remus)
+ruminalis	ruminalis#2 (chewing again)
+
+runcina	runcino (to plane off)
+runcina	runcina#1 (a plane)
+Runcina	Runcina#2 (a rural goddess presiding over weeding)
+
+rutilus	rutilus#1 (red)
+Rutilus	Rutilus#2 (a Roman surname)
+
+rutuba	rutuba#1 (confusion)
+Rutuba	Rutuba#2 (a river in Liguria)
+
+saburra	saburro (to fill or lade with ballast)
+saburra	saburra#1 (sand)
+Saburra	Saburra#2 (a lieutenant of King Juba)
+Sabbura	Saburra#2 (spelling for Saburra#2)
+
+sacerdos	sacerdos#1 (a priest; a priestess)
+Sacerdos	Sacerdos#2 (a surname of frequent occurrence)
+
+sacrator	sacrator#1 (one who hallows)
+Sacrator	Sacrator#2 (the name of a warrior)
+
+Sagaris	Sagaris#1 (a river in Phrygia and Bitnynia)
+Sagiarius	Sagaris#1 (spelling for Sagaris#1)
+Sagaritis	Sagaris#1 (spelling for Sagaris#1)
+Sagarius	Sagarius#2 (of Sagaris)
+Sangarius	Sangarius (spelling for Sagaris#1)
+Sagaris	Sagaris#2 (the name of a Trojan)
+
+#ignoring the sale#1 entry to avoid duplicates for overlaping forms
+sale	salo#1 (to salt)
+sale	salum (the open sea)
+sale	sal (alternative norminative/vocative/accusative for 'sal' + ablative)
+Sale	Sale#2 (a lake in Lydia)
+Salo	Salo#2 (a river of Hispania Tarraconensis)
+
+Saliaris	Saliaris#1 (belonging to the)
+Saliaris	Saliaris#2 (dancing islands)
+
+Salius	Salius#1 (belonging to the Salii)
+Salius	Salius#2 (a Salian)
+Salii	Salii#1 (a college of priests at Rome dedicated by Numa to the service of Mars)
+Salii	Salii#2 (the Salians)
+Salii	Salius#1 (belonging to the Salii)
+Salii	Salius#2 (a Salian)
+
+salinator	salinator#1 (a dealer in salt)
+Salinator	Salinator#2 (a Roman surname)
+
+sarda	sardo (to understand)
+sarda	sarda#1 (a kind of fish)
+Sarda	Sarda#2 (a Sardinian woman)
+Sarda	Sardus (Sardinian)
+Sardous	Sardi (Sardinian)
+Sardonius	Sardi (Sardinian)
+Sardinianus	Sardi (Sardinian)
+
+Saturnius	Saturnius#1 (belonging to Saturn)
+Saturnius	Saturnius#2 (Jupiter)
+Saturnus	Saturnus (Saturn)
+Saturnii	Saturnus (the inhabitants of the old town of Saturnia)
+Saturnii	Saturnius#1 (belonging to Saturn)
+Saturnii	Saturnius#2 (Jupiter)
+Saturniacus	Saturnus (of Saturn)
+Saturnalia	Saturnalia (a general festival in honor of Saturn)
+Saturnalicius	Saturnalia (belonging to the Saturnalia)
+Saturnalitius	Saturnalia (spelling for 'Saturnalicius')
+Saturnalis	Saturnalia (belonging to Saturn)
+Saturnia	Saturnalia (Juno)
+Saturnia	Saturnius#1 (belonging to Saturn)
+
+Saxa	Saxa#1 ( surname of L. Decidius)
+#Saxa-Rubra	Saxa#2 (the name of a place)
+
+scaeva	scaevus (that is on the left)
+scaeva	scaeva#1 (a sign or token in the sky)
+scaeva	scaeva#2 (a lefthanded person)
+Scaeva	Scaeva#3 (a Roman surname)
+
+Scapula	Scapula#1 (a Roman surname)
+scapula	scapula#2 (a kind of vine)
+scapula	scapula#3 (the shoulder)
+
+scaurus	scaurus#1 (with large and swollen ankles)
+Scaurus	Scaurus#2 (a frequent surname in the gens Aemilia and Aurelia)
+Scaurianus	Scaurianus (relating to Scaurus)
+
+scipio	scipio#1 (a staff)
+Scipio	Scipio#2 (the name of a celebrated family in the)
+
+Sciron	Sciron#1 (a noted robber on the rocky coast between Megaris and Attica)
+Sciron	Sciron#2 (an Epicurean philosopher in Cicero's time)
+
+scrofa	scrofa#1 (a breeding-sow)
+Scrofa	Scrofa#2 (a Roman surname)
+
+sebosus	sebosus#1 (full of tallow)
+Sebosus	Sebosus#2 (a Roman surname)
+
+secunda	secundus#1 (favorable circumstances)
+secunda	sequor (to follow)
+secunda	secundo#2 (to direct favorably)
+secundae	secundus#1 (the after-birth + the inferior parts)
+secundae	sequor (to follow)
+secundus	sequor (to follow)
+secundus	secundus#1 (following)
+Secundus	Secundus#2 (a Roman proper name)
+Secunda	Secundus#2 (a Roman proper name)
+
+Segesta	Segesta#1 (an ancient city on the northern coast of Sicily)
+Segesta	Segesta#2 (spelling for Segetia)
+Segestanus	Segestanus (belonging to Segesta)
+Segestanum	Segesta#1 (the Segestan territory)
+Segestanum	Segestanus (belonging to Segesta)
+Segestani	Segesta#1 (the inhabitants of Segesta)
+Segestani	Segestanus (belonging to Segesta)
+
+senecio	senecio#1 (an old man)
+Senecio	Senecio#2 (a Roman surname)
+senecio	senecio#3 (a plant)
+
+serenus	serenus#1 (clear)
+Serenus	Serenus#2 (a proper name)
+
+severus	severus#1 (serious)
+Severus	Severus#2 (a proper name)
+
+sextus	sextus#1 (the sixth)
+Sextus	Sextus#2 (a Roman proper name)
+
+Sidonius	Sidonius#1 (a proper name)
+Sidonius	Sidonius#2 (belonging to Sidon)
+Sidonicus	Sidon (belonging to Sidon)
+Sidonii	Sidon (the Sidonians)
+Sidonii	Sidonius#1 (a proper name)
+Sidonii	Sidonius#2 (belonging to Sidon)
+Sidonis	Sidon (Sidonian)
+Sidonis	Sido (a chief of the Suevi about the middle of the first century)
+
+Silanus	Silanus#1 (a Roman surname in the Julian)
+silanus	silanus#2 (a fountain)
+Silanus	Silanus#3 (belonging to the forest of Sila)
+
+simo	simus (flat-nosed)
+simo	simo#1 (to press flat)
+Simo	Simo#2 (a proper name)
+Simo	Simo#3 (spelling for Simon#1)
+
+Simon	Simon#1 (a chief of the Jews)
+Simon	Simon#2 (a famous statuary)
+
+simulus	simulus#1 (flat-nosed)
+Simulus	Simulus#2 (a proper name)
+
+sino	sinum (a large, round drinking-vessel with swelling sides)
+sino	sino (to let)
+sinon	sinon#1 (an unknown herb)
+Sinon	Sinon#2 (son of Aesimus)
+
+sion	sion#1 (water-parsley)
+Sion	Sion#2 (a hill of Jerusalem)
+
+#siris	siris#1 (perfect active subjunctive of 'sino')
+siris	sirus (a pit to keep corn in)
+siris	sino (to let)
+Siris	Siris#2 (the name of a branch of the Nile in Ethiopia)
+Siris	Sirae (a town of the Odomantic region in Thrace)
+
+smyrna	smyrna#1 (myrrh)
+Smyrna	Smyrna#2 (a celebrated maritime city of Ionia)
+
+Solon	Solon#1 (a famous legislator of the Athenians)
+Solon	Solon#2 (a city of the Allobroges)
+
+solus	solus#1 (alone)
+Solus	Solus#2 (a town on the northern coast of Sicily)
+solus	solus#3 (spelling for solum)
+
+sonus	sonus#1 (a noise)
+sonus	sonus#2 (sounding)
+Sonus	Sonus#3 (a river of India)
+
+sophus	sophus#1 (nominative for sophos#1)
+Sophus	Sophus#2 (a surname of the consul P. Sempronius)
+
+Sosus	Sosus#1 (a proper name)
+Sosus	Sosus#2 (the title of a book written by Antiochus against Philo)
+
+Soter	Soter (a savior)
+
+sphincter	sphincter (the sphincter)
+
+spinther	spinther#1 (spelling for 'spinter')
+Spinther	Spinther#2 (a Roman surname)
+spinter	spinter (a kind of bracelet which kept its place on the arm by its own elasticity)
+
+spongia	spongius (spongy)
+spongia	spongio (to wipe off with a sponge)
+spongia	spongia#1 (a sponge)
+Spongia	Spongia#2 (a proper name)
+
+stater	stater (a small silver coin of the Jews)
+
+stator	stator#1 (a magistrate's attendant)
+Stator	Stator#2 (a stayer)
+
+stellio	stellio#1 (a newt)
+Stellio	Stellio#2 (a Roman surname)
+
+Stephane	Stephanus (a Grecian sculptor)
+Stephane	Stephane#1 (ancient name of the island of Samos)
+Stephane	Stephane#2 (a mountain in Thessaly)
+
+stilo	stilus (a stake)
+stilo	stilo#1 (to get stalks)
+Stilo	Stilo#2 (a surname of)
+
+stiria	stiria#1 (a frozen drop; an ice-drop)
+Stiria	Stiria#2 (an island near the coast of Cilicia)
+
+stolo	stolo#1 (a shoot)
+Stolo	Stolo#2 (a cognomen in the)
+
+strabo	strabus (squinting)
+strabo	strabo#1 (one who squints strongly)
+Strabo	Strabo#2 (a Roman surname)
+
+strobilus	strobilus#1 (a pine-nut)
+Strobilus	Strobilus#2 (the name of a slave)
+
+strongyle	strongyle#1 (a kind of alum)
+Strongyle	Strongyle#2 (one of the Lipari islands)
+
+struma	struma#1 (a scrofulous tumor)
+Struma	Struma#2 (a Roman surname)
+
+suberinus	suberinus#1 (of the cork-tree)
+Suberinus	Suberinus#2 (a Roman surname)
+
+subulo	subulo#1 (a flute-player)
+Subulo	Subulo#2 (a Roman surname)
+
+sura	sura#1 (the calf of the leg)
+Sura	Sura#2 (a river of Germany)
+Sura	Sura#3 (a Roman surname)
+Sura	Syria (spelling for 'Syrus')
+
+surus	surus#1 (a branch)
+Surus	Surus#2 (a celebrated elephant in the Carthaginian army)
+syrus	syrus#1 (a broom)
+Syrus	Syrus#3 (the name of a slave)
+Syria	Syria (a country in Asia)
+Syria	Syrie (an island near Ephesus)
+Syria	Syrius#1 (belonging to Syria)
+Syria	Syrius#2 (belonging to Syros)
+Suria	Syria (spelling for Syria)
+Suria	Surium (a town in Colchis)
+Syrii	Syria (the Syrians)
+Syrii	Syrius#1 (belonging to Syria)
+Syrii	Syrius#2 (belonging to Syros)
+Surus	Syria (Syrian)
+Syriacus	Syria (Syrian)
+Syriace	Syria	(in the Syrian tongue)
+Siria	Siria (spelling for 'Syria')
+Syrius	Syrius#1 (belonging to Syria)
+Syrius	Syrius#2 (belonging to Syros)
+Syrius	Syrus#2 (Syrian)
+Syri	Syria (the Syrians)
+Syri	Syrius#1 (belonging to Syria)
+Syri	Syrius#2 (belonging to Syros)
+Syri	Syros (one of the Cyclades)
+Syri	Syrus#2 (Syrian)
+Syri	Syrus#3 (the name of a slave)
+syrus	syrus#1 (a broom)
+Syrus	Syrus#2 (Syrian)
+Syrus	Syrus#3 (the name of a slave)
+surus	surus#1 (a branch)
+Surus	Surus#2 (a celebrated elephant in the Carthiginian army)
+Syricus	Syricus (Syrian)
+Syriaticus	Syriaticus (from Syria)
+Syriscus	Syriscus (from Syria)
+Syros	Syros (one of the Cyclades)
+Syros	Syrus#2 (Syrian)
+Syros	Syrus#3 (the name of a slave)
+Syros	Syria (the Syrians)
+
+#tacitus	tacitus#1 (part. of 'taceo')
+tacitus	taceo (to be or make quiet)
+Tacitus	Tacitus#2 (a Roman proper name)
+
+Tartarus	Tartarus#1 (the infernal regions)
+Tartarus	Tartarus#2 (a river of Italy)
+
+Tauriscus	Tauriscus#1 (belonging to the Taurisci)
+Tauriscus	Tauriscus#2 (the name of a Greek actor)
+
+taurus	taurus#1 (a bull)
+Taurus	Taurus#2 (a high mountainrange in the south-eastern part of Asia Minor)
+Taurus	Taurus#3 (a Roman proper name)
+
+telamo	telamo#1 (a male figure that supports an entablature)
+Telamo	Telamo#2 (an Argonaut)
+
+Temenos	Temenos (a place at Syracuse sacred to Apollo)
+Temenites	Temenos (an epithet of Apollo)
+Temenitis	Temenos (an epithet of Apollo)
+Temenitis	Temenitis#1 (a fountain at Syracuse)
+Temenitis	Temenitis#2 (a gate of Tarentum)
+
+termes	termes#1 (a bough cut off)
+termes	termes#2 (spelling for 'tarmes')
+Termes	Termes#3 (a town in Spain)
+
+Thebaeus	Thebae (belonging to Thebes)
+Thebaicus	Thebae (Theban)
+Thebais	Thebae (the Thebaid + the district of Thebes)
+Thebanus	Thebae (belonging to Thebes)
+Thebani	Thebae (the innabitants of Thebes)
+Thebaides	Thebae (Theban)
+Thebana	Thebae (the Theban dame)
+Thebae	Thebae (Thebes)
+Thebae	Thebe#1 (spelling for 'Thebae')
+Thebae	Thebe#2 (a female name)
+Thebe	Thebe#1 (spelling for 'Thebae')
+Thebe	Thebe#2 (a female name)
+
+thymbra	thymbra#1 (a plant)
+Thymbra	Thymbra#2 (a city in Troas)
+Thymbre	Thymbra#2 (variant for Thymbra#2)
+
+Tifata	Tifata#1 (a mountain ridge north of Capua)
+#Tifata-iliceta	Tifata#2
+
+tigris	tigris#1 (a tiger)
+Tigris	Tigris#2 (the river Tigris)
+
+tiro	tiro#1 (a newly-levied soldier)
+Tiro	Tiro#2 (a Roman proper name)
+
+torquatus	torquatus#1 (adorned with a neck-chain)
+Torquatus	Torquatus#2 (the surname of T. Manlius)
+
+trabea	trabea#1 (a robe of state)
+Trabea	Trabea#2 (an ancient Roman comic poet)
+
+Tralles	Tralles#1 (a town in Lydia)
+Tralles	Tralles#2 (a people of Illyria)
+
+Trebia	Trebia#1 (a river in Upper Italy)
+Trebia	Trebia#2 (a village in Umbria)
+
+tubulus	tubulus#1 (a small pipe)
+Tubulus	Tubulus#2 (a Roman cognomen in the)
+
+turbo	turbo#1 (to disturb)
+turbo	turbo#2 (that which spins)
+Turbo	Turbo#3 (the name of a gladiator)
+
+tusculum	tusculum#1 (a little frankincense)
+Tusculanensis	Tusculanensis (pertaining to Tusculum)
+Tusculanum	Tusculanensis (the name of several estates at Tusculum)
+Tusculanum	Tusculum#2 (belonging to Tusculum)
+Tusculanus	Tusculanensis (belonging to Tusculum)
+Tusculum	Tusculum#2 (a very ancient town of Latium)
+Tusculani	Tusculum#2 (the inhabitants of Tusculum)
+Tusculani	Tusculanensis (belonging to Tusculum + the name of several estates at Tusculum)
+Tusculus	Tusculum#2 (belonging to Tusculum)
+Tusculi	Tusculum#2 (the inhabitants of Tusculum)
+
+urbicus	urbicus#1 (of)
+Urbicus	Urbicus#2 (the name of a poet)
+
+#utens	utens#1 (part. of utor)
+utens	utor (to use)
+utens	uto (less common variant of 'utor')
+Utens	Utens#2 (a river in Cisalpine Gaul)
+
+vacca	vacca#1 (a cow)
+Vacca	Vacca#2 (a town of Byzacene in Africa)
+Vacca	Vacca#3 (spelling for 'Vagia')
+
+Vada	Vada#1 (a stronghold in Gallia Belgica)
+Vada	Vada#2 (a city in Liguria)
+#Vada-Volaterrana	Vada#3 (a port in Etruria south of Pisa)
+
+Vagia	Vagia (a river of Lusitania)
+Vacea	Vagia (spelling for 'Vagia')
+
+Valens	Valens#1 (the father of the third Mercury)
+valens	valeo (to be strong)
+#valens	valens#2 (part of valeo)
+valentia	valeo (to be strong)
+valentia	valentia#1 (bodily strength)
+Valentia	Valentia#2 (the name of several towns)
+
+Valeria	Valerius (the name of a Roman gens)
+Valerianus	Valerianus#1 (spelling for Valerius)
+Valerianus	Valerianus#2 (a Roman emperor)
+
+varia	vario (to diversify)
+varia	varius#1 (diverse)
+varia	varia#1 (a panther)
+Varia	Varia#2 (a small city of the Sabines)
+Varia	Varius#2 (the name of a Roman gens)
+
+varius	varus#1 (bent)
+varius	varius#1 (diverse)
+Varius	Varius#2 (the name of a Roman)
+
+varus	varus#1 (bent)
+varus	varus#2 (an eruption)
+Varus	Varus#3 (a surname)
+
+vectis	veho (to bear)
+vectis	vectis#1 (a strong pole)
+Vectis	Vectis#2 (an island south of Britain)
+Vectis	Vecta (variant for 'Vectis')
+
+Vedius	Vedius#1 (the name of a Roman)
+Vedius	Vedius#2 (another name for)
+
+velabrum	velabrum#1 (a covering)
+Velabrum	Velabrum#2 (a street in Rome on the Aventine Hill)
+
+Veliternus	Veliternus#1 (belonging to Velitrae)
+Veliternus	Veliternus#2 (a proper name)
+
+venilia	venilia#1 (wave that arrives to the beach)
+Venilia	Venilia#2 (the name of several sea-nymphs)
+
+Venus	Venus#1 (the goddess of Love)
+venus	venus#2 (sale)
+
+verris	verres#1 (nominative for verres#1)
+verris	verro (to scrape)
+verres	verro (to scrape)
+verres	verres#1 (a male swine)
+Verres	Verres#2 (the surname of the praetor C. Cornelius)
+Verria  Verres#2 (a festival appointed by Verres)
+Verria	Verrius#1 (belonging to Verres)
+Verrinae	Verres#2 (the orations of Cicero against Verres)
+Verrinae	Verrinus#2 (belonging to Verres)
+Verrius	Verrius#1 (belonging to Verres)
+#Verrius-Flaccus	Verrius#2
+verrinus	verrinus#1 (of a boar-pig)
+Verrinus	Verrinus#2 (belonging to Verres)
+
+vibo	vibo#1 (the flower of the herb called)
+Vibo	Vibo#2 (a town in the territory of the Bruttii)
+
+victor	victor#1 (a conqueror)
+Victor	Victor#2 (a Roman historian of the fourth century)
+
+Viriathus	Viriathus#1 (a celebrated leader of the Lusitanians in the war against the Romans)
+Viriatus	Viriathus#1 (spelling for Viriathus#1)
+viriatus	viriatus#2 (adorned with bracelets)
+Viriathinus	Viriathinus (pertaining to Viriathus)
+Viriatinus	Viriathinus (spelling for 'Viriathinus')
+
+vitula	vitula#1 (spelling for vitulus)
+Vitula	Vitula#2 (the goddess of Victory)
+
+vopiscus	vopiscus#1 (one of a pair of twins)
+Vopiscus	Vopiscus#2 (a Roman surname)
+
+vultur	vultur#1 (a vulture)
+voltur	vultur#1 (spelling for 'vultur')
+Vultur	Vultur#2 (a mountain in Apulia)
+Vulturnus	Vultur#2 (belonging to Vultur#2)
+Volturnus	Vultur#2 (spelling for Vulturnus with meaning 'belonging to Vultur#2')
+Volturnus	Volturnus (spelling for Vulturnus#1, Vulturnus#3)
+Vulturnus	Vulturnus#1 (a river in Campania)
+#Vulturnus-ventus	Vulturnus#2
+Vulturnus	Vulturnus#3 (the god Vulturnus)
+
+zeugma	zeugma#1 (a grammatical figure)
+Zeugma	Zeugma#2 (a town in Syria)
+
+zoster	zoster#1 (a kind of herpes)
+Zoster	Zoster#2 (a promontory)
+
+zygia	zygia#1 (a tree)
+Zygia	Zygia#2 (a name of Juno)
+
+# broken in commit b3cead6d43ddfef5e75d962e52298cbd6d2bcd9a
+Troianus	Trojanus
+Trojanus	Trojanus

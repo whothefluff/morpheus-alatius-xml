@@ -3746,8 +3746,8 @@
 :le:Comnenus
 :no:Comnen us_i masc pers_name
 
-:le:Comus
-:no:Com us_i masc pers_name
+#:le:Comus
+#:no:Com us_i masc pers_name
 
 :le:Comvinius
 :no:Comvin ius_i masc pers_name
@@ -4902,8 +4902,8 @@
 :le:Electus
 :no:Elect us_i masc pers_name
 
-:le:Eleius
-:no:Ele ius_i masc pers_name
+#:le:Eleius
+#:no:Ele ius_i masc pers_name
 
 #noanalysis:Elephenor
 
@@ -6031,8 +6031,8 @@
 
 #noanalysis:Gildo
 
-:le:Gillus
-:no:Gill us_i masc pers_name
+#:le:Gillus
+#:no:Gill us_i masc pers_name
 
 #noanalysis:Gisco
 
@@ -8240,8 +8240,8 @@
 :le:Melpomenus
 :no:Melpomen us_i masc pers_name
 
-:le:Melus
-:no:Mel us_i masc pers_name
+#:le:Melus
+#:no:Mel us_i masc pers_name
 
 #noanalysis:Men
 
@@ -8255,8 +8255,8 @@
 :le:Mendeis
 :no:Mende is_is fem pers_name
 
-:le:Mene
-:no:Men e_es fem pers_name
+#:le:Mene
+#:no:Men e_es fem pers_name
 
 #noanalysis:Menecleidas
 
@@ -8644,8 +8644,8 @@
 :le:Molpis
 :no:Molp is_is fem pers_name
 
-:le:Molus
-:no:Mol us_i masc pers_name
+#:le:Molus
+#:no:Mol us_i masc pers_name
 
 :le:Momus
 :no:Mom us_i masc pers_name
@@ -8708,8 +8708,8 @@
 
 #noanalysis:Mulciber
 
-:le:Mulius
-:no:Mul ius_i masc pers_name
+#:le:Mulius
+#:no:Mul ius_i masc pers_name
 
 :le:Murrhedius
 :no:Murrhed ius_i masc pers_name
@@ -8951,8 +8951,8 @@
 :le:Neratius
 :no:Nerat ius_i masc pers_name
 
-:le:Nereus
-:no:Nere us_i masc pers_name
+#:le:Nereus
+#:no:Nere us_i masc pers_name
 
 :le:Nerulinus
 :no:Nerulin us_i masc pers_name
@@ -10101,8 +10101,8 @@
 :le:Petrosidius
 :no:Petrosid ius_i masc pers_name
 
-:le:Petrus
-:no:Petr us_i masc pers_name
+#:le:Petrus
+#:no:Petr us_i masc pers_name
 
 #noanalysis:Peucestas
 
@@ -10271,8 +10271,8 @@
 :le:Pherusa
 :no:Pherus a_ae fem pers_name
 
-:le:Phialus
-:no:Phial us_i masc pers_name
+#:le:Phialus
+#:no:Phial us_i masc pers_name
 
 :le:Phigalus
 :no:Phigal us_i masc pers_name
@@ -11491,8 +11491,8 @@
 
 #noanalysis:Rhodophon
 
-:le:Rhoecus
-:no:Rhoec us_i masc pers_name
+#:le:Rhoecus
+#:no:Rhoec us_i masc pers_name
 
 :le:Rhoemetalces
 :no:Rhoemetalc es_is fem pers_name
@@ -12038,8 +12038,8 @@
 :le:Simplicius
 :no:Simplic ius_i masc pers_name
 
-:le:Simus
-:no:Sim us_i masc pers_name
+#:le:Simus
+#:no:Sim us_i masc pers_name
 
 :le:Simylus
 :no:Simyl us_i masc pers_name
@@ -12688,8 +12688,8 @@
 :le:Temenidae
 :no:Temenid a_ae fem pl pers_name
 
-:le:Temenites
-:no:Temenit es_is fem pers_name
+#:le:Temenites
+#:no:Temenit es_is fem pers_name
 
 :le:Temenus
 :no:Temen us_i masc pers_name
