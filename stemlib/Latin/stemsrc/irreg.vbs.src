@@ -221,41 +221,71 @@ auferr@emsub	irreg_pp1 imperf subj
 
 :le:effero#1
 :vb:effe^ro_	irreg_pp1 1st sg pres ind act
+:vb:ec-fe^ro_	irreg_pp1 1st sg pres ind act orth
 :vb:effe^rs	irreg_pp1 2nd sg pres ind act
+:vb:ec-fe^rs	irreg_pp1 2nd sg pres ind act orth
 :vb:effe^rt	irreg_pp1 3rd sg pres ind act
+:vb:ec-fe^rt	irreg_pp1 3rd sg pres ind act orth
 :vb:effe^rimus	irreg_pp1 1st pl pres ind act
+:vb:ec-fe^rimus	irreg_pp1 1st pl pres ind act orth
 :vb:effe^rtis	irreg_pp1 2nd pl pres ind act
+:vb:ec-fe^rtis	irreg_pp1 2nd pl pres ind act orth
 :vb:effe^runt	irreg_pp1 3rd pl pres ind act
+:vb:ec-fe^runt	irreg_pp1 3rd pl pres ind act orth
 
 :vb:effe^ror	irreg_pp1 1st sg pres ind pass
+:vb:ec-fe^ror	irreg_pp1 1st sg pres ind pass orth
 :vb:effe^rris	irreg_pp1 2nd sg pres ind pass
+:vb:ec-fe^rris	irreg_pp1 2nd sg pres ind pass orth
 :vb:effe^rtur	irreg_pp1 3rd sg pres ind pass
+:vb:ec-fe^rtur	irreg_pp1 3rd sg pres ind pass orth
 :vb:effe^rimur	irreg_pp1 1st pl pres ind pass
+:vb:ec-fe^rimur	irreg_pp1 1st pl pres ind pass orth
 :vb:effe^rimini_	irreg_pp1 2nd pl pres ind pass
+:vb:ec-fe^rimini_	irreg_pp1 2nd pl pres ind pass orth
 :vb:effe^runtur	irreg_pp1 3rd pl pres ind pass
+:vb:ec-fe^runtur	irreg_pp1 3rd pl pres ind pass orth
 :vb:effe^r	irreg_pp1 2nd sg pres imperat act
+:vb:ec-fe^r	irreg_pp1 2nd sg pres imperat act orth
 :vb:effe^rte	irreg_pp1 2nd pl pres imperat act
+:vb:ec-fe^rte	irreg_pp1 2nd pl pres imperat act orth
 
 :vb:effe^rto_	irreg_pp1 2nd sg fut imperat act
+:vb:ec-fe^rto_	irreg_pp1 2nd sg fut imperat act orth
 :vb:effe^rto_	irreg_pp1 3rd sg fut imperat act
+:vb:ec-fe^rto_	irreg_pp1 3rd sg fut imperat act orth
 :vb:effe^rto_te	irreg_pp1 2nd pl fut imperat act
+:vb:ec-fe^rto_te	irreg_pp1 2nd pl fut imperat act orth
 :vb:effe^runto_	irreg_pp1 3rd pl fut imperat act
+:vb:ec-fe^runto_	irreg_pp1 3rd pl fut imperat act orth
 
 :vb:effe^rre	irreg_pp1 2nd sg pres imperat pass
+:vb:ec-fe^rre	irreg_pp1 2nd sg pres imperat pass orth
 :vb:effe^rimini_	irreg_pp1 2nd pl pres imperat pass
+:vb:ec-fe^rimini_	irreg_pp1 2nd pl pres imperat pass orth
 
 :vb:effe^rtor	irreg_pp1 2nd sg fut imperat pass
+:vb:ec-fe^rtor	irreg_pp1 2nd sg fut imperat pass orth
 :vb:effe^rtor	irreg_pp1 3rd sg fut imperat pass
+:vb:ec-fe^rtor	irreg_pp1 3rd sg fut imperat pass orth
 :vb:aufe^runtor	irreg_pp1 3rd pl fut imperat pass
 
 :vs:effer	conj3 gerundive
+:vs:ec-fer	conj3 gerundive orth
 :vs:effe^r conj3 imperf ind
+:vs:ec-fe^r conj3 imperf ind orth
 efferr@emsub	irreg_pp1 imperf subj
+ec-ferr@emsub	irreg_pp1 imperf subj orth
 :vs:effe^r conj3 fut
+:vs:ec-fe^r conj3 fut orth
 :vs:effe^r conj3 subj pres
+:vs:ec-fe^r conj3 subj pres orth
 :vs:effe^r conj3 part
+:vs:ec-fe^r conj3 part orth
 :vb:efferre irreg_pp1 pres inf act
+:vb:ec-ferre irreg_pp1 pres inf act orth
 :vb:efferri_ irreg_pp1 pres inf pass
+:vb:ec-ferri_ irreg_pp1 pres inf pass orth
 :vs:
 :vs:ex-tul	perfstem
 :vs:e_-la_t	pp4
@@ -441,7 +471,7 @@ pro_der@ofut		fut ind act
 :vb:pro_desse		irreg_pp1 pres inf act
 :vs:pro_fut		pp4 fut part
 
-:le:supersum#1
+:le:supersum
 #
 :vb:supersum		irreg_pp1 1st sg pres ind act
 :vb:superes		irreg_pp1 2nd sg pres ind act
@@ -632,3 +662,51 @@ dui@basvb2	irreg_pp1 pres subj act early
 :le:cedo#2
 :vb:cedo	irreg_pp1 2nd sg pres imperat act
 :vb:cette	irreg_pp1 2nd pl pres imperat act
+
+
+:le:subsum
+#
+:vb:subsum		irreg_pp1 1st sg pres ind act
+:vb:subes		irreg_pp1 2nd sg pres ind act
+:vb:subest		irreg_pp1 3rd sg pres ind act
+:vb:subsumus	irreg_pp1 1st pl pres ind act
+:vb:subestis	irreg_pp1 2nd pl pres ind act
+:vb:subsunt	irreg_pp1 3rd pl pres ind act
+#
+subsi@basvb2	irreg_pp1 pres subj act
+subsie@basvb2	irreg_pp1 pres subj act early
+:vb:a_fuam	irreg_pp1 1st sg pres subj act early
+:vb:a_fua_s	irreg_pp1 2nd sg pres subj act early
+:vb:a_fuat	irreg_pp1 3rd sg pres subj act early
+:vb:a_fuant	irreg_pp1 3rd pl pres subj act early
+:vb:subfuam	irreg_pp1 1st sg pres subj act early
+:vb:subfua_s	irreg_pp1 2nd sg pres subj act early
+:vb:subfuat	irreg_pp1 3rd sg pres subj act early
+:vb:subfuant	irreg_pp1 3rd pl pres subj act early
+#
+subera@basvb2	irreg_pp1 imperf ind act
+subesse@basvb2	irreg_pp1 imperf subj act
+suber@ofut		irreg_pp1 fut ind act
+:vs:a_fu		perfstem
+:vs:subfu		perfstem
+#
+:vb:subes		irreg_pp1 2nd sg pres imperat act
+:vb:subeste	irreg_pp1 2nd pl pres imperat act
+
+#
+:vb:subesto_	irreg_pp1 2nd sg fut imperat act
+:vb:subesto_	irreg_pp1 3rd sg fut imperat act
+:vb:subesto_te	irreg_pp1 2nd pl fut imperat act
+:vb:subsunto_	irreg_pp1 3rd pl fut imperat act
+#
+:vb:subesse	irreg_pp1 pres inf act
+:vb:a_fore	irreg_pp1 fut inf act
+:vb:subfore	irreg_pp1 fut inf act
+a_fore@basvb2	irreg_pp1 imperf subj act early
+subfore@basvb2	irreg_pp1 imperf subj act early
+:vs:a_fut		pp4 fut part
+:vs:subfut		pp4 fut part
+subse_ns    	irreg_pp1 pres part masc/fem/neut nom/voc sg
+subse_ns    	irreg_pp1 pres part neut acc sg
+subsente    	irreg_pp1 pres part masc/fem/neut abl sg
+subsent@decl3_i	irreg_pp1 pres part masc fem neut

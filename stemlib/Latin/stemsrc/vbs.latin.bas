@@ -870,3 +870,74 @@
 
 :le:vulnero
 :de:volner	are_vb orth
+
+:le:ascribo
+:vs:a-scri_b	conj3
+:vs:a-scri_ps perfstem
+:vs:a-scri_pt pp4
+
+:le:astringo
+:vs:a-string	conj3
+:vs:a-strinx perfstem
+:vs:a-strict pp4
+
+:le:displodo
+:vs:dis-plod	conj3
+:vs:dis-plos pp4
+
+:le:exungo
+:vs:ex-ung^	conj3
+:vs:ex-unx perfstem
+:vs:ex-unct pp4
+
+:le:percaedo
+:vs:pe^r-caed	conj3 not_in_comp
+:vs:pe^r-ceci_d	perfstem has_redupl not_in_comp
+:vs:pe^r-caes	pp4 has_redupl not_in_comp
+
+:le:inunguo
+:vs:in-ungu^	conj3
+:vs:in-unx perfstem
+:vs:in-unct pp4
+
+:le:linio
+:vs:li^n		conj4
+:vs:li^ni_v    perfstem
+:vs:li^ni_t	pp4
+:le:lino
+:vs:li^n        conj3
+:vs:le_v perfstem
+:vs:li^t	pp4
+
+:le:percludo
+:vs:pe^r-clu_d	conj3
+:vs:pe^r-clu_s perfstem
+:vs:pe^r-clu_s pp4
+
+:le:perunguo
+:vs:pe^r-ungu^	conj3
+:vs:pe^r-unx perfstem
+:vs:pe^r-unct pp4
+:le:perungo
+:vs:pe^r-ung^	conj3
+:vs:pe^r-unx perfstem
+:vs:pe^r-unct pp4
+
+:le:praeungo
+:vs:prae-ung^	conj3
+:vs:prae-unx perfstem
+:vs:prae-unct pp4
+
+:le:revertor
+:vs:re^-vert	conj3 dep
+:vs:re^-vort	conj3 dep orth
+:vs:re^-vert	perfstem
+:vs:re^-vort	perfstem orth
+
+:le:reverto
+:vs:re^-vert	conj3
+:vs:re^-vort	conj3 orth
+:vs:re^-vert	perfstem
+:vs:re^-vort	perfstem orth
+:vs:re^-vers	pp4
+:vs:re^-vors	pp4 orth
