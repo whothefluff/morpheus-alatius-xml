@@ -67,7 +67,7 @@ Hortensius  Hortensius#2 (Roman gens)
 
 in  in#1 (preposition; in#2 the negation prefix is not analyzed copying the -ne behavior and others)
 
-inter   inter#1 (there is no inter2 in the L&S dictionary, it's a source file error)
+inter   inter
 
 laus    laus#1 (praise)
 Laus    Laus#2 (name of a few cities)
@@ -101,7 +101,7 @@ pecus	pecus#1 (cattle)
 pecus	pecus#2 (herd animal)
 pecus	pecus#3 (= pecus#1, rare masc. u-stem variant)
 
-per per#1 (there is no per2 in the L&S dictionary, it's a source file error)
+per per
 
 polus	polus#1
 Polus	Polus#2 (Greek tragic actor)

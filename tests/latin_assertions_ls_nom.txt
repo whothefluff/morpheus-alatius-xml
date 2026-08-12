@@ -195,6 +195,7 @@ apicius	apicius#1 (sought by bees)
 Apicius	Apicius#2 (a notorious epicure under Augustus and Tiberius)
 Apicianus	Apicius#2 (pertaining to Apicius#2)
 
+apis    apio (spelling for 'apo')
 apis	apis#1 (a bee)
 apis	apo (to fasten)
 Apis	Apis#2 (the ox worshipped as a god by the Egyptians)
