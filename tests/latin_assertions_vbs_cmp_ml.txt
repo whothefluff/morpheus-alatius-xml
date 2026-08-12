@@ -1,0 +1,1057 @@
+# form	required lemma
+
+abstineo	abstineo
+
+accolo	accolo
+adcolo	accolo
+
+adnasco	""
+adnascor	agnascor
+annascor	""
+annascor	agnascor
+annascor	""
+agnascor	agnascor
+
+adnavigo	adnavigo
+annavigo	adnavigo
+
+adnecto	annecto
+annecto	annecto
+
+annitor	annitor
+adnitor	annitor
+
+adnato	annato
+adnato	anno#1
+annato	annato
+annato	anno#1
+annato	anno#2 (no 'ad-' version since this one comes from 'annus')
+
+adno	anno#1
+annare	anno#1
+annare	anno#2
+
+adplaudo	applaudo
+applaudo	applaudo
+applodo	applaudo
+
+adprendo	apprehendo
+apprendo	apprehendo
+apprehendo	apprehendo
+
+adquiesco	acquiesco
+acquiesco	acquiesco
+
+adquiro	acquiro
+acquiro	acquiro
+
+adedo	adedo
+
+adito	adito
+adito	adeo#1
+
+affluo	affluo
+adfluo	affluo
+
+apiscor	apiscor
+
+adicio	adjicio
+adjicio	adjicio
+
+adscribo	ascribo
+ascribo	ascribo
+asscribo	ascribo
+
+aspicio	aspicio
+
+adspiro	aspiro
+aspiro	aspiro
+asspiro	aspiro
+
+adstringo	astringo
+astringo	astringo
+asstringo	astringo
+
+abcido	abcido
+
+abdo	abdo
+
+abeo	abeo
+
+abhorreo	abhorreo
+
+abicio	abicio
+
+aboleo	aboleo
+
+arrepo	arrepo
+
+abrumpo	abrumpo
+
+absum	absum
+
+abutor	abutor
+
+adaperio	adaperio
+
+adaugeo	adaugeo
+
+acclamito	acclamito
+
+accongero	accongero
+
+addecet	addecet
+
+adeo	adeo#1
+adeo	adeo#2 (thus)
+
+adexpeto	adexpeto
+
+afficio	afficio
+
+affero	affero
+
+affigo	affigo
+
+afflecto	afflecto
+
+affligo	affligo
+
+afflo	afflo
+
+affor	affor
+
+affrico	affrico
+
+affulgeo	affulgeo
+
+affundo	affundo
+
+agnosco	agnosco
+
+aggredio	aggredio
+aggredior	aggredior
+
+adhabito	adhabito
+
+adhorreo	adhorreo
+
+adindo	adindo
+
+adjubeo	adjubeo
+
+allabor	allabor
+
+allambo	allambo
+
+alloquor	alloquor
+
+annitor	annitor
+
+adopinor	adopinor
+
+appareo	appareo
+
+appendo	appendo
+
+applaudo	applaudo
+
+applico	applico
+
+appono	appono
+
+apporto	apporto
+
+appropero	appropero
+
+appropinquo	appropinquo
+
+acquiro	acquiro
+
+assector	assector
+
+assisto	assisto
+
+assoleo	assoleo
+
+asto	asto
+asto	astus#1 (shrewd)
+
+assuesco	assuesco
+
+adsum	adsum
+
+assurgo	assurgo
+
+attribulo	attribulo
+
+advereor	advereor
+
+adverro	adverro
+
+ambedo	ambedo
+
+anteeo	anteeo
+
+antefero	antefero
+
+circumdo	circumdo
+
+circumeo	circumeo
+
+circumfero	circumfero
+
+circumfodio	circumfodio
+
+circumgredior	circumgredior
+
+circumjaceo	circumjaceo
+
+circumjacio	circumicio
+circumicio	circumicio
+circumjicio	circumicio
+
+circumlavo	circumlavo
+
+circumlinio	circumlinio
+circumlino	circumlino
+
+circumloquor	circumloquor
+
+circumsedeo	circumsedeo
+circumsideo	circumsedeo
+
+circumspicio	circumspicio
+
+coalesco	coalesco
+
+coaresco	coaresco
+
+coeo	coeo
+
+concateno	concateno
+
+concomitor	concomitor
+
+concubo	concubo
+
+concustodio	concustodio
+
+condecet	condecet
+
+condenseo	condenso
+
+confabricor	confabricor
+
+confabulor	confabulor
+
+confacio	confacio
+
+confero	confero
+
+confercio	confercio
+
+confervesco	confervesco
+
+configuro	configuro
+
+conficio	conficio
+
+conflo	conflo
+
+confoedero	confoedero
+
+confrequento	confrequento
+
+confrio	confrio
+
+congratulor	congratulor
+
+conicio	conicio
+
+connecto	conecto
+conecto	conecto
+
+connitor	conitor
+conitor	conitor
+
+collabor	collabor
+
+collibet	collibet
+
+colluceo	colluceo
+
+compluit	compluit
+
+comprecor	comprecor
+
+comprehendo	comprehendo
+
+corrugo	corrugo
+corrugo	corrugus (a canal)
+
+consaepio	consaepio
+
+conscindo	conscindo
+
+consepelio	consepelio
+
+consolido	consolido
+
+consopio	consopio
+
+conspuo	conspuo
+
+conspurco	conspurco
+
+consueo	consueo
+
+contemero	contemero
+
+contero	contero
+
+contonat	contonat
+
+contorqueo	contorqueo
+
+contribulo	contribulo
+
+conquaero	conquiro
+conquiro	conquiro
+
+consacro	consecro
+consecro	consecro
+
+conspargo	conspergo
+conspergo	conspergo
+
+consubigo	consubigo
+
+convolnero	convulnero
+convulnero	convulnero
+
+contueor	contueor
+
+convescor	convescor
+
+convitio	convitio
+convitio	convitium (a loud noise)
+
+convoveo	convoveo
+
+coutor	coutor
+
+deambulo	deambulo
+
+dearmo	dearmo
+
+decarmino	decarmino
+
+decuriare	decurio#1
+
+decurro	decurro
+
+decurto	decurto
+
+deduco	deduco
+
+deeo	deeo
+
+deerro	deerro
+
+defero	defero
+
+defatiscor	defetiscor
+defetiscor	defetiscor
+
+defraudo	defraudo
+
+defremo	defremo
+
+defrico	defrico
+
+defruor	defruor
+
+defungor	defungor
+
+deglabro	deglabro
+
+deglubo	deglubo
+
+degrandinat	degrandinat
+
+degravo	degravo
+
+degrunnio	digrunnio
+digrunnio	digrunnio
+
+dehisco	dehisco
+
+deicio	deicio
+
+delavo	delavo
+
+delibro	delibro
+
+deliquo	deliquo
+deliquo	deliquus (wanting)
+
+demordeo	demordeo
+
+demoveo	demoveo
+
+denascor	denascor
+
+deoperio	deoperio
+
+depaciscor	depeciscor
+depeciscor	depeciscor
+
+depango	depango
+
+depecto	depecto
+
+depleo	depleo
+
+depolio	depolio
+
+depromo	depromo
+
+depudet	depudet
+
+depurgo	depurgo
+
+desaevio	desaevio
+
+desicco	desicco
+
+designo	designo
+
+despicio	despicio
+
+desugo	desugo
+
+desum	desum
+
+detendo	detendo
+
+detorno	detorno
+
+deutor	deutor
+
+devasto	devasto
+
+devello	devello
+
+devescor	devescor
+
+devorsor	deversor#1
+deversor	deversor#1
+
+devorto	deverto
+deverto	deverto
+
+dibucino	dibucino
+
+discrucio	discrucio
+
+diffiteor	diffiteor
+
+differo	differo
+
+diffido	diffido
+
+diffindo	diffindo
+
+dignosco	dinosco
+dinosco	dinosco	
+
+dilorico	dilorico
+
+dimoveo	dimoveo
+
+dispando	dispando
+
+dispartio	dispertio
+dispertio	dispertio
+
+dispergo	dispergo
+
+displodo	displodo
+displosus	displodo
+
+dispono	dispono
+
+dispudet	dispudet
+
+disrumpo	dirumpo
+dirumpo	dirumpo
+
+diripio	diripio
+
+dirigo	dirigo
+
+disseco	disseco
+
+dissipo	dissipo
+
+dissuo	dissuo
+
+distaedet	distaedet
+
+divorto	diverto
+diverto	diverto
+
+efficio	efficio
+ecfacio	efficio
+
+excio	excio
+
+excreo	excreo
+
+edico	edico
+
+exedo	exedo
+exedo	exedum (a plant)
+
+exeo	exeo
+
+ecfero	effero#1
+effero	effero#1
+effero	effero#2
+effero	efferus (very wild)
+
+effervesco	effervesco
+
+effleo	effleo
+
+effodio	effodio
+
+effreno	effreno
+effreno	effrenus (free from the bridle)
+
+effrico	effrico
+
+exgurgito	egurgito
+egurgito	egurgito
+
+eicio	eicio
+
+elabor	elabor
+
+emarcesco	emarcesco
+
+emolior	emolior
+
+emolo	emolo
+
+emoveo	emoveo
+
+enascor	enascor
+
+eneco	eneco
+
+enitesco	enitesco
+
+enitor	enitor
+
+enotesco	enotesco
+
+exordior	exordior
+
+exorior	exorior
+
+explico	explico
+
+expungo	expungo
+
+expatior	exspatior
+exspatior	exspatior
+
+explico	explico
+
+expergo	exspergo
+exspargo	exspergo
+exspergo	exspergo
+
+eripio	eripio
+
+eruo	eruo
+eruo	ervum (bitter vetch)
+
+exscindo	exscindo
+
+exseco	exseco
+
+exstinguo	exstinguo
+
+exunguo	""
+exungo	exungo
+
+evideor	evideor
+
+inaresco	inaresco
+
+inassero	inassero
+
+inaudio	inaudio
+
+incohibeo	incohibeo
+
+incresco	incresco
+
+incubare	incubo#1
+
+ineo	ineo
+
+infatigo	infatigo
+
+infero	infero
+infero	inferus (that is below)
+
+inflecto	inflecto
+
+infligo	infligo
+
+ingenerasco	ingenerasco
+
+ingredior	ingredior
+
+illudo	illudo
+
+inobscuro	inobscuro
+
+implico	implico
+
+irrideo	irrideo
+
+irrumpo	irrumpo
+
+inrado	irrado
+irrado	irrado
+
+insaepio	insaepio
+
+insigno	insigno
+
+insimilo	insimulo
+insimulo	insimulo
+
+insum	insum
+
+intercalco	interculco
+interculco	interculco
+
+interdo	interdo
+
+intersum	intersum
+
+interpremo	interprimo
+interprimo	interprimo
+
+intervorto	interverto
+interverto	interverto
+
+inungo	""
+inunguo	inunguo
+
+inurgeo	inurgeo
+
+invilito	invilito
+
+inviolo	inviolo
+
+interimo	interimo
+
+intereo	intereo
+
+interfio	interfio
+
+interfugio	interfugio
+
+interfundo	interfundo
+
+interlucesco	interlucesco
+
+intersileo	intersileo
+
+intersum	intersum
+
+introeo	introeo
+
+occano	occano
+
+occurro	occurro
+
+obduco	obduco
+
+obdulcesco	obdulcesco
+
+obeo	obeo
+
+occipio	occipio
+occoepi	occipio
+occepi	occipio
+
+obedo	obedo
+
+offuco	offoco
+offoco	offoco
+obfoco	offoco
+
+oppango	oppango
+obpango	oppango
+oppingo	oppango
+
+obstipesco	obstipesco
+obstupesco	obstipesco
+
+officio	officio
+officio	officium (a voluntary service)
+
+offero	offero
+
+offundo	offundo
+
+obirascor	obirascor
+
+objurgo	objurgo
+
+oblino	oblino
+
+oblinio	oblinio
+
+obnitor	obnitor
+
+oppono	oppono
+
+opporto	opporto
+
+obruo	obruo
+
+observito	observito
+
+obsto	obsto
+
+obsum	obsum
+
+obtorpeo	obtorpeo
+
+obtueor	obtueor
+
+obviolo	obviolo
+
+peraresco	peraresco
+
+percaedo	percaedo
+
+percedo	percedo
+
+perclamo	perclamo
+
+percludo	percludo
+
+percupio	percupio
+
+perdomo	perdomo
+
+pereo	pereo
+
+perextimeo	perextimeo
+
+perextimesco	perextimesco
+
+perfero	perfero
+perfero	perferus (very wild)
+
+perfingo	perfingo
+
+perfrico	perfrico
+
+perfrigeo	perfrigeo
+
+perfungor	perfungor
+
+perlibet	perlibet
+
+perlicet	perlicet
+
+perlinio	perlinio
+perlinivi	perlinio
+perlinitum	perlinio
+perlino	perlino
+perlevisti	perlino
+perlitum	perlino
+
+permoneo	permoneo
+
+permorior	permorior
+
+permoror	permoror
+
+pernarro	pernarro
+
+pernosco	pernosco
+
+pernuntio	pernuntio
+
+perodi	perodi
+
+perploro	perploro
+
+persuo	persuo
+
+pertaedeo	pertaedet
+pertaedet	pertaedet
+
+pertumesco	pertumesco
+
+perungo	perungo
+perunguo	perunguo
+
+perurgeo	perurgeo
+
+praeacuo	praeacuo
+
+praeaequo	praeaequo
+
+praecarpo	praecerpo
+praecerpo	praecerpo
+
+praecoepi	praecoepi
+
+praecrudesco	praecrudesco
+
+praeeo	praeeo
+
+praefero	praefero
+
+praegigno	praegigno
+
+praejacio	praeicio
+praejicio	praeicio
+praeicio	praeicio
+
+praeoro	praeoro
+
+praeostendo	praeostendo
+
+praepatior	praepatior
+
+praeplecto	praeplecto
+
+praepossum	praepossum
+
+praepropero	praepropero
+praepropero	praeproperus (too quick or hasty)
+
+praesidero	praesidero
+
+praespicio	praespicio
+
+praestinguo	praestinguo
+
+praesum	praesum
+
+praesuo	praesuo
+
+praeunguo	""
+praeungo	praeungo
+
+praevernat	praevernat
+
+praetemptare	praetento
+praetentare	praetento
+
+praeterago	praeterago
+
+praetereo	praetereo
+
+praeterfero	praeterfero
+
+praeterrado	praeterrado
+
+praetersum	praetersum
+
+praetervehor	praetervehor
+
+procreo	procreo
+
+proemineo	proemineo
+
+profiteor	profiteor
+
+profero	profero
+
+profluere	profluo
+
+progigno	progigno
+
+progeniculo	progeniculo
+
+prolugeo	prolugeo
+
+promutuor	promutuor
+
+propatior	propatior
+
+propurgo	propurgo
+
+prospicio	prospicio
+
+provegeo	provegeo
+
+provendo	provendo
+
+proverto	proverto
+
+prodeo	prodeo
+
+rebullio	rebullio
+
+recanto	recanto
+
+recalefacio	recalfacio
+recalfacio	recalfacio
+
+reclaudo	recludo
+recludo	recludo
+
+recingo	recingo
+
+recreo	recreo
+
+redeo	redeo
+
+refert	refert
+refert	refero
+
+refrico	refrico
+
+reliceor	reliceor
+
+relucesco	relucesco
+
+remundo	remundo
+
+renascor	renascor
+
+renitor	renitor
+
+repecto	repecto
+
+resalvare	resalvare
+
+retineo	retineo
+
+revello	revello
+
+revereor	revereor
+
+revivesco	revivisco
+revivisco	revivisco
+
+revolvo	revolvo
+
+revorto	reverto
+reverto	reverto
+
+revortor	reverto
+revortor	revertor
+revertor	revertor
+revertor	reverto
+
+redoperio	redoperio
+
+retrospicio	retrospicio
+
+saepio	saepio
+sepio	saepio
+
+subaduno	subaduno
+
+subedo	subedo
+
+subeo	subeo
+
+suberigo	suberigo
+
+suffero	suffero
+
+subirascor	subirascor
+
+sublugeo	sublugeo
+
+summitto	summitto
+
+subnecto	subnecto
+
+supereffero	supereffero
+
+superfio	superfio
+
+supergredior	supergredior
+supergradior	supergredior
+
+suppedo	suppedo
+
+suppudet	suppudet
+
+surripio	surripio
+
+surgo	surgo
+
+surringor	surringor
+
+surruo	surruo
+
+subsum	subsum
+
+suburo	suburo
+
+subvereor	subvereor
+
+supercurro	supercurro
+
+superegredior	superegredior
+
+superemorior	superemorior
+
+superfero	superfero
+
+superfigo	superfigo
+
+superfugio	superfugio
+
+superimpleo	superimpleo
+
+superinspicio	superinspicio
+
+superlabor	superlabor
+
+superperspicio	superperspicio
+
+superruo	superruo
+
+superstringo	superstringo
+
+supersum	supersum
+
+traduco	traduco
+
+transeo	transeo
+
+transfero	transfero
+
+transjungo	transjungo
+
+transsero	transero
+transero	transero
+
+traloquor	traloquor
+
+transmoveo	transmoveo
+
+transsumo	transsumo
+
+transvendo	transvendo
