@@ -1,15 +1,11 @@
 :le:sal
 :wd:sa_l	irreg_nom3 masc nom voc sg
+:wd:sa^le^  irreg_nom3 masc nom voc sg
 sa^l@decl3	irreg_nom3 masc
 
 :le:pus
 :wd:pu_s	irreg_nom3 neut nom acc voc sg
 pu_r@decl3	irreg_nom3 neut
-
-:le:lar
-:wd:la_r	irreg_nom3 masc nom voc sg
-:wd:la^rium	irreg_nom3 masc gen pl
-la^r@decl3	irreg_nom3 masc
 
 :le:par
 pa_r		irreg_adj3 masc fem neut nom voc sg
@@ -38,7 +34,7 @@ inpa^r@decl3	irreg_adj3 masc fem neut orth
 :wd:he_pa^r	irreg_nom3 neut nom voc acc sg
 he_pa^t@decl3	irreg_nom3 neut
 
-:le:anas
+:le:anas#1
 :wd:a^na^s	irreg_nom3 fem nom voc sg
 :wd:a^na^tium	irreg_nom3 fem gen pl
 a^na^t@decl3	irreg_nom3 fem
