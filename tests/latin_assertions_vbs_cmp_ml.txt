@@ -187,8 +187,6 @@ attribulo	attribulo
 
 advereor	advereor
 
-adverro	adverro
-
 ambedo	ambedo
 
 anteeo	anteeo
@@ -447,6 +445,7 @@ devescor	devescor
 
 devorsor	deversor#1
 deversor	deversor#1
+deversor	deversor#2
 
 devorto	deverto
 deverto	deverto
@@ -507,7 +506,7 @@ ecfacio	efficio
 
 excio	excio
 
-excreo	excreo
+excreo	exscreo
 
 edico	edico
 
@@ -957,8 +956,8 @@ revorto	reverto
 reverto	reverto
 
 revortor	reverto
-revortor	revertor
-revertor	revertor
+revortor	reverto
+revertor	reverto
 revertor	reverto
 
 redoperio	redoperio

@@ -159,10 +159,7 @@
 :le:vix
 :wd:vixdum adverb
 
-:le:ulterior
-:no:ulteri^ or_us_comp
-
-:le:summus
+:le:summopere
 :wd:summopere adverb
 
 :le:semimas
@@ -177,9 +174,6 @@
 
 :le:quot
 :wd:quotanni_s adverb
-
-:le:propior
-:no:pro^pi^ or_us_comp
 
 :le:praeses
 :no:praes es_idis masc fem neut
@@ -215,12 +209,6 @@
 :no:conge^ri^ es_eLi fem
 :no:conge^ri^ a_ae fem
 
-:le:ab
-:wd:ab	prep
-:wd:a_	prep
-:wd:abs	prep
-:wd:aps prep orth
-
 :le:abhinc
 :wd:abhinc adverb
 
@@ -244,7 +232,7 @@
 :wd:A^ga^memno	oLn_onis masc voc sg
 
 :le:agedum
-:wd:agedum 	adverb
+:wd:agedum 	exclam
 
 :le:Agonis
 :no:Agon	is_idis fem
@@ -349,11 +337,6 @@
 :le:bis
 :wd:bis		adverb
 
-:le:bonus
-:aj:meli	or_us_comp irreg_comp
-:aj:optim	us_a_um	irreg_superl
-:aj:optum	us_a_um	irreg_superl
-
 :le:Caepio
 :no:Caepi	o_oLnis masc
 
@@ -382,9 +365,6 @@
 
 :le:centum
 :wd:centum 	numeral
-
-:le:ceter
-:aj:ce_ter	us_a_um
 
 :le:certus
 :aj:cert	us_a_um
@@ -587,11 +567,13 @@
 :le:facilis
 :aj:fa^ci^llim	us_a_um irreg_superl
 
-:le:familia
-:wd:paterfamilia_s	irreg_decl3 nom masc sg
-:wd:patre_sfamilia_s	irreg_decl3 nom masc pl
-:wd:ma_terfamilia_s	irreg_decl3 nom fem sg
-:wd:ma_tre_sfamilia_s	irreg_decl3 nom fem pl
+:le:paterfamilias
+:wd:paterfamilia_s	irreg_nom3 nom masc sg
+:wd:patre_sfamilia_s	irreg_nom3 nom masc pl
+
+:le:materfamilias
+:wd:ma_terfamilia_s	irreg_nom3 nom fem sg
+:wd:ma_tre_sfamilia_s	irreg_nom3 nom fem pl
 
 :le:fas
 :wd:fa_s	indecl
@@ -672,9 +654,6 @@
 
 :le:Hispania
 :no:Hispa_ni	a_ae fem
-
-:le:honestus
-:aj:ho^nest 	us_a_um
 
 :le:honor
 :no:ho^n	or_oLris masc
@@ -765,10 +744,6 @@
 :le:lex
 :no:le_	x_gis fem
 
-:le:libet
-:aj:li^b ens_adj
-:aj:lu^b ens_adj
-
 :le:Libya
 :no:Liby	a_es fem
 
@@ -790,10 +765,6 @@
 
 :le:Magius
 :no:Mag	ius_i masc
-
-:le:magnus#1
-:aj:maxi^m	us_a_um irreg_superl
-:aj:maxu^m	us_a_um irreg_superl
 
 :le:manceps
 :no:manc 	eps_ipis masc
@@ -884,10 +855,6 @@
 :le:niger#1
 :aj:ni^g	er_ra_rum
 
-:le:nihil
-:wd:nihil 	irreg_decl3 neut sg indecl
-:wd:ni_l 	irreg_decl3 neut sg indecl
-
 :le:nondum
 :wd:no_ndum	conj
 
@@ -958,10 +925,6 @@
 :le:Panhormus
 :no:Panhorm	us_i masc
 
-:le:pars
-:no:par		s_tis fem
-:wd:partim	adverb
-
 :le:Patro
 :no:Patr	o_oLnis masc
 
@@ -1025,18 +988,6 @@
 :le:Populianus
 :aj:Populian	us_a_um
 
-:le:posterus
-:aj:poster	us_a_um no_comp
-:aj:poster	ior_ius_comp
-:aj:postre_m	us_a_um irreg_superl
-:aj:postu^m	us_a_um irreg_superl
-:no:postu^m	us_i masc
-:no:postu^m	us_i neut
-#:wd:poste^ri^us adverb
-:no:postu^m us_i neut
-#:no:poste^-ri^o_r	0_is masc pl
-#:no:poste^ri^o_r	0_is neut pl
-
 :le:postquam
 :wd:postquam	conj
 
@@ -1045,14 +996,6 @@
 :wd:pote	irreg_adj3 nom acc voc sg neut
 :aj:pot	is_e	comp
 :aj:pot is_e	superl
-
-:le:praesaepe
-:no:praesaepi	a_ae fem
-:no:praesaep	ius_i neut
-:no:praese_p	is_is neut
-:no:praese_p	is_is fem
-:no:praese_pi	a_ae fem
-:no:praese_p	ius_i neut
 
 :le:Preciani
 :aj:Precian	us_a_um
@@ -1101,10 +1044,6 @@
 :le:quia
 :wd:quia	conj
 
-:le:quies#1
-:no:qui^e_	s_tis fem
-:wd:quie 	irreg_nom3 abl fem sg early
-
 :le:quin
 :wd:qui_n	conj
 
@@ -1126,9 +1065,6 @@
 
 :le:quot
 :wd:quot	adverb
-
-:le:rectus
-:aj:re_ct	us_a_um
 
 :le:remex
 :no:re_m		ex_igis masc
@@ -1180,10 +1116,6 @@
 
 :le:semel
 :wd:semel	adverb
-
-:le:semianimis
-:aj:se_m-a^ni^m		is_e
-:aj:se_mi^-a^ni^m	us_a_um
 
 :le:semis
 :wd:se_mis	irreg_adj3	masc fem nom sg
@@ -1250,10 +1182,6 @@
 
 :le:stirps
 :no:stirp	s_is fem
-
-:le:supra
-:wd:supra_	prep
-:wd:supra_	adverb
 
 :le:tametsi
 :wd:tametsi_	conj
@@ -1338,11 +1266,6 @@
 
 :le:uti
 :wd:uti_	conj
-
-:le:ulter
-:aj:ulter	ior_ius_comp irreg_comp
-:aj:ultim	us_a_um irreg_superl
-:aj:ultum	us_a_um irreg_superl
 
 :le:umquam
 :wd:umquam	adverb

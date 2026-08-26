@@ -138,7 +138,7 @@ sed sed#2 (prep. 'without')
 sed sed#3 (alternative form of pronoun 'sē')
 
 super   supo (to throw/scatter)
-super	super#1 (L&S refers to superus)
+super	superus (nom. sg. of 'superus')
 super	super#2 (on top)
 
 tigridis tigris#1 (tiger)

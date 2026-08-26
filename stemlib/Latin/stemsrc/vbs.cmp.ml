@@ -110,7 +110,6 @@
 #circum-tondeo circumtondeo
 #circum-tremo circumtremo
 #circum-vento circumventor
-#circum-verro circumverro
 #co-adjuto coadjutor
 #co-adjutor#1 coadjutor
 #co-cio cocio
@@ -227,8 +226,6 @@
 #ex-torto extortor
 #ex-tremo extremo
 #ex-ungo exungo
-#ex-verso eversor
-#ex-versor eversor
 #in-acerbo inacerbo
 #in-auspico inauspicato
 #in-beo imber
@@ -398,7 +395,6 @@
 #re-tero retero
 #re-vereor reverendus
 #re-vero revera
-#re-verto reverto
 #red-dito redditor
 #se-caleo secale
 #se-co secundae
@@ -527,6 +523,7 @@ ad-propinquo appropinquo
 ad-quaero acquiro
 ad-quiesco acquiesco
 ad-repo arrepo
+ad-salio#2 assilio
 ad-scribo ascribo
 ad-sector#2 assector
 ad-sisto assisto
@@ -538,8 +535,8 @@ ad-suesco assuesco
 ad-sum#1 adsum
 ad-surgo assurgo
 ad-tribulo attribulo
+ad-tribuo attribuo
 ad-vereor advereor
-ad-verro adverro
 amb-edo ambedo
 amb-edo#2 ambedo
 ante-eo#1 anteeo
@@ -556,6 +553,7 @@ circum-jacio circumicio
 circum-lavo circumlavo
 circum-linio circumlinio
 circum-loquor circumloquor
+circum-salio#2 circumsilio
 circum-sedeo circumsedeo
 circum-specio circumspicio
 co-alesco coalesco
@@ -657,6 +655,7 @@ de-promo depromo
 de-pudeo depudet
 de-purgo depurgo
 de-saevio desaevio
+de-salio#2 desilio
 de-sicco desicco
 de-signo designo
 de-spicio despicio
@@ -668,8 +667,6 @@ de-uto deutor
 de-utor deutor
 de-vasto devasto
 de-vello devello
-de-verso deversor#1
-de-verto deverto
 de-vesco devescor
 dis-bucino dibucino
 dis-crucio discrucio
@@ -696,10 +693,9 @@ dis-seco disseco
 dis-sipo dissipo
 dis-suo dissuo
 dis-taedet distaedet
-dis-verto diverto
 ec-freno effreno
 ex-cieo excio
-ex-creo#1 excreo
+ex-creo#1 exscreo
 ex-dico#2 edico
 ex-edo exedo
 ex-edo#2 exedo
@@ -732,6 +728,7 @@ ex-plico explico
 ex-pungo expungo
 ex-rapio eripio
 ex-ruo eruo
+ex-salio#2 exsilio
 ex-scindo exscindo
 ex-seco exseco
 ex-spargo#1 exspergo
@@ -758,6 +755,7 @@ in-rado irrado
 in-rideo irrideo
 in-rumpo irrumpo
 in-saepio insaepio
+in-salio#2 insilio
 in-signo insigno
 in-sum#1 insum
 in-urgeo inurgeo
@@ -773,9 +771,7 @@ inter-fugio interfugio
 inter-fundo interfundo
 inter-lucesco interlucesco
 inter-premo interprimo
-inter-sileo intersileo
 inter-sum#1 intersum
-inter-verto interverto
 intro-eo#1 introeo
 ob-cano occano
 ob-coepio occipio
@@ -841,6 +837,7 @@ per-nosco pernosco
 per-nuntio pernuntio
 per-odi perodi
 per-ploro perploro
+per-salio#2 persilio
 per-suo persuo
 per-taedeo pertaedet
 per-tumesco pertumesco
@@ -886,10 +883,10 @@ pro-mutuo#2 promutuor
 pro-mutuor promutuor
 pro-patior propatior
 pro-purgo propurgo
+pro-salio#2 prosilio
 pro-specio prospicio
 pro-vegeo provegeo
 pro-vendo provendo
-pro-verto proverto
 re-bullio rebullio
 re-calefacio recalfacio
 re-canto recanto
@@ -909,11 +906,11 @@ re-nascor renascor
 re-nitor#1 renitor
 re-operio redoperio
 re-pecto repecto
+re-salio#2 resilio
 re-salvo resalvare
 re-teneo retineo
 re-vello revello
 re-vereor revereor
-re-verto reverto
 re-vivesco revivisco
 re-volvo revolvo
 red-eo#1 redeo
@@ -964,6 +961,7 @@ trans-fero transfero
 trans-jungo transjungo
 trans-loquor traloquor
 trans-moveo transmoveo
+trans-salio#2 transilio
 trans-sero#1 transero
 trans-sero#2 transero
 trans-sero#3 transero
