@@ -738,9 +738,6 @@
 :le:Laevus
 :no:Laev	us_i masc pers_name
 
-:le:laus#1
-:no:lau	s_dis fem
-
 :le:lex
 :no:le_	x_gis fem
 
