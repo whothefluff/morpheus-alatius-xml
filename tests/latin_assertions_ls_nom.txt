@@ -504,7 +504,6 @@ canis	canis#1 (a dog)
 canis	canus (hoary)
 canis	cano (to sing)
 Canis	Canis#2 (a small river tributary to the Po)
-Canis	Cana (Greek for 'canistra')
 Canis	Canae (a town on the coast of Aeolis)
 
 Canopicus	Canopus#1 (of Canopus#1)

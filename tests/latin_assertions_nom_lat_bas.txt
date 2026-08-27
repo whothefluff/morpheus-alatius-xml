@@ -13,7 +13,7 @@ aula	aula#2 (old form for 'olla', 'pot')
 
 canibus	canis#1 
 Canibus Canis#2 (a small river tributary to the Po)
-Canis   Canis#2 Cana Canae
+Canis   Canis#2 Canae
 
 casuum	casus#1
 Casus	Casus#2 (a river of Albania)
