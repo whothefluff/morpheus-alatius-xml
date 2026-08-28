@@ -1,4 +1,4 @@
-:le:adicio
+:le:adjicio
 :vs:adic conj3_io
 :vs:adjic conj3_io
 :vs:adje_c perfstem
@@ -721,7 +721,7 @@
 :le:aggravo
 :de:ag-gra^v	are_vb
 :le:aggredio
-:vs:ag-gre^d	conj3_io
+:vs:ag-gre^d	conj3_io act
 :le:aggredior
 :vs:ag-gre^d	conj3_io dep
 :vs:ag-gress pp4
@@ -933,7 +933,8 @@
 :de:a^ni^m	are_vb
 :le:annato
 :de:an-na^t	are_vb
-:le:annavigo
+:de:ad-na^t	are_vb orth
+:le:adnavigo
 :de:an-na_vi^g	are_vb
 :le:annecto
 :vs:an-nect	conj3
@@ -947,8 +948,6 @@
 :vs:an-ni_t	conj3 dep
 :vs:ad-ni_t	conj3 orth
 :vs:an-ni_s pp4
-:le:anno#1
-:de:an-n	are_vb
 :le:anno#2
 :de:ann	are_vb
 :le:annodo
@@ -1040,6 +1039,8 @@
 :vs:a^pert pp4
 :le:aperto
 :de:a^pert	are_vb
+:le:apio
+:vs:a^p	conj3_io
 :le:apo
 :vs:a^p	conj3
 :le:apolactizo
@@ -1106,10 +1107,6 @@
 :de:ap-postu^l	are_vb
 :le:apprecor
 :de:ap-pre^c	are_vb dep
-:le:apprehendo
-:vs:ap-pre^hend	conj3
-:vs:ap-pre^hend perfstem
-:vs:ap-pre^hens pp4
 :le:apprenso
 :de:apprens	are_vb
 :le:appretio
@@ -1330,9 +1327,8 @@
 :de:as-so^l	are_vb
 :le:assono
 :de:as-so^n	are_vb
-:le:asspiro
-:de:as-spi_r	are_vb
-:de:aspi_r	are_vb orth
+:le:aspiro
+:de:a-spi_r	are_vb
 :le:assudasso
 :vs:as-su_dass	conj3
 :le:assudesco
@@ -2069,6 +2065,8 @@
 :le:circumlino
 :vs:circum-li^n	conj3
 :vs:circum-li^t pp4
+:le:circumlinio
+:vs:circum-li^n	conj4
 :le:circumluo
 :vs:circum-lu^	conj3
 :le:circumlustro
@@ -3045,6 +3043,7 @@
 :de:con-demn	are_vb
 :le:condenso
 :de:condens	are_vb
+:vs:condens	conj2 orth
 :le:condepso
 :vs:con-deps	conj3
 :vs:con-depsu^ perfstem
@@ -5228,15 +5227,17 @@
 :vs:dis-perdi^t pp4
 :le:dispereo
 :vs:dis-pe^r	conj4
-:vs:dis-pe^ri perfstem
 :le:dispergo
 :vs:di-sperg	conj3
 :vs:di-spers perfstem
 :vs:du-spers pp4
 :le:disperno
 :vs:di-spern	conj3
+:le:dispertio
+:vs:dispert	conj4
+:vs:dispert perfstem
 :le:dispertior
-:de:dispert	ire_vb
+:de:dispert	ire_vb dep
 :le:dispesco
 :vs:dis-pe_sc	conj3
 :vs:dis-pest pp4
@@ -5577,8 +5578,11 @@
 :de:effe_t	are_vb
 :le:efficio
 :vs:ef-fi^c	conj3_io
+:vs:ec-fa^c	conj3_io orth
 :vs:ef-fe_c perfstem
+:vs:ec-fe_c perfstem orth
 :vs:ef-fect pp4
+:vs:ec-fect pp4 orth
 :le:effigio
 :de:effi^gi	are_vb
 :le:effindo
@@ -6471,7 +6475,6 @@
 :vs:expergi_sc	conj3 dep
 :vs:experre_ct pp4
 :le:expergo
-:vs:experg	conj3
 :vs:experg perfstem
 :vs:expergi^t pp4
 :le:expetesso
@@ -8513,7 +8516,8 @@
 :le:insigno
 :de:in-sign	are_vb
 :le:insimulo
-:de:in-si^mu^l	are_vb
+:de:in-si^mi^l	are_vb
+:de:in-si^mu^l	are_vb orth
 :le:insinuo
 :de:in-si^nu^	are_vb
 :le:insipo
@@ -10183,9 +10187,9 @@
 :le:nascor
 :vs:na_sc	conj3 dep
 :le:nasco
-:vs:na_sc	conj3
-:vs:na_t	pp4
-:vs:gna_t	pp4 orth
+:vs:na_sc	conj3 not_in_comp
+:vs:na_t	pp4 not_in_comp
+:vs:gna_t	pp4 orth not_in_comp
 :le:natinor
 :de:na^ti^n	are_vb dep
 :le:natito
@@ -10847,6 +10851,7 @@
 :vs:offlect	conj3
 :le:offoco
 :de:offo_c	are_vb
+:de:ob-fo_c	are_vb orth
 :le:offringo
 :vs:offring	conj3
 :vs:offre_g perfstem
@@ -10916,10 +10921,6 @@
 :vs:oppand	conj3
 :vs:oppand perfstem
 :vs:oppans pp4
-:le:oppango
-:vs:oppang	conj3
-:vs:oppe_g perfstem
-:vs:oppa_ct pp4
 :le:oppecto
 :vs:oppect	conj3
 :le:oppedo
@@ -11012,7 +11013,7 @@
 :le:pacificor
 :de:pa_ci^fi^c	are_vb dep
 :le:pacisco
-:vs:pa^ci_sc	conj3
+:vs:pa^ci_sc	conj3 act
 :le:paciscor
 :vs:pa^ci_sc	conj3 dep
 :vs:pact pp4
@@ -11586,8 +11587,6 @@
 :vs:per-li^c	conj2
 :le:perlimo
 :de:per-li_m	are_vb
-:le:perlino
-:de:per-li^n	ire_vb
 :le:perlito
 :de:per-li^t	are_vb
 :le:perluceo
@@ -12195,6 +12194,10 @@
 :vs:plaud	conj3
 :vs:plaus perfstem
 :vs:plaus pp4
+:le:plodo
+:vs:plod	conj3
+:vs:plos perfstem
+:vs:plos pp4
 :le:plausito
 :de:plausi^t	are_vb
 :le:plecto#1
@@ -13153,7 +13156,7 @@
 :vs:pro^fect pp4
 :le:proficisco
 :vs:pro^fi^ci_sc	conj3
-:le:pro^fiteor
+:le:profiteor
 :vs:pro^fi^t	conj2 dep
 :vs:pro^fess pp4
 :le:profligo#1
@@ -17022,7 +17025,8 @@
 :le:undo
 :de:und	are_vb
 :le:ungo
-:vs:ung	conj3
+:vs:ung	conj3 not_in_comp
+:vs:ungu^	conj3 not_in_comp
 :vs:unx perfstem
 :vs:unct pp4
 :le:unguento
@@ -17330,6 +17334,7 @@
 :de:vi^tu^pe^r	are_vb
 :le:vivesco
 :vs:vi_ve_sc	conj3
+:vs:vi_vi_sc	conj3 orth
 :vs:vi_x perfstem
 :le:vivido
 :de:vi_vi^d	are_vb

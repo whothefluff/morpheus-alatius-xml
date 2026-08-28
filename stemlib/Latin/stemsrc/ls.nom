@@ -18350,12 +18350,6 @@ astu_tu^lus
 :aj:a_stu_tu^l	us_a_um
 
 
-astus		
-:le:astus
-:aj:a_st	us_a_um
-
-
-astu_tus		<orth>astu_te_</orth>
 Asty^a^ges		
 :le:Astyages
 :aj:Asty^a^g	es_is masc
@@ -47998,11 +47992,12 @@ convi_ci^o^lum
 :no:convi_ci^o^l	us_i neut
 
 
-con-vi_ci^um		<orth>convi_ti^um</orth>	
 :le:convicium
 :no:con-vi_c	ius_i neut
-:no:convi_t	ius_i neut orth
 
+
+:le:convitium
+:no:convi_t	ius_i neut 
 
 
 convicti^o#1		
