@@ -1,5 +1,5 @@
-:le:Peter
-:no:Pet er_ri masc pers_name
+#:le:Peter
+#:no:Pet er_ri masc pers_name
 
 :le:Hipponiensis
 :aj:Hipponiens is_e ethnic
@@ -209,8 +209,8 @@
 :le:Dassaretii
 :no:Dassaret	ius_i masc group
 
-:le:Elaeus
-:no:Elae us_untis fem geog_name
+#:le:Elaeus
+#:no:Elae us_untis fem geog_name
 
 :le:Elatensis
 :no:Elatens	is_is masc fem group
@@ -281,8 +281,8 @@
 :le:Nabis
 :no:Nab	is_idis masc pers_name
 
-:le:Opus
-:no:Op	us_untis fem geog_name
+#:le:Opus
+#:no:Op	us_untis fem geog_name
 
 :le:Ottolobum
 :no:Ottolob	us_i neut geog_name
@@ -464,8 +464,8 @@
 :le:Nisuetae
 :no:Nisuet	a_ae masc pl
 
-:le:Oenus
-:no:Oen	us_untis masc
+#:le:Oenus
+#:no:Oen	us_untis masc
 
 :le:Peonus
 :aj:Peon	us_a_um
@@ -644,8 +644,8 @@
 :le:Hydrelitanum
 :no:Hydrelitan	us_i neut
 
-:le:Iasensis
-:no:Iasens	is_e
+#:le:Iasensis
+#:no:Iasens	is_e
 
 :le:Lampter
 :no:Lampt	er_eris masc pers_name
@@ -1333,8 +1333,8 @@
 :le:Edesco
 :no:Edesc	o_oLnis masc pers_name
 
-:le:Elis
-:no:El	is_is fem geog_name
+#:le:Elis
+#:no:El	is_is fem geog_name
 
 :le:Epicydes
 :no:Epicyd	es_ae masc pers_name
@@ -1719,8 +1719,8 @@
 :no:Inregill	us_i neut geog_name
 
 
-:le:Lars
-:no:Lar	s_tis masc pers_name
+#:le:Lars
+#:no:Lar	s_tis masc pers_name
 
 :le:Lucernus
 :no:Lucern	us_a_um
