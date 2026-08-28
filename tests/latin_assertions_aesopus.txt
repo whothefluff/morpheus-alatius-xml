@@ -457,6 +457,9 @@ illex   illex#2 (alluring)
 inlex   illex#2 (spelling)
 illix   illex#2 (alternative nom. sg.)
 
+infans  infans (that cannot speak)
+infas   infans (spelling)
+
 interrex    interrex (one who held the regal office between the death of one king and the election of another)
 
 irasco  irascor (act.)
@@ -627,6 +630,10 @@ plurumum    multus (superl. + adv.)
 
 myrtus	myrtus (a myrtle)
 murtus	myrtus (spelling)
+
+necopinans  necopinans (not expecting)
+necopinante necopinans (alt. abl. sg.)
+necopinanter    necopinans (adv.)
 
 nescium nescius (ignorant + subst.)
 
