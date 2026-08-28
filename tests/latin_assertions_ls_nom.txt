@@ -99,6 +99,7 @@ Albinus	Albinus#2 (a Roman family name)
 
 Albion	Albion#1 (an ancient name for Britain)
 Albion	Albion#2 (a son of Neptune)
+Albion	Albius (false positive: poetic Greek acc, from decl2 -on ending)
 
 alburnus	alburnus#1 (a white fish)
 Alburnus	Alburnus#2 (a mountain in Lucania)
@@ -144,8 +145,10 @@ anas	anas#2 (disease of old women)
 Anas	Anas#3 (a river in Spain)
 
 ancon	ancon#1 (the arm of a workman's square)
+ancon	ancus#1 (false positive: poetic Greek acc, from decl2 -on ending)
 Ancon	Ancon#2 (a headland and bay)
 Ancon	Ancon#3 (an ancient seaport town in the north of Picenum)
+Ancon	Ancus#2 (false positive: poetic Greek acc, from decl2 -on ending)
 Ancona	Ancon#3 (spelling for Ancon#3)
 Ancona	Ancon#2 (a headland and bay)
 
@@ -197,6 +200,7 @@ Apicianus	Apicius#2 (pertaining to Apicius#2)
 
 apis	apis#1 (a bee)
 apis	apo (to fasten)
+apis	apio (to fasten; variant of apo)
 Apis	Apis#2 (the ox worshipped as a god by the Egyptians)
 Apis	Apis#3 (a harbor in Lake Maeotis)
 
@@ -291,6 +295,7 @@ Asteria	Asteria#2 (the daughter of Polus and Phoebe)
 
 asterion	asterion#1 (a species of spider)
 Asterion	Asterion#2 (a river in Argolis)
+Asterion	Asterius (false positive: poetic Greek acc, from decl2 -on ending)
 
 astur	astur#1 (a species of hawk)
 Astur	Astur#2 (belonging to the province of Asturia)
@@ -333,6 +338,7 @@ Axius	Axius#2 (a river in Macedonia)
 
 axon	axon#1 (a line upon the sundial)
 Axon	Axon#2 (a river in Caria)
+Axon	Axus (false positive: poetic Greek acc, from decl2 -on ending)
 
 Baca	Baccha#1 (spelling for 'Baccha')
 Bacca	Baccha#1 (spelling for 'Baccha')
@@ -962,6 +968,7 @@ Echinus	Echinus#2 (a city of Phthiotis)
 
 echion	echion#1 (a medicament prepared from the ashes of adders)
 Echion	Echion#2 (one of the heroes who sprang up from the dragon's teeth sown by Cadmus)
+Echion	Echius (false positive: poetic Greek acc, from decl2 -on ending)
 
 electrus	electrus#1 (of amber)
 Electrus	Electrus#2 (son of Perseus and father of Alcmena)
@@ -1219,6 +1226,7 @@ Hydrus	Hydrus#2 (a city of Calabria)
 
 Iasius	Iasius#1 (son of Jupiter and Electra)
 Iasion	Iasion (spelling for 'Iasius')
+Iasion	Iasius#1 Iasius#2 (poetic Greek acc, from decl2 -on ending)
 Iasides Iasides (a male descendant of Iasius)
 Iasides Iasis (the daughter of Iasius)
 Iasis	Iasis (the daughter of Iasius)
@@ -1259,6 +1267,7 @@ Ilios	Ilios (spelling for 'Ilium')
 Ilios	Ilium#1 (a poetical name for Troy)
 Ilios	Ilius (belonging to Ilium)
 Ilion	Ilion (spelling for 'Ilium')
+Ilion	Ilius (poetic Greek acc, from decl2 -on ending)
 Ilienses	Ilienses#1 (inhabitants of Ilium)
 Ilienses	Ilienses#2 (a people in Sardinia)
 Iliacus	Iliacus#1 (belonging to Ilium)
@@ -1288,6 +1297,7 @@ Insula	Insula#2 (a part of Syracuse cut off from the rest by a narrow arm of the
 
 ion	ion#1 (a kind of violet)
 Ion	Ion#2 (an Athenian)
+Ion	Ius (false positive: poetic Greek acc, from decl2 -on ending)
 
 Iphis	Iphis#1 (a youth of Cyprus)
 Iphis	Iphis#2 (a Cretan girl who was changed into a man)
@@ -1728,6 +1738,7 @@ Medicus	Medicus#2 (Median)
 Medicus	Medi (a surname of the emperor Verus)
 
 medion	medion#1 (a medicinal plant)
+medion	medius (false positive: poetic Greek acc, from decl2 -on ending)
 Medion	Medion#2 (a city of Acarnania)
 
 Megara	Megara#1 (a Numantine)
@@ -1888,6 +1899,7 @@ Myrice	Myrice#2 (a nymph, from whom Hannibal's wife Imilce was said to be descen
 
 Myron	Myron#1 (a celebrated sculptor of Eleutherae in Attica)
 myron	myron#2 (an ointment, unguent)
+myron	myrus (false positive: poetic Greek acc, from decl2 -on ending)
 
 naevius	naevius#1 (that has a mole)
 Naevius	Naevius#2 (name of a Roman + belonging to a Naevius)
@@ -2743,6 +2755,7 @@ Scipio	Scipio#2 (the name of a celebrated family in the)
 
 Sciron	Sciron#1 (a noted robber on the rocky coast between Megaris and Attica)
 Sciron	Sciron#2 (an Epicurean philosopher in Cicero's time)
+Sciron	Scirus (false positive: poetic Greek acc, from decl2 -on ending)
 
 scrofa	scrofa#1 (a breeding-sow)
 Scrofa	Scrofa#2 (a Roman surname)
@@ -2809,6 +2822,7 @@ sino	sinum (a large, round drinking-vessel with swelling sides)
 sino	sino (to let)
 sinon	sinon#1 (an unknown herb)
 Sinon	Sinon#2 (son of Aesimus)
+Sinon	Sinus (false positive: poetic Greek acc, from decl2 -on ending)
 
 sion	sion#1 (water-parsley)
 Sion	Sion#2 (a hill of Jerusalem)
