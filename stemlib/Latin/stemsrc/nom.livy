@@ -768,8 +768,8 @@
 :le:Palensis
 :aj:Palens	is_e
 
-:le:Phryx
-:no:Phry	x_gis masc fem
+#:le:Phryx
+#:no:Phry	x_gis masc fem
 
 :le:Pleminianum
 :no:Pleminian	us_i neut geog_name

@@ -12,6 +12,8 @@ a   ah (spelling for 'ah')
 acerbum acerbus (calamity + harsh to the taste)
 acerbe  acerbus (adv.)
 
+Adiatorix   Adiatorix (king of the Comani)
+
 adultera    adultero
 adultera    adulter#1
 adultera    adulter#2
@@ -30,6 +32,12 @@ agedum  agedum (interjection)
 
 alienum alienus (stranger + a stranger)
 
+Allobrox    Allobrox (the Allobroges)
+Allobroges    Allobrox (the Allobroges)
+Allobrogicus    Allobrox (Allobrogian)
+
+Ambiorix    Ambiorix (chief of the Eburones in Gallia Belgica)
+
 angustum    angustus
 anguste angustus (adv.)
 
@@ -46,6 +54,11 @@ artum   artus#1
 artum   artus#2 (joint)
 arte    artus#1
 arte    ars
+
+arvix   arvix (a ram for offering)
+harvix   arvix (spelling)
+arviga   arviga (alternative)
+harviga   arviga (spelling)
 
 asperum asper#1 (rough + a rough place)
 asperiter   asper#1 (adv.)
@@ -69,6 +82,8 @@ baculus baculum (staff)
 
 bonae   bonus
 duonus  bonus
+
+Boiorix Boiorix (a person)
 
 breve   brevis
 brevi   brevis
@@ -121,6 +136,10 @@ cibaria cibarius
 cibarium    cibaria
 cibarium    cibarius
 
+Ciceromastix    Ciceromastix (a lampoon of Largius Licinius against Cicero)
+
+Cingetorix Cingetorix (a person)
+
 circumstantes   circumsto (by-standers)
 circumstantia   circumsto
 circumstantia   circumstantia
@@ -131,6 +150,8 @@ coacte  cogo
 coactu  coactus#2
 coactu  cogo
 coactum cogo (part. + 'a matress')
+
+coccyx  coccyx (a cuckoo)
 
 corcodilus	corcodilus (alternative of 'crocodilus')
 
@@ -149,6 +170,15 @@ conditu conditus#3 (a founding)
 conditu conditus#4 (a preserving of fruits)
 conditu condio
 conditu condo
+
+congrex congrex (of the same herd or flock)
+
+conjugatum conjugo (part.)
+conjuga conjugo (to join together)
+conjuga conjuga (a woman who is united in marriage)
+
+conjunx conjunx (one who is united in marriage)
+conjux conjunx (spelling)
 
 conspirati  conspiro#2
 conspirati  conspiro#1
@@ -222,6 +252,8 @@ dulciter	dulcis (adv.)
 dulce	dulcis (neut. + adv.)
 dulcis	dulcis (sweet)
 
+Dumnorix    Dumnorix (an Aeduan)
+
 dubium  dubius (moving in two directions + subst.)
 dubie   dubius (adv.)
 dubio   dubius (abl. + adv.)
@@ -254,9 +286,13 @@ elephantia  elephantia (alternative for 'elephantiasis')
 elephantiacus   elephantia (who labors under 'elephantiasis')
 elephanticus    elephanticus (alternative for 'elephantiacus')
 
+Eporedorix  Eporedorix (a person)
+
 exiguum exiguus (scanty + a little + a poor man + adv.)
 exigue  exiguus (adv.)
 exiguo  exiguus (scanty + a little + a poor man + adv.)
+
+exlegia   exlex (beyond the law)
 
 exscreo	exscreo (to hawk or cough)
 excreo	exscreo (spelling)
@@ -312,6 +348,14 @@ freni   frenum
 frivola    frivolus (trifling + triffles)
 frivole frivolus (adv.)
 
+frux    frux (fruits of the earth)
+frugi    frux (fruits of the earth)
+frugi   frugi (useful)
+frugalior   frugi (comp. of 'frugi')
+frugalior   frugalis (comp.)
+frugalissimus   frugi (superl. of 'frugi')
+frugalissimus   frugalis (superl.)
+
 fucus   fucus#1 (rock-lichen)
 fucus   fucus#2 (a drone)
 
@@ -322,7 +366,16 @@ gelus   gelum
 gelum   gelum (chill)
 gelu    gelum
 
+grammaticomastix    grammaticomastix (a scourge of grammarians)
+
 gratus	gratus (pleasing + a favorite)
+
+grex    grex (a flock)
+
+halmyrrhax  halmyrrhax (a kind of saltpetre)
+
+harpax    harpax#1 (drawing to itself)
+Harpax    Harpax#2 (the name of a slave)
 
 heu heu
 heus    heus
@@ -339,6 +392,8 @@ horae   hora#1 (an hour + a horologe)
 Horae   hora#1 (the Hours, daughters of Jupiter and Themis)
 Horae   Hora#2 (the wife of Quirinus)
 Horae   Ora#2 (spelling for 'Ora')
+
+Homeromastix    Homeromastix (the censurer of Homer)
 
 horto   hortor (act.)
 horto   hortus (a garden)
@@ -389,6 +444,21 @@ intuor  intueor (variant for 'intueor')
 intueor   intueor (to look at)
 intuo   intueor (act.)
 
+Iapyx   Iapyx (a son of Daedalus)
+Iapygia Iapyx (that part of Southern Italy over which Iapyx ruled)
+Iapygius    Iapyx (Iapygian)
+Iapyx   Iapyx (Iapygian)
+
+Iapygeus    Iapygeus (the wind usually called Iapyx)
+
+illex   illex#1 (without law)
+inlex   illex#1 (spelling)
+illex   illex#2 (alluring)
+inlex   illex#2 (spelling)
+illix   illex#2 (alternative nom. sg.)
+
+interrex    interrex (one who held the regal office between the death of one king and the election of another)
+
 irasco  irascor (act.)
 irascor irascor (to be angry)
 irate   irascor (adv.)
@@ -405,6 +475,8 @@ inritum irritus#1 (spelling for irritus#1)
 irrite  irritus#1 (adv. + imp. pl.)
 irrite  hirrio (imp. pl.)
 inrite  irritus#1 (adv.)
+
+iynx   iynx (the wryneck)
 
 jamque	jam (now)
 
@@ -424,6 +496,10 @@ lectum  lectus#2 (a couch or bed)
 lectum  lectus#3 (a reading)
 lecte   lego#2 (adv. from part.)
 lecte   lectus#2 (a couch or bed)
+
+leptorax    leptorax (a kind of grape-vine with very small berries)
+
+lex lex (a proposition or motion for a law made to the people by a magistrate)
 
 libet	libo#1 (to take a little from any thing)
 libet	libet (it pleases)
@@ -477,6 +553,8 @@ optime  bonus (adv.)
 optumus bonus (superl.)
 optume  bonus (adv.)
 
+Meninx  Meninx (an island off the coast of Africa)
+
 merito	merito#1 (deservedly)
 merito	merito#2 (to earn)
 merito	mereo (to deserve)
@@ -486,6 +564,8 @@ meritissime mereo (adv.)
 meritissime mereor (adv.)
 meritissimo mereo (dat/abl. + adv.)
 meritissimo mereor (dat/abl. + adv.)
+
+merthryx    merthryx (a false reading for myrtis)
 
 meus	meus (mine)
 meum	meus (mine)
@@ -607,6 +687,12 @@ omnino  omnino (altogether)
 orba    orbo (to deprive of dear persons)
 orba    orbus (bereft of parents or children + an orphan)
 
+Orgetorix   Orgetorix (chief of the Helvetii)
+
+ortyx   ortyx (a plant)
+
+oryx    oryx (a kind of wild goat or gazelle)
+
 partus   partus#2 (a bearing)
 parta   pario#2 (to bring forth + acquisitions)
 partus  pario#2 (to bring forth)
@@ -671,6 +757,28 @@ perpascor	perpasco (to graze)
 
 perturbata  perturbo (to throw into confusion or disorder)
 perturbate  perturbo (adv.)
+
+phalanx phalanx (a band of soldiers)
+falanx phalanx (spelling)
+
+phlox   phlox (a flower)
+
+pompholyx   pompholyx (a substance deposited from the smoke of smelting-furnaces)
+
+Phryx   Phryx#1 (a river in Ionia)
+Phryx   Phryx#2 (Phrygian)
+Phryx   Phryges (a Phrygian)
+Phryges Phryges (the Phrygians)
+Phryges Phryx#1 (a river in Ionia)
+Phryges Phryx#2 (Phrygian)
+Phrygia Phryges (the country of Phrygia)
+Phrygia Phryx#2 (Phrygian)
+Phrygianus  Phryges (= 'Phrixianus')
+phrygio Phryges (an embroiderer in gold)
+phrygionius Phryges (embroidered)
+Phrygiscus  Phryges (Phrygian)
+Phrygius    Phryges (Phrygian)
+Phrygicus   Phryges (a false read. for 'Phrygius')
 
 plenum  plenus (full + space occupied by matter)
 plene   plenus (adv.)
@@ -803,6 +911,8 @@ relicuus    reliquus (spelling)
 relliquus   reliquus (spelling)
 reliqus   reliquus (spelling)
 
+remex   remex (a rower)
+
 repperio	""
 reperio	reperio (to procure again)
 repperi	reperio (perf.)
@@ -818,6 +928,9 @@ reverto reverto (to turn back)
 revertor    reverto (spelling for 'reverto')
 revorto reverto (spelling for 'reverto')
 revertor    reverto (spelling for 'reverto')
+
+rex rex#1 (a ruler of a country)
+Rex Rex#2 ( surname in the gens Marcia)
 
 ridicula    ridicula (a little stake)
 ridicula    ridiculus (that excites laughter)
@@ -876,12 +989,16 @@ sancte  sancio (adv.)
 
 sarcophagum sarcophagus (a kind of limestone used for coffins + a grave)
 
+scaturex    scaturex (a bubbling or gushing spring)
+
 secretum    secerno (to put apart + something secret)
 secreto secerno (adv.)
 secrete secerno (adv.)
 secretim secerno (adv.)
 
 segregatus  segrego (to set apart from the flock)
+
+segrex  segrex (apart)
 
 semianimus  semianimis (half-alive, half-dead)
 semanimis  semianimis (spelling for the synizesis)
@@ -906,6 +1023,9 @@ solide  solidus (adv.)
 solutum solvo (to loosen an object from any thing)
 solute  solvo (adv.)
 
+Sphinx  Sphinx (a fabulous monster near Thebes that used to propose riddles to travellers)
+Sphingos  Sphinx (alternative gen. sg.)
+
 sterquilinium    sterquilinium (a dung-pit)
 sterquilinum    sterquilinium (spelling)
 sterculinium   sterculinium (spelling)
@@ -926,6 +1046,9 @@ persto  persto
 praesto praesto#2 praestus
 resto   resto
 supersto    supersto
+
+strix   strix#1 (a screech-owl)
+strix   strix#2 (a furrow)
 
 suum    suus (belonging to him/her/itself)
 sua suus (belonging to him/her/itself + a mistress)
@@ -955,6 +1078,10 @@ summum  superus (superl. + adv.)
 summe   superus (superl. + adv.)
 summe   supra (superl.)
 summopere   summopere (exceedingly)
+
+Syrinx  Syrinx (a nymph changed into a reed)
+Syringa Syrinx (alternative for 'Syrinx')
+syringes    Syrinx (caverns or subterraneous passages)
 
 tacitum taceo (part. 'to be or make quiet/content')
 tacenda taceo (part. 'to be or make quiet/content')
@@ -994,6 +1121,8 @@ vafer	vafer (cunning)
 vafre	vafre (cunningly)
 
 veneo	veneo (to go to sale)
+
+Vercingetorix   Vercingetorix (a commander of the Gauls in the Gallic War)
 
 verro   verro (to scrape)
 averro  averro (to sweep/brush off/away)

@@ -395,11 +395,6 @@
 :le:cohors
 :no:cohor	s_tis fem
 
-:le:conjunx
-:wd:conjunx	irreg_nom3 fem nom sg masc
-:no:conju	x_gis	fem masc
-:no:conju^g	a_ae fem masc
-
 :le:collegium
 :no:conle_g     ius_i neut orth
 
@@ -1079,9 +1074,6 @@
 
 :le:res
 :no:r		es_ei fem
-
-:le:Rex
-:no:Re_	x_gis masc pers_name
 
 :le:robur
 :no:ro_b us_oris neut
