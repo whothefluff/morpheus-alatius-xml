@@ -98359,10 +98359,9 @@ in-fandus
 :aj:in-fand	us_a_um
 
 
-in-fans		<orth>infas</orth>	<pos>adj.</pos>
-infans		<itype>fantis</itype>
 :le:infans
 :aj:inf	ans_adj
+:wd:infa_s irreg_adj3 masc fem neut nom sg
 
 
 infanta_ri^us		
@@ -132135,14 +132134,11 @@ necne^
 
 nec-non		<itype>also separately</itype>
 nec non		<orth>ne^que^ non</orth>
-ne^c-o^pi_nans		<orth>ne^c o^pi_nans</orth>	<itype>antis</itype>	
+
+
 :le:necopinans
 :aj:ne^c-o^pi_n	ans_adj
 
-
-ne^co^pi_nanter	
-:le:necopinanter
-:wd:ne^co^pi_nanter		adverb
 
 ne^c-o^pi_na_tus		<orth>ne^c o^pi_na_tus</orth>	
 :le:necopinatus
