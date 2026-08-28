@@ -1179,3 +1179,7 @@ vivum   vivus (alive)
 vive    vivus (adv.)
 vive    vivo (to live)
 viventes    vivo (part.)
+
+Zeuxidem    Zeuxis (a person)
+Zeuxidim    Zeuxis (alt. acc.)
+Zeuxidin    Zeuxis (alt. acc.)
