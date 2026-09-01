@@ -612,9 +612,6 @@
 :le:Gemellus
 :no:Gemell	us_i masc pers_name
 
-:le:gener
-:no:gener	0_i masc 
-
 :le:gens
 :no:g	ens_entis fem
 
