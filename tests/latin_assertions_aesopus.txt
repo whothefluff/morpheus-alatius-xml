@@ -362,6 +362,8 @@ fucus   fucus#2 (a drone)
 furfures    furfur (bran)
 furfur  furfur (bran)
 
+gener   gener (a son in law)
+
 gelus   gelum
 gelum   gelum (chill)
 gelu    gelum
@@ -494,6 +496,11 @@ lanifica    lanificus (wool-working + a wool-spinner)
 laudabile   laudabilis ('praiseworthy' + subst.)
 laudabiliter    laudabilis (adv.)
 
+Leander Leander (a young man of Abydos)
+Leandrus Leander (alternative)
+Leandricus  Leander (belonging to Leander)
+Leandrius   Leander (of Leander)
+
 lectum  lego#2 (part.)
 lectum  lectus#2 (a couch or bed)
 lectum  lectus#3 (a reading)
@@ -547,6 +554,12 @@ manifesto   manifestus ('palpable' + adv.)
 manifesto   manifesto#2 (to make public)
 
 manos   manon (alternative for 'manon')
+
+Menander    Menander (a person)
+Menandros   Menander (alternative)
+Menandrus   Menander (alternative)
+Menandreus  Menander (belonging to the poet Menander)
+Menandricus Menander (belonging to the poet Menander)
 
 meliores    melioro (to make better)
 meliores    bonus (comp.)
@@ -691,6 +704,9 @@ omnia   omnis ('every' + subst.)
 omnes   omnis (every + all persons)
 omnino  omnino (altogether)
 
+onager  onager (a wild ass)
+onagrus  onager (alternative)
+
 orba    orbo (to deprive of dear persons)
 orba    orbus (bereft of parents or children + an orphan)
 
@@ -699,6 +715,11 @@ Orgetorix   Orgetorix (chief of the Helvetii)
 ortyx   ortyx (a plant)
 
 oryx    oryx (a kind of wild goat or gazelle)
+
+pagrus  pagrus (a fish)
+phagrus  pagrus (a fish)
+phager  phager (a fish)
+pager  phager (a fish)
 
 partus   partus#2 (a bearing)
 parta   pario#2 (to bring forth + acquisitions)
@@ -859,6 +880,8 @@ prius   prior (previous + adv.)
 pristinum   pristinus#1 (former)
 pristinum   pristinus#2 (belonging to the constellation of the Whale)
 pistrinus   pristinus#2 (spelling for pristinus#2)
+
+progener    progener (a granddaughter’s husband)
 
 proprium    proprius (particular + a posession)
 proprie proprius (adv.)

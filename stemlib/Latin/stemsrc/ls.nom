@@ -80746,9 +80746,8 @@ ge^ne^a_lo^gus
 :no:ge^ne^a_lo^g	us_i masc
 
 
-ge^ner		
 :le:gener
-:no:ge^n	er_ri masc
+:no:ge^ne^r	0_i masc 
 
 
 ge^ne^ra_bi^lis		
@@ -110105,18 +110104,11 @@ Le^aena#2
 :no:Le^aen	a_ae fem
 
 
-Le_ander		<orth>Le_andrus</orth>	
 :le:Leander
-:no:Le_and	er_i masc
-
-
-Le_andri^cus		
-:le:Leandricus
+:no:Le_and	er_ri masc
+:wd:Le_andru^s irreg_nom2 masc nom sg orth
+:wd:Le_andre^ irreg_nom2 masc voc sg orth
 :aj:Le_andri^c	us_a_um
-
-
-Le_andri^us		
-:le:Leandrius
 :aj:Le_andr	ius_ia_ium
 
 
@@ -122359,18 +122351,12 @@ Me^na^lippus		<orth>Me^la^nip-pus</orth>
 
 
 
-Me^nander		<orth>Me^nandros</orth>	<orth>-us</orth>	
 :le:Menander
-:no:Me^nand	er_i masc
-
-
-Me^nandre_us		
-:le:Menandreus
+:no:Me^nand	er_ri masc
+:wd:Me^nandru^s irreg_nom2 masc nom sg orth
+:wd:Me^nandro^s irreg_nom2 masc nom sg orth
+:wd:Me^nandre^ irreg_nom2 masc voc sg orth
 :aj:Me^nandre_	us_a_um
-
-
-Me^nandri^cus		
-:le:Menandricus
 :aj:Me^nandri^c	us_a_um
 
 
@@ -139405,9 +139391,10 @@ ompha^los
 :no:ompha^l	os_i masc
 
 
-o^na^ger		<orth>o^na_^grus</orth>	
 :le:onager
-:no:o^na^g	er_i masc
+:no:o^na^g	er_ri masc
+:wd:o^na^gru^s irreg_nom2 masc nom sg orth
+:wd:o^na^gre^ irreg_nom2 masc voc sg orth
 
 
 o^na_gos		
@@ -143086,7 +143073,11 @@ pagmentum
 :no:pagment	us_i neut
 
 
-pagrus		<orth type=alt>phagr-</orth>	<orth>pa^ger</orth>	<orth type=alt>ph-</orth>	<itype>ri</itype>	<gen>m.</gen>
+:le:pagrus
+:no:pa^gr us_i masc
+:no:pha^gr us_i masc orth
+
+
 pa^gur		<itype>i</itype>	<gen>m.</gen>
 pa^gu_rus		
 :le:pagurus
@@ -153147,11 +153138,9 @@ pha^ge^daeni^cus
 :aj:pha^ge^daeni^c	us_a_um
 
 
-pha^ger		<orth type=alt>pa-</orth>	<orth>pha^grus</orth>	<orth type=alt>pa-</orth>	
 :le:phager
-:no:pha^g	er_i masc
-:no:pa^g	er_i masc orth
-
+:no:pha^g	er_ri masc
+:no:pa^g	er_ri masc orth
 
 
 Pha^gi_ta		
@@ -164648,9 +164637,10 @@ pro^fu_sor
 
 
 pro_-gemmans		<itype>antis</itype>
-pro_-ge^ner		
+
+
 :le:progener
-:no:pro_-ge^n	er_i masc
+:no:pro_-ge^ne^r	0_i masc
 
 
 pro_ge^ne^ra_tio		
