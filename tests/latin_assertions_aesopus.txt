@@ -27,8 +27,12 @@ aequum	aequus (a plain + fariness)
 aeque	aequus (adv.)
 aequiter	aequiter (equally)
 
-age ago (imperative or interjection)
-agedum  agedum (interjection)
+age ago (imperative)
+age age (interjection)
+agite ago (imperative)
+agite age (interjection)
+agedum  age (interjection)
+agitedum  age (interjection)
 
 alienum alienus (stranger + a stranger)
 
