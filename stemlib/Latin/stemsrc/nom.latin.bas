@@ -1,9 +1,6 @@
 :le:dum
 :wd:dummodo	conj
 
-:le:ago
-:wd:agitedum	adverb
-
 :le:nurus
 :no:nu^r	us_us fem
 
@@ -230,9 +227,6 @@
 
 :le:Agamemnon
 :wd:A^ga^memno	oLn_onis masc voc sg
-
-:le:agedum
-:wd:agedum 	exclam
 
 :le:Agonis
 :no:Agon	is_idis fem
