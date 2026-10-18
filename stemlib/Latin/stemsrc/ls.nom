@@ -123456,9 +123456,9 @@ merce_na_ri^us
 :no:merce_na_r	ius_i masc
 
 
-merces#1		
 :le:merces#1
 :no:merc	es_eLdis fem
+:wd:merce^m irreg_nom3 fem acc sg
 
 
 merci^mo_ni^um		
@@ -123768,9 +123768,11 @@ me^rum
 
 	<pos>adv.</pos>
 me^re_	
-merx		<itype>cis</itype>	<gen>f.</gen>
+
+
 :le:merx
 :no:mer	x_cis fem
+:wd:merce_s irreg_nom3 fem nom sg
 
 mers	
 me^sa		
