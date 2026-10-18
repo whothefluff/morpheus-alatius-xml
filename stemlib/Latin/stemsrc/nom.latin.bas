@@ -772,11 +772,6 @@
 :no:m	ens_entis fem
 :no:ment	is_is fem nom sg
 
-:le:merces1
-:no:merc	es_idis fem
-:no:merc	es_is fem acc sg
-:no:merc	es_is fem abl dat pl
-
 :le:mercenarius
 :aj:merce_na_ri^	us_a_um
 :aj:mercenna_ri^	us_a_um

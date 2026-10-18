@@ -575,6 +575,13 @@ optume  bonus (adv.)
 
 Meninx  Meninx (an island off the coast of Africa)
 
+merces  merces#1 (pay)
+merces  merx ("wares" + old nom. sg.)
+mercem  merces#1 (alternative acc.)
+mercem  merx (acc.)
+mercibus    merx (dat/abl. pl.)
+mercidis    ""
+
 merito	merito#1 (deservedly)
 merito	merito#2 (to earn)
 merito	mereo (to deserve)
