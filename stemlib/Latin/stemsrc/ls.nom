@@ -89547,30 +89547,18 @@ Hy_lo^no^me_
 :no:Hy_lo^no^m	e_es fem
 
 
-Hy_^men		<itype>e^nis</itype>
 :le:Hymen
-:no:Hy^men	0_is masc pers_name
+:no:Hy^_men	0_is masc pers_name
+:no:hy^_men	0_is masc
+:aj:Hyme^na_i^c	us_a_um
 
-Hy^me^naeus		<orth>-os</orth>	
+
 :le:Hymenaeus
-:no:Hy^me^nae	us_i masc pers_name
-
-
-Hy^me^ne_i^us		
-:le:Hymeneius
-:aj:Hy^me^ne_	ius_ia_ium
-
-
-Hy^me^na_i^cus		
-:le:Hymenaicus
-:aj:Hy^me^na_i^c	us_a_um
-
-
-Hymenaeus		<orth type=alt>-os</orth>	<orth>Hymenei+-us</orth>	
-:le:Hymenaeus
-:aj:Hymenae	us_a_um
-:aj:Hymenei+-	us_a_um orth
-
+:no:Hyme^nae	us_i masc pers_name
+:wd:Hyme^naeo^s irreg_nom2 masc nom sg orth
+:no:hyme^nae	us_i masc
+:wd:hyme^naeo^s irreg_nom2 masc nom sg orth
+:aj:Hyme^ne_	ius_ia_ium
 
 
 Hy^mettus		<orth>-os</orth>	

@@ -413,6 +413,15 @@ humani  humanus (belonging to man + masc. subst.)
 humane  humanus (adv.)
 humaniter   humanus (adv.)
 
+Hymen   Hymen (the god of marriage)
+hymen   Hymen (a nuptial song + a wedding)
+Hymenaicus  Hymen (belonging to a nuptial song)
+Hymenaeus   Hymenaeus (alternative for 'Hymen')
+Hymenaeos   Hymenaeus (alternative nominative)
+hymenaeus   Hymenaeus (a nuptial song + a wedding)
+hymenaeos   Hymenaeus (acc. pl. + alternative nominative)
+Hymeneius   Hymenaeus (belonging to Hymen)
+
 ignotum ignosco (to pardon)
 ignotum ignotus#2 ('unknown' + subst.)
 
