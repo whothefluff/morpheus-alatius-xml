@@ -649,9 +649,6 @@
 :no:Hortens	ius_i masc
 :no:Horte_s	ius_i masc
 
-:le:Hymenaeus
-:no:hymenae	us_i masc
-
 :le:Idus
 :no:I_d		us_us fem pl is_month
 :no:Eid		us_us fem pl is_month
