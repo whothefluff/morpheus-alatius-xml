@@ -65,7 +65,7 @@ hortensius  hortensis (belonging to a garden)
 hortensius  hortensius#1 (belonging to a garden)
 Hortensius  Hortensius#2 (Roman gens)
 
-in  in#1 (preposition; in#2 the negation prefix is not analyzed copying the -ne behavior and others)
+in  in#1 is eo#1 (preposition; isne and eo's isne cut short; in#2 the negation prefix is not analyzed copying the -ne behavior and others)
 
 inter   inter
 

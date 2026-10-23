@@ -1,0 +1,184 @@
+# Whole forms of the words whose -ne is cut short to n (W2 onwards in run_xml_tests.sh): Catullus's and Amphitruo's,
+# then Plautus's and Terence's others, the words Morpheus reads in their own right too (in, quin, eon), and the forms
+# outside the comedies. One line per reading Morpheus answers with, and it answers with no other: the word, the lemma,
+# the stem (a whole form has no suffix) and the infl's other elements in their order, but derivtype. A word's W number
+# is 1 plus its place among the words here.
+viden	video	vi^de_^n	verb indicative singular 2nd present active conj2
+satin	satis	sa^ti^n	adverb adverb indeclform
+satin	satis	sa^ti^n	irregular neuter indecl indeclform
+ain	aio	a^in	verb indicative singular 2nd present active irreg_pp1
+scin	scio	sci_n	verb indicative singular 2nd present active conj4
+vin	volo#1	vi_n	verb indicative singular 2nd present active irreg_pp1
+audin	audio	audi_n	verb indicative singular 2nd present active conj4
+pergin	pergo	pergin	verb indicative singular 2nd present active conj3
+cognoscin	cognosco	cogno_scin	verb indicative singular 2nd present active conj3
+potin	potis	potin	adjective 3rd nominative feminine singular irreg_adj3 indeclform
+potin	potis	potin	adjective 3rd nominative masculine singular irreg_adj3 indeclform
+potin	potis	potin	adjective 3rd nominative neuter singular irreg_adj3 indeclform
+cenavin	ceno	ce_na_vi_n	verb indicative singular 1st perfect active avperf
+audivistin	audio	audi_visti_n	verb indicative singular 2nd perfect active ivperf
+valuistin	valeo	va^lu^isti_n	verb indicative singular 2nd perfect active perfstem
+vidistin	video	vi_disti_n	verb indicative singular 2nd perfect active perfstem
+tun	tu	tu_n	pronoun nominative feminine singular pron2 indeclform
+tun	tu	tu_n	pronoun nominative masculine singular pron2 indeclform
+abin	abeo	abi_^n	verb indicative singular 2nd present active irreg_pp1
+redin	redeo	re^di_^n	verb indicative singular 2nd present active irreg_pp1
+iuben	jubeo	ju^be_^n	verb indicative singular 2nd present active conj2
+sanan	sanus	sa_nan	adjective 1st & 2nd nominative feminine singular us_a_um indeclform
+sanun	sanus	sa_nun	adjective 1st & 2nd nominative masculine singular us_a_um indeclform
+exspectatun	exspecto	exspecta_tun	verb participle nominative masculine participle singular perfect passive pp4
+censen	censeo#1	ce_nse_n	verb indicative singular 2nd present active conj2
+credin	credo	cre_din	verb indicative singular 2nd present active conj3
+haben	habeo	ha^be_^n	verb indicative singular 2nd present active conj2
+sponden	spondeo	sponde_n	verb indicative singular 2nd present active conj2
+fugin	fugio	fu^gin	verb indicative singular 2nd present active conj3_io
+tacen	taceo	ta^ce_^n	verb indicative singular 2nd present active conj2
+accipin	accipio	acci^pin	verb indicative singular 2nd present active conj3_io
+auden	audeo	aude_n	verb indicative singular 2nd present active conj2
+dicin	dico#2	di_cin	verb indicative singular 2nd present active conj3
+faterin	fateor	fa^te_rin	verb indicative singular 2nd present passive conj2
+mittin	mitto	mittin	verb indicative singular 2nd present active conj3
+perdormiscin	perdormisco	perdormi_scin	verb indicative singular 2nd present active conj3
+praeben	praebeo	praebe_n	verb indicative singular 2nd present active conj2
+reddin	reddo	reddin	verb indicative singular 2nd present active conj3
+rerin	reor	re_rin	verb indicative singular 2nd present passive conj2
+valen	valeo	va^le_^n	verb indicative singular 2nd present active conj2
+dan	do	da_n	verb indicative singular 2nd present active irreg_pp1
+dabin	do	da^bin	verb indicative singular 2nd future active irreg_pp1
+auferen	aufero	aufe^re_n	verb indicative singular 2nd future active conj3
+poterin	possum	poterin	verb indicative singular 2nd future active irreg_pp1
+possin	possum	possi_n	verb subjunctive singular 2nd present active irreg_pp1
+patierin	patior	pa^tie_rin	verb indicative singular 2nd future passive conj3_io
+datin	do	da^tin	verb indicative plural 2nd present active irreg_pp1
+aperitin	aperio	a^pe^ri_tin	verb indicative plural 2nd present active conj4
+auditin	audio	audi_tin	verb indicative plural 2nd present active conj4
+habetin	habeo	ha^be_tin	verb indicative plural 2nd present active conj2
+pergitin	pergo	pergitin	verb indicative plural 2nd present active conj3
+properatin	propero	pro^pe^ra_tin	verb indicative plural 2nd present active conj1
+scitin	scio	sci_tin	verb indicative plural 2nd present active conj4
+statin	sto	sta_tin	verb indicative plural 2nd present active conj1
+videtin	video	vi^de_tin	verb indicative plural 2nd present active conj2
+nostin	nosco	no_sti_n	verb indicative singular 2nd perfect active ovperf contr
+novistin	nosco	no_visti_n	verb indicative singular 2nd perfect active ovperf
+novin	nosco	no_vi_n	verb indicative singular 1st perfect active ovperf
+iussin	jubeo	jussi_n	verb indicative singular 1st perfect active perfstem
+meministin	memini	meministi_n	verb indicative singular 2nd perfect active perfstem
+audistin	audio	audi_sti_n	verb indicative singular 2nd perfect active ivperf contr
+tetigistin	tango	te^ti^gisti_n	verb indicative singular 2nd perfect active perfstem
+accepistin	accipio	acce_pisti_n	verb indicative singular 2nd perfect active perfstem
+adnuistin	annuo	adnu^isti_n	verb indicative singular 2nd perfect active perfstem
+convenistin	convenio	conve_nisti_n	verb indicative singular 2nd perfect active perfstem
+emistin	emo	e_misti_n	verb indicative singular 2nd perfect active perfstem
+iuravistin	juro	ju_ra_visti_n	verb indicative singular 2nd perfect active avperf
+offirmastin	offirmo	offirma_sti_n	verb indicative singular 2nd perfect active avperf contr
+perdidistin	perdo	perdi^disti_n	verb indicative singular 2nd perfect active perfstem
+promisistin	promitto	pro_mi_sisti_n	verb indicative singular 2nd perfect active perfstem
+promistin	promitto	pro_mi_sti_n	verb indicative singular 2nd perfect active perfstem contr
+scivin	scio	sci_vi_n	verb indicative singular 1st perfect active ivperf
+sensistin	sentio	sensisti_n	verb indicative singular 2nd perfect active perfstem
+surrupuistin	surripio	surrupuisti_n	verb indicative singular 2nd perfect active perfstem early
+dixtin	dico#2	di_xti_n	verb indicative singular 2nd perfect active perfstem contr
+adduxtin	adduco	addu_xti_n	verb indicative singular 2nd perfect active perfstem contr
+intellextin	intellego	intelle_xti_n	verb indicative singular 2nd perfect active perfstem contr
+inconciliastin	inconcilio	inconci^lia_sti_n	verb indicative singular 2nd perfect active avperf contr
+fuistin	sum#1	fuisti_n	verb indicative singular 2nd perfect active perfstem
+dedistin	do	de^disti_n	verb indicative singular 2nd perfect active perfstem
+dedin	do	de^di_^n	verb indicative singular 1st perfect active perfstem
+abiturun	abeo	ab:itu_run	verb participle nominative masculine participle singular future active pp4
+ituran	eo#1	itu_ran	verb participle nominative feminine participle singular future active pp4
+daturin	do	da^tu_ri_n	verb participle nominative masculine participle plural future active pp4
+ratun	reor	ra^tun	verb participle nominative masculine participle singular perfect passive pp4
+visun	video	vi_sun	verb participle nominative neuter participle singular perfect passive pp4
+nuptan	nubo	nu_ptan	verb participle nominative feminine participle singular perfect passive pp4
+compressan	comprimo	compressa_n	verb participle ablative feminine participle singular perfect passive pp4
+redductan	reduco	re^dducta_n	verb participle ablative feminine participle singular perfect passive pp4
+serviren	servio	servi_ren	verb infinitive present active conj4
+itan	ita	i^tan	adverb adverb indeclform
+certon	certo#1	certo_n	adverb adverb indeclform
+certon	certus	certo_n	adjective 1st & 2nd ablative neuter singular us_a_um indeclform
+certen	certus	certe_n	adverb adverb indeclform
+quon	quo	quo_n	adverb adverb indeclform
+sicin	sicine	si_cin	adverb adverb indeclform
+hicin	hic	hicin	pronoun nominative masculine singular demonstr indeclform
+hicin	hicine	hi_cin	adverb adverb indeclform
+veron	vero#1	ve_ro_n	adverb adverb indeclform
+perpetuen	perpetuus	perpe^tu^e_n	adverb adverb indeclform
+planen	planus#1	pla_ne_n	adverb adverb indeclform
+salven	salve	salve_n	adverb adverb indeclform
+usquin	usque	usquin	adverb adverb indeclform
+utin	ut	utin	adverb adverb indeclform
+nuncin	nunc	nuncin	adverb adverb indeclform
+falson	fallo	falso_n	adverb adverb indeclform
+quian	quia	quian	conjunction conj indeclform
+ean	is	ea_^n	pronoun ablative feminine singular pron3 indeclform
+illan	ille	illa_n	pronoun ablative feminine singular demonstr indeclform
+ipson	ipse	ipso_n	pronoun ablative masculine singular demonstr indeclform
+haecin	hic	haecin	pronoun accusative neuter plural demonstr indeclform
+haecin	hic	haecin	pronoun nominative feminine singular demonstr indeclform
+haecin	hic	haecin	pronoun nominative neuter plural demonstr indeclform
+istacin	iste	ista_cin	pronoun ablative feminine singular demonstr indeclform
+tutin	tu	tu_tin	pronoun nominative feminine singular pron2 indeclform
+tutin	tu	tu_tin	pronoun nominative masculine singular pron2 indeclform
+mein	ego	mei_^n	pronoun genitive feminine singular pron1 indeclform
+mein	ego	mei_^n	pronoun genitive masculine singular pron1 indeclform
+mean	meus	me^a_^n	adjective 1st & 2nd ablative feminine singular us_a_um indeclform
+mean	meus	me^an	adjective 1st & 2nd accusative neuter plural us_a_um indeclform
+mean	meus	me^an	adjective 1st & 2nd nominative feminine singular us_a_um indeclform
+mean	meus	me^an	adjective 1st & 2nd nominative neuter plural us_a_um indeclform
+mean	meus	me^an	adjective 1st & 2nd vocative feminine singular us_a_um indeclform
+mean	meus	me^an	adjective 1st & 2nd vocative neuter plural us_a_um indeclform
+bonan	bonus	bo^na_^n	adjective 1st & 2nd ablative feminine singular us_a_um indeclform
+tuan	tuus	tu^a_^n	adjective 1st & 2nd ablative feminine singular us_a_um indeclform
+tuin	tuus	tu^i_^n	adjective 1st & 2nd genitive masculine singular us_a_um indeclform
+tuon	tuus	tu^o_^n	adjective 1st & 2nd ablative masculine singular us_a_um indeclform
+tanton	tantus	tanto_n	adjective 1st & 2nd ablative neuter singular us_a_um indeclform
+alienun	alienus	a^li^e_nun	adjective 1st & 2nd nominative masculine singular us_a_um indeclform
+alienon	alienus	a^li^e_no_n	adjective 1st & 2nd dative masculine singular us_a_um indeclform
+bellan	bellus	bella_n	adjective 1st & 2nd ablative feminine singular us_a_um indeclform
+bellan	bellus	bellan	adjective 1st & 2nd nominative feminine singular us_a_um indeclform
+binan	bini	bi_nan	adjective 1st & 2nd accusative neuter plural us_a_um indeclform
+binan	bini	bi_nan	adjective 1st & 2nd nominative neuter plural us_a_um indeclform
+binan	bini	bi_nan	adjective 1st & 2nd vocative neuter plural us_a_um indeclform
+brevin	brevis	bre^vi_^n	adjective 3rd dative masculine singular is_e indeclform
+dignun	dignus	dignun	adjective 1st & 2nd nominative masculine singular us_a_um indeclform
+facilen	facilis	fa^ci^len	adverb adverb indeclform
+ingenuan	ingenuus	inge^nu^an	adjective 1st & 2nd nominative feminine singular us_a_um indeclform
+insanin	insanus#1	insa_ni_n	adjective 1st & 2nd nominative masculine plural us_a_um indeclform
+lignean	ligneus	ligne^a_n	adjective 1st & 2nd ablative feminine singular us_a_um indeclform
+nullan	nullus	nu_llan	adjective 1st & 2nd nominative feminine singular us_a_um indeclform
+nullon	nullus	nu_llo_n	adjective 1st & 2nd ablative neuter singular us_a_um indeclform
+omnian	omnis	omnian	adjective 3rd accusative neuter plural is_e indeclform
+omnian	omnis	omnian	adjective 3rd nominative neuter plural is_e indeclform
+omnian	omnis	omnian	adjective 3rd vocative neuter plural is_e indeclform
+salvan	salvus	salvan	adjective 1st & 2nd nominative feminine singular us_a_um indeclform
+eunuchon	eunuchus	eunu_cho_n	noun 2nd ablative masculine singular us_i indeclform
+amorin	amor	a^mo_ri_n	noun 3rd dative masculine singular or_oLris indeclform
+criminin	crimen	cri_mi^ni_n	noun 3rd dative neuter singular men_minis indeclform
+Cupidon	Cupido	Cu^pi_do_n	noun 3rd nominative masculine singular o_inis indeclform
+filiolon	filiolus	fi_li^o^lo_n	noun 2nd ablative masculine singular us_i indeclform
+iocon	jocus	jo^co_^n	noun 2nd ablative masculine singular us_i indeclform
+magistron	magister	ma^gistro_n	noun 2nd dative masculine singular er_ri indeclform
+mancupion	mancipium	mancu^pi^o_n	noun 2nd ablative neuter singular ius_i indeclform
+mercaturan	mercatura	merca_tu_ra_n	noun 1st ablative feminine singular a_ae indeclform
+pacton	pactum	pacto_n	noun 2nd ablative neuter singular us_i indeclform
+peniculon	peniculus	pe_ni^cu^lo_n	noun 2nd ablative masculine singular us_i indeclform
+servin	servus#2	servi_n	noun 2nd nominative masculine plural us_i indeclform
+servon	servus#2	servo_n	noun 2nd dative masculine singular us_i indeclform
+servon	servus#2	servon	noun 2nd nominative masculine singular us_i indeclform
+uxorin	uxor	uxo_ri_n	noun 3rd dative feminine singular or_oLris indeclform
+Venerin	Venus#1	Ve^neri_n	noun 3rd dative feminine singular us_eris indeclform
+Cererin	Ceres	Cere^ri_n	noun 3rd dative feminine singular irreg_nom3 indeclform
+in	eo#1	i_n	verb indicative singular 2nd present active irreg_pp1
+in	in#1	in	preposition prep indeclform
+in	is	in	pronoun nominative masculine singular pron3 indeclform
+quin	qui#2	qui_n	pronoun nominative masculine singular relative indeclform
+quin	quin	qui_n	conjunction conj indeclform
+eon	eo#1	eo_^n	verb indicative singular 1st present active irreg_pp1
+eon	eon	e+o_n	noun 3rd nominative feminine singular oLn_oLnis
+talin	talis	ta_li_n	adjective 3rd ablative feminine singular is_e indeclform
+talin	talis	ta_li_n	adjective 3rd dative feminine singular is_e indeclform
+talin	talis	ta_li_n	adjective 3rd dative neuter singular is_e indeclform
+sentin	sentio	senti_n	verb indicative singular 2nd present active conj4
+ferron	ferrum	ferro_n	noun 2nd ablative neuter singular us_i indeclform
+min	ego	mi_n	pronoun dative feminine singular pron1 indeclform
+min	ego	mi_n	pronoun dative masculine singular pron1 indeclform

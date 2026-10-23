@@ -158,6 +158,8 @@ IDs are grouped by what they assert:
   etc.). A failure here means morpheus accidentally matches cruncher's old
   behavior where it was supposed to have changed it, or produced something
   outside the intended divergence.
+- **W*n*** — Whole forms: a word whose -ne is cut short to n (viden, satin,
+  tun) answers with its whole form alone, not with the guess for a final n.
 
 Plain-English meaning of each:
 
@@ -181,14 +183,19 @@ Plain-English meaning of each:
 | N6             | no literal `(null)` text leaks into gender/pofs output                  |
 | N7             | comment lines produce a single well-formed `<words>` document           |
 | N8             | a multi-token input line only analyzes the first token                  |
+| W1             | eo's in and eon are eo's alone, abin and redin abeo's and redeo's:      |
+|                | dein, proin and exin stay the adverbs, with no deeo, prodeo or exeo     |
+| W2–W152        | each word of the kind (viden, satin, tun, censen, nostin, in, quin…)    |
+|                | answers with its lines in tests/xml_whole_forms.txt (lemma, stem        |
+|                | without a suffix, grammar) and nothing else                             |
 
 ### Result levels
 
 - `PASS`/`FAIL` — hard checks: build/link smoke tests, well-formedness,
   flag/argv-handling checks (flag-n-arg, argv-cleanup, P8), known/unknown-word
   partition parity (P1), lemma set/order parity (P2), stemtype set parity
-  (P3), determinism (P6), exit codes (P7), and the N1–N8 divergence checks.
-  A `FAIL` here blocks the suite (`exit 1`).
+  (P3), determinism (P6), exit codes (P7), the N1–N8 divergence checks and
+  the W1–W152 whole-form checks. A `FAIL` here blocks the suite (`exit 1`).
 - `WARN` — soft checks: golden-baseline text diffs (informational — see
   above), and feature-token coverage (P4) / case-gender expansion counts (P5)
   from the comparator script, which use an approximate normalization map and

@@ -503,4 +503,67 @@ test_n8() {
 test_n8
 
 # ---------------------------------------------------------------------------
+# 6. Words whose -ne is cut short to n (W1-W152): whole forms, not the guess for a final n
+# ---------------------------------------------------------------------------
+hr "Words whose -ne is cut short to n"
+
+# W1: eo's in and eon are eo's alone, and abin and redin abeo's and redeo's, not forms that every compound of eo
+# gets, so dein, proin and exin stay the adverbs deinde, proinde and exinde, with no deeo, prodeo or exeo
+test_w1() {
+    local word lemma out
+    while read -r word lemma; do
+        out=$(mktemp)
+        printf '%s\n' "$word" | "$MORPHEUS" -L >"$out" 2>/dev/null
+        if [ "$(grep -c '<entry>' "$out")" -eq 1 ] && grep -qF "<hdwd xml:lang=\"lat\">$lemma</hdwd>" "$out"; then
+            pass "W1: $word is $lemma alone, untouched by eo's in and eon and by abin's and redin's forms"
+        else
+            fail "W1: expected $word as one entry of $lemma (lemmas: $(grep -o '<hdwd[^>]*>[^<]*' "$out" | sed 's/.*>//' | sort -u | tr '\n' ' '))"
+        fi
+        wf_check "W1 ($word)" "$out"
+        rm -f "$out"
+    done <<'EOF'
+dein deinde
+proin proinde
+exin exinde
+EOF
+}
+test_w1
+
+# The readings of a word, one per infl as tests/xml_whole_forms.txt writes them: word, lemma, stem (+suffix), grammar
+xml_readings() {
+    printf '%s\n' "$1" | "$MORPHEUS" -L 2>/dev/null | awk -v word="$1" '
+        /<hdwd/ { l = $0; gsub(/.*<hdwd[^>]*>|<\/hdwd>.*/, "", l); lemma = l; next }
+        /<infl>/ { ininfl = 1; stem = ""; suff = ""; g = ""; next }
+        /<\/infl>/ { print word "\t" lemma "\t" stem (suff != "" ? "+" suff : "") "\t" substr(g, 2); ininfl = 0; next }
+        ininfl && /<term/ {
+            stem = $0; sub(/.*<stem>/, "", stem); sub(/<\/stem>.*/, "", stem)
+            if ($0 ~ /<suff>/) { suff = $0; sub(/.*<suff>/, "", suff); sub(/<\/suff>.*/, "", suff) }
+            next
+        }
+        ininfl && /<derivtype>/ { next }
+        ininfl { t = $0; gsub(/<[^>]*>/, "", t); gsub(/&amp;/, "\\&", t); if (t != "") g = g " " t }' | LC_ALL=C sort
+}
+
+# W2 onwards: each word of the kind answers with its lines in tests/xml_whole_forms.txt and nothing else, so the
+# guess for a final n is gone
+test_whole_forms_file() {
+    local file="$SCRIPT_DIR/xml_whole_forms.txt" n=2 word expected actual out
+    for word in $(grep -v '^#' "$file" | cut -f1 | awk 'NF && !seen[$0]++'); do
+        expected=$(awk -F'\t' -v w="$word" '$1 == w' "$file" | LC_ALL=C sort)
+        actual=$(xml_readings "$word")
+        if [ "$actual" = "$expected" ]; then
+            pass "W$n: $word answers with its whole forms alone"
+        else
+            fail "W$n: $word: expected [$(printf '%s' "$expected" | cut -f2- | tr '\n' ';')], got [$(printf '%s' "$actual" | cut -f2- | tr '\n' ';')]"
+        fi
+        out=$(mktemp)
+        printf '%s\n' "$word" | "$MORPHEUS" -L >"$out" 2>/dev/null
+        wf_check "W$n ($word)" "$out"
+        rm -f "$out"
+        n=$((n + 1))
+    done
+}
+test_whole_forms_file
+
+# ---------------------------------------------------------------------------
 finish
