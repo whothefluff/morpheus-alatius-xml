@@ -683,6 +683,7 @@ ei_	pron3 masc fem neut dat sg
 e@decl1 pron3 fem acc sg
 e@decl1 pron3 fem abl sg
 :wd:ea_^n	pron3 fem abl sg
+:wd:eo_^n	pron3 masc abl sg
 
 e@decl1 pron3 fem pl
 ii_s	pron3 masc fem neut dat pl
