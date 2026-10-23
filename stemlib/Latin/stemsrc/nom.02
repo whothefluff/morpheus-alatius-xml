@@ -78,6 +78,7 @@
 
 :le:hicine
 :wd:hi_cine	adverb
+:wd:hi_cin	adverb
 
 :le:hucine
 :wd:hu_cine	adverb
@@ -200,6 +201,7 @@
 
 :le:bini
 :aj:bi_n	us_a_um
+:wd:bi_nan	us_a_um neut nom voc acc pl
 
 :le:terni
 :aj:tern	us_a_um

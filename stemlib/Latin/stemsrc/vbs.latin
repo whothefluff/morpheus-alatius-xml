@@ -222,6 +222,8 @@
 :vs:ac-ci^p	conj3_io
 :vs:ac-ce_p perfstem
 :vs:ac-cept pp4
+:vb:acci^pin		conj3_io 2nd sg pres ind act
+:vb:acce_pisti_n		perfstem 2nd sg perf ind act
 :le:accipitro
 :de:acci^pi^tr	are_vb
 :le:acclamo
@@ -385,6 +387,7 @@
 :vs:ad-du_c	conj3
 :vs:ad-du_x perfstem
 :vs:ad-duct pp4
+:vb:addu_xti_n		perfstem 2nd sg perf ind act contr
 :le:adequito
 :de:a^d-e^qui^t	are_vb
 :le:aderro
@@ -978,6 +981,7 @@
 :vs:an-nu^ perfstem
 :vs:ad-nu^ perfstem orth
 :vs:an-nu_t pp4
+:vb:adnu^isti_n		perfstem 2nd sg perf ind act
 :le:annuto
 :de:an-nu_t	are_vb
 :le:annutrio
@@ -1051,6 +1055,7 @@
 :vs:a^pe^r	conj4
 :vs:a^pe^ru^ perfstem
 :vs:a^pert pp4
+:vb:a^pe^ri_tin		conj4 2nd pl pres ind act
 :le:aperto
 :de:a^pert	are_vb
 :le:apio
@@ -1907,8 +1912,10 @@
 :de:ce_ni^t	are_vb
 :le:ceno
 :de:ce_n	are_vb
+:vb:ce_na_vi_n		avperf 1st sg perf ind act
 :le:censeo#1
 :vs:ce_ns	conj2
+:vb:ce_nse_n		conj2 2nd sg pres ind act
 :le:censeo#2
 :vs:cens	conj2
 :le:centesimo
@@ -2417,6 +2424,7 @@
 :vs:co-gno_sc	conj3
 :vs:co-gn ovperf
 :vs:co-gni^t pp4
+:vb:cogno_scin		conj3 2nd sg pres ind act
 :le:cogo
 :vs:co_g	conj3
 :vs:co^e_g perfstem
@@ -2873,6 +2881,7 @@
 :vs:con-press perfstem
 :vs:com-press pp4
 :vs:con-press pp4
+:vb:compressa_n		pp4 perf part pass fem abl sg
 :le:comprobo
 :de:com-pro^b	are_vb
 :le:compromitto
@@ -3704,6 +3713,7 @@
 :vs:con-ve^n	conj4
 :vs:con-ve_n perfstem
 :vs:con-vent pp4
+:vb:conve_nisti_n		perfstem 2nd sg perf ind act
 :le:convento
 :de:convent	are_vb
 :le:convenusto
@@ -3874,6 +3884,7 @@
 :vs:cre_d	conj3
 :vs:cre_di^d perfstem
 :vs:cre_di^t pp4
+:vb:cre_din		conj3 2nd sg pres ind act
 :le:cremo
 :de:cre^m	are_vb
 :le:crepito
@@ -4979,6 +4990,8 @@
 :vs:dict pp4
 :vb:di_xti_	perfstem 2nd sg perf ind act contr
 :vb:di_xtis	perfstem 2nd pl perf ind act contr
+:vb:di_cin		conj3 2nd sg pres ind act
+:vb:di_xti_n	perfstem 2nd sg perf ind act contr
 :le:dictito
 :de:dicti^t	are_vb
 :le:dicto
@@ -5914,6 +5927,7 @@
 :vs:e^m	conj3
 :vs:e_m perfstem
 :vs:e_mpt pp4
+:vb:e_misti_n		perfstem 2nd sg perf ind act
 :le:emoderor
 :de:e_-mo^de^r	are_vb dep
 :le:emodulor
@@ -6686,6 +6700,7 @@
 :de:ex-spa^ti	are_vb
 :le:exspecto
 :de:ex-spect	are_vb
+:vb:exspecta_tun		pp4 perf part pass masc nom sg
 :le:exspergo
 :vs:ex-sperg	conj3
 :vs:ex-spers pp4
@@ -6917,6 +6932,7 @@
 :le:fateor
 :vs:fa^t	conj2 dep
 :vs:fass pp4
+:vb:fa^te_rin		conj2 2nd sg pres ind pass
 :le:fatigo
 :de:fa^ti_g	are_vb
 :le:fatisco
@@ -7246,6 +7262,7 @@
 :vs:fu^g	conj3_io
 :vs:fu_g perfstem
 :vs:fu^gi^t pp4
+:vb:fu^gin		conj3_io 2nd sg pres ind act
 :le:fugito
 :de:fu^gi^t	are_vb
 :le:fugo
@@ -7463,6 +7480,8 @@
 :vs:ha^b	conj2
 :vs:ha^bu^ perfstem
 :vs:ha^bi^t pp4
+:vb:ha^be_^n		conj2 2nd sg pres ind act
+:vb:ha^be_tin		conj2 2nd pl pres ind act
 :le:habito
 :de:ha^bi^t	are_vb
 :le:habituo
@@ -8029,6 +8048,7 @@
 :de:incommo^d	are_vb
 :le:inconcilio
 :de:in-conci^li	are_vb
+:vb:inconci^lia_sti_n		avperf 2nd sg perf ind act contr
 :le:inconstruo
 :vs:inconstru^	conj3
 :le:incoprio
@@ -8711,6 +8731,7 @@
 :vs:intelle^g	conj3
 :vs:intelle_x perfstem
 :vs:intelle_ct pp4
+:vb:intelle_xti_n		perfstem 2nd sg perf ind act contr
 :le:intendo
 :vs:in-tend	conj3
 :vs:in-tend perfstem
@@ -9355,6 +9376,8 @@
 :vs:ju^b	conj2
 :vs:juss perfstem
 :vs:juss pp4
+:vb:ju^be_^n		conj2 2nd sg pres ind act
+:vb:jussi_n		perfstem 1st sg perf ind act
 :le:jubilo
 :de:ju_bi^l	are_vb
 :le:jucundo
@@ -9381,6 +9404,7 @@
 :de:ju_rg	are_vb
 :le:juro
 :de:ju_r	are_vb
+:vb:ju_ra_visti_n		avperf 2nd sg perf ind act
 :le:juror
 :de:ju_r	are_vb dep
 :le:justifico
@@ -10081,6 +10105,7 @@
 :vs:mitt	conj3
 :vs:mi_s perfstem
 :vs:miss pp4
+:vb:mittin		conj3 2nd sg pres ind act
 :le:mobilito
 :de:mo_bi^li^t	are_vb
 :le:modero
@@ -10380,6 +10405,7 @@
 :vs:nu_b	conj3
 :vs:nu_ps perfstem
 :vs:nu_pt pp4
+:vb:nu_ptan		pp4 perf part pass fem nom sg
 :le:nucleo
 :de:nu_^cl	are_vb
 :le:nudo
@@ -10922,6 +10948,7 @@
 :vs:offi_x pp4
 :le:offirmo
 :de:offirm	are_vb
+:vb:offirma_sti_n		avperf 2nd sg perf ind act contr
 :le:offlecto
 :vs:offlect	conj3
 :le:offoco
@@ -11207,6 +11234,7 @@
 :le:patior
 :vs:pa^t	conj3_io dep
 :vs:pass pp4
+:vb:pa^tie_rin		conj3_io 2nd sg fut ind pass
 :le:patrisso
 :de:pa_^triss	are_vb
 :le:patro
@@ -11477,6 +11505,7 @@
 :vs:per-d	conj3
 :vs:per-di^d perfstem
 :vs:per-dit pp4
+:vb:perdi^disti_n		perfstem 2nd sg perf ind act
 :le:perdoceo
 :vs:per-do^c	conj2
 :vs:per-do^cu perfstem
@@ -11493,6 +11522,7 @@
 :de:per-do^mi^n	are_vb dep
 :le:perdormisco
 :vs:per-dormi_sc	conj3
+:vb:perdormi_scin		conj3 2nd sg pres ind act
 :le:perduco
 :vs:per-du_c	conj3
 :vs:per-du_x perfstem
@@ -11607,6 +11637,8 @@
 :vs:perg	conj3
 :vs:perre_x perfstem
 :vs:perre_ct pp4
+:vb:pergin		conj3 2nd sg pres ind act
+:vb:pergitin		conj3 2nd pl pres ind act
 :le:pergraecor
 :de:per-graec	are_vb dep
 :le:pergrandesco
@@ -12413,6 +12445,7 @@
 :vs:praeb	conj2
 :vs:praebu^ perfstem
 :vs:praebi^t pp4
+:vb:praebe_n		conj2 2nd sg pres ind act
 :le:praebibo
 :vs:prae-bi^b	conj3
 :vs:prae-bi^b perfstem
@@ -13351,6 +13384,8 @@
 :vs:pro_-mitt	conj3
 :vs:pro_-mi_s perfstem
 :vs:pro_-miss pp4
+:vb:pro_mi_sisti_n		perfstem 2nd sg perf ind act
+:vb:pro_mi_sti_n		perfstem 2nd sg perf ind act contr
 :le:promo
 :vs:pro_m	conj3
 :vs:pro_mps perfstem
@@ -13398,6 +13433,7 @@
 :vs:pro_-pens pp4
 :le:propero
 :de:pro^pe^r	are_vb
+:vb:pro^pe^ra_tin		conj1 2nd pl pres ind act
 :le:prophetizo
 :de:pro^phe_ti_z	are_vb
 :le:propino
@@ -14004,6 +14040,7 @@
 :vs:red-d	conj3
 :vs:red-di^d perfstem
 :vs:red-di^t pp4
+:vb:reddin		conj3 2nd sg pres ind act
 :le:redemptito
 :de:re^dempti^t	are_vb
 :le:redempto
@@ -14049,6 +14086,7 @@
 :vs:re^-du_c	conj3
 :vs:re^-du_x perfstem
 :vs:re^-duct pp4
+:vb:re^dducta_n		pp4 perf part pass fem abl sg
 :le:reducto
 :de:re^duct	are_vb
 :le:redulcero
@@ -14364,6 +14402,8 @@
 :le:reor
 :vs:r	conj2 dep
 :vs:ra^t pp4
+:vb:re_rin		conj2 2nd sg pres ind pass
+:vb:ra^tun		pp4 perf part pass masc nom sg
 :le:repando
 :vs:re^-pand	conj3
 :le:repango
@@ -15076,6 +15116,9 @@
 :vs:sc	conj4
 :vs:sci_v perfstem
 :vs:sci_t pp4
+:vb:sci_n		conj4 2nd sg pres ind act
+:vb:sci_tin		conj4 2nd pl pres ind act
+:vb:sci_vi_n		ivperf 1st sg perf ind act
 :le:scirpo
 :de:scirp	are_vb
 :le:sciscitor
@@ -15193,6 +15236,8 @@
 :vs:sent	conj4
 :vs:sens perfstem
 :vs:sens pp4
+:vb:sensisti_n		perfstem 2nd sg perf ind act
+:vb:senti_n		conj4 2nd sg pres ind act
 :le:sentisco
 :vs:senti_sc	conj3
 :le:separo
@@ -15254,6 +15299,7 @@
 :vs:servi_v perfstem
 :vs:servi^ perfstem
 :vs:servi_t pp4
+:vb:servi_ren		conj4 pres inf act
 
 :le:servo
 :de:serv	are_vb
@@ -15425,6 +15471,7 @@
 :vs:spond	conj2
 :vs:spo^pond perfstem
 :vs:spons pp4
+:vb:sponde_n		conj2 2nd sg pres ind act
 :le:spongio
 :de:spongi	are_vb
 :le:spongizo
@@ -15510,6 +15557,7 @@
 :vs:st	conj1 not_in_comp
 :vs:ste^t perfstem not_in_comp
 :vs:sta^t pp4 not_in_comp
+:vb:sta_tin		conj1 2nd pl pres ind act not_in_comp
 :le:stomachor
 :de:sto^ma^ch	are_vb dep
 :le:stramentor
@@ -16654,6 +16702,7 @@
 :vs:ta^c	conj2
 :vs:ta^cu^ perfstem
 :vs:ta^ci^t pp4
+:vb:ta^ce_^n		conj2 2nd sg pres ind act
 :le:taciturio
 :de:ta^ci^tu_r	ire_vb
 :le:taedescit
@@ -16671,6 +16720,7 @@
 :vs:tang	conj3
 :vs:te^ti^g perfstem
 :vs:ta_ct pp4
+:vb:te^ti^gisti_n		perfstem 2nd sg perf ind act
 :le:tardesco
 :vs:tarde_sc	conj3
 :le:tardo
@@ -17215,6 +17265,8 @@
 :vs:va^l	conj2
 :vs:va^lu^ perfstem
 :vs:va^li^t pp4
+:vb:va^lu^isti_n		perfstem 2nd sg perf ind act
+:vb:va^le_^n		conj2 2nd sg pres ind act
 
 :le:valedico
 :vs:va^le^di_c	conj3
@@ -17399,6 +17451,10 @@
 :vs:vi^d	conj2
 :vs:vi_d perfstem
 :vs:vi_s pp4
+:vb:vi^de_^n		conj2 2nd sg pres ind act
+:vb:vi_disti_n		perfstem 2nd sg perf ind act
+:vb:vi^de_tin		conj2 2nd pl pres ind act
+:vb:vi_sun		pp4 perf part pass neut nom sg
 :le:viduo
 :de:vi^du^	are_vb
 :le:viesco

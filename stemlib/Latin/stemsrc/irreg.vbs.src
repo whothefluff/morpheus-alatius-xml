@@ -1,6 +1,7 @@
 :le:aio
 ajo_	irreg_pp1 1st sg pres ind act
 a^is	irreg_pp1 2nd sg pres ind act
+a^in	irreg_pp1 2nd sg pres ind act
 a^it	irreg_pp1 3rd sg pres ind act
 ajunt	irreg_pp1 3rd pl pres ind act
 aja_s	irreg_pp1 2nd sg pres subj act
@@ -17,7 +18,11 @@ ai@imperf	irreg_pp1 ind act imperf early
 :vs:it		pp4 comp_only
 #
 :vb:eo_		irreg_pp1 1st sg pres ind act
+# eon and in, eone and isne cut short, are eo's alone: in its compounds, in would read dein, proin and exin
+# (deinde, proinde, exinde) as deeo's, prodeo's and exeo's
+:vb:eo_^n		irreg_pp1 1st sg pres ind act not_in_comp
 :vb:i_s		irreg_pp1 2nd sg pres ind act
+:vb:i_n		irreg_pp1 2nd sg pres ind act not_in_comp
 :vb:it		irreg_pp1 3rd sg pres ind act
 :vb:i_mus	irreg_pp1 1st pl pres ind act
 :vb:i_tis	irreg_pp1 2nd pl pres ind act
@@ -74,6 +79,15 @@ eund@decl1	irreg_pp1 gerundive fem
 eund@decl2	irreg_pp1 gerundive masc neut
 iend@decl1	irreg_pp1 gerundive fem early
 iend@decl2	irreg_pp1 gerundive masc neut early
+:vb:itu_run		pp4 fut part act masc nom sg
+:vb:itu_ran		pp4 fut part act fem nom sg
+
+# abin and redin, abisne and redisne cut short, are forms of these two compounds alone: as eo's, every compound
+# would get one, and dein, proin and exin (deinde, proinde, exinde) would read as deeo's, prodeo's and exeo's
+:le:abeo
+:vb:abi_^n		irreg_pp1 2nd sg pres ind act
+:le:redeo
+:vb:re^di_^n		irreg_pp1 2nd sg pres ind act
 
 # compounds with two prefixes
 :le:depereo
@@ -184,6 +198,7 @@ dis-periend@decl2	irreg_pp1 gerundive masc neut early
 :vb:aufe^rimus	irreg_pp1 1st pl pres ind act
 :vb:aufe^rtis	irreg_pp1 2nd pl pres ind act
 :vb:aufe^runt	irreg_pp1 3rd pl pres ind act
+:vb:aufe^re_n	conj3 2nd sg fut ind act
 
 :vb:aufe^ror	irreg_pp1 1st sg pres ind pass
 :vb:aufe^rris	irreg_pp1 2nd sg pres ind pass
@@ -427,6 +442,7 @@ er@ofut		irreg_pp1 fut ind act
 #
 :vb:es		irreg_pp1 2nd sg pres imperat act
 :vb:este	irreg_pp1 2nd pl pres imperat act
+:vb:fuisti_n	perfstem 2nd sg perf ind act
 
 #
 :vb:esto_	irreg_pp1 2nd sg fut imperat act
@@ -526,6 +542,8 @@ pote_ns			irreg_pp1 pres part masc/fem/neut nom/voc sg
 pote_ns			irreg_pp1 pres part neut acc sg
 potente^			irreg_pp1 pres part masc/fem/neut abl sg
 potent@decl3_i		irreg_pp1 pres part
+:vb:poterin		irreg_pp1 2nd sg fut ind act
+:vb:possi_n		irreg_pp1 2nd sg pres subj act
 
 :le:absum
 #
@@ -650,6 +668,12 @@ dui@basvb2	irreg_pp1 pres subj act early
 :vs:di^d perfstem comp_only
 :vs:da^t pp4
 :vs:di^t pp4	comp_only
+:vb:da_n	irreg_pp1 2nd sg pres indic act
+:vb:da^bin	irreg_pp1 2nd sg fut ind act
+:vb:da^tin	irreg_pp1 2nd pl pres indic act
+:vb:de^disti_n	perfstem 2nd sg perf ind act
+:vb:de^di_^n	perfstem 1st sg perf ind act
+:vb:da^tu_ri_n	pp4 fut part act masc nom pl
 
 :le:credo
 :vb:cre_duam	irreg_pp1 1st sg pres subj act

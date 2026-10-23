@@ -200,6 +200,7 @@ carn@decl3	irreg_nom3  fem
 :le:Ceres
 Cere_s		irreg_nom3 fem nom sg
 Cere^r@decl3	irreg_nom3 fem sg
+Cere^ri_n		irreg_nom3 fem dat sg
 
 :le:cor
 cor	neut nom voc acc sg irreg_nom3
@@ -248,6 +249,7 @@ farr@decl3	irreg_nom3	neut
 :wd:istanc	demonstr fem acc sg
 :wd:istaec	demonstr neut nom acc pl
 ist@ille demonstr
+:wd:ista_cin demonstr fem abl sg
 
 :le:iter
 iter	irreg_nom3 neut nom/voc/acc sg
@@ -298,10 +300,13 @@ h@decl2 demonstr neut abl pl
 :wd:ho_cin	demonstr masc neut abl sg
 :wd:haecine	demonstr neut nom/acc pl
 :wd:haecine	demonstr fem nom sg
+:wd:haecin	demonstr fem nom sg
+:wd:haecin	demonstr neut nom/acc pl
 :wd:ho_cine	demonstr neut nom/acc sg
 #Really hoc_ine
 :wd:ho_cine	demonstr masc neut abl sg
 :wd:hicine	demonstr masc nom sg
+:wd:hicin	demonstr masc nom sg
 :wd:hascine	demonstr fem acc pl
 :wd:hancine	demonstr fem acc sg
 
@@ -339,6 +344,7 @@ ill@ille demonstr
 :wd:olle demonstr neut nom acc sg early
 :wd:ollud demonstr neut nom acc sg early
 oll@ille demonstr early
+:wd:illa_n demonstr fem abl sg
 
 :le:aliqui
 :wd:aliquis indef masc nom sg
@@ -553,6 +559,7 @@ ec@quis rel_pron
 
 :le:qui#2
 :wd:qui_ rel_pron masc nom sg
+:wd:qui_n rel_pron masc nom sg
 :wd:quei rel_pron masc nom sg
 :wd:quae rel_pron fem nom sg
 :wd:quod rel_pron neut nom/acc sg
@@ -663,6 +670,7 @@ si_@quis	interrog
 :wd:ipsus demonstr masc nom voc sg early
 :wd:eo_pse demonstr masc neut dat abl sg
 ips@ille demonstr
+:wd:ipso_n demonstr masc abl sg
 
 :le:is
 e@decl1 pron3 fem nom sg
@@ -670,11 +678,13 @@ ejus	pron3 masc fem neut gen sg
 ei_	pron3 masc fem neut dat sg
 e@decl1 pron3 fem acc sg
 e@decl1 pron3 fem abl sg
+:wd:ea_^n	pron3 fem abl sg
 
 e@decl1 pron3 fem pl
 ii_s	pron3 masc fem neut dat pl
 ii_	pron3 masc nom pl
 :wd:is 	pron3 masc nom sg
+:wd:in	pron3 masc nom sg
 :wd:id 	pron3 neut nom/acc sg
 e@decl2	pron3 masc neut abl sg
 e@decl2	pron3 masc acc sg
@@ -709,8 +719,10 @@ e@decl2 pron3 masc neut pl
 :le:ego
 ego	pron1 masc fem nom sg
 mei_	pron1 masc fem gen sg
+mei_^n	pron1 masc fem gen sg
 mihi_^	pron1 masc fem dat sg
 mi_	pron1 masc fem dat sg
+mi_n	pron1 masc fem dat sg
 me_	pron1 masc fem acc sg
 me_me_	pron1 masc fem acc sg
 me_d	pron1 masc fem acc sg early
@@ -746,6 +758,8 @@ te_d	pron2 masc fem abl sg early
 te_cum	pron2 masc fem abl sg
 tu_te	pron2 masc fem nom sg
 tu_temet	pron2 masc fem nom sg
+tu_n	pron2 masc fem nom sg
+tu_tin	pron2 masc fem nom sg
 vo_s	pron2 masc fem nom voc pl
 vostrum	pron2 masc fem gen pl
 vestri_	pron2 masc fem gen pl
@@ -935,6 +949,8 @@ volg@decl2	irreg_nom2 neut sg orth
 :le:satis
 :wd:satis	adverb
 :wd:satis	neut indecl
+:wd:sa^ti^n	adverb
+:wd:sa^ti^n	neut indecl
 
 :le:magnus#1
 :wd:magis adverb irreg_comp
