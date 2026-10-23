@@ -185,7 +185,7 @@ Plain-English meaning of each:
 | N6             | no literal `(null)` text leaks into gender/pofs output                  |
 | N7             | comment lines produce a single well-formed `<words>` document           |
 | N8             | a multi-token input line only analyzes the first token                  |
-| W1             | eo's in and eon are eo's alone, abin and redin abeo's and redeo's:      |
+| W1             | eo's in is eo's alone, and abin and redin abeo's and redeo's:           |
 |                | dein, proin and exin stay the adverbs, with no deeo, prodeo or exeo     |
 | W2–W152        | each word of the kind (viden, satin, tun, censen, nostin, in, quin…)    |
 |                | answers with its lines in tests/xml_whole_forms.txt (lemma, stem        |

@@ -155,7 +155,7 @@ Cererin	Ceres (Cererine: Plaut. Aul. 354)
 
 # Words that Morpheus reads in their own right, whose -ne cut short is another reading: they keep their own
 # (the preposition, the conjunction, L&S's noun eon) and get the other as a whole form. eo's are eo's alone.
-in	in#1 is eo#1 (isne: Plaut. Merc. 598; eo's isne: Merc. 184, as L&S quotes Ter. Eun. 650 under eo)
+in	in#1 is eo#1 (isne: Plaut. Merc. 598; eo's isne: Merc. 184, and Ter. Eun. 650, which L&S quotes under cum)
 quin	quin qui#2 (quine, the relative: Plaut. Trin. 360b and Bacch. 332, both cited in L&S's -ne; Rud. 861, Truc. 506)
 eon	eo#1 eon is (eone: Plaut. Most. 774b; is's eone: Cic. Brut. 172)
 

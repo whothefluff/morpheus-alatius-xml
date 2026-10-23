@@ -507,15 +507,15 @@ test_n8
 # ---------------------------------------------------------------------------
 hr "Words whose -ne is cut short to n"
 
-# W1: eo's in and eon are eo's alone, and abin and redin abeo's and redeo's, not forms that every compound of eo
-# gets, so dein, proin and exin stay the adverbs deinde, proinde and exinde, with no deeo, prodeo or exeo
+# W1: eo's in is eo's alone, and abin and redin abeo's and redeo's, not forms that every compound of eo gets, so
+# dein, proin and exin stay the adverbs deinde, proinde and exinde, with no deeo, prodeo or exeo
 test_w1() {
     local word lemma out
     while read -r word lemma; do
         out=$(mktemp)
         printf '%s\n' "$word" | "$MORPHEUS" -L >"$out" 2>/dev/null
         if [ "$(grep -c '<entry>' "$out")" -eq 1 ] && grep -qF "<hdwd xml:lang=\"lat\">$lemma</hdwd>" "$out"; then
-            pass "W1: $word is $lemma alone, untouched by eo's in and eon and by abin's and redin's forms"
+            pass "W1: $word is $lemma alone, untouched by eo's in and by abin's and redin's forms"
         else
             fail "W1: expected $word as one entry of $lemma (lemmas: $(grep -o '<hdwd[^>]*>[^<]*' "$out" | sed 's/.*>//' | sort -u | tr '\n' ' '))"
         fi

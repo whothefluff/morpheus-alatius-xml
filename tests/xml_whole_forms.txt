@@ -131,6 +131,7 @@ bonan	bonus	bo^na_^n	adjective 1st & 2nd ablative feminine singular us_a_um inde
 tuan	tuus	tu^a_^n	adjective 1st & 2nd ablative feminine singular us_a_um indeclform
 tuin	tuus	tu^i_^n	adjective 1st & 2nd genitive masculine singular us_a_um indeclform
 tuon	tuus	tu^o_^n	adjective 1st & 2nd ablative masculine singular us_a_um indeclform
+tanton	tantus	tanto_n	adjective 1st & 2nd ablative masculine singular us_a_um indeclform
 tanton	tantus	tanto_n	adjective 1st & 2nd ablative neuter singular us_a_um indeclform
 alienun	alienus	a^li^e_nun	adjective 1st & 2nd nominative masculine singular us_a_um indeclform
 alienon	alienus	a^li^e_no_n	adjective 1st & 2nd dative masculine singular us_a_um indeclform
@@ -175,6 +176,7 @@ quin	qui#2	qui_n	pronoun nominative masculine singular relative indeclform
 quin	quin	qui_n	conjunction conj indeclform
 eon	eo#1	eo_^n	verb indicative singular 1st present active irreg_pp1
 eon	eon	e+o_n	noun 3rd nominative feminine singular oLn_oLnis
+eon	is	eo_^n	pronoun ablative masculine singular pron3 indeclform
 talin	talis	ta_li_n	adjective 3rd ablative feminine singular is_e indeclform
 talin	talis	ta_li_n	adjective 3rd dative feminine singular is_e indeclform
 talin	talis	ta_li_n	adjective 3rd dative neuter singular is_e indeclform
