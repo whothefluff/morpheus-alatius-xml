@@ -1,0 +1,205 @@
+# form	required lemma
+
+# -ne cut short to n (L&S, -ne: "also apocopated n' and only n"). Whole forms, or Morpheus guesses at the final n, with
+# the n as s and without it, which adds the imperative (vide, sci, audi, abi), other lemmas (sata, satum and sero#1 for
+# satin, vis, force, for vin, scius for scin, potio#2 for potin, cena for cenavin, tus for tun, sano for sanan) or other
+# persons (audivistis). abin and redin are abeo's and redeo's own forms (see dein below).
+viden	video (videsne: Catull. 61, 77; 62, 8)
+satin	satis (satisne: Plaut. Am. 509, 578, 604, 633)
+ain	aio (aisne: Plaut. Am. 284, 344, 799, 1089)
+scin	scio (scisne: Plaut. Am. 356b, 671b, 1082)
+vin	volo#1 (visne: Plaut. Am. 769b)
+audin	audio (audisne: Plaut. Am. 755)
+pergin	pergo (pergisne: Plaut. Am. 349b, 539)
+cognoscin	cognosco (cognoscisne: Plaut. Am. 822)
+potin	potis (potisne: Plaut. Am. 903b)
+cenavin	ceno (cenavine: Plaut. Am. 823b)
+audivistin	audio (audivistine: Plaut. Am. 748, 752)
+valuistin	valeo (valuistine: Plaut. Am. 679)
+vidistin	video (vidistine: Plaut. Am. 616)
+tun	tu (tune: Plaut. Am. 361, 373b, 565, 717, 758, 758b, 818)
+abin	abeo (abisne: Plaut. Am. 518, 857)
+redin	redeo (redisne: Plaut. Truc. 755 "Redin an non redis?")
+iuben	jubeo (iubesne: Plaut. Am. 929)
+sanan	sanus (sanane: Plaut. Am. 929b; Men. 394, 738b)
+sanun	sanus (sanusne: Plaut. As. 385, Bacch. 566, Men. 818; 8 lines of Plautus)
+exspectatun	exspecto (exspectatusne: Plaut. Am. 679)
+
+# Plautus's and Terence's other forms. The guess gave each other words' readings, or none, or spelled the n
+# read as s with the s (videtis for videtin), which isn't the word. Each is a whole form with its host's quantities
+# in Morpheus; an iambic host's last vowel is common (haben, tuan, as abin). The capitals are proper nouns.
+censen	censeo#1 (censesne: Plaut. As. 887, Aul. 309, 315; 11 lines)
+credin	credo (credisne: Plaut. Capt. 961b, Poen. 441; Ter. Eun. 811b; 4 lines)
+haben	habeo (habesne: Plaut. Pseud. 1163b, Trin. 89, 964b; 4 lines)
+sponden	spondeo (spondesne: Plaut. Aul. 256b, Capt. 898c, Trin. 1157b; 4 lines)
+fugin	fugio (fugisne: Plaut. Aul. 660; Ter. An. 337)
+tacen	taceo (tacesne: Plaut. Pers. 533, Rud. 1399)
+accipin	accipio (accipisne: Plaut. Pers. 412)
+auden	audeo (audesne: Plaut. Mil. 232b)
+dicin	dico#2 (dicisne: Plaut. Truc. 825)
+faterin	fateor (faterisne: Plaut. Capt. 317)
+mittin	mitto (mittisne: Plaut. Truc. 756c)
+perdormiscin	perdormisco (perdormiscisne: Plaut. Men. 928)
+praeben	praebeo (praebesne: Plaut. Pers. 792)
+reddin	reddo (reddisne: Plaut. Curc. 566b)
+rerin	reor (rerisne: Plaut. Bacch. 1127)
+valen	valeo (valesne: Plaut. Trin. 50)
+dan	do (dasne: Plaut. As. 671, Truc. 373, 940)
+dabin	do (dabisne: Plaut. Bacch. 883, Pseud. 536, 1078)
+auferen	aufero (auferesne: Plaut. Pseud. 1224, 1321)
+poterin	possum (poterisne: Ter. Phorm. 518)
+possin	possum (possisne: Plaut. Merc. 518)
+patierin	patior (patierisne: Plaut. As. 738b, Cist. 500, Epid. 148)
+datin	do (datisne: Plaut. Curc. 311, Truc. 631)
+aperitin	aperio (aperitisne: Plaut. Most. 445)
+auditin	audio (auditisne: Plaut. Pseud. 172)
+habetin	habeo (habetisne: Plaut. Bacch. 269)
+pergitin	pergo (pergitisne: Plaut. Pseud. 1249)
+properatin	propero (properatisne: Plaut. Curc. 312)
+scitin	scio (scitisne: Plaut. Men. 1154c)
+statin	sto (statisne: Plaut. Pseud. 1246)
+videtin	video (videtisne: Plaut. As. 636)
+nostin	nosco (nostine: Plaut. Aul. 171, Curc. 423, Truc. 726; 11 lines)
+novistin	nosco (novistine: Plaut. Epid. 503, Men. 748, Poen. 1121; 5 lines)
+novin	nosco (novine: Plaut. Epid. 550)
+iussin	jubeo (iussine: Plaut. As. 424, 425, 426; 4 lines)
+meministin	memini (meministine: Plaut. As. 333, Epid. 554, Pseud. 1089; 4 lines)
+audistin	audio (audistine: Ter. Phorm. 577, 612, Ad. 539)
+tetigistin	tango (tetigistine: Plaut. Most. 457, 461)
+accepistin	accipio (accepistine: Plaut. Truc. 791)
+adnuistin	annuo (adnuistine: Plaut. Stich. 224)
+convenistin	convenio (convenistine: Plaut. Pseud. 1079)
+emistin	emo (emistine: Plaut. Trin. 124)
+iuravistin	juro (iuravistine: Plaut. Pseud. 352)
+offirmastin	offirmo (offirmastine: Plaut. Pers. 222)
+perdidistin	perdo (perdidistine: Plaut. Curc. 584b)
+promisistin	promitto (promisistine: Plaut. Rud. 1384)
+promistin	promitto (promisistine: Plaut. Curc. 709)
+scivin	scio (scivine: Plaut. Pseud. 977c)
+sensistin	sentio (sensistine: Ter. Hec. 316)
+surrupuistin	surripio (surrupuistine: Plaut. Men. 507)
+dixtin	dico#2 (dixistine: Ter. Hec. 451)
+adduxtin	adduco (adduxistine: Plaut. Capt. 1016; Ter. Phorm. 568)
+intellextin	intellego (intellexistine: Ter. An. 201, Eun. 767)
+inconciliastin	inconcilio (inconciliastine: Plaut. Trin. 136)
+fuistin	sum#1 (fuistine: Plaut. Capt. 628)
+dedistin	do (dedistine: Plaut. Trin. 127)
+dedin	do (dedine: Plaut. Epid. 703, Truc. 935)
+ituran	eo#1 (iturane: Ter. Eun. 461)
+daturin	do (daturine: Plaut. Most. 62, 604, Truc. 4)
+ratun	reor (ratusne: Plaut. Mil. 558)
+visun	video (visumne: Plaut. Merc. 202b)
+nuptan	nubo (nuptane: Plaut. Mil. 964_965)
+compressan	comprimo (compressane: Plaut. Cas. 405)
+redductan	reduco (redductane: Ter. Hec. 665)
+serviren	servio (servirene: Plaut. Men. 795)
+itan	ita (itane: Plaut. Mil. 1120, Trin. 642; Ter. An. 243; 9 lines)
+certon	certo#1 certus (certone: Plaut. Capt. 644, 883, Merc. 1012; 4 lines)
+certen	certus (certene: Plaut. Merc. 186, 324c; Ter. Hec. 843b)
+quon	quo (quone: Plaut. Rud. 111)
+sicin	sicine (sicine: Plaut. Curc. 589, Epid. 627)
+hicin	hic hicine (hicine: Plaut. Most. 508, Pers. 845b, Truc. 719b)
+veron	vero#1 (verone: Plaut. Cas. 790b, Merc. 685c, Truc. 302b)
+perpetuen	perpetuus (perpetuene: Plaut. Epid. 17)
+planen	planus#1 (planene: Plaut. Pers. 64)
+salven	salve (salvene: Plaut. Men. 776)
+usquin	usque (usquene: Plaut. Most. 449)
+utin	ut (utine: Plaut. Epid. 225, Rud. 1063)
+nuncin	nunc (nuncine: Ter. An. 683c)
+falson	fallo (falsone: Plaut. Trin. 210)
+quian	quia (quiane: Plaut. Cist. 251, Most. 1132b)
+ean	is (eane: Plaut. Stich. 327b)
+illan	ille (illane: Ter. Ad. 448c)
+ipson	ipse (ipsone: Plaut. Trin. 902)
+haecin	hic (haecine: Plaut. Merc. 753)
+istacin	iste (istacine: Plaut. Aul. 746)
+tutin	tu (tutene: Plaut. Mil. 290b, Most. 369, Stich. 373b)
+mein	ego (meine: Plaut. Stich. 334)
+mean	meus (meane: Plaut. Aul. 432, Capt. 853b, Curc. 616; 4 lines)
+bonan	bonus (bonane: Plaut. Capt. 890, Most. 669_670b, Pseud. 1095)
+tuan	tuus (tuane: Plaut. Capt. 845, Pers. 747b)
+tuin	tuus (tuine: Plaut. Pers. 338)
+tuon	tuus (tuone: Plaut. Epid. 688b)
+tanton	tantus (tantone: Plaut. Trin. 609b)
+alienun	alienus (alienusne: Plaut. Truc. 664_665)
+alienon	alienus (alienone: Plaut. Rud. 1063c)
+bellan	bellus (bellane: Plaut. Bacch. 838)
+binan	bini (binane: Ter. Phorm. 790b)
+brevin	brevis (brevine: Plaut. Mil. 1020)
+dignun	dignus (dignusne: Plaut. Mil. 342)
+facilen	facilis (facilene: Plaut. Men. 928)
+ingenuan	ingenuus (ingenuane: Plaut. Mil. 961)
+insanin	insanus#1 (insanine: Plaut. Most. 450)
+lignean	ligneus (ligneane: Plaut. Pseud. 47)
+nullan	nullus (nullane: Plaut. Stich. 259_260, Truc. 285)
+nullon	nullus (nullone: Plaut. Bacch. 479; Ter. An. 247)
+omnian	omnis (omniane: Plaut. Rud. 1216, 1222)
+salvan	salvus (salvane: Ter. Hec. 353b)
+eunuchon	eunuchus (eunuchone: Ter. Eun. 572, 991)
+amorin	amor (amorine: Plaut. Trin. 230)
+criminin	crimen (criminine: Plaut. Bacch. 629)
+Cupidon	Cupido (Cupidone: Plaut. Bacch. 20)
+filiolon	filiolus (filiolone: Plaut. Truc. 805)
+iocon	jocus (iocone: Plaut. Bacch. 75b)
+magistron	magister (magistrone: Plaut. Bacch. 152)
+mancupion	mancipium (mancipione: Plaut. Truc. 274)
+mercaturan	mercatura (mercaturane: Plaut. Trin. 332)
+pacton	pactum (pactone: Plaut. Truc. 779)
+peniculon	peniculus (peniculone: Ter. Eun. 776)
+servin	servus#2 (servine: Plaut. Cas. 69)
+servon	servus#2 (servone/servosne: Plaut. Pseud. 610; Ter. An. 609)
+uxorin	uxor (uxorine: Plaut. Stich. 204)
+Cererin	Ceres (Cererine: Plaut. Aul. 354)
+
+# Words that Morpheus reads in their own right, whose -ne cut short is another reading: they keep their own
+# (the preposition, the conjunction, L&S's noun eon) and get the other as a whole form. eo's are eo's alone.
+quin	quin qui#2 (quine, the relative: Plaut. Trin. 360b and Bacch. 332, both cited in L&S's -ne; Rud. 861, Truc. 506)
+eon	eo#1 eon (eone: Plaut. Most. 774b)
+
+# Forms outside the comedies (v5). The guess also gave talin talus and talis's other cases, sentin the imperative,
+# sentis and sentus, ferron the dative, and min meus's vocative and mius.
+talin	talis (taline: Verg. A. 12, 874; Val. Fl. 2, 292; Sil. 4, 671; 10, 65)
+sentin	sentio (sentisne: Cic. De Or. 2, 257)
+ferron	ferrum (ferrone: Enn. in Quint. Inst. 8, 6, 10)
+min	ego (mihine: Pers. 1, 2)
+
+# The guess reads these right: the host alone, with the n taken off (ten is te_ne). No form of their own.
+ten	tu (Catull. 43, 6; 55, 14)
+vincon	vinco (Plaut. Am. 433)
+egon	ego
+men	ego
+mihin	ego
+dixin	dico#2
+videon	video
+habeon	habeo
+credon	credo
+nemon	nemo
+nequeon	nequeo
+vocon	voco
+negabon	nego
+tetigin	tango
+votuin	veto
+domin	domus
+tuaen	tuus
+opertaen	operio
+quaen	qui#1 qui#2 quis#1 quis#2
+quoin	qui#1 qui#2
+verberon	verbero#1 verbero#2
+edixin	edico (edixine: Ter. An. 495b)
+recten	rego (rectene: Plaut. Aul. 183b)
+
+# Not compounds of sto: statin is sto's alone (not_in_comp, as sto's stems are), so these keep the guess and their own
+# verbs' lemmas
+constatin	consto
+praestatin	praesto#2
+restatin	resto
+instatin	insto
+exstatin	exsto
+
+# Not 2nd persons of eo's compounds: a whole form of eo's that its compounds got (eo's own in, abin's and redin's)
+# would read these as deeo's, prodeo's and exeo's too
+dein	deinde (Phaedr., Catull., Caes., Plaut.: 1,083 tokens in the corpus)
+proin	proinde
+exin	exinde
+
+suopte	suus (Catull. 51, 10)

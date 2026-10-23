@@ -132,12 +132,17 @@
 :vb:ausim	irreg_pp2 1st sg perf subj act
 :vb:ausit	irreg_pp2 3rd sg perf subj act
 :vb:ausint	irreg_pp2 3rd pl perf subj act
+:vb:aude_n		conj2 2nd sg pres ind act
 
 :le:audio
 :vs:aud		conj4
 :vs:audi_v	perfstem
 :vs:audi^	perfstem
 :vs:audi_t	pp4
+:vb:audi_n	conj4 2nd sg pres ind act
+:vb:audi_visti_n	ivperf 2nd sg perf ind act
+:vb:audi_tin	conj4 2nd pl pres ind act
+:vb:audi_sti_n	ivperf 2nd sg perf ind act contr
 
 :le:augeo
 :vs:aug		conj2
@@ -448,6 +453,7 @@
 :vs:memin 	perfstem
 :vb:memento_	irreg_pp1 2nd sg fut imperat act
 :vb:memento_te	irreg_pp1 2nd pl fut imperat act
+:vb:meministi_n	perfstem 2nd sg perf ind act
 
 :le:commemini
 :vs:commemin 	perfstem
@@ -500,6 +506,9 @@
 :vs:gno_sc	conj3 orth
 :vs:gn	ovperf orth
 :vs:gno_t	pp4 orth
+:vb:no_sti_n	ovperf 2nd sg perf ind act contr
+:vb:no_visti_n	ovperf 2nd sg perf ind act
+:vb:no_vi_n	ovperf 1st sg perf ind act
 
 :le:oboedio
 :de:oboed	ire_vb
@@ -747,6 +756,7 @@
 :vs:surrupu	perfstem orth early
 :vs:subrupu	perfstem orth early
 :vs:surpu	perfstem orth early
+:vb:surrupuisti_n	perfstem 2nd sg perf ind act early
 
 :le:taceo
 :vs:ti^c        conj2 comp_only

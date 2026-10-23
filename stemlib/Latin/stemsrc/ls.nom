@@ -7367,6 +7367,8 @@ a^li^e_ni^tas
 
 :le:alienus
 :aj:a^li^e_n	us_a_um
+:wd:a^li^e_nun	us_a_um masc nom sg
+:wd:a^li^e_no_n	us_a_um masc dat sg
 
 
 	<pos>adv.</pos>
@@ -9399,6 +9401,7 @@ a^mo_mum		<orth>-on</orth>
 a^mor		<orth>a^mo^s</orth>	<itype>like honos, labos, colos</itype>	
 :le:amor
 :no:a^m	or_oLris masc
+:wd:a^mo_ri_n	or_oLris masc dat sg
 
 
 a^mo_ra_bundus		
@@ -22830,6 +22833,8 @@ bellum		<orth>duel-lum</orth>
 bellus		
 :le:bellus
 :aj:bell	us_a_um
+:wd:bellan	us_a_um fem nom sg
+:wd:bella_n	us_a_um fem abl sg
 
 
 belle_		
@@ -25016,6 +25021,7 @@ Bo^no_ni^ensis
 :aj:bo^n	us_a_um
 :aj:du^on	us_a_um orth
 :no:bo^n	a_ae fem pl
+:wd:bo^na_^n	us_a_um fem abl sg
 
 
 bo^nuscu^la		
@@ -25701,6 +25707,7 @@ bre^vi^lo^quus		<orth>-quis</orth>
 :no:bre^v	is_is neut
 :no:bre^v	is_is fem
 :wd:bre^-vi^ter	adverb
+:wd:bre^vi_^n	is_e masc dat sg
 
 
 bre^vi^tas		
@@ -35507,6 +35514,7 @@ certim
 certo_		<orth>certe_</orth>
 :le:certo#1
 :wd:certo_	adverb
+:wd:certo_n	adverb
 
 ce^ru_chi		
 :le:ceruchi
@@ -50626,6 +50634,7 @@ cri_brum
 cri_men		
 :le:crimen
 :no:cri_	men_minis neut
+:wd:cri_mi^ni_n	men_minis neut dat sg
 
 
 cri_mi^na_lis		
@@ -52170,6 +52179,7 @@ cu^pi_do		<orth>cu_pe_do</orth>	<orth>cuppe_do</orth>
 Cu^pi_do		
 :le:Cupido
 :no:Cu^pi_d	o_inis masc
+:wd:Cu^pi_do_n	o_inis masc nom sg
 
 
 Cu^pi_di^ne^us		
@@ -59612,6 +59622,7 @@ di_gnoscenti^a
 dignus		
 :le:dignus
 :aj:dign	us_a_um
+:wd:dignun	us_a_um masc nom sg
 
 	<pos>adj.</pos>	<pos>adj.</pos>
 digne_	
@@ -69209,6 +69220,7 @@ eunu_chi_za_tus
 eunu_chus		
 :le:eunuchus
 :no:eunu_ch	us_i masc
+:wd:eunu_cho_n	us_i masc abl sg
 
 
 :le:euoe
@@ -72695,6 +72707,7 @@ fa^ci^le^
 fa^ci^lis		
 :le:facilis
 :aj:fa^ci^l	is_e
+:wd:fa^ci^len	adverb
 
 	<pos>adv.</pos>	<pos>adv.</pos>
 fa^ci^le^		<orth>fa^cul</orth>	<orth type=alt>anteclass.</orth>	<orth>fa^-culter</orth>	<orth>fa^ci^li^ter</orth>
@@ -73272,6 +73285,7 @@ falla_ci^ter
 
 :le:fallo
 :wd:falso_	adverb
+:wd:falso_n	adverb
 
 
 falsa_ri^us		
@@ -74702,6 +74716,7 @@ ferru_go
 ferrum		
 :le:ferrum
 :no:ferr	us_i neut
+:wd:ferro_n	us_i neut abl sg
 
 
 ferru_men		<orth type=alt>fe_ru_-</orth>	
@@ -75564,6 +75579,7 @@ fi_li^o^la
 fi_li^o^lus		
 :le:filiolus
 :no:fi_li^o^l	us_i masc
+:wd:fi_li^o^lo_n	us_i masc abl sg
 
 
 fi_li^us		
@@ -99266,6 +99282,7 @@ inge^nu^i^tas
 inge^nu^us		
 :le:ingenuus
 :aj:inge^nu^	us_a_um
+:wd:inge^nu^an	us_a_um fem nom sg
 
 
 inge^nu^us		
@@ -100446,6 +100463,7 @@ insa_ni^tas
 in-sa_nus#1		
 :le:insanus#1
 :aj:in-sa_n	us_a_um
+:wd:insa_ni_n	us_a_um masc nom pl
 
 
 insa_ne_		<orth>in-sa_ni^ter</orth>	<orth>insa_num</orth>
@@ -105511,6 +105529,7 @@ Isty^aeo^nes
 i^ta		
 :le:ita
 :wd:i^ta	adverb
+:wd:i^tan	adverb
 
 :le:itaque
 :wd:i^ta^que	conj
@@ -106209,6 +106228,7 @@ jo^cus		<itype>i</itype>	<itype>joca, jocorum</itype>	<gen>n.</gen>
 :wd:jo^ca	us_i neut nom acc voc pl
 :wd:jo^co_rum	us_i neut gen pl
 :wd:jo^ci_s	us_i neut dat abl pl
+:wd:jo^co_^n	us_i masc abl sg
 
 jo^cuscu^lum	
 Joppe_		<orth>Jo^pe_</orth>	
@@ -112843,6 +112863,7 @@ ligne^o^lus
 ligne^us		
 :le:ligneus
 :aj:ligne^	us_a_um
+:wd:ligne^a_n	us_a_um fem abl sg
 
 
 ligni^fer		<itype>fe^ri</itype>	<gen>m.</gen>
@@ -117666,6 +117687,7 @@ ma^gi^da
 ma^gister		
 :le:magister
 :no:ma^gist	er_ri masc
+:wd:ma^gistro_n	er_ri masc dat sg
 
 	<orth type=alt>SACERDOTVM</orth>	<pos>adj.</pos>
 ma^giste^ri^um		
@@ -118692,6 +118714,7 @@ manci^pa_tus
 manci^pi^um		<orth type=alt>mancu^pi^um</orth>	
 :le:mancipium
 :no:manci^p	ius_i neut
+:wd:mancu^pi^o_n	ius_i neut abl sg
 
 
 mancu^pa_ti^o		<orth type=alt>mancu^pi^um</orth>	<orth>mancu^po</orth>
@@ -123416,6 +123439,7 @@ merca_to_ri^us
 merca_tu_ra		
 :le:mercatura
 :no:merca_tu_r	a_ae fem
+:wd:merca_tu_ra_n	a_ae fem abl sg
 
 
 merca_tus		
@@ -124513,6 +124537,9 @@ me^us
 :le:meus
 :aj:me^	us_a_um
 :wd:mi_ irreg_adj2 masc fem voc sg
+:wd:me^an	us_a_um fem nom voc sg
+:wd:me^an	us_a_um neut nom voc acc pl
+:wd:me^a_^n	us_a_um fem abl sg
 
 
 Me_va_ni^a		
@@ -135493,6 +135520,8 @@ nulli^fi^ca_ti^o
 nullus		
 :le:nullus
 :aj:nu_ll	us_a_um
+:wd:nu_llan	us_a_um fem nom sg
+:wd:nu_llo_n	us_a_um neut abl sg
 
 
 nullus		<itype>i_^us</itype>	<gen>m.</gen>
@@ -135782,6 +135811,7 @@ num-quis		<orth type=alt>nunqu-</orth>	<itype>qui, quae</itype>
 nunc		
 :le:nunc
 :wd:nunc	adverb
+:wd:nuncin	adverb
 
 
 nun-cine	
@@ -139834,6 +139864,7 @@ omni^po^tenti^a
 
 :le:omnis
 :aj:omn	is_e
+:wd:omnian	is_e neut nom voc acc pl
 
 
 omnisci^us		
@@ -143114,6 +143145,7 @@ pactus
 pactum		
 :le:pactum
 :no:pact	us_i neut
+:wd:pacto_n	us_i neut abl sg
 
 
 pa_ca_tum		
@@ -149089,6 +149121,7 @@ pe_ni^cu^la_mentum
 pe_ni^cu^lus		
 :le:peniculus
 :no:pe_ni^cu^l	us_i masc
+:wd:pe_ni^cu^lo_n	us_i masc abl sg
 
 
 pe_nis		
@@ -151926,6 +151959,7 @@ perpe^tu^i^tas
 per-pe^tu^us		
 :le:perpetuus
 :aj:per-pe^tu^	us_a_um
+:wd:perpe^tu^e_n	adverb
 
 
 perpe^tu^um		
@@ -157482,6 +157516,7 @@ pla_nu^la
 pla_nus#1		
 :le:planus#1
 :aj:pla_n	us_a_um
+:wd:pla_ne_n	adverb
 
 
 pla_num		
@@ -171735,6 +171770,7 @@ Quiza
 quo_		
 :le:quo
 :wd:quo_	adverb
+:wd:quo_n	adverb
 
 
 quo^-ad		<orth>quaad</orth>	
@@ -179572,11 +179608,13 @@ salvi^fi^cus
 salvus		<orth>-vos</orth>	
 :le:salvus
 :aj:salv	us_a_um
+:wd:salvan	us_a_um fem nom sg
 
 	<pos>adv.</pos>
 salve_		<pos>adj.</pos>	
 :le:salve
 :wd:salve_	adverb
+:wd:salve_n	adverb
 
 
 Samarabri^ae		
@@ -180141,6 +180179,8 @@ Santra
 sa_nus		
 :le:sanus
 :aj:sa_n	us_a_um
+:wd:sa_nan	us_a_um fem nom sg
+:wd:sa_nun	us_a_um masc nom sg
 
 
 sa_ni^ter		<orth>sa_ne_</orth>
@@ -186478,6 +186518,9 @@ servus#1
 servus#2		<orth type=alt>-o^s</orth>	
 :le:servus#2
 :no:serv	us_i masc
+:wd:servi_n	us_i masc nom pl
+:wd:servon	us_i masc nom sg
+:wd:servo_n	us_i masc dat sg
 
 
 serva		
@@ -187271,6 +187314,7 @@ Sicimina
 si_ci^ne_		<orth>sicci^ne</orth>	
 :le:sicine
 :wd:si_ci^ne	adverb
+:wd:si_cin	adverb
 
 
 Sicini^us		
@@ -200228,6 +200272,9 @@ ta_li^o
 ta_lis		
 :le:talis
 :aj:ta_l	is_e
+:wd:ta_li_n	is_e fem dat sg
+:wd:ta_li_n	is_e neut dat sg
+:wd:ta_li_n	is_e fem abl sg
 
 	<pos>adv.</pos>
 ta_li^ter	
@@ -200506,6 +200553,7 @@ tantu^lum
 tantus		
 :le:tantus
 :aj:tant	us_a_um
+:wd:tanto_n	us_a_um neut abl sg
 
 
 tanto_ o^pe^re		<orth>tanto^pe^re</orth>	<orth>tantum</orth>	
@@ -210642,6 +210690,9 @@ Tu_tu_nus
 tu^us		
 :le:tuus
 :aj:tu^	us_a_um
+:wd:tu^a_^n	us_a_um fem abl sg
+:wd:tu^i_^n	us_a_um masc gen sg
+:wd:tu^o_^n	us_a_um masc abl sg
 
 
 tuxtax	
@@ -212410,6 +212461,7 @@ usquam
 usque^		
 :le:usque
 :wd:usque^	adverb
+:wd:usquin	adverb
 
 
 usque^qua_que	
@@ -212549,6 +212601,7 @@ u_susfructus
 ut		<orth>u^ti_</orth>	<orth>u^tei</orth>	
 :le:ut
 :wd:ut	adverb
+:wd:utin	adverb
 
 
 ut-cumque		<orth>-cunq-</orth>	
@@ -212786,6 +212839,7 @@ Uxello^du_num
 uxor		
 :le:uxor
 :no:ux	or_oLris fem
+:wd:uxo_ri_n	or_oLris fem dat sg
 
 
 uxorcu^la		
@@ -214803,6 +214857,7 @@ Ve^nu^lus
 Ve^nus#1		
 :le:Venus
 :no:Ve^n	us_eris fem
+:wd:Ve^neri_n	us_eris fem dat sg
 
 
 Ve^ne^re^us		<orth>Ve^ne^ri^us</orth>	
@@ -215703,6 +215758,7 @@ ve_rum
 ve_rum		<orth>ve_ro_</orth>	<orth>ve_re_</orth>
 :le:vero#1
 :wd:ve_ro_		adverb
+:wd:ve_ro_n		adverb
 
 ve^ru_tum		<orth type=alt>verru_tum</orth>	
 :le:verutum

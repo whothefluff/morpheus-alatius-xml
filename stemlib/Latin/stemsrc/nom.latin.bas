@@ -362,6 +362,8 @@
 
 :le:certus
 :aj:cert	us_a_um
+:wd:certe_n	adverb
+:wd:certo_n	us_a_um neut abl sg
 
 :le:Chaos
 :wd:Chaos	irreg_nom3 masc nom sg
@@ -978,6 +980,8 @@
 :le:potis
 :wd:potis	irreg_adj3 nom sg masc fem
 :wd:pote	irreg_adj3 nom acc voc sg neut
+:wd:potin	irreg_adj3 nom sg masc fem
+:wd:potin	irreg_adj3 nom sg neut
 :aj:pot	is_e	comp
 :aj:pot is_e	superl
 
@@ -1026,6 +1030,7 @@
 
 :le:quia
 :wd:quia	conj
+:wd:quian	conj
 
 :le:quin
 :wd:qui_n	conj
