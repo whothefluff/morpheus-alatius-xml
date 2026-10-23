@@ -566,4 +566,32 @@ test_whole_forms_file() {
 test_whole_forms_file
 
 # ---------------------------------------------------------------------------
+# 7. Readings that a fix in the stem files sets (F1)
+# ---------------------------------------------------------------------------
+hr "Readings set by stem fixes"
+
+# F1: facile is facilis's neuter nominative, accusative and vocative, and its adverb, which ls.nom lacked
+test_f1() {
+    local expected actual out
+    expected=$(LC_ALL=C sort <<'EOF'
+facile	facilis	fa^ci^l+e	adjective 3rd accusative neuter singular is_e
+facile	facilis	fa^ci^l+e	adjective 3rd nominative neuter singular is_e
+facile	facilis	fa^ci^l+e	adjective 3rd vocative neuter singular is_e
+facile	facilis	fa^ci^le	adverb adverb indeclform
+EOF
+)
+    actual=$(xml_readings facile)
+    if [ "$actual" = "$expected" ]; then
+        pass "F1: facile answers with the neuter adjective and the adverb alone"
+    else
+        fail "F1: facile: expected [$(printf '%s' "$expected" | cut -f2- | tr '\n' ';')], got [$(printf '%s' "$actual" | cut -f2- | tr '\n' ';')]"
+    fi
+    out=$(mktemp)
+    printf 'facile\n' | "$MORPHEUS" -L >"$out" 2>/dev/null
+    wf_check "F1 (facile)" "$out"
+    rm -f "$out"
+}
+test_f1
+
+# ---------------------------------------------------------------------------
 finish

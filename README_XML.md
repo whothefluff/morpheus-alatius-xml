@@ -160,6 +160,8 @@ IDs are grouped by what they assert:
   outside the intended divergence.
 - **W*n*** — Whole forms: a word whose -ne is cut short to n (viden, satin,
   tun) answers with its whole form alone, not with the guess for a final n.
+- **F*n*** — Fixed readings: a word whose readings a fix in the stem files
+  sets (facile's adverb) answers with those readings and no others.
 
 Plain-English meaning of each:
 
@@ -188,14 +190,16 @@ Plain-English meaning of each:
 | W2–W152        | each word of the kind (viden, satin, tun, censen, nostin, in, quin…)    |
 |                | answers with its lines in tests/xml_whole_forms.txt (lemma, stem        |
 |                | without a suffix, grammar) and nothing else                             |
+| F1             | facile answers with facilis's neuter adjective and its adverb alone     |
 
 ### Result levels
 
 - `PASS`/`FAIL` — hard checks: build/link smoke tests, well-formedness,
   flag/argv-handling checks (flag-n-arg, argv-cleanup, P8), known/unknown-word
   partition parity (P1), lemma set/order parity (P2), stemtype set parity
-  (P3), determinism (P6), exit codes (P7), the N1–N8 divergence checks and
-  the W1–W152 whole-form checks. A `FAIL` here blocks the suite (`exit 1`).
+  (P3), determinism (P6), exit codes (P7), the N1–N8 divergence checks,
+  the W1–W152 whole-form checks and F1. A `FAIL` here blocks the suite
+  (`exit 1`).
 - `WARN` — soft checks: golden-baseline text diffs (informational — see
   above), and feature-token coverage (P4) / case-gender expansion counts (P5)
   from the comparator script, which use an approximate normalization map and
