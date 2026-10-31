@@ -149,6 +149,7 @@ gk_word *
  */
 
 	tmpGkword = *Gkword;
+	set_sublemma(&tmpGkword,"");
 	stem_gstring = stem_gstr_of(&tmpGkword);
 /*
 printf("stem [%s] stemkeys [%s]\n", stem_of(Gkword), stemkeys);
@@ -248,6 +249,7 @@ gk_word *
 		return(NULL);
 	}
 
+	set_sublemma(Gkword,"");
 	if( ! ScanAsciiKeys(stemkeys,Gkword,gstring,NULL) ) {
 		char errmess[LONGSTRING * 2];
 		FreeGkString(gstring);

@@ -19,7 +19,7 @@ RM=/bin/rm -f
 
 LOADLIBES=
 
-ALL=gkdict.a indexcomps indexnoms indexvbs  newlems newlems2 setquant splitlems splitlat latvb conj1 combitype latnom fixhesc fixgend
+ALL=gkdict.a checksublemmas indexcomps indexnoms indexvbs  newlems newlems2 setquant splitlems splitlat latvb conj1 combitype latnom fixhesc fixgend
 
 lexer= combitype fixhesc latnom setquant splitlems conj1 getitype latvb splitlat fixgend
 
@@ -27,6 +27,9 @@ all: ${ALL}
 
 install: ${ALL}
 	cp  ${ALL} ../../bin
+
+checksublemmas:	checksublemmas.o ${MORPHLIB}
+	${CC} ${CFLAGS} -o checksublemmas checksublemmas.o ${MORPHLIB}
 
 indexcomps:  indcomps.o  ${MORPHLIB} ${GREEKLIB}
 	${CC} -o indexcomps  indcomps.o  ${MORPHLIB} ${GREEKLIB}

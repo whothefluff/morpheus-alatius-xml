@@ -409,7 +409,9 @@ void	alpheiosDumpWord(gk_word* gkword, PrntFlags prntflags, FILE* fout)
 	int nanals = totanal_of(gkword);
 	int goodanals = GoodAnals(gkword,0);
     char curlem[MAXWORDSIZE];
+    char cursublem[MAXWORDSIZE];
     *curlem = '\0';
+    *cursublem = '\0';
 
     /* start word */
     if (nanals > 0)
@@ -484,13 +486,14 @@ void	alpheiosDumpWord(gk_word* gkword, PrntFlags prntflags, FILE* fout)
         if (!goodanals || !strchr(lemma_of(nxtAnalysis), '-'))
         {
             /* if this is a new lemma */
-            if (strcmp(curlem, lemma_of(nxtAnalysis)))
+            if (strcmp(curlem, lemma_of(nxtAnalysis)) || strcmp(cursublem, sublemma_of(nxtAnalysis)))
             {
                 /* terminate last entry */
                 if (*curlem)
                     fprintf(fout, "</entry>\n");
 
                 strcpy(curlem, lemma_of(nxtAnalysis));
+                strcpy(cursublem, sublemma_of(nxtAnalysis));
 
                 /* start new entry */
                 fprintf(fout, "<entry>\n");
@@ -500,6 +503,12 @@ void	alpheiosDumpWord(gk_word* gkword, PrntFlags prntflags, FILE* fout)
                 fprintf(fout, "<hdwd xml:lang=\"%s\">", get_xml_lang());
                 xml_write_text(fout, curlem);
                 fprintf(fout, "</hdwd>\n");
+                if (*cursublem)
+                {
+                    fprintf(fout, "<sublemma xml:lang=\"%s\">", get_xml_lang());
+                    xml_write_text(fout, cursublem);
+                    fprintf(fout, "</sublemma>\n");
+                }
 
                 /* put out part of speech for first instance */
                 /* as part of speech for lemma */

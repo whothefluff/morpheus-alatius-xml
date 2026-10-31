@@ -296,6 +296,7 @@ printf("tmphalf1 [%s] tmplem[%s] s [%s]\n", tmphalf1 , tmplem, s);
 /*
 printf("lemam now [%s]\n", lemma_of(curanal) );
 */
+	set_sublemma(curanal,sublemma_of(gkform));
 	set_preverb(curanal,preverb_of(gkform));
 
 	* (prvb_gstr_of(curanal)) = * (prvb_gstr_of(gkform));
@@ -421,6 +422,8 @@ void merge_anal_dialects(gk_analysis *anal1, gk_analysis *anal2)
 int equiv_anal(gk_analysis *anal1, gk_analysis *anal2)
 {
 	if( strcmp(lemma_of(anal1),lemma_of(anal2))) 
+		return(0);
+	if( strcmp(sublemma_of(anal1),sublemma_of(anal2)))
 		return(0);
 	/*
 	 * grc 2/16/88

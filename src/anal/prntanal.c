@@ -338,6 +338,7 @@ int CompAnals(const void* Anal1, const void* Anal2)
   const gk_analysis *a = Anal1, *b = Anal2;
   int r;
   if ((r = strcmp(lemma_of(a),lemma_of(b)))) return r;
+  if ((r = strcmp(sublemma_of(a),sublemma_of(b)))) return r;
   if ((r = strcmp(rawword_of(a),rawword_of(b)))) return r;
   if ((r = strcmp(stem_of(a),stem_of(b)))) return r;
   if ((r = strcmp(endstring_of(a),endstring_of(b)))) return r;
@@ -504,6 +505,8 @@ void DumpOneAnalysis(gk_word *Gkword, PrntFlags prntflags, gk_analysis *anal, FI
     fprintf(fout,"\n:raw %s\n", rawword_of(anal) );
     fprintf(fout,"\n:workw %s\n", workword_of(anal) );
     fprintf(fout,":lem %s\n", lemma_of(anal) );
+    if( sublemma_of(anal)[0] )
+      fprintf(fout,":sublem %s\n", sublemma_of(anal) );
     
     fprintf(fout,":prvb ");
     GregSprintGkFlags(prvb_gstr_of(anal),tmp,sizeof(tmp)," ", " ", 1);

@@ -198,6 +198,151 @@ for lang in Greek Latin; do
     fi
 done
 
+# ── Sublemmas (:sl:) ─────────────────────────────────────────────────────
+#
+# Each test builds a stemlib in a temporary directory with the Latin makefile: a copy of the Latin stem sources with a
+# few lines added, beside the real ending tables, derivations and verb index. The words it adds start with qq, which no
+# Latin word does.
+
+SCRATCH=$(mktemp -d)
+trap 'rm -rf "$SCRATCH"' EXIT
+
+new_scratch_stemlib() {
+    rm -rf "${SCRATCH:?}"/*
+    mkdir -p "$SCRATCH/Latin/steminds"
+    ln -s "$PROJECT_DIR/stemlib/Greek" "$SCRATCH/Greek"
+    for d in endtables derivs rule_files; do
+        ln -s "$PROJECT_DIR/stemlib/Latin/$d" "$SCRATCH/Latin/$d"
+    done
+    cp -pr "$PROJECT_DIR/stemlib/Latin/stemsrc" "$SCRATCH/Latin/"
+    cp "$PROJECT_DIR"/stemlib/Latin/steminds/vbind* "$SCRATCH/Latin/steminds/"
+}
+
+# Adds lines $2... to the scratch copy of stem source $1, after a newline: some sources don't end with one.
+add_stem_lines() {
+    local file="$SCRATCH/Latin/stemsrc/$1"
+    shift
+    printf '\n' >> "$file"
+    printf '%s\n' "$@" >> "$file"
+}
+
+make_scratch() {
+    MORPHLIB="$SCRATCH" make -s -B -C "$SCRATCH/Latin" -f "$PROJECT_DIR/stemlib/Latin/makefile" "$1" 2>&1
+}
+
+# The entries of word $1 in the scratch stemlib, as Morpheus orders them, one per line: the lemma, the sublemma (empty
+# for the entry's own word) and the grammar of each reading.
+scratch_entries() {
+    printf '%s\n' "$1" | MORPHLIB="$SCRATCH" "$PROJECT_DIR/bin/morpheus" -L 2>/dev/null | awk '
+        /<entry>/ { lemma = ""; sublemma = ""; readings = ""; next }
+        /<hdwd/ { lemma = $0; gsub(/<[^>]*>/, "", lemma); next }
+        /<sublemma/ { sublemma = $0; gsub(/<[^>]*>/, "", sublemma); next }
+        /<infl>/ { ininfl = 1; g = ""; next }
+        /<\/infl>/ { readings = readings (readings == "" ? "" : "; ") substr(g, 2); ininfl = 0; next }
+        /<\/entry>/ { print lemma "\t" sublemma "\t" readings; next }
+        ininfl && !/<term/ { t = $0; gsub(/<[^>]*>/, "", t); gsub(/&amp;/, "\\&", t); g = g " " t }'
+}
+
+expect_same() {
+    local label="$1" expected="$2" actual="$3"
+    if [ "$actual" = "$expected" ]; then
+        echo "PASS: $label"
+    else
+        echo "FAIL: $label"
+        echo "      expected: [$(printf '%s' "$expected" | tr '\t\n' '|;')]"
+        echo "      got:      [$(printf '%s' "$actual" | tr '\t\n' '|;')]"
+        FAILURES=$((FAILURES + 1))
+    fi
+}
+
+# Appends lines $5... to stem source $4 of a new scratch stemlib, and expects make's target $3 to stop with the
+# checker's refusal of the $2th line appended.
+expect_refusal() {
+    local label="$1" refused="$2" target="$3" file="$4" out line
+    shift 4
+    new_scratch_stemlib
+    line=$(( $(wc -l < "$SCRATCH/Latin/stemsrc/$file") + 1 + refused ))
+    add_stem_lines "$file" "$@"
+    if out=$(make_scratch "$target"); then
+        echo "FAIL: $label (make $target exited 0)"
+        FAILURES=$((FAILURES + 1))
+    else
+        expect_same "$label stops make $target" "1" "$(grep -c "^stemsrc/$file:$line: " <<< "$out")"
+    fi
+}
+
+LONGEST_SUBLEMMA=Qq$(printf 'x%.0s' {1..57})
+
+new_scratch_stemlib
+# Two words of one entry with identical readings
+add_stem_lines ls.nom ':le:Qqalpha' ':no:qqa	a_ae fem' ':sl:Qqbeta' ':no:qqa	a_ae fem'
+# One word in two files, with two stem lines that differ only by a flag
+add_stem_lines nom.04 ':le:Qqgamma' ':sl:Qqdelta' ':no:qqc	a_ae fem'
+add_stem_lines ls.nom ':le:Qqgamma' ':sl:Qqdelta' ':no:qqc	a_ae fem pers_name'
+# A tagged whole form followed by another entry's untagged one
+add_stem_lines nom.01 ':le:Qqepsilon' ':sl:Qqzeta' ':wd:qqd	adverb' ':le:Qqeta' ':wd:qqd	adverb'
+# A tagged whole form followed by another entry's untagged stem
+add_stem_lines nom.01 ':le:Qqtheta' ':sl:Qqiota' ':wd:qqea	adverb' ':le:Qqkappa' ':no:qqe	a_ae fem'
+# A tagged block, then a block of the same entry in another file
+add_stem_lines nom.02 ':le:Qqlambda' ':sl:Qqmu' ':no:qqf	a_ae fem'
+add_stem_lines nom.03 ':le:Qqlambda' ':no:qqg	a_ae fem'
+# An @ line under a sublemma, after a stem of its own
+add_stem_lines ls.nom ':le:Qqnu' ':aj:qqh	us_a_um' ':sl:Qqxi' ':aj:qqk	er_era_erum superl' '@	comp'
+# The longest sublemma
+add_stem_lines ls.nom ':le:Qqomicron' ":sl:$LONGEST_SUBLEMMA" ':no:qqj	a_ae fem'
+
+if out=$(make_scratch steminds/nomind); then
+    echo "PASS: a stemlib with sublemmas builds"
+    expect_same "qqaae: two words of one entry with identical readings stay apart" "$(cat <<'EOF'
+Qqalpha		noun 1st genitive feminine singular a_ae; noun 1st dative feminine singular a_ae; noun 1st nominative feminine plural a_ae; noun 1st vocative feminine plural a_ae
+Qqalpha	Qqbeta	noun 1st genitive feminine singular a_ae; noun 1st dative feminine singular a_ae; noun 1st nominative feminine plural a_ae; noun 1st vocative feminine plural a_ae
+EOF
+)" "$(scratch_entries qqaae)"
+    expect_same "qqaam: -d shows the sublemma of the tagged reading" "$(printf ':lem Qqalpha\n:lem Qqalpha\n:sublem Qqbeta')" \
+        "$(printf 'qqaam\n' | MORPHLIB="$SCRATCH" "$CRUNCHER" -Ld 2>/dev/null | grep -E '^:(lem|sublem) ')"
+    expect_same "qqaam: -l shows the lemma alone" "$(printf 'form:qqaam\nQqalpha')" \
+        "$(printf 'qqaam\n' | MORPHLIB="$SCRATCH" "$CRUNCHER" -Ll 2>/dev/null)"
+    expect_same "qqcam: identical readings of one word merge" \
+        "Qqgamma	Qqdelta	noun 1st accusative feminine singular a_ae" "$(scratch_entries qqcam)"
+    expect_same "qqd: a tagged whole form leaves the next entry's untagged" "$(cat <<'EOF'
+Qqepsilon	Qqzeta	adverb adverb indeclform
+Qqeta		adverb adverb indeclform
+EOF
+)" "$(scratch_entries qqd)"
+    expect_same "qqea: a tagged whole form leaves the next entry's stem untagged" "$(cat <<'EOF'
+Qqkappa		noun 1st nominative feminine singular a_ae; noun 1st vocative feminine singular a_ae; noun 1st ablative feminine singular a_ae
+Qqtheta	Qqiota	adverb adverb indeclform
+EOF
+)" "$(scratch_entries qqea)"
+    expect_same "qqfam: a tagged block" "Qqlambda	Qqmu	noun 1st accusative feminine singular a_ae" \
+        "$(scratch_entries qqfam)"
+    expect_same "qqgam: a later block of the same entry, in another file, is untagged" \
+        "Qqlambda		noun 1st accusative feminine singular a_ae" "$(scratch_entries qqgam)"
+    expect_same "qqkerior: an @ line under a sublemma carries it" "$(cat <<'EOF'
+Qqnu	Qqxi	adjective 1st & 2nd nominative masculine comparative singular er_era_erum; adjective 1st & 2nd nominative feminine comparative singular er_era_erum; adjective 1st & 2nd vocative masculine comparative singular er_era_erum; adjective 1st & 2nd vocative feminine comparative singular er_era_erum
+EOF
+)" "$(scratch_entries qqkerior)"
+    expect_same "qqjam: the longest sublemma" "Qqomicron	$LONGEST_SUBLEMMA	noun 1st accusative feminine singular a_ae" \
+        "$(scratch_entries qqjam)"
+else
+    echo "FAIL: a stemlib with sublemmas builds"
+    echo "$out" | head -5 | sed 's/^/      /'
+    FAILURES=$((FAILURES + 1))
+fi
+
+expect_refusal ":sl: before the file's first :le:" 1 steminds/nomind nom.livy ':sl:Qqpi' ':no:qqm	a_ae fem'
+expect_refusal "empty :sl:" 2 steminds/nomind nom.01 ':le:Qqrho' ':sl:' ':no:qqm	a_ae fem'
+expect_refusal ":sl: with a space" 2 steminds/nomind nom.01 ':le:Qqrho' ':sl:Qq sigma' ':no:qqm	a_ae fem'
+expect_refusal ":sl: with a colon" 2 steminds/nomind nom.01 ':le:Qqrho' ':sl:Qq:sigma' ':no:qqm	a_ae fem'
+expect_refusal ":sl: one byte longer than the longest" 2 steminds/nomind ls.nom ':le:Qqrho' ":sl:${LONGEST_SUBLEMMA}x" \
+    ':no:qqm	a_ae fem'
+expect_refusal ":sl: equal to its :le:" 2 steminds/nomind ls.nom ':le:Qqrho' ':sl:Qqrho' ':no:qqm	a_ae fem'
+expect_refusal "@ line under a :sl: with no stem of its own" 4 steminds/nomind ls.nom ':le:Qqrho' \
+    ':aj:qqm	er_era_erum superl' ':sl:Qqsigma' '@	comp'
+expect_refusal ":sl: in a verb source" 1 steminds/vbind vbs.latin ':sl:Qqtau'
+expect_refusal ":sl: in the irregular nouns" 1 stemsrc/nom.irreg irreg.nom.src ':sl:Qqtau'
+expect_refusal ":sl: in the irregular verbs" 1 stemsrc/vbs.irreg irreg.vbs.src ':sl:Qqtau'
+
 echo ""
 if [ "$FAILURES" -gt 0 ]; then
     echo "$FAILURES failure(s)."

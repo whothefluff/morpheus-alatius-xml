@@ -1,0 +1,3 @@
+# Test words whose output the commit's change of the stem files is meant to change, one per line, for
+# tests/check_unchanged_output.py: exempt from its comparison in every run, each fails if its output did not change.
+# A commit that changes some output lists its own words here, in place of the ones before.

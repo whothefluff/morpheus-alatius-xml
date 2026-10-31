@@ -96,10 +96,11 @@ Root element is `<words>...</words>`. Comment-only lines in the input
 comment is neutralized to `- ` so it can't collide with `<!--`/`-->`.
 
 Each analyzed word is a `<word>` element containing a `<form>` (the input
-form) and one `<entry>` per distinct lemma. Each `<entry>` has a `<dict>`
-block (`<hdwd>` = lemma, `<pofs>` = part of speech with an `order` attribute,
-`<gend>` for nouns) followed by one `<infl>` per case/gender/mood/tense/etc.
-combination that analysis covers.
+form) and one `<entry>` per distinct lemma and sublemma. Each `<entry>` has a
+`<dict>` block (`<hdwd>` = lemma, `<sublemma>` for a word given inside its
+lemma's entry (a `:sl:` in the Latin stem files), `<pofs>` = part of speech
+with an `order` attribute, `<gend>` for nouns) followed by one `<infl>` per
+case/gender/mood/tense/etc. combination that analysis covers.
 
 Unrecognized words are emitted inline as `<unknown xml:lang="...">word</unknown>`
 rather than being dropped to stderr the way `cruncher` handles them.
