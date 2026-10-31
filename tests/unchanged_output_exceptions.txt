@@ -1,3 +1,41 @@
 # Test words whose output the commit's change of the stem files is meant to change, one per line, for
 # tests/check_unchanged_output.py: exempt from its comparison in every run, each fails if its output did not change.
 # A commit that changes some output lists its own words here, in place of the ones before.
+
+# Words that L&S gives inside another entry, now under a :sl:: their readings carry the sublemma, after those of the
+# entry's own word.
+Allobrogicus
+Cybele
+Cybeleius
+Cybelista
+Cybelistam
+Cybelum
+Cybelus
+Dardania
+Dardanides
+Dardanidi
+Dardanis
+Dardanius
+Horae
+Pergamena
+Pergameni
+Pergamina
+Promethiades
+bonae
+cauta
+prima
+primum
+simile
+
+# Words filed under another entry, the one L&S refers them to (adorea, Latinus and the words with them) or the one that
+# holds them (Ciceronianus, which had a lemma of its own): their readings change lemma too.
+Ciceronianus
+Latinae
+Latine
+Latini
+Latinissime
+Latinius
+Latinum
+Latinus
+adorea
+adoreum

@@ -44,7 +44,8 @@ def first_fields_of(names: List[Path]) -> List[str]:
 
 
 LATIN = sorted(set(lines_of('latin_words.txt') + lines_of('latin_probe.txt')
-                   + first_fields_of(sorted(TESTS.glob('latin_assertions*.txt')) + [TESTS / 'xml_whole_forms.txt'])))
+                   + first_fields_of(sorted(TESTS.glob('latin_assertions*.txt'))
+                                   + [TESTS / 'xml_whole_forms.txt', TESTS / 'xml_sublemmas.txt'])))
 GREEK = sorted(set(lines_of('greek_words.txt') + lines_of('greek_probe.txt')))
 
 # The words of each run, by program and flags.
