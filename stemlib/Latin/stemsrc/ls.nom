@@ -3344,8 +3344,10 @@ a^do_ra_tor
 
 
 a^do_re^a		
-:le:adorea
+:le:adoreus#1
+:sl:adorea
 :no:a^do_re^	a_ae fem
+:sl:adoreum
 :no:a^do_re^	us_i neut
 
 
@@ -7801,6 +7803,7 @@ alli_vescit		<orth type=alt>adl-</orth>
 
 :le:Allobrox
 :no:Allo_^bro^	x_gis masc
+:sl:Allobrogicus
 :aj:Allo_^bro^gi^c	us_a_um
 
 
@@ -24959,8 +24962,9 @@ Bo^no_ni^ensis
 :le:bonus
 :aj:bo^n	us_a_um
 :aj:du^on	us_a_um orth
-:no:bo^n	a_ae fem pl
 :wd:bo^na_^n	us_a_um fem abl sg
+:sl:bonae
+:no:bo^n	a_ae fem pl
 
 
 bo^nuscu^la		
@@ -33680,6 +33684,7 @@ ca^ve^fa^ci^o		<itype>ce^re</itype>
 
 	
 :le:caveo
+:sl:cauta
 :no:caut	us_i neut pl
 
 
@@ -37309,7 +37314,8 @@ Ci^ce^ro
 
 
 Ci^ce^ro_ni^a_nus		
-:le:Ciceronianus
+:le:Cicero
+:sl:Ciceronianus
 :aj:Ci^ce^ro_ni^a_n	us_a_um
 
 
@@ -52745,8 +52751,11 @@ cy^baea
 :no:Cy^be^-l	e_es fem
 :no:Cy^be_-b	e_es fem orth
 :no:Cy^be^-l	a_ae fem orth
+:sl:Cybeleius
 :aj:Cy^be^-le_	ius_ia_ium
+:sl:Cybelista
 :no:Cy^be^list	a_ae masc
+:sl:Cybelus
 :no:Cy^be^-l	us_i masc
 
 
@@ -54260,18 +54269,23 @@ darda^na_ri^us
 Darda^ni		
 :le:Dardani
 :no:Darda^n	us_i masc pl
-:no:Darda^ni	a_ae fem sg orth
+:sl:Dardania
+:no:Darda^ni	a_ae fem sg
 
 
 Darda^nus#1		
 :le:Dardanus#1
 :no:Darda^n	us_i masc
 :aj:Darda^n	us_a_um orth
-:aj:Darda^n	ius_ia_ium orth
-:no:Darda^ni	a_ae fem sg orth
-:no:Darda^ni^d	es_ae masc orth
-:no:Darda^n	is_idis fem orth
+:sl:Dardanius
 :aj:Darda^n	ius_ia_ium
+:aj:Darda^n	ius_ia_ium
+:sl:Dardania
+:no:Darda^ni	a_ae fem sg
+:sl:Dardanides
+:no:Darda^ni^d	es_ae masc
+:sl:Dardanis
+:no:Darda^n	is_idis fem
 
 
 Darda^nus#2		
@@ -88281,6 +88295,7 @@ hoplo^ma^chus
 :le:hora#1
 :no:ho_r	a_ae fem
 :no:ho_r	a_ae fem pl
+:sl:Horae
 :no:Ho_r	a_ae fem pl
 
 
@@ -109458,9 +109473,12 @@ la_ti^fundi^um
 
 la_ti^lo^quens	
 La^ti_nae		
-:le:Latinae
+:le:Latium
+:sl:Latinae
 :no:La^ti_n	a_ae fem pl
+:sl:Latinus
 :wd:La^ti_ne_	adverb
+:sl:Latini
 :no:La^ti_n	us_i masc pl
 
 
@@ -109525,7 +109543,8 @@ La^ti^um
 
 
 La^ti_nus		
-:le:Latinus#1
+:le:Latium
+:sl:Latinus
 :aj:La^ti_n	us_a_um
 
 
@@ -150134,9 +150153,11 @@ Perga^mis
 Perga^mum#2		
 :le:Pergamum#2
 :no:Perga^m	us_i neut
+:sl:Pergamena
 :no:Perga^me_n	a_ae fem
 :no:Perga^mi_n	a_ae fem orth
 :no:Perga^me_n	a_ae fem
+:sl:Pergameni
 :no:Perga^me_n	us_i masc pl
 
 
@@ -163522,10 +163543,11 @@ pri_mu^lum
 
 :le:primus
 :aj:pri_m	us_a_um
-:no:pri_m	us_i neut pl
 :wd:pri_mo_	adverb
 :wd:pri_mi^ter	adverb
 :wd:pri_mumdum adverb
+:sl:prima
+:no:pri_m	us_i neut pl
 
 
 :le:imprimis
@@ -165032,6 +165054,7 @@ pro_-me^ri^tum
 :le:Prometheus
 :no:Pro^me_th	eus_ei masc
 :aj:Pro^me_the_	us_a_um
+:sl:Promethiades
 :no:Pro^me_thi^a^d	es_ae masc
 
 
@@ -187379,6 +187402,7 @@ si^mi^lis
 
 	<orth type=alt>Caesari</orth>	<orth>si^mi^le</orth>	
 :le:similis
+:sl:simile
 :no:si^mi^l	is_is neut
 
 

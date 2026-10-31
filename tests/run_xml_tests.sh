@@ -594,4 +594,46 @@ EOF
 test_f1
 
 # ---------------------------------------------------------------------------
+# 8. Words given inside an entry (S1 onwards)
+# ---------------------------------------------------------------------------
+hr "Words given inside an entry"
+
+# The readings of a word as xml_readings writes them, with the sublemma after the lemma (empty for the entry's own word)
+xml_sublemma_readings() {
+    printf '%s\n' "$1" | "$MORPHEUS" -L 2>/dev/null | awk -v word="$1" '
+        /<entry>/ { sublemma = ""; next }
+        /<hdwd/ { l = $0; gsub(/.*<hdwd[^>]*>|<\/hdwd>.*/, "", l); lemma = l; next }
+        /<sublemma/ { s = $0; gsub(/.*<sublemma[^>]*>|<\/sublemma>.*/, "", s); sublemma = s; next }
+        /<infl>/ { ininfl = 1; stem = ""; suff = ""; g = ""; next }
+        /<\/infl>/ { print word "\t" lemma "\t" sublemma "\t" stem (suff != "" ? "+" suff : "") "\t" substr(g, 2); ininfl = 0; next }
+        ininfl && /<term/ {
+            stem = $0; sub(/.*<stem>/, "", stem); sub(/<\/stem>.*/, "", stem)
+            if ($0 ~ /<suff>/) { suff = $0; sub(/.*<suff>/, "", suff); sub(/<\/suff>.*/, "", suff) }
+            next
+        }
+        ininfl && /<derivtype>/ { next }
+        ininfl { t = $0; gsub(/<[^>]*>/, "", t); gsub(/&amp;/, "\\&", t); if (t != "") g = g " " t }' | LC_ALL=C sort
+}
+
+# Each word of tests/xml_sublemmas.txt answers with its lines there and nothing else
+test_sublemmas_file() {
+    local file="$SCRIPT_DIR/xml_sublemmas.txt" n=1 word expected actual out
+    for word in $(grep -v '^#' "$file" | cut -f1 | awk 'NF && !seen[$0]++'); do
+        expected=$(awk -F'\t' -v w="$word" '$1 == w' "$file" | LC_ALL=C sort)
+        actual=$(xml_sublemma_readings "$word")
+        if [ "$actual" = "$expected" ]; then
+            pass "S$n: $word answers with its words"
+        else
+            fail "S$n: $word: expected [$(printf '%s' "$expected" | cut -f2- | tr '\t\n' '|;')], got [$(printf '%s' "$actual" | cut -f2- | tr '\t\n' '|;')]"
+        fi
+        out=$(mktemp)
+        printf '%s\n' "$word" | "$MORPHEUS" -L >"$out" 2>/dev/null
+        wf_check "S$n ($word)" "$out"
+        rm -f "$out"
+        n=$((n + 1))
+    done
+}
+test_sublemmas_file
+
+# ---------------------------------------------------------------------------
 finish

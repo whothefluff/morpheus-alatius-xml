@@ -1,0 +1,193 @@
+# Words that L&S gives inside another entry, under a :sl: in the stem files, beside their entry's own word (S1 onwards
+# in run_xml_tests.sh). One line per reading Morpheus answers with, and it answers with no other: the word, the lemma
+# (the L&S entry), the sublemma (empty for the entry's own word), the stem with the ending after a +, and the grammar.
+#
+# Cybele's spellings are Cybele's own word; Cybeleius, Cybelista and Cybelus are words of their own, Cybele also
+# Cybelus's vocative.
+Cybele	Cybele		Cy^be^l+e_	noun 1st ablative feminine singular e_es
+Cybele	Cybele		Cy^be^l+e_	noun 1st nominative feminine singular e_es
+Cybele	Cybele		Cy^be^l+e_	noun 1st vocative feminine singular e_es
+Cybele	Cybele	Cybelus	Cy^be^l+e	noun 2nd vocative masculine singular us_i
+Cybebe	Cybele		Cy^be_b+e_	noun 1st ablative feminine singular e_es
+Cybebe	Cybele		Cy^be_b+e_	noun 1st nominative feminine singular e_es
+Cybebe	Cybele		Cy^be_b+e_	noun 1st vocative feminine singular e_es
+Cybela	Cybele		Cy^be^l+a	noun 1st nominative feminine singular a_ae
+Cybela	Cybele		Cy^be^l+a	noun 1st nominative feminine singular e_es
+Cybela	Cybele		Cy^be^l+a	noun 1st vocative feminine singular a_ae
+Cybela	Cybele		Cy^be^l+a	noun 1st vocative feminine singular e_es
+Cybela	Cybele		Cy^be^l+a_	noun 1st ablative feminine singular a_ae
+Cybela	Cybele		Cy^be^l+a_	noun 1st ablative feminine singular e_es
+Cybeleius	Cybele	Cybeleius	Cy^be^le_+ius	adjective 1st & 2nd nominative masculine singular ius_ia_ium
+Cybelistam	Cybele	Cybelista	Cy^be^list+am	noun 1st accusative masculine singular a_ae
+Cybelum	Cybele	Cybelus	Cy^be^l+um	noun 2nd accusative masculine singular us_i
+Cybelum	Cybele	Cybelus	Cy^be^l+um	noun 2nd genitive masculine plural us_i poetic
+# Dardania is a word under Dardani (the country) and another under Dardanus#1 (the city), beside Dardanius; Dardanides
+# and Dardanis are words of their own under Dardanus#1.
+Dardania	Dardani	Dardania	Darda^ni+a	noun 1st nominative feminine singular a_ae
+Dardania	Dardani	Dardania	Darda^ni+a	noun 1st vocative feminine singular a_ae
+Dardania	Dardani	Dardania	Darda^ni+a_	noun 1st ablative feminine singular a_ae
+Dardania	Dardanus#1	Dardania	Darda^ni+a	noun 1st nominative feminine singular a_ae
+Dardania	Dardanus#1	Dardania	Darda^ni+a	noun 1st vocative feminine singular a_ae
+Dardania	Dardanus#1	Dardania	Darda^ni+a_	noun 1st ablative feminine singular a_ae
+Dardania	Dardanus#1	Dardanius	Darda^n+ia	adjective 1st & 2nd accusative neuter plural ius_ia_ium
+Dardania	Dardanus#1	Dardanius	Darda^n+ia	adjective 1st & 2nd nominative feminine singular ius_ia_ium
+Dardania	Dardanus#1	Dardanius	Darda^n+ia	adjective 1st & 2nd nominative neuter plural ius_ia_ium
+Dardania	Dardanus#1	Dardanius	Darda^n+ia	adjective 1st & 2nd vocative feminine singular ius_ia_ium
+Dardania	Dardanus#1	Dardanius	Darda^n+ia	adjective 1st & 2nd vocative neuter plural ius_ia_ium
+Dardania	Dardanus#1	Dardanius	Darda^n+ia_	adjective 1st & 2nd ablative feminine singular ius_ia_ium
+Dardanidi	Dardanus#1	Dardanides	Darda^ni^d+i_	noun 1st genitive masculine singular es_ae
+Dardanidi	Dardanus#1	Dardanis	Darda^n+idi_	noun 3rd dative feminine singular is_idis
+# cauta, the provisions, is a word of its own under caveo; caveo's participle is caveo's own word.
+cauta	caveo		caut+a	verb participle accusative neuter participle plural perfect passive pp4
+cauta	caveo		caut+a	verb participle nominative feminine participle singular perfect passive pp4
+cauta	caveo		caut+a	verb participle nominative neuter participle plural perfect passive pp4
+cauta	caveo		caut+a	verb participle vocative feminine participle singular perfect passive pp4
+cauta	caveo		caut+a	verb participle vocative neuter participle plural perfect passive pp4
+cauta	caveo		caut+a_	verb participle ablative feminine participle singular perfect passive pp4
+cauta	caveo	cauta	caut+a	noun 2nd accusative neuter plural us_i
+cauta	caveo	cauta	caut+a	noun 2nd nominative neuter plural us_i
+cauta	caveo	cauta	caut+a	noun 2nd vocative neuter plural us_i
+# Latinus, which L&S refers to Latium, is a word under Latium: its adjective, its adverbs in every degree and its whole
+# form Latine. Latinae and Latini are words of their own under Latium too.
+Latine	Latinus#2		La^ti_n+e	noun 2nd vocative masculine singular us_i
+Latine	Latium		La^ti_n+e	noun 2nd vocative neuter singular us_i
+Latine	Latium	Latinus	La^ti_n+e	adjective 1st & 2nd vocative masculine singular us_a_um
+Latine	Latium	Latinus	La^ti_n+e	adjective 1st & 2nd vocative neuter singular us_a_um
+Latine	Latium	Latinus	La^ti_n+e_	adjective 1st & 2nd adverbial us_a_um
+Latine	Latium	Latinus	La^ti_ne_	adverb adverb indeclform
+Latinius	Latinius		La^ti_n+ius	noun 2nd nominative masculine singular ius_i
+Latinius	Latium	Latinus	La^ti_n+ius	adjective 1st & 2nd accusative neuter comparative singular us_a_um
+Latinius	Latium	Latinus	La^ti_n+ius	adjective 1st & 2nd adverbial comparative us_a_um
+Latinius	Latium	Latinus	La^ti_n+ius	adjective 1st & 2nd nominative neuter comparative singular us_a_um
+Latinius	Latium	Latinus	La^ti_n+ius	adjective 1st & 2nd vocative neuter comparative singular us_a_um
+Latinissime	Latium	Latinus	La^ti_n+issime	adjective 1st & 2nd vocative masculine superlative singular us_a_um
+Latinissime	Latium	Latinus	La^ti_n+issime	adjective 1st & 2nd vocative neuter superlative singular us_a_um
+Latinissime	Latium	Latinus	La^ti_n+issime_	adjective 1st & 2nd adverbial superlative us_a_um
+Latinae	Latium	Latinae	La^ti_n+ae	noun 1st nominative feminine plural a_ae
+Latinae	Latium	Latinae	La^ti_n+ae	noun 1st vocative feminine plural a_ae
+Latinae	Latium	Latinus	La^ti_n+ae	adjective 1st & 2nd dative feminine singular us_a_um
+Latinae	Latium	Latinus	La^ti_n+ae	adjective 1st & 2nd genitive feminine singular us_a_um
+Latinae	Latium	Latinus	La^ti_n+ae	adjective 1st & 2nd nominative feminine plural us_a_um
+Latinae	Latium	Latinus	La^ti_n+ae	adjective 1st & 2nd vocative feminine plural us_a_um
+Latini	Latinius		La^ti_n+i_	noun 2nd genitive masculine singular ius_i
+Latini	Latinius		La^ti_n+i_	noun 2nd vocative masculine singular ius_i
+Latini	Latinus#2		La^ti_n+i_	noun 2nd genitive masculine singular us_i
+Latini	Latinus#2		La^ti_n+i_	noun 2nd nominative masculine plural us_i
+Latini	Latinus#2		La^ti_n+i_	noun 2nd vocative masculine plural us_i
+Latini	Latium		La^ti_n+i_	noun 2nd genitive neuter singular us_i
+Latini	Latium	Latini	La^ti_n+i_	noun 2nd nominative masculine plural us_i
+Latini	Latium	Latini	La^ti_n+i_	noun 2nd vocative masculine plural us_i
+Latini	Latium	Latinus	La^ti_n+i_	adjective 1st & 2nd genitive masculine singular us_a_um
+Latini	Latium	Latinus	La^ti_n+i_	adjective 1st & 2nd genitive neuter singular us_a_um
+Latini	Latium	Latinus	La^ti_n+i_	adjective 1st & 2nd nominative masculine plural us_a_um
+Latini	Latium	Latinus	La^ti_n+i_	adjective 1st & 2nd vocative masculine plural us_a_um
+# An adjective's adverbs are its own word: facilis's whole forms and generated adverbs.
+facilen	facilis		fa^ci^len	adverb adverb indeclform
+faciliter	facilis		fa^ci^l+iter	adjective 3rd adverbial is_e
+facilius	facilis		fa^ci^l+ius	adjective 3rd accusative neuter comparative singular is_e
+facilius	facilis		fa^ci^l+ius	adjective 3rd adverbial comparative is_e
+facilius	facilis		fa^ci^l+ius	adjective 3rd nominative neuter comparative singular is_e
+facilius	facilis		fa^ci^l+ius	adjective 3rd vocative neuter comparative singular is_e
+facillime	facilis		fa^ci^llim+e	adjective 1st & 2nd vocative masculine singular us_a_um irreg_superl
+facillime	facilis		fa^ci^llim+e	adjective 1st & 2nd vocative neuter singular us_a_um irreg_superl
+facillime	facilis		fa^ci^llim+e_	adjective 1st & 2nd adverbial us_a_um irreg_superl
+# bonae and simile are words of their own; bonan, the comparison and superlative stems in other files, and the
+# adjectives' own forms stay with bonus and similis.
+bonan	bonus		bo^na_^n	adjective 1st & 2nd ablative feminine singular us_a_um indeclform
+bonae	bonus		bo^n+ae	adjective 1st & 2nd dative feminine singular us_a_um
+bonae	bonus		bo^n+ae	adjective 1st & 2nd genitive feminine singular us_a_um
+bonae	bonus		bo^n+ae	adjective 1st & 2nd nominative feminine plural us_a_um
+bonae	bonus		bo^n+ae	adjective 1st & 2nd vocative feminine plural us_a_um
+bonae	bonus	bonae	bo^n+ae	noun 1st nominative feminine plural a_ae
+bonae	bonus	bonae	bo^n+ae	noun 1st vocative feminine plural a_ae
+melior	bonus		me^li^+or	adjective 3rd nominative feminine comparative singular or_us_comp
+melior	bonus		me^li^+or	adjective 3rd nominative masculine comparative singular or_us_comp
+optimus	bonus		opti^m+us	adjective 1st & 2nd nominative masculine singular us_a_um irreg_superl
+simile	similis		si^mi^l+e	adjective 3rd accusative neuter singular is_e
+simile	similis		si^mi^l+e	adjective 3rd nominative neuter singular is_e
+simile	similis		si^mi^l+e	adjective 3rd vocative neuter singular is_e
+simile	similis	simile	si^mi^l+e	noun 3rd ablative neuter singular is_is
+simile	similis	simile	si^mi^l+e	noun 3rd accusative neuter singular is_is
+simile	similis	simile	si^mi^l+e	noun 3rd nominative neuter singular is_is
+simile	similis	simile	si^mi^l+e	noun 3rd vocative neuter singular is_is
+similior	similis		si^mi^l+ior	adjective 3rd nominative feminine comparative singular is_e
+similior	similis		si^mi^l+ior	adjective 3rd nominative masculine comparative singular is_e
+similior	similis		si^mi^l+ior	adjective 3rd vocative feminine comparative singular is_e
+similior	similis		si^mi^l+ior	adjective 3rd vocative masculine comparative singular is_e
+simillimus	similis		simillim+us	adjective 1st & 2nd nominative masculine singular us_a_um irreg_comp
+# Horae, the Hours, is a word under hora#1; lowercase horae is hora#1's own word.
+Horae	Hora#2		Ho_^r+ae	noun 1st dative feminine singular a_ae
+Horae	Hora#2		Ho_^r+ae	noun 1st genitive feminine singular a_ae
+Horae	Hora#2		Ho_^r+ae	noun 1st nominative feminine plural a_ae
+Horae	Hora#2		Ho_^r+ae	noun 1st vocative feminine plural a_ae
+Horae	Ora#2		Ho^r+ae	noun 1st dative feminine singular a_ae
+Horae	Ora#2		Ho^r+ae	noun 1st genitive feminine singular a_ae
+Horae	Ora#2		Ho^r+ae	noun 1st nominative feminine plural a_ae
+Horae	Ora#2		Ho^r+ae	noun 1st vocative feminine plural a_ae
+Horae	hora#1	Horae	Ho_r+ae	noun 1st nominative feminine plural a_ae
+Horae	hora#1	Horae	Ho_r+ae	noun 1st vocative feminine plural a_ae
+horae	hora#1		ho_r+ae	noun 1st dative feminine singular a_ae
+horae	hora#1		ho_r+ae	noun 1st genitive feminine singular a_ae
+horae	hora#1		ho_r+ae	noun 1st nominative feminine plural a_ae
+horae	hora#1		ho_r+ae	noun 1st vocative feminine plural a_ae
+# prima, Promethiades, Allobrogicus, Ciceronianus (whose own lemma was a stray one), Pergamena (spelled Pergamina too),
+# Pergameni, adorea and adoreum are words under their entries; primo, an adverb of primus, is primus's own word. adorea
+# refers to adoreus#1 in L&S, and is filed there.
+prima	primus		pri_m+a	adjective 1st & 2nd accusative neuter plural us_a_um
+prima	primus		pri_m+a	adjective 1st & 2nd nominative feminine singular us_a_um
+prima	primus		pri_m+a	adjective 1st & 2nd nominative neuter plural us_a_um
+prima	primus		pri_m+a	adjective 1st & 2nd vocative feminine singular us_a_um
+prima	primus		pri_m+a	adjective 1st & 2nd vocative neuter plural us_a_um
+prima	primus		pri_m+a_	adjective 1st & 2nd ablative feminine singular us_a_um
+prima	primus	prima	pri_m+a	noun 2nd accusative neuter plural us_i
+prima	primus	prima	pri_m+a	noun 2nd nominative neuter plural us_i
+prima	primus	prima	pri_m+a	noun 2nd vocative neuter plural us_i
+primo	primus		pri_m+o_	adjective 1st & 2nd ablative masculine singular us_a_um
+primo	primus		pri_m+o_	adjective 1st & 2nd ablative neuter singular us_a_um
+primo	primus		pri_m+o_	adjective 1st & 2nd dative masculine singular us_a_um
+primo	primus		pri_m+o_	adjective 1st & 2nd dative neuter singular us_a_um
+primo	primus		pri_mo_	adverb adverb indeclform
+Promethiades	Prometheus	Promethiades	Pro^me_thi^a^d+e_s	noun 1st nominative masculine singular es_ae
+Allobrogicus	Allobrox	Allobrogicus	Allo_^bro^gi^c+us	adjective 1st & 2nd nominative masculine singular us_a_um
+Ciceronianus	Cicero	Ciceronianus	Ci^ce^ro_ni^a_n+us	adjective 1st & 2nd nominative masculine singular us_a_um
+Pergamena	Pergamenus		Perga^me_n+a	adjective 1st & 2nd accusative neuter plural us_a_um
+Pergamena	Pergamenus		Perga^me_n+a	adjective 1st & 2nd nominative feminine singular us_a_um
+Pergamena	Pergamenus		Perga^me_n+a	adjective 1st & 2nd nominative neuter plural us_a_um
+Pergamena	Pergamenus		Perga^me_n+a	adjective 1st & 2nd vocative feminine singular us_a_um
+Pergamena	Pergamenus		Perga^me_n+a	adjective 1st & 2nd vocative neuter plural us_a_um
+Pergamena	Pergamenus		Perga^me_n+a_	adjective 1st & 2nd ablative feminine singular us_a_um
+Pergamena	Pergamum#2	Pergamena	Perga^me_n+a	noun 1st nominative feminine singular a_ae
+Pergamena	Pergamum#2	Pergamena	Perga^me_n+a	noun 1st vocative feminine singular a_ae
+Pergamena	Pergamum#2	Pergamena	Perga^me_n+a_	noun 1st ablative feminine singular a_ae
+Pergamina	Pergamum#2	Pergamena	Perga^mi_n+a	noun 1st nominative feminine singular a_ae
+Pergamina	Pergamum#2	Pergamena	Perga^mi_n+a	noun 1st vocative feminine singular a_ae
+Pergamina	Pergamum#2	Pergamena	Perga^mi_n+a_	noun 1st ablative feminine singular a_ae
+Pergameni	Pergamenus		Perga^me_n+i_	adjective 1st & 2nd genitive masculine singular us_a_um
+Pergameni	Pergamenus		Perga^me_n+i_	adjective 1st & 2nd genitive neuter singular us_a_um
+Pergameni	Pergamenus		Perga^me_n+i_	adjective 1st & 2nd nominative masculine plural us_a_um
+Pergameni	Pergamenus		Perga^me_n+i_	adjective 1st & 2nd vocative masculine plural us_a_um
+Pergameni	Pergamum#2	Pergameni	Perga^me_n+i_	noun 2nd nominative masculine plural us_i
+Pergameni	Pergamum#2	Pergameni	Perga^me_n+i_	noun 2nd vocative masculine plural us_i
+adorea	adoreus#1		a^do_re^+a	adjective 1st & 2nd accusative neuter plural us_a_um
+adorea	adoreus#1		a^do_re^+a	adjective 1st & 2nd nominative feminine singular us_a_um
+adorea	adoreus#1		a^do_re^+a	adjective 1st & 2nd nominative neuter plural us_a_um
+adorea	adoreus#1		a^do_re^+a	adjective 1st & 2nd vocative feminine singular us_a_um
+adorea	adoreus#1		a^do_re^+a	adjective 1st & 2nd vocative neuter plural us_a_um
+adorea	adoreus#1		a^do_re^+a_	adjective 1st & 2nd ablative feminine singular us_a_um
+adorea	adoreus#1	adorea	a^do_re^+a	noun 1st nominative feminine singular a_ae
+adorea	adoreus#1	adorea	a^do_re^+a	noun 1st vocative feminine singular a_ae
+adorea	adoreus#1	adorea	a^do_re^+a_	noun 1st ablative feminine singular a_ae
+adorea	adoreus#1	adoreum	a^do_re^+a	noun 2nd accusative neuter plural us_i
+adorea	adoreus#1	adoreum	a^do_re^+a	noun 2nd nominative neuter plural us_i
+adorea	adoreus#1	adoreum	a^do_re^+a	noun 2nd vocative neuter plural us_i
+adoreum	adoreus#1		a^do_re^+um	adjective 1st & 2nd accusative masculine singular us_a_um
+adoreum	adoreus#1		a^do_re^+um	adjective 1st & 2nd accusative neuter singular us_a_um
+adoreum	adoreus#1		a^do_re^+um	adjective 1st & 2nd genitive masculine plural us_a_um poetic
+adoreum	adoreus#1		a^do_re^+um	adjective 1st & 2nd genitive neuter plural us_a_um poetic
+adoreum	adoreus#1		a^do_re^+um	adjective 1st & 2nd nominative neuter singular us_a_um
+adoreum	adoreus#1		a^do_re^+um	adjective 1st & 2nd nominative neuter singular us_a_um
+adoreum	adoreus#1		a^do_re^+um	adjective 1st & 2nd vocative neuter singular us_a_um
+adoreum	adoreus#1	adoreum	a^do_re^+um	noun 2nd accusative neuter singular us_i
+adoreum	adoreus#1	adoreum	a^do_re^+um	noun 2nd genitive neuter plural us_i poetic
+adoreum	adoreus#1	adoreum	a^do_re^+um	noun 2nd nominative neuter singular us_i
+adoreum	adoreus#1	adoreum	a^do_re^+um	noun 2nd vocative neuter singular us_i
