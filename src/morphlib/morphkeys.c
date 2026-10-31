@@ -96,6 +96,12 @@ printf("crasis now set to [%s]\n", crasis_of(Gkword) );
 		continue;
 	}
 
+	if( ! strcmp(curkey,"sl") ) {
+		nextkey(savekeys,curkey);
+		set_sublemma(Gkword,curkey);
+		continue;
+	}
+
 		if( ! GetGkFlag(curkey,gstr,endstring_of(Gkword),preverb,lemma) ) {
 		/*
 			fprintf(stderr,"could not match key [%s] in [%s]\n", curkey , s);

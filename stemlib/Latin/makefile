@@ -37,6 +37,7 @@ VBFILES=stemsrc/vbs.latin.bas stemsrc/vbs.latin.irreg stemsrc/vbs.latin \
 
 steminds/vbind:	${VBFILES}
 	mkdir -p steminds
+	checksublemmas -n $(filter-out stemsrc/vbs.irreg,${VBFILES})
 	cat ${VBFILES} | \
 	    perl -pe 's/([a-z])([aei])_v[ \t]+perfstem/$$1\t$$2vperf/g;' > \
 	    conjfile
@@ -45,9 +46,11 @@ steminds/vbind:	${VBFILES}
 	indexvbs -L
 
 stemsrc/nom.irreg: stemsrc/irreg.nom.src
+	checksublemmas -n stemsrc/irreg.nom.src
 	buildword -L < stemsrc/irreg.nom.src > stemsrc/nom.irreg
 
 stemsrc/vbs.irreg: stemsrc/irreg.vbs.src
+	checksublemmas -n stemsrc/irreg.vbs.src
 	buildword -L < stemsrc/irreg.vbs.src > stemsrc/vbs.irreg
 
 stemsrc/lemlist:
@@ -57,6 +60,7 @@ stemsrc/lemlist:
 
 steminds/nomind:	${NOMFILES} ../Greek/getentities.pl
 	mkdir -p steminds
+	checksublemmas $(filter-out stemsrc/nom.irreg,${NOMFILES})
 	cat ${NOMFILES} > /tmp/nommorph
 	../Greek/getentities.pl /tmp/nommorph  > steminds/entitylist.txt
 	indexnoms -L

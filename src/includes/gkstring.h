@@ -38,6 +38,7 @@ typedef struct {
 	MorphFlags	gs_morphflags[MORPHFLAG_BYTES];
 	char  		st_domains[MAXDOMAINS+1];
 	char 		st_lemma[MAXWORDSIZE]; /* LSJ dict entry to lookup */
+	char 		st_sublemma[MAXWORDSIZE];
 /* grc 8/26/94
  * in some cases, you have different stems under the same dictionary entry,
  * e.g., e.g., a(broko/mhs and a(broxai/ths.
@@ -71,6 +72,7 @@ typedef struct {
 	PrntFlags	gs_prntflags;
 	int			gw_totanal;
 	char 		st_lemma[MAXWORDSIZE];
+	char 		st_sublemma[MAXWORDSIZE];
 	gk_string	gs_preverb;
 	gk_string	gs_aug1;
 	gk_string	gs_stem;
@@ -118,6 +120,9 @@ typedef struct {
 
 #define lemma_of( X ) (X)->st_lemma
 #define	set_lemma( X , s ) Xstrncpy(lemma_of(X),s,sizeof lemma_of(X) )
+
+#define sublemma_of( X ) (X)->st_sublemma
+#define	set_sublemma( X , s ) Xstrncpy(sublemma_of(X),s,sizeof sublemma_of(X) )
 
 #define prvb_gstr_of(X) (&(X)->gs_preverb)
 #define preverb_of( X ) gkstring_of(prvb_gstr_of(X))

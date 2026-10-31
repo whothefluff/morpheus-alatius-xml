@@ -94,6 +94,7 @@ void index_stems(int wantstem, int wantirrverb, int wantindecl, char *wlist, cha
 	(void)wantindecl;
 
 	char curlemma[MAXWORDSIZE];
+	char cursublemma[MAXWORDSIZE];
 	char curstem[MAXWORDSIZE];
 	char basename[BIGSTRING];
 	char line[BIGSTRING];
@@ -105,7 +106,7 @@ void index_stems(int wantstem, int wantirrverb, int wantindecl, char *wlist, cha
 	char *s;
 	
 	stemcount = 0;
-	basename[0] = line[0] = 0;
+	basename[0] = line[0] = cursublemma[0] = 0;
 
 
 	
@@ -155,6 +156,11 @@ void index_stems(int wantstem, int wantirrverb, int wantindecl, char *wlist, cha
 		if( ! strncmp(line,":le:",4) ) {
 		
 			nextkey(line+4,curlemma);
+			basename[0] = cursublemma[0] = 0;
+			continue;
+		}
+		if( ! strncmp(line,":sl:",4) ) {
+			nextkey(line+4,cursublemma);
 			basename[0] = 0;
 			continue;
 		}
@@ -189,13 +195,13 @@ void index_stems(int wantstem, int wantirrverb, int wantindecl, char *wlist, cha
 				*t = 0;
 			}
 			nextkey(line+4,curstem);
- 			if( ! do_curstem(tag,curstem,curlemma,line+4,"") )
+ 			if( ! do_curstem(tag,curstem,curlemma,cursublemma,line+4,"") )
  				break;
 		} else if( ! strncmp(line,":vb:",4)) {
 			char tag[12];
 			memcpy(tag, line, 4); tag[4] = '\0';
 			nextkey(line+4,curstem);
- 			if( ! do_curstem(tag,curstem,curlemma,line+4,"1") ) 
+ 			if( ! do_curstem(tag,curstem,curlemma,cursublemma,line+4,"1") ) 
  				break;
 
 		} else if( ! strncmp(line,":wd:",4) ) {
@@ -204,7 +210,7 @@ void index_stems(int wantstem, int wantirrverb, int wantindecl, char *wlist, cha
 
 			memcpy(tag, line, 4); tag[4] = '\0';
 			nextkey(line+4,curstem);
- 			if( ! do_curstem(tag,curstem,curlemma,line+4,"2") ) 
+ 			if( ! do_curstem(tag,curstem,curlemma,cursublemma,line+4,"2") ) 
  				break;
 
 		} else if( ! strncmp(line,":de:",4) ) {
@@ -218,7 +224,7 @@ void index_stems(int wantstem, int wantirrverb, int wantindecl, char *wlist, cha
  * trying to store this as a productive deriv type.
  */
 			if( ! is_presredupl(line) )  {
-	 			if( ! do_curstem(tag,curstem,curlemma,line+4,"3") ) 
+	 			if( ! do_curstem(tag,curstem,curlemma,cursublemma,line+4,"3") ) 
 	 				break;
 			}
 		}	
@@ -340,7 +346,7 @@ int add_newstemkey(char *s)
 	return(1);
 }
 
-int do_curstem(char *tag, char *curstem, char *curlemma, char *curline, char *prefix)
+int do_curstem(char *tag, char *curstem, char *curlemma, char *cursublemma, char *curline, char *prefix)
 {
 	(void)tag;
 
@@ -377,24 +383,24 @@ if(preverb_of(&GkWord)[0] )
 		markedstem[0] = 0;
 	stripdiaer(curstem);
 
-	if( ! dump_curstem(prefix,curstem,markedstem,curlemma,&Gstr,&AvoidGstr,preverb_of(&GkWord)) )
+	if( ! dump_curstem(prefix,curstem,markedstem,curlemma,cursublemma,&Gstr,&AvoidGstr,preverb_of(&GkWord)) )
 			return(0);
 	
 	if( Is_proclitic(morphflags_of(&Gstr))) {
 		int rval;
 
 	
-		rval=dumpaccstem(prefix,curstem,markedstem,curlemma,&Gstr,&AvoidGstr,PENULT,preverb_of(&GkWord));
+		rval=dumpaccstem(prefix,curstem,markedstem,curlemma,cursublemma,&Gstr,&AvoidGstr,PENULT,preverb_of(&GkWord));
 		if( rval < 0 ) 
 			return(0);
 		if(! rval && Is_proclitic(morphflags_of(&Gstr)))
-			rval=dumpaccstem(prefix,curstem,markedstem,curlemma,&Gstr,&AvoidGstr,ULTIMA,preverb_of(&GkWord));
+			rval=dumpaccstem(prefix,curstem,markedstem,curlemma,cursublemma,&Gstr,&AvoidGstr,ULTIMA,preverb_of(&GkWord));
 		if( rval < 0 ) return(0);
 	}
 	return(1);
 }
 
-int dumpaccstem(char *prefix, char *curstem, char *markedstem, char *curlemma, gk_string *gstr, gk_string *avoidgstr, int syllnum, char *preverb)
+int dumpaccstem(char *prefix, char *curstem, char *markedstem, char *curlemma, char *cursublemma, gk_string *gstr, gk_string *avoidgstr, int syllnum, char *preverb)
 {
 	char * p;
 	char tmpmarked[MAXWORDSIZE];
@@ -422,13 +428,13 @@ int dumpaccstem(char *prefix, char *curstem, char *markedstem, char *curlemma, g
 	stripquant(tmpstem);
 	stripdiaer(tmpstem);
 	stripacc(tmpstem);
-	if( ! dump_curstem(prefix,tmpstem,tmpmarked,curlemma,gstr,avoidgstr,preverb) )
+	if( ! dump_curstem(prefix,tmpstem,tmpmarked,curlemma,cursublemma,gstr,avoidgstr,preverb) )
 		return(-1);
 		
 	return(1);
 }
 	
-int dump_curstem(char *prefix, char *curstem, char *markedstem, char *curlemma, gk_string *gstr, gk_string *avoidgstr, char *preverb)
+int dump_curstem(char *prefix, char *curstem, char *markedstem, char *curlemma, char *cursublemma, gk_string *gstr, gk_string *avoidgstr, char *preverb)
 {
 	char tmp[BIGSTRING];
 	char notbuf[BIGSTRING];
@@ -460,12 +466,16 @@ int dump_curstem(char *prefix, char *curstem, char *markedstem, char *curlemma, 
 /*
 printf("numovable is [%s]\n", gkstring_of(&TmpGstr));
 */
-			dump_curstem(prefix,unmarked,gkstring_of(&TmpGstr),curlemma,&TmpGstr,avoidgstr,preverb);
+			dump_curstem(prefix,unmarked,gkstring_of(&TmpGstr),curlemma,cursublemma,&TmpGstr,avoidgstr,preverb);
 	}
 
 
 	snprintf(tmp,sizeof(tmp),"%s%s %s:%s", prefix , curstem, markedstem , curlemma );
 	SprintGkFlags(gstr,tmp,sizeof(tmp),":",0);
+	if( *cursublemma ) {
+		Xstrncat(tmp,":sl:",sizeof(tmp));
+		Xstrncat(tmp,cursublemma,sizeof(tmp));
+	}
 	if( *preverb ) {
 		char tmp2[128];
 		if( has_morphflag(morphflags_of(gstr),ROOT_PREVERB ) ) 

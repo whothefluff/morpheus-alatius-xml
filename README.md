@@ -38,6 +38,18 @@ Baselines capture the current cruncher output so that future changes show up
 as diffs. A diff is reported but does not count as a failure — only crashes
 and build errors do.
 
+To check that a change leaves every test word's output as it was, byte for
+byte, except for the words in `tests/unchanged_output_exceptions.txt`, which
+fail if they did not change:
+```
+python3 tests/check_unchanged_output.py --update   # on the build before the change
+python3 tests/check_unchanged_output.py            # on the build with the change
+```
+Any other difference fails. Git ignores the binaries and the indices, so after
+building the commit before the change and checking out the change, the build is
+still the earlier one: run `--update` then, and the check after `make` (`make
+clean` first when `src/includes` changed).
+
 Running the cruncher
 --------------------
 ```
@@ -59,7 +71,8 @@ shows each word with its possible lemmas and full morphological breakdowns using
 
 `-d` selects database format: labeled lines (`:raw`, `:workw`, `:lem`, `:prvb`,
 `:aug1`, `:stem`, `:suff`, `:end`) with the morphological flags for each
-morpheme. Implies `-P`.
+morpheme, and `:sublem` after `:lem` for a word given inside its lemma's entry
+(a `:sl:` in the Latin stem files). Implies `-P`.
 
 `-x` selects lexicon format: one tab-delimited line per analysis with rawword,
 workword (if different), lemma, morphological flags, and crasis. Must be
