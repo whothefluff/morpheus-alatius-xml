@@ -23,6 +23,7 @@
 extern int chckend(char *);
 int cntlems(gk_word *);
 int u2v(char *);
+int v2u(char *);
 
 #define LatVow(X) (strchr("aeiouAEIOU",X))
 static int checkstring4(gk_word *);
@@ -441,6 +442,22 @@ int checkstring3(gk_word *Gkword)
     int wlen = strlen(saveword);
     int mask, nvariants, k, p;
     int accrval = 0;
+
+    /*
+     * A v before a consonant can only be the vowel u, as in editions that
+     * print V for both letters in capitals (Vt, Vbi, Mercvrivs). It is
+     * tried as u in its own case, so that strict case still tells Vbi
+     * (Ubius) from vbi (ubi).
+     */
+    Xstrncpy(workword,saveword,sizeof(workword));
+    if( v2u(workword) ) {
+      set_workword(Gkword,workword);
+      rval = checkstring3(Gkword);
+      if( rval ) {
+	set_workword(Gkword,saveword);
+	return(rval);
+      }
+    }
 
     Xstrncpy(workword,saveword,sizeof(workword));
     if( u2v(workword) ) {
@@ -1113,6 +1130,24 @@ int u2v(char *s) {
 
 		*t++ = *s++;
 		*t = 0;
+	}
+
+	return(nchanges);
+}
+
+/*
+ * Writes each v that comes before a consonant as u, keeping its case, and
+ * returns how many it changed.
+ */
+int v2u(char *s) {
+	int nchanges = 0;
+
+	for( ; *s; s++ ) {
+		if( (*s == 'v' || *s == 'V') && isalpha(*(s+1)) && ! LatVow(*(s+1)) &&
+		    tolower(*(s+1)) != 'y' ) {
+			*s = (*s == 'V') ? 'U' : 'u';
+			nchanges++;
+		}
 	}
 
 	return(nchanges);

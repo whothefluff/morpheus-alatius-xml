@@ -1,0 +1,24 @@
+# form	required lemma
+
+# A v before a consonant is the vowel u, as in editions that print V for both letters in capitals: Caesar's Vbi and
+# Vxellodunum, Plautus's Vt and the speakers of his Amphitruo. It is read as u in its own case.
+
+vt	ut
+Vt	""	(the capitalized Ut, which strict case finds nothing for)
+vbi	ubi
+Vbi	Ubius	(the capitalized Ubi)
+vtinam	utinam
+Vxellodunum	Uxellodunum
+vxores	uxor
+Mercvrivs	Mercurius
+mercvrivs	""	(the lowercase mercurius, which strict case finds nothing for)
+Ivppiter	Juppiter
+Alcvmena	Alcmena
+Amphitrvo	""	(its v is before a vowel, so it stays a v)
+venio	venio
+
+# An edition that prints v for u everywhere: a v before another v is before a consonant too, so eqvvs is read as
+# equus. In vvlnvs that makes the first v, a consonant, a u as well, and upstream's u/v disambiguation turns it back.
+
+eqvvs	equus#1
+vvlnvs	vulnus
